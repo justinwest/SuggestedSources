@@ -29,5 +29,6 @@ logs/
 .cache/
 
 ai_response_generator.py
-.gitignore
 test_apis.py
+.gitignore
+
