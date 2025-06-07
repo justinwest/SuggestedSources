@@ -1,6 +1,6 @@
 # Are smartphones harming adolescent mental health?
 
-**Generated:** 2025-06-07 16:16:39
+**Generated:** 2025-06-07 16:34:01
 
 ## Sources
 
@@ -9,7 +9,6 @@
 * [https://journals.sagepub.com/doi/10.1177/0956797619830329 Screens, Teens, and Psychological Well‑Being: Evidence From Three Time‑Use‑Diary Studies – ''Psychological Science''] (2019 peer‑reviewed study)
 * [https://pmc.ncbi.nlm.nih.gov/articles/PMC8221420/ Adolescent Mental Health in the Digital Age: Facts, Fears and Future Directions – ''Journal of Child Psychology & Psychiatry''] (2020 narrative review)
 * https://www.centerconflictcooperation-newsletter.com/p/behind-the-scenes-of-the-consensus
-z
 
 
 ## AI Responses
@@ -33,6 +32,10 @@ These responses are generated using the provided sources as context:
 ## Navigation
 
 [← Back to Index](../README.md)
+
+## Contributing
+
+Want to add more sources or suggest new questions? [Contribute on GitHub](https://github.com/justinwest/SuggestedSources)
 
 ---
 

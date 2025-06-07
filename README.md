@@ -5,7 +5,7 @@ For project documentation, see [README-PROJECT.md](README-PROJECT.md).
 
 This index provides links to all questions and their AI-generated responses.
 
-**Last Updated:** 2025-06-07 16:31:18
+**Last Updated:** 2025-06-07 16:37:55
 
 ## Questions
 
@@ -13,7 +13,7 @@ This index provides links to all questions and their AI-generated responses.
 
 **Status:** ✅ Complete
 **Folder:** `Are smartphones harming adolescent mental health/`
-**Last Updated:** 2025-06-07 16:16
+**Last Updated:** 2025-06-07 16:34
 
 ### 2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)
 
