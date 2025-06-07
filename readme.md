@@ -2,7 +2,7 @@
 
 This index provides links to all questions and their AI-generated responses.
 
-**Last Updated:** 2025-06-06 23:56:40
+**Last Updated:** 2025-06-07 00:32:51
 
 ## Questions
 
@@ -12,7 +12,9 @@ This index provides links to all questions and their AI-generated responses.
 
 ### 2. [Is race a social constuct?](Is race a social constuct/README.md)
 
-**Status:** ❓ No README generated yet
+**Status:** ✅ Complete
+**Folder:** `Is race a social constuct/`
+**Last Updated:** 2025-06-07 00:32
 
 ### 3. [What is machine learning?](What is machine learning/README.md)
 

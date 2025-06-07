@@ -1,3 +1,9 @@
+# Is race a social constuct?
+
+**Generated:** 2025-06-07 00:32:51
+
+## Sources
+
 # [https://www.factfaq.com/resources/AI_recognition_of_patient_race_in_medical_imaging_%282022%29.pdf AI Recognition of Patient Race in Medical Imaging – ''Nature Medicine''] (2022 peer‑reviewed research article / PDF)
 # [https://www.persuasion.community/p/discourse-on-race-has-a-conformity Discourse on Race Has a Conformity Problem – ''Persuasion''] (2023 opinion essay)
 # [https://www.factfaq.com/resources/Changing_the_concept_of_race_-_On_UNESCO_and_cultural_internationalism_%282020%29.pdf Changing the Concept of Race: On UNESCO and Cultural Internationalism – ''Ethnicities'' 2020] (Historical‑scholarship PDF)
@@ -16,3 +22,30 @@
 * https://www.medrxiv.org/content/10.1101/2023.08.04.23293679v1
 * https://www.factfaq.com/resources/Global_genetic_differentiation_of_complex_traits_shaped_by_natural_selection_in_humans.pdf
 x
+
+
+## AI Responses
+
+### Without Sources
+These responses are generated using only the AI's training knowledge:
+
+- [Claude](response-claude-default.md)
+- [ChatGPT](response-chatgpt-default.md)
+- [Gemini](response-gemini-default.md)
+- [Grok](response-grok-default.md)
+
+### With Sources
+These responses are generated using the provided sources as context:
+
+- [Claude](response-claude-sources.md)
+- [ChatGPT](response-chatgpt-sources.md)
+- [Gemini](response-gemini-sources.md)
+- [Grok](response-grok-sources.md)
+
+## Navigation
+
+[← Back to Index](../README-INDEX.md)
+
+---
+
+*This README is automatically generated when responses are created or updated.*
