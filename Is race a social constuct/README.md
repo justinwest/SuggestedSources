@@ -1,6 +1,6 @@
 # Is race a social constuct?
 
-**Generated:** 2025-06-07 00:32:51
+**Generated:** 2025-06-07 00:34:21
 
 ## Sources
 
