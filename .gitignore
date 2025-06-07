@@ -32,3 +32,5 @@ logs/
 !config.sample.json
 
 ai_response_generator.py
+.gitignore
+test-apis.py
