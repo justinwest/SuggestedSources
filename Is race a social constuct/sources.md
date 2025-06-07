@@ -31,7 +31,6 @@
 - [Imputation of race and ethnicity categories using continental genetic ancestry from real‑world genomic testing data](https://www.medrxiv.org/content/10.1101/2023.08.04.23293679v1)** – *medRxiv* preprint (2023 research article) ([medrxiv.org][2])
 
 - [Global Genetic Differentiation of Complex Traits Shaped by Natural Selection in Humans](https://www.factfaq.com/resources/Global_genetic_differentiation_of_complex_traits_shaped_by_natural_selection_in_humans.pdf)** – *Nature Communications* (2018 peer‑reviewed article, PDF) ([nature.com][3])
-
 [1]: https://whyevolutionistrue.com/2022/07/19/once-again-are-races-social-constructs-without-scientific-or-biological-meaning/?utm_source=chatgpt.com "Once again: are “races” social constructs without scientific or ..."
 [2]: https://www.medrxiv.org/content/10.1101/2023.08.04.23293679v1?utm_source=chatgpt.com "Imputation of race and ethnicity categories using continental genetic ..."
 [3]: https://www.nature.com/articles/s41467-018-04191-y?utm_source=chatgpt.com "Global genetic differentiation of complex traits shaped by ... - Nature"

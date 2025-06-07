@@ -2,21 +2,26 @@
 
 This index provides links to all questions and their AI-generated responses.
 
-**Last Updated:** 2025-06-07 11:39:41
+**Last Updated:** 2025-06-07 12:22:53
 
 ## Questions
 
-### 1. [How accurate are IQ tests?](How accurate are IQ tests/README.md)
+### 1. [Are smartphones harming adolescent mental health?](Are smartphones harming adolescent mental health/README.md)
+
+**Status:** ❌ No responses yet
+**Folder:** `Are smartphones harming adolescent mental health/`
+
+### 2. [How accurate are IQ tests?](How accurate are IQ tests/README.md)
 
 **Status:** ❓ No README generated yet
 
-### 2. [Is race a social constuct?](Is race a social constuct/README.md)
+### 3. [Is race a social constuct?](Is race a social constuct/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Is race a social constuct/`
-**Last Updated:** 2025-06-07 11:39
+**Last Updated:** 2025-06-07 11:43
 
-### 3. [What is machine learning?](What is machine learning/README.md)
+### 4. [What is machine learning?](What is machine learning/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What is machine learning/`
@@ -24,8 +29,8 @@ This index provides links to all questions and their AI-generated responses.
 
 ## Statistics
 
-- **Total Questions:** 3
-- **Total Responses Generated:** 24/24
+- **Total Questions:** 4
+- **Total Responses Generated:** 24/32
 
 ### Responses by AI Model
 
