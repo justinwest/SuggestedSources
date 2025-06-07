@@ -1,6 +1,6 @@
 # Are smartphones harming adolescent mental health?
 
-**Generated:** 2025-06-07 12:58:47
+**Generated:** 2025-06-07 16:05:13
 
 ## Sources
 
@@ -16,18 +16,18 @@
 ### Without Sources
 These responses are generated using only the AI's training knowledge:
 
-- Claude: *Not generated yet*
-- ChatGPT: *Not generated yet*
-- Gemini: *Not generated yet*
-- Grok: *Not generated yet*
+- [Claude](response-claude-default.md)
+- [ChatGPT](response-chatgpt-default.md)
+- [Gemini](response-gemini-default.md)
+- [Grok](response-grok-default.md)
 
 ### With Sources
 These responses are generated using the provided sources as context:
 
-- Claude: *Not generated yet*
-- ChatGPT: *Not generated yet*
-- Gemini: *Not generated yet*
-- Grok: *Not generated yet*
+- [Claude](response-claude-sources.md)
+- [ChatGPT](response-chatgpt-sources.md)
+- [Gemini](response-gemini-sources.md)
+- [Grok](response-grok-sources.md)
 
 ## Navigation
 

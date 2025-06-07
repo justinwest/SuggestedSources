@@ -5,22 +5,27 @@ For project documentation, see [README-PROJECT.md](README-PROJECT.md).
 
 This index provides links to all questions and their AI-generated responses.
 
-**Last Updated:** 2025-06-07 15:50:41
+**Last Updated:** 2025-06-07 16:14:25
 
 ## Questions
 
 ### 1. [Are smartphones harming adolescent mental health?](Are smartphones harming adolescent mental health/README.md)
 
-**Status:** ❌ No responses yet
+**Status:** ✅ Complete
 **Folder:** `Are smartphones harming adolescent mental health/`
+**Last Updated:** 2025-06-07 16:05
 
 ### 2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)
 
-**Status:** ❓ No README generated yet
+**Status:** ✅ Complete
+**Folder:** `Are we living through a crisis of expertise/`
+**Last Updated:** 2025-06-07 16:05
 
 ### 3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)
 
-**Status:** ❓ No README generated yet
+**Status:** ✅ Complete
+**Folder:** `Did COVID-19 leak from a lab or did it have natural origins/`
+**Last Updated:** 2025-06-07 16:06
 
 ### 4. [How accurate are IQ tests?](How accurate are IQ tests/README.md)
 
@@ -30,7 +35,9 @@ This index provides links to all questions and their AI-generated responses.
 
 ### 5. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)
 
-**Status:** ❓ No README generated yet
+**Status:** ✅ Complete
+**Folder:** `How does school spending in the United States compare to other nations/`
+**Last Updated:** 2025-06-07 16:06
 
 ### 6. [Is race a social constuct?](Is race a social constuct/README.md)
 
@@ -40,25 +47,29 @@ This index provides links to all questions and their AI-generated responses.
 
 ### 7. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)
 
-**Status:** ❓ No README generated yet
+**Status:** ✅ Complete
+**Folder:** `What explains the rise in autism diagnoses/`
+**Last Updated:** 2025-06-07 16:06
 
 ### 8. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)
 
-**Status:** ❓ No README generated yet
+**Status:** ✅ Complete
+**Folder:** `Why were mental hospitals closed in the United States/`
+**Last Updated:** 2025-06-07 16:07
 
 ## Statistics
 
 - **Total Questions:** 8
-- **Total Responses Generated:** 16/64
+- **Total Responses Generated:** 64/64
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 2 | 2 | 4 |
-| Chatgpt | 2 | 2 | 4 |
-| Gemini | 2 | 2 | 4 |
-| Grok | 2 | 2 | 4 |
+| Claude | 8 | 8 | 16 |
+| Chatgpt | 8 | 8 | 16 |
+| Gemini | 8 | 8 | 16 |
+| Grok | 8 | 8 | 16 |
 
 ## About
 

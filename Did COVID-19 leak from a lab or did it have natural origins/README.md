@@ -1,0 +1,40 @@
+# Did COVID-19 leak from a lab or did it have natural origins?
+
+**Generated:** 2025-06-07 16:06:11
+
+## Sources
+
+# [https://apps.who.int/gb/COVID-19/pdf_files/2021/28_03/20210328-%20Full%20report.pdf WHO-convened Global Study of Origins of SARS-CoV-2: China Part – ''World Health Organization''] (2021 joint mission report / Epidemiological investigation)
+# [https://www.dni.gov/files/ODNI/documents/assessments/Declassified-Assessment-on-COVID-19-Origins.pdf Declassified Assessment on COVID-19 Origins – ''Office of the Director of National Intelligence''] (2021 intelligence community report)
+# [https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/ Lab Leak: The True Origins of COVID-19 – ''The White House''] (2025 fact sheet / Policy statement)
+# [https://www.vanityfair.com/news/2022/10/covid-origins-investigation-wuhan-lab COVID-19 Origins: Investigating a “Complex and Grave Situation” Inside a Wuhan Lab – ''Vanity Fair''] (2022 investigative feature)
+# [https://www.nytimes.com/2025/03/16/opinion/covid-pandemic-lab-leak.html We Were Badly Misled About Covid – ''The New York Times''] (2025 Opinion / Op-Ed)
+# [https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/ The Origin of COVID: Did People or Nature Open Pandora’s Box at Wuhan? – ''Bulletin of the Atomic Scientists''] (2021 long-form analysis)
+# [https://www.science.org/content/article/house-panel-concludes-covid-19-pandemic-came-lab-leak House Panel Concludes That COVID-19 Pandemic Came From a Lab Leak – ''Science''] (2024 news article / Congressional-report coverage)
+
+
+## AI Responses
+
+### Without Sources
+These responses are generated using only the AI's training knowledge:
+
+- [Claude](response-claude-default.md)
+- [ChatGPT](response-chatgpt-default.md)
+- [Gemini](response-gemini-default.md)
+- [Grok](response-grok-default.md)
+
+### With Sources
+These responses are generated using the provided sources as context:
+
+- [Claude](response-claude-sources.md)
+- [ChatGPT](response-chatgpt-sources.md)
+- [Gemini](response-gemini-sources.md)
+- [Grok](response-grok-sources.md)
+
+## Navigation
+
+[← Back to Index](../README.md)
+
+---
+
+*This README is automatically generated when responses are created or updated.*
