@@ -1,10 +1,12 @@
 
 
-This is a comparative AI response system that automatically generates and organizes responses from multiple AI models (Claude, ChatGPT, Gemini, and Grok) to user-defined questions, both with and without provided sources.
+This is a comparative AI response system that automatically generates and organizes responses from multiple AI models (Claude, ChatGPT, Gemini, and Grok) to user-defined questions, both with and without suggested sources.
+
+Want to add more sources or suggest new questions? [Contribute on GitHub](https://github.com/justinwest/SuggestedSources)
 
 This index provides links to all questions and their AI-generated responses.
 
-**Last Updated:** 2025-06-08 11:27:11
+**Last Updated:** 2025-06-08 11:29:25
 
 ## Questions
 
