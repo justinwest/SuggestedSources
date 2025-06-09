@@ -13,7 +13,7 @@ Want to add more sources or suggest new questions? [Contribute on GitHub](https:
 
 This index provides links to all questions and their AI-generated responses.
 
-**Last Updated:** 2025-06-08 19:04:51
+**Last Updated:** 2025-06-08 19:16:36
 
 ## Questions
 
@@ -41,19 +41,25 @@ This index provides links to all questions and their AI-generated responses.
 **Folder:** `How accurate are IQ tests/`
 **Last Updated:** 2025-06-06 21:59
 
-### 5. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)
+### 5. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)
+
+**Status:** ✅ Complete
+**Folder:** `How accurate was press coverage of President Biden's mental decline/`
+**Last Updated:** 2025-06-08 19:16
+
+### 6. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How does school spending in the United States compare to other nations/`
 **Last Updated:** 2025-06-07 16:06
 
-### 6. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)
+### 7. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What explains the rise in autism diagnoses/`
 **Last Updated:** 2025-06-07 16:06
 
-### 7. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)
+### 8. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why were mental hospitals closed in the United States/`
@@ -61,17 +67,17 @@ This index provides links to all questions and their AI-generated responses.
 
 ## Statistics
 
-- **Total Questions:** 7
-- **Total Responses Generated:** 56/56
+- **Total Questions:** 8
+- **Total Responses Generated:** 64/64
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 7 | 7 | 14 |
-| Chatgpt | 7 | 7 | 14 |
-| Gemini | 7 | 7 | 14 |
-| Grok | 7 | 7 | 14 |
+| Claude | 8 | 8 | 16 |
+| Chatgpt | 8 | 8 | 16 |
+| Gemini | 8 | 8 | 16 |
+| Grok | 8 | 8 | 16 |
 
 ## About
 
