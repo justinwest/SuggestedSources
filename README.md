@@ -5,7 +5,7 @@ For project documentation, see [README-PROJECT.md](README-PROJECT.md).
 
 This index provides links to all questions and their AI-generated responses.
 
-**Last Updated:** 2025-06-08 21:27:36
+**Last Updated:** 2025-06-08 21:35:59
 
 ## Questions
 
@@ -93,13 +93,19 @@ This index provides links to all questions and their AI-generated responses.
 **Folder:** `What is the replication crisis/`
 **Last Updated:** 2025-06-08 20:21
 
-### 15. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)
+### 15. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)
+
+**Status:** ✅ Complete
+**Folder:** `Why is Stoicism becoming popular again/`
+**Last Updated:** 2025-06-08 21:35
+
+### 16. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why is there some much financial fraud in Minnesota/`
 **Last Updated:** 2025-06-08 20:45
 
-### 16. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)
+### 17. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why were mental hospitals closed in the United States/`
@@ -107,17 +113,17 @@ This index provides links to all questions and their AI-generated responses.
 
 ## Statistics
 
-- **Total Questions:** 16
-- **Total Responses Generated:** 128/128
+- **Total Questions:** 17
+- **Total Responses Generated:** 136/136
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 16 | 16 | 32 |
-| Chatgpt | 16 | 16 | 32 |
-| Gemini | 16 | 16 | 32 |
-| Grok | 16 | 16 | 32 |
+| Claude | 17 | 17 | 34 |
+| Chatgpt | 17 | 17 | 34 |
+| Gemini | 17 | 17 | 34 |
+| Grok | 17 | 17 | 34 |
 
 ## About
 
