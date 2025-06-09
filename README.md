@@ -7,11 +7,11 @@ This is a comparative AI response system that automatically generates and organi
 * See how sources influence AI responses
 * Compare how different AIs approach the same question
 
-Want to add more sources or suggest new questions? [Contribute on GitHub] (https://github.com/justinwest/SuggestedSources)
+Want to add more sources or suggest new questions? [Contribute on GitHub](https://github.com/justinwest/SuggestedSources)
 
 This index provides links to all questions and their AI-generated responses.
 
-**Last Updated:** 2025-06-08 23:04:57
+**Last Updated:** 2025-06-08 23:12:17
 
 ## Questions
 
@@ -31,13 +31,13 @@ This index provides links to all questions and their AI-generated responses.
 
 **Status:** ✅ Complete
 **Folder:** `Did COVID-19 leak from a lab or did it have natural origins/`
-**Last Updated:** 2025-06-07 16:06
+**Last Updated:** 2025-06-08 23:10
 
 ### 4. [How accurate are IQ tests?](How accurate are IQ tests/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How accurate are IQ tests/`
-**Last Updated:** 2025-06-06 21:59
+**Last Updated:** 2025-06-08 23:11
 
 ### 5. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)
 
