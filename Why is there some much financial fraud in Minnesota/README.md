@@ -1,0 +1,45 @@
+# Why is there some much financial fraud in Minnesota?
+
+**Generated:** 2025-06-08 20:45:09
+
+## Sources
+
+* [https://en.wikipedia.org/wiki/Feeding_Our_Future Feeding Our Future – ''Wikipedia''] (Encyclopedia article / Overview of Minnesota nonprofit fraud)
+* [https://kstp.com/kstp-news/top-news/62-investigations-underway-involving-federally-funded-minnesota-child-care-centers/ 62 Investigations Underway Involving Federally-Funded Minnesota Child-Care Centers – ''KSTP 5 Eyewitness News''] (2024 investigative news report)
+* [https://web.archive.org/web/20240909131550/https://www.startribune.com/did-minnesota-department-of-education-do-enough-to-stop-feeding-our-future-fraud-legislative-auditor-report-to-be-released-thursday/600373216 Report: Minnesota Department of Education’s “Inadequate Oversight” of Feeding Our Future Opened Door to Fraud – ''Star Tribune''] (2024 audit-coverage news article)
+* [https://www.auditor.leg.state.mn.us/sreview/pdf/2024-mdefof.pdf Minnesota Department of Education: Oversight of Feeding Our Future – ''Minnesota Office of the Legislative Auditor''] (June 2024 special-review report / PDF)
+* [https://mn.gov/commerce-stat/pdfs/business/fraud-bureau/2023-Annual-Report.pdf Commerce Fraud Bureau Annual Report 2023 – ''Minnesota Department of Commerce''] (2023 annual report / PDF)
+* [https://www.justice.gov/usao-mn/pr/minnesota-couple-indicted-15-million-medical-billing-fraud-scheme-0 Minnesota Couple Indicted in $15 Million Medical Billing Fraud Scheme – ''U.S. Attorney’s Office, District of Minnesota''] (April 10 2025 DOJ press release)
+* [https://www.cbsnews.com/minnesota/news/bank-ordered-to-pay-564-million-to-victims-of-petters-fraud/ Bank Ordered to Pay $564 Million to Victims of Petters Fraud – ''CBS Minnesota / AP''] (Nov 10 2022 news article)
+* [https://axios.com/local/twin-cities/2024/12/13/minnesota-government-fraud-auditor-report-spending-deficit Projected Deficit Renews Focus on Fraud in Minnesota – ''Axios Twin Cities''] (Dec 13 2024 politics report)
+
+
+## AI Responses
+
+### Without Sources
+These responses are generated using only the AI's training knowledge:
+
+- [Claude](response-claude-default.md)
+- [ChatGPT](response-chatgpt-default.md)
+- [Gemini](response-gemini-default.md)
+- [Grok](response-grok-default.md)
+
+### With Sources
+These responses are generated using the provided sources as context:
+
+- [Claude](response-claude-sources.md)
+- [ChatGPT](response-chatgpt-sources.md)
+- [Gemini](response-gemini-sources.md)
+- [Grok](response-grok-sources.md)
+
+## Navigation
+
+[← Back to Index](../README.md)
+
+## Contributing
+
+Want to add more sources or suggest new questions? [Contribute on GitHub](https://github.com/justinwest/SuggestedSources)
+
+---
+
+*This README is automatically generated when responses are created or updated.*
