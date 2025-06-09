@@ -1,6 +1,6 @@
 # Are we living through a crisis of expertise?
 
-**Generated:** 2025-06-07 16:05:43
+**Generated:** 2025-06-08 19:04:51
 
 ## Sources
 
@@ -17,6 +17,7 @@
 * https://ncofnas.com/p/podcast-bros-and-brain-rot
 * https://www.wgbh.org/news/education-news/2025-05-25/in-extremely-rare-move-harvard-revokes-tenure-and-cuts-ties-with-star-business-professor
 * https://www.thefp.com/p/npr-editor-how-npr-lost-americas-trust
+* https://www.honest-broker.com/p/the-ten-warning-signs
 
 
 ## AI Responses
@@ -40,6 +41,10 @@ These responses are generated using the provided sources as context:
 ## Navigation
 
 [← Back to Index](../README.md)
+
+## Contributing
+
+Want to add more sources or suggest new questions? [Contribute on GitHub](https://github.com/justinwest/SuggestedSources)
 
 ---
 

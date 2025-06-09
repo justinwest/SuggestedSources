@@ -11,3 +11,4 @@
 * https://ncofnas.com/p/podcast-bros-and-brain-rot
 * https://www.wgbh.org/news/education-news/2025-05-25/in-extremely-rare-move-harvard-revokes-tenure-and-cuts-ties-with-star-business-professor
 * https://www.thefp.com/p/npr-editor-how-npr-lost-americas-trust
+* https://www.honest-broker.com/p/the-ten-warning-signs
