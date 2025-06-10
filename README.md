@@ -1,17 +1,16 @@
 
 This is a comparative AI response system that automatically generates and organizes responses from multiple AI models (Claude, ChatGPT, Gemini, and Grok) to user-defined questions, both with and without suggested sources.
 
-**Use Cases:**
+** Use Cases: **
 
 * Improve the quality of AI responses with human curated sources
 * See how sources influence AI responses
 * Compare how different AIs approach the same question
 
-Want to add more sources or suggest new questions? [Contribute on GitHub](https://github.com/justinwest/SuggestedSources)
+Want to add more sources or suggest new questions? Contribute on GitHub
 
 This index provides links to all questions and their AI-generated responses.
-
-**Last Updated:** 2025-06-08 23:12:17
+**Last Updated:** 2025-06-09 20:37:30
 
 ## Questions
 
@@ -31,13 +30,13 @@ This index provides links to all questions and their AI-generated responses.
 
 **Status:** ✅ Complete
 **Folder:** `Did COVID-19 leak from a lab or did it have natural origins/`
-**Last Updated:** 2025-06-08 23:10
+**Last Updated:** 2025-06-09 20:03
 
 ### 4. [How accurate are IQ tests?](How accurate are IQ tests/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How accurate are IQ tests/`
-**Last Updated:** 2025-06-08 23:11
+**Last Updated:** 2025-06-09 20:03
 
 ### 5. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)
 
