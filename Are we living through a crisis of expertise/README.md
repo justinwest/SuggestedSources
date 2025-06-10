@@ -1,6 +1,6 @@
 # Are we living through a crisis of expertise?
 
-**Generated:** 2025-06-08 19:04:51
+**Generated:** 2025-06-09 20:41:49
 
 ## Sources
 
@@ -18,6 +18,7 @@
 * https://www.wgbh.org/news/education-news/2025-05-25/in-extremely-rare-move-harvard-revokes-tenure-and-cuts-ties-with-star-business-professor
 * https://www.thefp.com/p/npr-editor-how-npr-lost-americas-trust
 * https://www.honest-broker.com/p/the-ten-warning-signs
+* https://www.economist.com/1843/2023/12/14/when-the-new-york-times-lost-its-way
 
 
 ## AI Responses

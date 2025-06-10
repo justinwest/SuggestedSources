@@ -12,3 +12,4 @@
 * https://www.wgbh.org/news/education-news/2025-05-25/in-extremely-rare-move-harvard-revokes-tenure-and-cuts-ties-with-star-business-professor
 * https://www.thefp.com/p/npr-editor-how-npr-lost-americas-trust
 * https://www.honest-broker.com/p/the-ten-warning-signs
+* https://www.economist.com/1843/2023/12/14/when-the-new-york-times-lost-its-way

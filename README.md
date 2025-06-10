@@ -10,7 +10,7 @@ This is a comparative AI response system that automatically generates and organi
 Want to add more sources or suggest new questions? Contribute on GitHub
 
 This index provides links to all questions and their AI-generated responses.
-**Last Updated:** 2025-06-09 20:37:30
+**Last Updated:** 2025-06-09 20:41:49
 
 ## Questions
 
@@ -24,7 +24,7 @@ This index provides links to all questions and their AI-generated responses.
 
 **Status:** ✅ Complete
 **Folder:** `Are we living through a crisis of expertise/`
-**Last Updated:** 2025-06-08 19:04
+**Last Updated:** 2025-06-09 20:41
 
 ### 3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)
 
