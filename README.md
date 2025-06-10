@@ -8,10 +8,13 @@ This is a comparative AI response system that automatically generates and organi
 * Compare how different AIs approach the same question
 
 Want to add more sources or suggest new questions? [Contribute on GitHub](https://github.com/justinwest/SuggestedSources)
+* Create a new folder to add a new question
+* Edit the sources.md file to add a source
+
 
 This index provides links to all questions and their AI-generated responses.
 
-**Last Updated:** 2025-06-10 14:29:17
+**Last Updated:** 2025-06-10 18:52:13
 
 ## Questions
 
