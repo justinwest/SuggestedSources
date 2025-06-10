@@ -1,7 +1,7 @@
 
 This is a comparative AI response system that automatically generates and organizes responses from multiple AI models (Claude, ChatGPT, Gemini, and Grok) to user-defined questions, both with and without suggested sources.
 
-** Use Cases: **
+**Use Cases:**
 
 * Improve the quality of AI responses with human curated sources
 * See how sources influence AI responses
@@ -10,7 +10,8 @@ This is a comparative AI response system that automatically generates and organi
 Want to add more sources or suggest new questions? Contribute on GitHub
 
 This index provides links to all questions and their AI-generated responses.
-**Last Updated:** 2025-06-09 21:29:54
+
+**Last Updated:** 2025-06-09 21:48:51
 
 ## Questions
 
