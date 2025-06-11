@@ -7,14 +7,14 @@ This is a comparative AI response system that automatically generates and organi
 * See how sources influence AI responses
 * Compare how different AIs approach the same question
 
-Want to add more sources or suggest new questions? [Contribute on GitHub](https://github.com/justinwest/SuggestedSources)
+**Want to add more sources or suggest new questions? [Contribute on GitHub](https://github.com/justinwest/SuggestedSources)**
 * Create a new folder to add a new question
 * Edit the sources.md file to add a source
 
 
 This index provides links to all questions and their AI-generated responses.
 
-**Last Updated:** 2025-06-10 23:10:55
+**Last Updated:** 2025-06-11 09:29:36
 
 ## Questions
 
@@ -60,10 +60,10 @@ This index provides links to all questions and their AI-generated responses.
 **Folder:** `How do genes influence socio-economic status/`
 **Last Updated:** 2025-06-10 20:37
 
-### 8. [How do you distinguish good science from propaganda masquerading as science?](How do you distinguish good science from propaganda masquerading as science/README.md)
+### 8. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)
 
 **Status:** ✅ Complete
-**Folder:** `How do you distinguish good science from propaganda masquerading as science/`
+**Folder:** `How do you distinguish good science from propaganda/`
 **Last Updated:** 2025-06-10 21:59
 
 ### 9. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)
