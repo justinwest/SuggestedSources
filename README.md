@@ -14,7 +14,7 @@ Want to add more sources or suggest new questions? [Contribute on GitHub](https:
 
 This index provides links to all questions and their AI-generated responses.
 
-**Last Updated:** 2025-06-10 19:49:38
+**Last Updated:** 2025-06-10 20:22:07
 
 ## Questions
 
@@ -34,17 +34,19 @@ This index provides links to all questions and their AI-generated responses.
 
 **Status:** ✅ Complete
 **Folder:** `Did COVID-19 leak from a lab or did it have natural origins/`
-**Last Updated:** 2025-06-09 20:03
+**Last Updated:** 2025-06-10 20:20
 
 ### 4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)
 
-**Status:** ❓ No README generated yet
+**Status:** ✅ Complete
+**Folder:** `Does gender affirming care lower youth suicide risk/`
+**Last Updated:** 2025-06-10 20:21
 
 ### 5. [How accurate are IQ tests?](How accurate are IQ tests/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How accurate are IQ tests/`
-**Last Updated:** 2025-06-09 20:03
+**Last Updated:** 2025-06-10 20:22
 
 ### 6. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)
 
@@ -149,16 +151,16 @@ This index provides links to all questions and their AI-generated responses.
 ## Statistics
 
 - **Total Questions:** 22
-- **Total Responses Generated:** 160/176
+- **Total Responses Generated:** 168/176
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 20 | 20 | 40 |
-| Chatgpt | 20 | 20 | 40 |
-| Gemini | 20 | 20 | 40 |
-| Grok | 20 | 20 | 40 |
+| Claude | 21 | 21 | 42 |
+| Chatgpt | 21 | 21 | 42 |
+| Gemini | 21 | 21 | 42 |
+| Grok | 21 | 21 | 42 |
 
 ## About
 
