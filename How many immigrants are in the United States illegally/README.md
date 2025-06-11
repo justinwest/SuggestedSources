@@ -1,10 +1,10 @@
 # How many immigrants are in the United States illegally?
 
-**Generated:** 2025-06-08 20:20:32
+**Generated:** 2025-06-10 22:01:43
 
 ## Sources
 
-* https://mitsloan.mit.edu/ideas-made-to-matter/study-undocumented-immigrant-population-roughly-double-current-estimate
+* [Study: Undocumented immigrant population roughly double current estimate](https://mitsloan.mit.edu/ideas-made-to-matter/study-undocumented-immigrant-population-roughly-double-current-estimate) – *MIT Sloan* 
 
 
 ## AI Responses

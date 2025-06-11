@@ -14,7 +14,7 @@ Want to add more sources or suggest new questions? [Contribute on GitHub](https:
 
 This index provides links to all questions and their AI-generated responses.
 
-**Last Updated:** 2025-06-10 21:56:20
+**Last Updated:** 2025-06-10 22:02:29
 
 ## Questions
 
@@ -64,7 +64,7 @@ This index provides links to all questions and their AI-generated responses.
 
 **Status:** ✅ Complete
 **Folder:** `How do you distinguish good science from propaganda masquerading as science/`
-**Last Updated:** 2025-06-10 21:56
+**Last Updated:** 2025-06-10 21:59
 
 ### 9. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)
 
@@ -74,13 +74,15 @@ This index provides links to all questions and their AI-generated responses.
 
 ### 10. [How many Americans have died due to fentanyl?](How many Americans have died due to fentanyl/README.md)
 
-**Status:** ❓ No README generated yet
+**Status:** ✅ Complete
+**Folder:** `How many Americans have died due to fentanyl/`
+**Last Updated:** 2025-06-10 22:00
 
 ### 11. [How many immigrants are in the United States illegally?](How many immigrants are in the United States illegally/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How many immigrants are in the United States illegally/`
-**Last Updated:** 2025-06-08 20:20
+**Last Updated:** 2025-06-10 22:01
 
 ### 12. [How much of a problem is misinformation?](How much of a problem is misinformation/README.md)
 
@@ -92,7 +94,7 @@ This index provides links to all questions and their AI-generated responses.
 
 **Status:** ✅ Complete
 **Folder:** `How much of intelligence is hereditary/`
-**Last Updated:** 2025-06-09 22:11
+**Last Updated:** 2025-06-10 22:02
 
 ### 14. [Is nuclear power safe?](Is nuclear power safe/README.md)
 
@@ -157,16 +159,16 @@ This index provides links to all questions and their AI-generated responses.
 ## Statistics
 
 - **Total Questions:** 23
-- **Total Responses Generated:** 176/184
+- **Total Responses Generated:** 184/184
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 22 | 22 | 44 |
-| Chatgpt | 22 | 22 | 44 |
-| Gemini | 22 | 22 | 44 |
-| Grok | 22 | 22 | 44 |
+| Claude | 23 | 23 | 46 |
+| Chatgpt | 23 | 23 | 46 |
+| Gemini | 23 | 23 | 46 |
+| Grok | 23 | 23 | 46 |
 
 ## About
 
