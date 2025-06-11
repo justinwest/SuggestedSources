@@ -14,7 +14,7 @@ Want to add more sources or suggest new questions? [Contribute on GitHub](https:
 
 This index provides links to all questions and their AI-generated responses.
 
-**Last Updated:** 2025-06-10 22:02:29
+**Last Updated:** 2025-06-10 22:56:26
 
 ## Questions
 
@@ -154,7 +154,7 @@ This index provides links to all questions and their AI-generated responses.
 
 **Status:** ✅ Complete
 **Folder:** `Why were mental hospitals closed in the United States/`
-**Last Updated:** 2025-06-07 16:07
+**Last Updated:** 2025-06-10 22:56
 
 ## Statistics
 
