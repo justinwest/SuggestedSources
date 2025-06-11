@@ -14,7 +14,7 @@ Want to add more sources or suggest new questions? [Contribute on GitHub](https:
 
 This index provides links to all questions and their AI-generated responses.
 
-**Last Updated:** 2025-06-10 20:22:07
+**Last Updated:** 2025-06-10 20:37:32
 
 ## Questions
 
@@ -34,31 +34,31 @@ This index provides links to all questions and their AI-generated responses.
 
 **Status:** ✅ Complete
 **Folder:** `Did COVID-19 leak from a lab or did it have natural origins/`
-**Last Updated:** 2025-06-10 20:20
+**Last Updated:** 2025-06-10 20:30
 
 ### 4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Does gender affirming care lower youth suicide risk/`
-**Last Updated:** 2025-06-10 20:21
+**Last Updated:** 2025-06-10 20:30
 
 ### 5. [How accurate are IQ tests?](How accurate are IQ tests/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How accurate are IQ tests/`
-**Last Updated:** 2025-06-10 20:22
+**Last Updated:** 2025-06-10 20:30
 
 ### 6. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How accurate was press coverage of President Biden's mental decline/`
-**Last Updated:** 2025-06-08 19:16
+**Last Updated:** 2025-06-10 20:30
 
 ### 7. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How do genes influence socio-economic status/`
-**Last Updated:** 2025-06-08 20:42
+**Last Updated:** 2025-06-10 20:37
 
 ### 8. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)
 
