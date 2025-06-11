@@ -14,7 +14,7 @@ Want to add more sources or suggest new questions? [Contribute on GitHub](https:
 
 This index provides links to all questions and their AI-generated responses.
 
-**Last Updated:** 2025-06-10 20:47:37
+**Last Updated:** 2025-06-10 21:56:20
 
 ## Questions
 
@@ -60,89 +60,95 @@ This index provides links to all questions and their AI-generated responses.
 **Folder:** `How do genes influence socio-economic status/`
 **Last Updated:** 2025-06-10 20:37
 
-### 8. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)
+### 8. [How do you distinguish good science from propaganda masquerading as science?](How do you distinguish good science from propaganda masquerading as science/README.md)
+
+**Status:** ✅ Complete
+**Folder:** `How do you distinguish good science from propaganda masquerading as science/`
+**Last Updated:** 2025-06-10 21:56
+
+### 9. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How does school spending in the United States compare to other nations/`
 **Last Updated:** 2025-06-10 20:47
 
-### 9. [How many Americans have died due to fentanyl?](How many Americans have died due to fentanyl/README.md)
+### 10. [How many Americans have died due to fentanyl?](How many Americans have died due to fentanyl/README.md)
 
 **Status:** ❓ No README generated yet
 
-### 10. [How many immigrants are in the United States illegally?](How many immigrants are in the United States illegally/README.md)
+### 11. [How many immigrants are in the United States illegally?](How many immigrants are in the United States illegally/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How many immigrants are in the United States illegally/`
 **Last Updated:** 2025-06-08 20:20
 
-### 11. [How much of a problem is misinformation?](How much of a problem is misinformation/README.md)
+### 12. [How much of a problem is misinformation?](How much of a problem is misinformation/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How much of a problem is misinformation/`
 **Last Updated:** 2025-06-08 21:18
 
-### 12. [How much of intelligence is hereditary?](How much of intelligence is hereditary/README.md)
+### 13. [How much of intelligence is hereditary?](How much of intelligence is hereditary/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How much of intelligence is hereditary/`
 **Last Updated:** 2025-06-09 22:11
 
-### 13. [Is nuclear power safe?](Is nuclear power safe/README.md)
+### 14. [Is nuclear power safe?](Is nuclear power safe/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Is nuclear power safe/`
 **Last Updated:** 2025-06-08 20:42
 
-### 14. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)
+### 15. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Were the COVID-19 lockdowns effective/`
 **Last Updated:** 2025-06-09 22:15
 
-### 15. [What are luxury beliefs?](What are luxury beliefs/README.md)
+### 16. [What are luxury beliefs?](What are luxury beliefs/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What are luxury beliefs/`
 **Last Updated:** 2025-06-08 21:10
 
-### 16. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)
+### 17. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What caused the crime spike in 2020 in the United States/`
 **Last Updated:** 2025-06-08 20:21
 
-### 17. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)
+### 18. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What explains the rise in autism diagnoses/`
 **Last Updated:** 2025-06-07 16:06
 
-### 18. [What is the replication crisis?](What is the replication crisis/README.md)
+### 19. [What is the replication crisis?](What is the replication crisis/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What is the replication crisis/`
 **Last Updated:** 2025-06-08 20:21
 
-### 19. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)
+### 20. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why are fertility rates declining in most nations/`
 **Last Updated:** 2025-06-08 21:44
 
-### 20. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)
+### 21. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why is Stoicism becoming popular again/`
 **Last Updated:** 2025-06-08 21:35
 
-### 21. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)
+### 22. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why is there some much financial fraud in Minnesota/`
 **Last Updated:** 2025-06-08 20:45
 
-### 22. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)
+### 23. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why were mental hospitals closed in the United States/`
@@ -150,17 +156,17 @@ This index provides links to all questions and their AI-generated responses.
 
 ## Statistics
 
-- **Total Questions:** 22
-- **Total Responses Generated:** 168/176
+- **Total Questions:** 23
+- **Total Responses Generated:** 176/184
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 21 | 21 | 42 |
-| Chatgpt | 21 | 21 | 42 |
-| Gemini | 21 | 21 | 42 |
-| Grok | 21 | 21 | 42 |
+| Claude | 22 | 22 | 44 |
+| Chatgpt | 22 | 22 | 44 |
+| Gemini | 22 | 22 | 44 |
+| Grok | 22 | 22 | 44 |
 
 ## About
 
