@@ -13,7 +13,7 @@ This is a comparative AI response system that automatically generates and organi
 
 This index provides links to all questions and their AI-generated responses.
 
-**Last Updated:** 2025-06-11 15:35:09
+**Last Updated:** 2025-06-11 15:40:46
 
 ## Questions
 
@@ -115,7 +115,9 @@ This index provides links to all questions and their AI-generated responses.
 
 ### 17. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)
 
-**Status:** ❓ No README generated yet
+**Status:** ✅ Complete
+**Folder:** `What caused the 2008 financial crisis/`
+**Last Updated:** 2025-06-11 15:40
 
 ### 18. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)
 
@@ -162,16 +164,16 @@ This index provides links to all questions and their AI-generated responses.
 ## Statistics
 
 - **Total Questions:** 24
-- **Total Responses Generated:** 184/192
+- **Total Responses Generated:** 192/192
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 23 | 23 | 46 |
-| Chatgpt | 23 | 23 | 46 |
-| Gemini | 23 | 23 | 46 |
-| Grok | 23 | 23 | 46 |
+| Claude | 24 | 24 | 48 |
+| Chatgpt | 24 | 24 | 48 |
+| Gemini | 24 | 24 | 48 |
+| Grok | 24 | 24 | 48 |
 
 ## About
 
