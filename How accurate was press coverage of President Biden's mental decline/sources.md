@@ -1,7 +1,7 @@
-* https://quantus.substack.com/p/the-fraudlent-presidency
-* https://www.persuasion.community/p/biden-is-no-longer-fit-for-office
-* https://www.factfaq.com/resources/How_Biden%E2%80%99s_Inner_Circle_Protected_a_Faltering_President_-_The_New_York_Times.pdf
-* https://sites.prh.com/originalsin
-* https://bookshop.org/p/books/untitled-0672-penguin-publishing-group/22284058
-* https://www.slowboring.com/p/what-we-dont-learn-in-original-sin
-* https://www.persuasion.community/p/the-crimes-of-the-politburo
+* [The Fraudulent Presidency](https://quantus.substack.com/p/the-fraudlent-presidency) – *Quantus Insights*
+* [Biden Is No Longer Fit for Office](https://www.persuasion.community/p/biden-is-no-longer-fit-for-office) – *Persuasion*
+* [How Biden’s Inner Circle Protected a Faltering President](https://archive.jwest.org/Articles/How%20Biden%E2%80%99s%20Inner%20Circle%20Protected%20a%20Faltering%20President%20-%20The%20New%20York%20Times.pdf) – *The New York Times*
+* [Original Sin: President Biden’s Decline, Its Cover‑Up, and His Disastrous Choice to Run Again](https://sites.prh.com/originalsin) – *Penguin Press*
+* [Original Sin](https://bookshop.org/p/books/untitled-0672-penguin-publishing-group/22284058) – *Bookshop.org*
+* [What We Don’t Learn in “Original Sin”](https://www.slowboring.com/p/what-we-dont-learn-in-original-sin) – *Slow Boring*
+* [The Crimes of the Politburo](https://www.persuasion.community/p/the-crimes-of-the-politburo) – *Persuasion*
