@@ -13,7 +13,7 @@ This is a comparative AI response system that automatically generates and organi
 
 This index provides links to all questions and their AI-generated responses.
 
-**Last Updated:** 2025-06-11 10:37:20
+**Last Updated:** 2025-06-11 15:35:09
 
 ## Questions
 
@@ -113,43 +113,47 @@ This index provides links to all questions and their AI-generated responses.
 **Folder:** `What are luxury beliefs/`
 **Last Updated:** 2025-06-10 23:00
 
-### 17. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)
+### 17. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)
+
+**Status:** ❓ No README generated yet
+
+### 18. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What caused the crime spike in 2020 in the United States/`
 **Last Updated:** 2025-06-08 20:21
 
-### 18. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)
+### 19. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What explains the rise in autism diagnoses/`
 **Last Updated:** 2025-06-07 16:06
 
-### 19. [What is the replication crisis?](What is the replication crisis/README.md)
+### 20. [What is the replication crisis?](What is the replication crisis/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What is the replication crisis/`
 **Last Updated:** 2025-06-08 20:21
 
-### 20. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)
+### 21. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why are fertility rates declining in most nations/`
 **Last Updated:** 2025-06-08 21:44
 
-### 21. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)
+### 22. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why is Stoicism becoming popular again/`
-**Last Updated:** 2025-06-11 10:30
+**Last Updated:** 2025-06-11 10:40
 
-### 22. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)
+### 23. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why is there some much financial fraud in Minnesota/`
 **Last Updated:** 2025-06-08 20:45
 
-### 23. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)
+### 24. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why were mental hospitals closed in the United States/`
@@ -157,8 +161,8 @@ This index provides links to all questions and their AI-generated responses.
 
 ## Statistics
 
-- **Total Questions:** 23
-- **Total Responses Generated:** 184/184
+- **Total Questions:** 24
+- **Total Responses Generated:** 184/192
 
 ### Responses by AI Model
 
