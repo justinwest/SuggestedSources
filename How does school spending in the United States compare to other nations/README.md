@@ -1,14 +1,14 @@
 # How does school spending in the United States compare to other nations?
 
-**Generated:** 2025-06-07 16:06:48
+**Generated:** 2025-06-10 20:47:37
 
 ## Sources
 
-* https://worldpopulationreview.com/state-rankings/per-pupil-spending-by-state
-* https://nces.ed.gov/
-* https://www.epi.org/publication/bringing-it-back-home-why-state-comparisons-are-more-useful-than-international-comparisons-for-improving-u-s-education-policy/
-* https://nces.ed.gov/surveys/pisa/pisa2022/
-* https://freddiedeboer.substack.com/p/elite-education-journalism-still
+* [National Center for Education Statistics (NCES)](https://nces.ed.gov/) – *National Center for Education Statistics* 
+* [Bringing it back home: Why state comparisons are more useful than international comparisons for improving U.S. education policy](https://www.epi.org/publication/bringing-it-back-home-why-state-comparisons-are-more-useful-than-international-comparisons-for-improving-u-s-education-policy/) – *Economic Policy Institute* 
+* [PISA 2022 U.S. Results](https://nces.ed.gov/surveys/pisa/pisa2022/) – *National Center for Education Statistics* )
+* [Elite Education Journalism: Still Ideology at Its Purest](https://freddiedeboer.substack.com/p/elite-education-journalism-still) – *Freddie deBoer (Substack)*
+
 
 
 ## AI Responses
@@ -32,6 +32,10 @@ These responses are generated using the provided sources as context:
 ## Navigation
 
 [← Back to Index](../README.md)
+
+## Contributing
+
+Want to add more sources or suggest new questions? [Contribute on GitHub](https://github.com/justinwest/SuggestedSources)
 
 ---
 

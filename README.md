@@ -14,7 +14,7 @@ Want to add more sources or suggest new questions? [Contribute on GitHub](https:
 
 This index provides links to all questions and their AI-generated responses.
 
-**Last Updated:** 2025-06-10 20:37:32
+**Last Updated:** 2025-06-10 20:47:37
 
 ## Questions
 
@@ -64,7 +64,7 @@ This index provides links to all questions and their AI-generated responses.
 
 **Status:** ✅ Complete
 **Folder:** `How does school spending in the United States compare to other nations/`
-**Last Updated:** 2025-06-07 16:06
+**Last Updated:** 2025-06-10 20:47
 
 ### 9. [How many Americans have died due to fentanyl?](How many Americans have died due to fentanyl/README.md)
 
