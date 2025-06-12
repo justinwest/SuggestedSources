@@ -1,10 +1,13 @@
-# How do you distinguish good science from propaganda masquerading as science?
+# How do you distinguish good science from propaganda?
 
-**Generated:** 2025-06-10 21:56:20
+**Generated:** 2025-06-12 13:51:10
 
 ## Sources
 
-https://unsafescience.substack.com/p/nih-staff-revolt-promotes-propaganda
+* https://unsafescience.substack.com/p/nih-staff-revolt-promotes-propaganda
+* https://rbnmckenna86.substack.com/p/two-ways-of-thinking-about-propaganda
+* https://www.vox.com/2018/6/13/17449118/stanford-prison-experiment-fraud-psychology-replication
+* https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/disastrous-effects-lysenkoism-soviet-agriculture
 
 
 ## AI Responses
@@ -27,7 +30,7 @@ These responses are generated using the provided sources as context:
 
 ## Navigation
 
-[← Back to Index](../README.md)
+[← Back to Index](../README.md) | [View All Sources](../allsources.md)
 
 ## Contributing
 

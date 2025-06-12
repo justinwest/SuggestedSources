@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place.
 
-**Last Updated:** 2025-06-12 13:47:49
+**Last Updated:** 2025-06-12 13:54:49
 
 ---
 
@@ -94,7 +94,10 @@ This document contains all questions and their suggested sources in one place.
 
 ## 8. How do you distinguish good science from propaganda?
 
-https://unsafescience.substack.com/p/nih-staff-revolt-promotes-propaganda
+* https://unsafescience.substack.com/p/nih-staff-revolt-promotes-propaganda
+* https://rbnmckenna86.substack.com/p/two-ways-of-thinking-about-propaganda
+* https://www.vox.com/2018/6/13/17449118/stanford-prison-experiment-fraud-psychology-replication
+* https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/disastrous-effects-lysenkoism-soviet-agriculture
 
 ---
 
