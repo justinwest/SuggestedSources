@@ -5,3 +5,4 @@
 * https://ethicsunwrapped.utexas.edu/video/countrywides-subprime-scandal
 * https://en.wikipedia.org/wiki/Collateralized_debt_obligation
 * https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf
+z

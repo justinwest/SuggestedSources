@@ -1,11 +1,17 @@
 # What caused the 2008 financial crisis?
 
-**Generated:** 2025-06-11 15:40:46
+**Generated:** 2025-06-11 20:33:56
 
 ## Sources
 
-https://www.econlib.org/archives/2013/05/the_subprime_cr.html
-https://isteve.blogspot.com/2010/03/unreal-estate.html
+* https://www.econlib.org/archives/2013/05/the_subprime_cr.html
+* https://isteve.blogspot.com/2010/03/unreal-estate.html
+* https://www.federalreservehistory.org/essays/subprime-mortgage-crisis
+* https://en.wikipedia.org/wiki/No_doc_loan
+* https://ethicsunwrapped.utexas.edu/video/countrywides-subprime-scandal
+* https://en.wikipedia.org/wiki/Collateralized_debt_obligation
+* https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf
+z
 
 
 ## AI Responses
