@@ -1,12 +1,12 @@
-# What caused the spike in crime in 2020 (United States)?
+# What caused the crime spike in 2020 in the United States?
 
-**Generated:** 2025-06-08 20:21:07
+**Generated:** 2025-06-12 11:02:36
 
 ## Sources
 
-* https://www.heritage.org/crime-and-justice/commentary/what-caused-last-years-spike-violent-crime
-* https://www.pewresearch.org/short-reads/2021/10/27/what-we-know-about-the-increase-in-u-s-murders-in-2020/
-* https://inquisitivebird.xyz/p/crime-in-the-usa
+* [What Caused Last Year’s Spike in Violent Crime?](https://www.heritage.org/crime-and-justice/commentary/what-caused-last-years-spike-violent-crime) – *The Heritage Foundation* 
+* [What we know about the increase in U.S. murders in 2020](https://www.pewresearch.org/short-reads/2021/10/27/what-we-know-about-the-increase-in-u-s-murders-in-2020/) – *Pew Research Center* 
+* [Crime in the USA](https://inquisitivebird.xyz/p/crime-in-the-usa) – *Patterns in Humanity* 
 
 
 ## AI Responses

@@ -13,7 +13,7 @@ This is a comparative AI response system that automatically generates and organi
 
 This index provides links to all questions and their AI-generated responses.
 
-**Last Updated:** 2025-06-12 10:58:48
+**Last Updated:** 2025-06-12 11:05:05
 
 ## Questions
 
@@ -21,7 +21,7 @@ This index provides links to all questions and their AI-generated responses.
 
 **Status:** ✅ Complete
 **Folder:** `Are smartphones harming adolescent mental health/`
-**Last Updated:** 2025-06-07 16:34
+**Last Updated:** 2025-06-12 11:00
 
 ### 2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)
 
@@ -99,7 +99,7 @@ This index provides links to all questions and their AI-generated responses.
 
 **Status:** ✅ Complete
 **Folder:** `Is nuclear power safe/`
-**Last Updated:** 2025-06-08 20:42
+**Last Updated:** 2025-06-12 11:01
 
 ### 15. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)
 
@@ -123,19 +123,19 @@ This index provides links to all questions and their AI-generated responses.
 
 **Status:** ✅ Complete
 **Folder:** `What caused the crime spike in 2020 in the United States/`
-**Last Updated:** 2025-06-08 20:21
+**Last Updated:** 2025-06-12 11:02
 
 ### 19. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What explains the rise in autism diagnoses/`
-**Last Updated:** 2025-06-07 16:06
+**Last Updated:** 2025-06-12 11:03
 
 ### 20. [What is the replication crisis?](What is the replication crisis/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What is the replication crisis/`
-**Last Updated:** 2025-06-08 20:21
+**Last Updated:** 2025-06-12 11:04
 
 ### 21. [What is there so much financial fraud in Minnesota?](What is there so much financial fraud in Minnesota/README.md)
 
@@ -147,7 +147,7 @@ This index provides links to all questions and their AI-generated responses.
 
 **Status:** ✅ Complete
 **Folder:** `Why are fertility rates declining in most nations/`
-**Last Updated:** 2025-06-08 21:44
+**Last Updated:** 2025-06-12 11:05
 
 ### 23. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)
 

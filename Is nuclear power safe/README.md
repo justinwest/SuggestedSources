@@ -1,11 +1,11 @@
 # Is nuclear power safe?
 
-**Generated:** 2025-06-08 20:42:56
+**Generated:** 2025-06-12 11:01:54
 
 ## Sources
 
-* https://ourworldindata.org/safest-sources-of-energy
-* https://www.iaea.org/sites/default/files/gc/gc68-inf2.pdf
+* [What are the safest and cleanest sources of energy?](https://ourworldindata.org/safest-sources-of-energy) – *Our World in Data* 
+* [Nuclear Safety Review 2024](https://www.iaea.org/sites/default/files/gc/gc68-inf2.pdf) – *International Atomic Energy Agency* 
 
 
 ## AI Responses
