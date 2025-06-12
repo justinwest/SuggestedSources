@@ -14,7 +14,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-12 15:33:56
+**Last Updated:** 2025-06-12 15:43:55
 
 ## Questions
 
@@ -34,7 +34,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `Did COVID-19 leak from a lab or did it have natural origins/`
-**Last Updated:** 2025-06-10 20:30
+**Last Updated:** 2025-06-12 15:41
 
 ### 4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)
 
@@ -52,7 +52,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `How accurate was press coverage of President Biden's mental decline/`
-**Last Updated:** 2025-06-10 20:30
+**Last Updated:** 2025-06-12 15:42
 
 ### 7. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)
 
@@ -100,7 +100,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `Is nuclear power safe/`
-**Last Updated:** 2025-06-12 11:10
+**Last Updated:** 2025-06-12 15:43
 
 ### 15. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)
 

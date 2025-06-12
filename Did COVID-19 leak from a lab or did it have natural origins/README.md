@@ -1,6 +1,6 @@
 # Did COVID-19 leak from a lab or did it have natural origins?
 
-**Generated:** 2025-06-10 20:20:45
+**Generated:** 2025-06-12 15:41:48
 
 ## Sources
 
@@ -11,6 +11,8 @@
 * [We Were Badly Misled About Covid](https://www.nytimes.com/2025/03/16/opinion/covid-pandemic-lab-leak.html) - *The New York Times*
 * [The Origin of COVID: Did People or Nature Open Pandora’s Box at Wuhan?](https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/) - *Bulletin of the Atomic Scientists*
 * [House Panel Concludes That COVID‑19 Pandemic Came From a Lab Leak](https://www.science.org/content/article/house-panel-concludes-covid-19-pandemic-came-lab-leak) - *Science*
+* https://www.news-medical.net/news/20220728/Evidence-that-the-Huanan-market-in-Wuhan-China-was-the-epicenter-of-the-COVID-19-pandemic.aspx
+* https://www.dni.gov/files/ODNI/documents/assessments/Declassified-Assessment-on-COVID-19-Origins.pdf
 
 
 ## AI Responses
@@ -33,7 +35,7 @@ These responses are generated using the provided sources as context:
 
 ## Navigation
 
-[← Back to Index](../README.md)
+[← Back to Index](../README.md) | [View All Sources](../allsources.md)
 
 ## Contributing
 

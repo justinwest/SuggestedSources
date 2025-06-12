@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-06-12 15:33:56
+**Last Updated:** 2025-06-12 15:43:55
 
 ---
 
@@ -60,6 +60,8 @@ This document contains all questions and their suggested sources in one place, w
 * [We Were Badly Misled About Covid](https://www.nytimes.com/2025/03/16/opinion/covid-pandemic-lab-leak.html) - *The New York Times*
 * [The Origin of COVID: Did People or Nature Open Pandora’s Box at Wuhan?](https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/) - *Bulletin of the Atomic Scientists*
 * [House Panel Concludes That COVID‑19 Pandemic Came From a Lab Leak](https://www.science.org/content/article/house-panel-concludes-covid-19-pandemic-came-lab-leak) - *Science*
+* https://www.news-medical.net/news/20220728/Evidence-that-the-Huanan-market-in-Wuhan-China-was-the-epicenter-of-the-COVID-19-pandemic.aspx
+* https://www.dni.gov/files/ODNI/documents/assessments/Declassified-Assessment-on-COVID-19-Origins.pdf
 
 ---
 
@@ -105,6 +107,8 @@ This document contains all questions and their suggested sources in one place, w
 * [Original Sin](https://bookshop.org/p/books/untitled-0672-penguin-publishing-group/22284058) – *Bookshop.org*
 * [What We Don’t Learn in “Original Sin”](https://www.slowboring.com/p/what-we-dont-learn-in-original-sin) – *Slow Boring*
 * [The Crimes of the Politburo](https://www.persuasion.community/p/the-crimes-of-the-politburo) – *Persuasion*
+* https://www.newyorker.com/news/fault-lines/whos-to-blame-for-missing-bidens-decline
+* https://www.npr.org/transcripts/nx-s1-5309451
 
 ---
 
@@ -206,7 +210,9 @@ This document contains all questions and their suggested sources in one place, w
 ### Sources
 
 * [What are the safest and cleanest sources of energy?](https://ourworldindata.org/safest-sources-of-energy) – *Our World in Data* 
-* [Nuclear Safety Review 2024](https://www.iaea.org/sites/default/files/gc/gc68-inf2.pdf) – *International Atomic Energy Agency*
+* [Nuclear Safety Review 2024](https://www.iaea.org/sites/default/files/gc/gc68-inf2.pdf) – *International Atomic Energy Agency* 
+* https://www.economist.com/graphic-detail/2022/07/19/how-safe-is-nuclear-energy
+* https://energy.sandia.gov/programs/nuclear-energy/nuclear-energy-safety-studies/
 
 ---
 

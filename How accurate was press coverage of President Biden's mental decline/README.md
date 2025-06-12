@@ -1,6 +1,6 @@
 # How accurate was press coverage of President Biden's mental decline?
 
-**Generated:** 2025-06-10 20:30:57
+**Generated:** 2025-06-12 15:42:42
 
 ## Sources
 
@@ -9,6 +9,8 @@
 * [Original Sin](https://bookshop.org/p/books/untitled-0672-penguin-publishing-group/22284058) – *Bookshop.org*
 * [What We Don’t Learn in “Original Sin”](https://www.slowboring.com/p/what-we-dont-learn-in-original-sin) – *Slow Boring*
 * [The Crimes of the Politburo](https://www.persuasion.community/p/the-crimes-of-the-politburo) – *Persuasion*
+* https://www.newyorker.com/news/fault-lines/whos-to-blame-for-missing-bidens-decline
+* https://www.npr.org/transcripts/nx-s1-5309451
 
 
 ## AI Responses
@@ -31,7 +33,7 @@ These responses are generated using the provided sources as context:
 
 ## Navigation
 
-[← Back to Index](../README.md)
+[← Back to Index](../README.md) | [View All Sources](../allsources.md)
 
 ## Contributing
 
