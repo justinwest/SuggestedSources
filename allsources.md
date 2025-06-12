@@ -1,12 +1,16 @@
 # All Questions and Sources
 
-This document contains all questions and their suggested sources in one place.
+This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-06-12 14:23:38
+**Last Updated:** 2025-06-12 14:35:30
 
 ---
 
-##Are smartphones harming adolescent mental health?
+## 1. Are smartphones harming adolescent mental health?
+
+**AI Responses:** [Claude](Are smartphones harming adolescent mental health/response-claude-default.md) | [Claude w/sources](Are smartphones harming adolescent mental health/response-claude-sources.md) | [ChatGPT](Are smartphones harming adolescent mental health/response-chatgpt-default.md) | [ChatGPT w/sources](Are smartphones harming adolescent mental health/response-chatgpt-sources.md) | [Gemini](Are smartphones harming adolescent mental health/response-gemini-default.md) | [Gemini w/sources](Are smartphones harming adolescent mental health/response-gemini-sources.md) | [Grok](Are smartphones harming adolescent mental health/response-grok-default.md) | [Grok w/sources](Are smartphones harming adolescent mental health/response-grok-sources.md) | [View Question README](Are smartphones harming adolescent mental health/README.md)
+
+### Sources
 
 * [A Consensus Statement on Potential Negative Impacts of Smartphone and Social Media Use on Adolescent Mental Health](https://archive.jwest.org/Research/Capraro2025-SmartphoneHealth.pdf) – *OSF Preprints* 
 * [Associations Between Screen Time and Lower Psychological Well‑Being Among Children and Adolescents: Evidence From a Population‑Based Study](https://www.sciencedirect.com/science/article/pii/S2211335518301827) – *Preventive Medicine Reports* 
@@ -18,7 +22,11 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-##Are we living through a crisis of expertise?
+## 2. Are we living through a crisis of expertise?
+
+**AI Responses:** [Claude](Are we living through a crisis of expertise/response-claude-default.md) | [Claude w/sources](Are we living through a crisis of expertise/response-claude-sources.md) | [ChatGPT](Are we living through a crisis of expertise/response-chatgpt-default.md) | [ChatGPT w/sources](Are we living through a crisis of expertise/response-chatgpt-sources.md) | [Gemini](Are we living through a crisis of expertise/response-gemini-default.md) | [Gemini w/sources](Are we living through a crisis of expertise/response-gemini-sources.md) | [Grok](Are we living through a crisis of expertise/response-grok-default.md) | [Grok w/sources](Are we living through a crisis of expertise/response-grok-sources.md) | [View Question README](Are we living through a crisis of expertise/README.md)
+
+### Sources
 
 - [Frances Lee & Stephen Macedo on Why Institutions Failed During COVID](https://yaschamounk.substack.com/p/frances-lee-and-stephen-macedo) - *Yascha Mounk (Substack)*
 - [Elite failures and populist backlash](https://www.conspicuouscognition.com/p/elite-failures-and-populist-backlash) - *Conspicuous Cognition (Substack)*
@@ -39,7 +47,11 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-##Did COVID-19 leak from a lab or did it have natural origins?
+## 3. Did COVID-19 leak from a lab or did it have natural origins?
+
+**AI Responses:** [Claude](Did COVID-19 leak from a lab or did it have natural origins/response-claude-default.md) | [Claude w/sources](Did COVID-19 leak from a lab or did it have natural origins/response-claude-sources.md) | [ChatGPT](Did COVID-19 leak from a lab or did it have natural origins/response-chatgpt-default.md) | [ChatGPT w/sources](Did COVID-19 leak from a lab or did it have natural origins/response-chatgpt-sources.md) | [Gemini](Did COVID-19 leak from a lab or did it have natural origins/response-gemini-default.md) | [Gemini w/sources](Did COVID-19 leak from a lab or did it have natural origins/response-gemini-sources.md) | [Grok](Did COVID-19 leak from a lab or did it have natural origins/response-grok-default.md) | [Grok w/sources](Did COVID-19 leak from a lab or did it have natural origins/response-grok-sources.md) | [View Question README](Did COVID-19 leak from a lab or did it have natural origins/README.md)
+
+### Sources
 
 * [WHO‑convened Global Study of Origins of SARS‑CoV‑2: China Part](https://apps.who.int/gb/COVID-19/pdf_files/2021/28_03/20210328-%20Full%20report.pdf) - *World Health Organization*
 * [Declassified Assessment on COVID‑19 Origins](https://www.dni.gov/files/ODNI/documents/assessments/Declassified-Assessment-on-COVID-19-Origins.pdf) - *Office of the Director of National Intelligence*
@@ -51,7 +63,11 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-##Does gender affirming care lower youth suicide risk?
+## 4. Does gender affirming care lower youth suicide risk?
+
+**AI Responses:** [Claude](Does gender affirming care lower youth suicide risk/response-claude-default.md) | [Claude w/sources](Does gender affirming care lower youth suicide risk/response-claude-sources.md) | [ChatGPT](Does gender affirming care lower youth suicide risk/response-chatgpt-default.md) | [ChatGPT w/sources](Does gender affirming care lower youth suicide risk/response-chatgpt-sources.md) | [Gemini](Does gender affirming care lower youth suicide risk/response-gemini-default.md) | [Gemini w/sources](Does gender affirming care lower youth suicide risk/response-gemini-sources.md) | [Grok](Does gender affirming care lower youth suicide risk/response-grok-default.md) | [Grok w/sources](Does gender affirming care lower youth suicide risk/response-grok-sources.md) | [View Question README](Does gender affirming care lower youth suicide risk/README.md)
+
+### Sources
 
 * [Pubertal Suppression for Transgender Youth and Risk of Suicidal Ideation](https://publications.aap.org/pediatrics/article-abstract/145/2/e20191725/68259/Pubertal-Suppression-for-Transgender-Youth-and?redirectedFrom=fulltext) - *Pediatrics*
 * [Researchers Found Puberty Blockers and Hormones Didn’t Improve Trans Kids’ Mental Health at Their Clinic — Then They Published a Study Claiming the Opposite](https://jessesingal.substack.com/p/researchers-found-puberty-blockers) - *Singal‑Minded*
@@ -63,7 +79,11 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-##How accurate are IQ tests?
+## 5. How accurate are IQ tests?
+
+**AI Responses:** [Claude](How accurate are IQ tests/response-claude-default.md) | [Claude w/sources](How accurate are IQ tests/response-claude-sources.md) | [ChatGPT](How accurate are IQ tests/response-chatgpt-default.md) | [ChatGPT w/sources](How accurate are IQ tests/response-chatgpt-sources.md) | [Gemini](How accurate are IQ tests/response-gemini-default.md) | [Gemini w/sources](How accurate are IQ tests/response-gemini-sources.md) | [Grok](How accurate are IQ tests/response-grok-default.md) | [Grok w/sources](How accurate are IQ tests/response-grok-sources.md) | [View Question README](How accurate are IQ tests/README.md)
+
+### Sources
 
 * [Breaking the Taboo](https://www.riotiq.com/articles/breaking-the-taboo) - *Riot IQ*
 * [12 Things Everyone Should Know About IQ](https://www.stevestewartwilliams.com/p/12-things-everyone-should-know-about) - *The Nature‑Nurture‑Nietzsche Newsletter*
@@ -74,7 +94,11 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-##How accurate was press coverage of President Biden's mental decline?
+## 6. How accurate was press coverage of President Biden's mental decline?
+
+**AI Responses:** [Claude](How accurate was press coverage of President Biden's mental decline/response-claude-default.md) | [Claude w/sources](How accurate was press coverage of President Biden's mental decline/response-claude-sources.md) | [ChatGPT](How accurate was press coverage of President Biden's mental decline/response-chatgpt-default.md) | [ChatGPT w/sources](How accurate was press coverage of President Biden's mental decline/response-chatgpt-sources.md) | [Gemini](How accurate was press coverage of President Biden's mental decline/response-gemini-default.md) | [Gemini w/sources](How accurate was press coverage of President Biden's mental decline/response-gemini-sources.md) | [Grok](How accurate was press coverage of President Biden's mental decline/response-grok-default.md) | [Grok w/sources](How accurate was press coverage of President Biden's mental decline/response-grok-sources.md) | [View Question README](How accurate was press coverage of President Biden's mental decline/README.md)
+
+### Sources
 
 * [How Biden’s Inner Circle Protected a Faltering President](https://archive.jwest.org/Articles/How%20Biden%E2%80%99s%20Inner%20Circle%20Protected%20a%20Faltering%20President%20-%20The%20New%20York%20Times.pdf) – *The New York Times*
 * [Original Sin: President Biden’s Decline, Its Cover‑Up, and His Disastrous Choice to Run Again](https://sites.prh.com/originalsin) – *Penguin Press*
@@ -84,7 +108,11 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-##How do genes influence socio-economic status?
+## 7. How do genes influence socio-economic status?
+
+**AI Responses:** [Claude](How do genes influence socio-economic status/response-claude-default.md) | [Claude w/sources](How do genes influence socio-economic status/response-claude-sources.md) | [ChatGPT](How do genes influence socio-economic status/response-chatgpt-default.md) | [ChatGPT w/sources](How do genes influence socio-economic status/response-chatgpt-sources.md) | [Gemini](How do genes influence socio-economic status/response-gemini-default.md) | [Gemini w/sources](How do genes influence socio-economic status/response-gemini-sources.md) | [Grok](How do genes influence socio-economic status/response-grok-default.md) | [Grok w/sources](How do genes influence socio-economic status/response-grok-sources.md) | [View Question README](How do genes influence socio-economic status/README.md)
+
+### Sources
 
 * [Genes, money, status… and comics](https://arutherford.substack.com/p/genes-money-status-and-comics) – *Punctuated Equilibrium* 
 * [Socio‑economic status is a social construct with heritable components and genetic consequences](https://www.nature.com/articles/s41562-025-02150-4) – *Nature Human Behaviour* 
@@ -92,7 +120,11 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-##How do you distinguish good science from propaganda?
+## 8. How do you distinguish good science from propaganda?
+
+**AI Responses:** [Claude](How do you distinguish good science from propaganda/response-claude-default.md) | [Claude w/sources](How do you distinguish good science from propaganda/response-claude-sources.md) | [ChatGPT](How do you distinguish good science from propaganda/response-chatgpt-default.md) | [ChatGPT w/sources](How do you distinguish good science from propaganda/response-chatgpt-sources.md) | [Gemini](How do you distinguish good science from propaganda/response-gemini-default.md) | [Gemini w/sources](How do you distinguish good science from propaganda/response-gemini-sources.md) | [Grok](How do you distinguish good science from propaganda/response-grok-default.md) | [Grok w/sources](How do you distinguish good science from propaganda/response-grok-sources.md) | [View Question README](How do you distinguish good science from propaganda/README.md)
+
+### Sources
 
 * https://unsafescience.substack.com/p/nih-staff-revolt-promotes-propaganda
 * https://rbnmckenna86.substack.com/p/two-ways-of-thinking-about-propaganda
@@ -101,7 +133,11 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-##How does school spending in the United States compare to other nations?
+## 9. How does school spending in the United States compare to other nations?
+
+**AI Responses:** [Claude](How does school spending in the United States compare to other nations/response-claude-default.md) | [Claude w/sources](How does school spending in the United States compare to other nations/response-claude-sources.md) | [ChatGPT](How does school spending in the United States compare to other nations/response-chatgpt-default.md) | [ChatGPT w/sources](How does school spending in the United States compare to other nations/response-chatgpt-sources.md) | [Gemini](How does school spending in the United States compare to other nations/response-gemini-default.md) | [Gemini w/sources](How does school spending in the United States compare to other nations/response-gemini-sources.md) | [Grok](How does school spending in the United States compare to other nations/response-grok-default.md) | [Grok w/sources](How does school spending in the United States compare to other nations/response-grok-sources.md) | [View Question README](How does school spending in the United States compare to other nations/README.md)
+
+### Sources
 
 * [National Center for Education Statistics (NCES)](https://nces.ed.gov/) – *National Center for Education Statistics* 
 * [Bringing it back home: Why state comparisons are more useful than international comparisons for improving U.S. education policy](https://www.epi.org/publication/bringing-it-back-home-why-state-comparisons-are-more-useful-than-international-comparisons-for-improving-u-s-education-policy/) – *Economic Policy Institute* 
@@ -110,7 +146,11 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-##How many Americans have died due to fentanyl?
+## 10. How many Americans have died due to fentanyl?
+
+**AI Responses:** [Claude](How many Americans have died due to fentanyl/response-claude-default.md) | [Claude w/sources](How many Americans have died due to fentanyl/response-claude-sources.md) | [ChatGPT](How many Americans have died due to fentanyl/response-chatgpt-default.md) | [ChatGPT w/sources](How many Americans have died due to fentanyl/response-chatgpt-sources.md) | [Gemini](How many Americans have died due to fentanyl/response-gemini-default.md) | [Gemini w/sources](How many Americans have died due to fentanyl/response-gemini-sources.md) | [Grok](How many Americans have died due to fentanyl/response-grok-default.md) | [Grok w/sources](How many Americans have died due to fentanyl/response-grok-sources.md) | [View Question README](How many Americans have died due to fentanyl/README.md)
+
+### Sources
 
 * [Are fentanyl overdose deaths rising in the US?](https://usafacts.org/articles/are-fentanyl-overdose-deaths-rising-in-the-us/) – *USAFacts* 
 * [Clarifying CDC’s Efforts to Quantify Overdose Deaths](https://pmc.ncbi.nlm.nih.gov/articles/PMC10467501/) – *Public Health Reports* 
@@ -127,19 +167,31 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-##How many immigrants are in the United States illegally?
+## 11. How many immigrants are in the United States illegally?
+
+**AI Responses:** [Claude](How many immigrants are in the United States illegally/response-claude-default.md) | [Claude w/sources](How many immigrants are in the United States illegally/response-claude-sources.md) | [ChatGPT](How many immigrants are in the United States illegally/response-chatgpt-default.md) | [ChatGPT w/sources](How many immigrants are in the United States illegally/response-chatgpt-sources.md) | [Gemini](How many immigrants are in the United States illegally/response-gemini-default.md) | [Gemini w/sources](How many immigrants are in the United States illegally/response-gemini-sources.md) | [Grok](How many immigrants are in the United States illegally/response-grok-default.md) | [Grok w/sources](How many immigrants are in the United States illegally/response-grok-sources.md) | [View Question README](How many immigrants are in the United States illegally/README.md)
+
+### Sources
 
 * [Study: Undocumented immigrant population roughly double current estimate](https://mitsloan.mit.edu/ideas-made-to-matter/study-undocumented-immigrant-population-roughly-double-current-estimate) – *MIT Sloan*
 
 ---
 
-##How much of a problem is misinformation?
+## 12. How much of a problem is misinformation?
+
+**AI Responses:** [Claude](How much of a problem is misinformation/response-claude-default.md) | [Claude w/sources](How much of a problem is misinformation/response-claude-sources.md) | [ChatGPT](How much of a problem is misinformation/response-chatgpt-default.md) | [ChatGPT w/sources](How much of a problem is misinformation/response-chatgpt-sources.md) | [Gemini](How much of a problem is misinformation/response-gemini-default.md) | [Gemini w/sources](How much of a problem is misinformation/response-gemini-sources.md) | [Grok](How much of a problem is misinformation/response-grok-default.md) | [Grok w/sources](How much of a problem is misinformation/response-grok-sources.md) | [View Question README](How much of a problem is misinformation/README.md)
+
+### Sources
 
 * https://www.conspicuouscognition.com/p/criticising-misinformation-research
 
 ---
 
-##How much of intelligence is hereditary?
+## 13. How much of intelligence is hereditary?
+
+**AI Responses:** [Claude](How much of intelligence is hereditary/response-claude-default.md) | [Claude w/sources](How much of intelligence is hereditary/response-claude-sources.md) | [ChatGPT](How much of intelligence is hereditary/response-chatgpt-default.md) | [ChatGPT w/sources](How much of intelligence is hereditary/response-chatgpt-sources.md) | [Gemini](How much of intelligence is hereditary/response-gemini-default.md) | [Gemini w/sources](How much of intelligence is hereditary/response-gemini-sources.md) | [Grok](How much of intelligence is hereditary/response-grok-default.md) | [Grok w/sources](How much of intelligence is hereditary/response-grok-sources.md) | [View Question README](How much of intelligence is hereditary/README.md)
+
+### Sources
 
 * [Is Intelligence Hereditary?](https://www.scientificamerican.com/article/is-intelligence-hereditary/) - *Scientific American* 
 * [The new genetics of intelligence](https://www.nature.com/articles/nrg.2017.104) - *Nature Reviews Genetics* 
@@ -147,14 +199,22 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-##Is nuclear power safe?
+## 14. Is nuclear power safe?
+
+**AI Responses:** [Claude](Is nuclear power safe/response-claude-default.md) | [Claude w/sources](Is nuclear power safe/response-claude-sources.md) | [ChatGPT](Is nuclear power safe/response-chatgpt-default.md) | [ChatGPT w/sources](Is nuclear power safe/response-chatgpt-sources.md) | [Gemini](Is nuclear power safe/response-gemini-default.md) | [Gemini w/sources](Is nuclear power safe/response-gemini-sources.md) | [Grok](Is nuclear power safe/response-grok-default.md) | [Grok w/sources](Is nuclear power safe/response-grok-sources.md) | [View Question README](Is nuclear power safe/README.md)
+
+### Sources
 
 * [What are the safest and cleanest sources of energy?](https://ourworldindata.org/safest-sources-of-energy) – *Our World in Data* 
 * [Nuclear Safety Review 2024](https://www.iaea.org/sites/default/files/gc/gc68-inf2.pdf) – *International Atomic Energy Agency*
 
 ---
 
-##Were the COVID-19 lockdowns effective?
+## 15. Were the COVID-19 lockdowns effective?
+
+**AI Responses:** [Claude](Were the COVID-19 lockdowns effective/response-claude-default.md) | [Claude w/sources](Were the COVID-19 lockdowns effective/response-claude-sources.md) | [ChatGPT](Were the COVID-19 lockdowns effective/response-chatgpt-default.md) | [ChatGPT w/sources](Were the COVID-19 lockdowns effective/response-chatgpt-sources.md) | [Gemini](Were the COVID-19 lockdowns effective/response-gemini-default.md) | [Gemini w/sources](Were the COVID-19 lockdowns effective/response-gemini-sources.md) | [Grok](Were the COVID-19 lockdowns effective/response-grok-default.md) | [Grok w/sources](Were the COVID-19 lockdowns effective/response-grok-sources.md) | [View Question README](Were the COVID-19 lockdowns effective/README.md)
+
+### Sources
 
 * [https://onlinelibrary.wiley.com/doi/full/10.1111/eci.13782 The End of the COVID-19 Pandemic – ''European Journal of Clinical Investigation''] (2022 peer-reviewed perspective)
 * [https://www.nature.com/articles/s41586-020-2405-7 Estimating the Effects of Non-Pharmaceutical Interventions on COVID-19 in Europe – ''Nature''] (2020 peer-reviewed modelling study)
@@ -164,7 +224,11 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-##What are luxury beliefs?
+## 16. What are luxury beliefs?
+
+**AI Responses:** [Claude](What are luxury beliefs/response-claude-default.md) | [Claude w/sources](What are luxury beliefs/response-claude-sources.md) | [ChatGPT](What are luxury beliefs/response-chatgpt-default.md) | [ChatGPT w/sources](What are luxury beliefs/response-chatgpt-sources.md) | [Gemini](What are luxury beliefs/response-gemini-default.md) | [Gemini w/sources](What are luxury beliefs/response-gemini-sources.md) | [Grok](What are luxury beliefs/response-grok-default.md) | [Grok w/sources](What are luxury beliefs/response-grok-sources.md) | [View Question README](What are luxury beliefs/README.md)
+
+### Sources
 
 * [Luxury Beliefs are Status Symbols](https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for) – *Rob Henderson’s Newsletter* 
 * [“Luxury beliefs”: Signaling through ideology?](https://www.ucd.ie/economics/t4media/WP2024_10.pdf) – *UCD School of Economics Working Paper* 
@@ -175,7 +239,11 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-##What caused the 2008 financial crisis?
+## 17. What caused the 2008 financial crisis?
+
+**AI Responses:** [Claude](What caused the 2008 financial crisis/response-claude-default.md) | [Claude w/sources](What caused the 2008 financial crisis/response-claude-sources.md) | [ChatGPT](What caused the 2008 financial crisis/response-chatgpt-default.md) | [ChatGPT w/sources](What caused the 2008 financial crisis/response-chatgpt-sources.md) | [Gemini](What caused the 2008 financial crisis/response-gemini-default.md) | [Gemini w/sources](What caused the 2008 financial crisis/response-gemini-sources.md) | [Grok](What caused the 2008 financial crisis/response-grok-default.md) | [Grok w/sources](What caused the 2008 financial crisis/response-grok-sources.md) | [View Question README](What caused the 2008 financial crisis/README.md)
+
+### Sources
 
 * https://www.econlib.org/archives/2013/05/the_subprime_cr.html
 * https://isteve.blogspot.com/2010/03/unreal-estate.html
@@ -188,7 +256,11 @@ z
 
 ---
 
-##What caused the crime spike in 2020 in the United States?
+## 18. What caused the crime spike in 2020 in the United States?
+
+**AI Responses:** [Claude](What caused the crime spike in 2020 in the United States/response-claude-default.md) | [Claude w/sources](What caused the crime spike in 2020 in the United States/response-claude-sources.md) | [ChatGPT](What caused the crime spike in 2020 in the United States/response-chatgpt-default.md) | [ChatGPT w/sources](What caused the crime spike in 2020 in the United States/response-chatgpt-sources.md) | [Gemini](What caused the crime spike in 2020 in the United States/response-gemini-default.md) | [Gemini w/sources](What caused the crime spike in 2020 in the United States/response-gemini-sources.md) | [Grok](What caused the crime spike in 2020 in the United States/response-grok-default.md) | [Grok w/sources](What caused the crime spike in 2020 in the United States/response-grok-sources.md) | [View Question README](What caused the crime spike in 2020 in the United States/README.md)
+
+### Sources
 
 * [What Caused Last Year’s Spike in Violent Crime?](https://www.heritage.org/crime-and-justice/commentary/what-caused-last-years-spike-violent-crime) – *The Heritage Foundation* 
 * [What we know about the increase in U.S. murders in 2020](https://www.pewresearch.org/short-reads/2021/10/27/what-we-know-about-the-increase-in-u-s-murders-in-2020/) – *Pew Research Center* 
@@ -196,7 +268,11 @@ z
 
 ---
 
-##What explains the rise in autism diagnoses?
+## 19. What explains the rise in autism diagnoses?
+
+**AI Responses:** [Claude](What explains the rise in autism diagnoses/response-claude-default.md) | [Claude w/sources](What explains the rise in autism diagnoses/response-claude-sources.md) | [ChatGPT](What explains the rise in autism diagnoses/response-chatgpt-default.md) | [ChatGPT w/sources](What explains the rise in autism diagnoses/response-chatgpt-sources.md) | [Gemini](What explains the rise in autism diagnoses/response-gemini-default.md) | [Gemini w/sources](What explains the rise in autism diagnoses/response-gemini-sources.md) | [Grok](What explains the rise in autism diagnoses/response-grok-default.md) | [Grok w/sources](What explains the rise in autism diagnoses/response-grok-sources.md) | [View Question README](What explains the rise in autism diagnoses/README.md)
+
+### Sources
 
 * [On RFK, Jr. on Autism](https://arnoldkling.substack.com/p/on-rfk-jr-on-autism) – *In My Tribe* (Substack)
 * [Getting Real About Autism’s Exponential Explosion](https://www.ncsautism.org/blog//autism-explosion-2024) – *National Council on Severe Autism*
@@ -226,7 +302,11 @@ z
 
 ---
 
-##What is the replication crisis?
+## 20. What is the replication crisis?
+
+**AI Responses:** [Claude](What is the replication crisis/response-claude-default.md) | [Claude w/sources](What is the replication crisis/response-claude-sources.md) | [ChatGPT](What is the replication crisis/response-chatgpt-default.md) | [ChatGPT w/sources](What is the replication crisis/response-chatgpt-sources.md) | [Gemini](What is the replication crisis/response-gemini-default.md) | [Gemini w/sources](What is the replication crisis/response-gemini-sources.md) | [Grok](What is the replication crisis/response-grok-default.md) | [Grok w/sources](What is the replication crisis/response-grok-sources.md) | [View Question README](What is the replication crisis/README.md)
+
+### Sources
 
 * [Estimating the Reproducibility of Psychological Science](https://pubmed.ncbi.nlm.nih.gov/26315443/) – *Science* 
 * [\~75 % of Psychology Claims Are False](https://unsafescience.substack.com/p/75-of-psychology-claims-are-false) – *Unsafe Science* (Substack) 
@@ -238,7 +318,11 @@ z
 
 ---
 
-##What is there so much financial fraud in Minnesota?
+## 21. What is there so much financial fraud in Minnesota?
+
+**AI Responses:** [Claude](What is there so much financial fraud in Minnesota/response-claude-default.md) | [Claude w/sources](What is there so much financial fraud in Minnesota/response-claude-sources.md) | [ChatGPT](What is there so much financial fraud in Minnesota/response-chatgpt-default.md) | [ChatGPT w/sources](What is there so much financial fraud in Minnesota/response-chatgpt-sources.md) | [Gemini](What is there so much financial fraud in Minnesota/response-gemini-default.md) | [Gemini w/sources](What is there so much financial fraud in Minnesota/response-gemini-sources.md) | [Grok](What is there so much financial fraud in Minnesota/response-grok-default.md) | [Grok w/sources](What is there so much financial fraud in Minnesota/response-grok-sources.md) | [View Question README](What is there so much financial fraud in Minnesota/README.md)
+
+### Sources
 
 * [Feeding Our Future](https://en.wikipedia.org/wiki/Feeding_Our_Future) – *Wikipedia*
 * [62 Investigations Underway Involving Federally‑Funded Minnesota Child‑Care Centers](https://kstp.com/kstp-news/top-news/62-investigations-underway-involving-federally-funded-minnesota-child-care-centers/) – *KSTP 5 Eyewitness News*
@@ -251,7 +335,11 @@ z
 
 ---
 
-##Why are fertility rates declining in most nations?
+## 22. Why are fertility rates declining in most nations?
+
+**AI Responses:** [Claude](Why are fertility rates declining in most nations/response-claude-default.md) | [Claude w/sources](Why are fertility rates declining in most nations/response-claude-sources.md) | [ChatGPT](Why are fertility rates declining in most nations/response-chatgpt-default.md) | [ChatGPT w/sources](Why are fertility rates declining in most nations/response-chatgpt-sources.md) | [Gemini](Why are fertility rates declining in most nations/response-gemini-default.md) | [Gemini w/sources](Why are fertility rates declining in most nations/response-gemini-sources.md) | [Grok](Why are fertility rates declining in most nations/response-grok-default.md) | [Grok w/sources](Why are fertility rates declining in most nations/response-grok-sources.md) | [View Question README](Why are fertility rates declining in most nations/README.md)
+
+### Sources
 
 * [JD Vance, Elon Musk Are Right About Falling Birth Rates — Here’s Where They Get It Wrong](https://thehill.com/opinion/healthcare/5140744-genetics-fertility-musk-vance-pronatalist/) – *The Hill*
 * [Fertility rate, total (births per woman)](https://data.worldbank.org/indicator/SP.DYN.TFRT.IN) – *World Bank*
@@ -260,7 +348,11 @@ z
 
 ---
 
-##Why is Stoicism becoming popular again?
+## 23. Why is Stoicism becoming popular again?
+
+**AI Responses:** [Claude](Why is Stoicism becoming popular again/response-claude-default.md) | [Claude w/sources](Why is Stoicism becoming popular again/response-claude-sources.md) | [ChatGPT](Why is Stoicism becoming popular again/response-chatgpt-default.md) | [ChatGPT w/sources](Why is Stoicism becoming popular again/response-chatgpt-sources.md) | [Gemini](Why is Stoicism becoming popular again/response-gemini-default.md) | [Gemini w/sources](Why is Stoicism becoming popular again/response-gemini-sources.md) | [Grok](Why is Stoicism becoming popular again/response-grok-default.md) | [Grok w/sources](Why is Stoicism becoming popular again/response-grok-sources.md) | [View Question README](Why is Stoicism becoming popular again/README.md)
+
+### Sources
 
 * [Stoicism: The Ancient Remedy to the Modern Age](https://www.gurwinder.blog/p/stoicism-the-ancient-remedy-to-the) – *The Prism* (Substack) 
 * [The Revival of Stoicism](https://www.vice.com/en/article/the-revival-of-stoicism/) – *VICE* 
@@ -270,7 +362,11 @@ z
 
 ---
 
-##Why were mental hospitals closed in the United States?
+## 24. Why were mental hospitals closed in the United States?
+
+**AI Responses:** [Claude](Why were mental hospitals closed in the United States/response-claude-default.md) | [Claude w/sources](Why were mental hospitals closed in the United States/response-claude-sources.md) | [ChatGPT](Why were mental hospitals closed in the United States/response-chatgpt-default.md) | [ChatGPT w/sources](Why were mental hospitals closed in the United States/response-chatgpt-sources.md) | [Gemini](Why were mental hospitals closed in the United States/response-gemini-default.md) | [Gemini w/sources](Why were mental hospitals closed in the United States/response-gemini-sources.md) | [Grok](Why were mental hospitals closed in the United States/response-grok-default.md) | [Grok w/sources](Why were mental hospitals closed in the United States/response-grok-sources.md) | [View Question README](Why were mental hospitals closed in the United States/README.md)
+
+### Sources
 
 * [Deinstitutionalization in the United States](https://en.wikipedia.org/wiki/Deinstitutionalization_in_the_United_States) – *Wikipedia* 
 * [Hard Truths About Deinstitutionalization, Then and Now](https://calmatters.org/commentary/2019/03/hard-truths-about-deinstitutionalization-then-and-now/) – *CalMatters* 
