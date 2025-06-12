@@ -2,11 +2,11 @@
 
 This document contains all questions and their suggested sources in one place.
 
-**Last Updated:** 2025-06-12 13:54:49
+**Last Updated:** 2025-06-12 14:23:38
 
 ---
 
-## 1. Are smartphones harming adolescent mental health?
+##Are smartphones harming adolescent mental health?
 
 * [A Consensus Statement on Potential Negative Impacts of Smartphone and Social Media Use on Adolescent Mental Health](https://archive.jwest.org/Research/Capraro2025-SmartphoneHealth.pdf) – *OSF Preprints* 
 * [Associations Between Screen Time and Lower Psychological Well‑Being Among Children and Adolescents: Evidence From a Population‑Based Study](https://www.sciencedirect.com/science/article/pii/S2211335518301827) – *Preventive Medicine Reports* 
@@ -18,7 +18,7 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-## 2. Are we living through a crisis of expertise?
+##Are we living through a crisis of expertise?
 
 - [Frances Lee & Stephen Macedo on Why Institutions Failed During COVID](https://yaschamounk.substack.com/p/frances-lee-and-stephen-macedo) - *Yascha Mounk (Substack)*
 - [Elite failures and populist backlash](https://www.conspicuouscognition.com/p/elite-failures-and-populist-backlash) - *Conspicuous Cognition (Substack)*
@@ -39,7 +39,7 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-## 3. Did COVID-19 leak from a lab or did it have natural origins?
+##Did COVID-19 leak from a lab or did it have natural origins?
 
 * [WHO‑convened Global Study of Origins of SARS‑CoV‑2: China Part](https://apps.who.int/gb/COVID-19/pdf_files/2021/28_03/20210328-%20Full%20report.pdf) - *World Health Organization*
 * [Declassified Assessment on COVID‑19 Origins](https://www.dni.gov/files/ODNI/documents/assessments/Declassified-Assessment-on-COVID-19-Origins.pdf) - *Office of the Director of National Intelligence*
@@ -51,7 +51,7 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-## 4. Does gender affirming care lower youth suicide risk?
+##Does gender affirming care lower youth suicide risk?
 
 * [Pubertal Suppression for Transgender Youth and Risk of Suicidal Ideation](https://publications.aap.org/pediatrics/article-abstract/145/2/e20191725/68259/Pubertal-Suppression-for-Transgender-Youth-and?redirectedFrom=fulltext) - *Pediatrics*
 * [Researchers Found Puberty Blockers and Hormones Didn’t Improve Trans Kids’ Mental Health at Their Clinic — Then They Published a Study Claiming the Opposite](https://jessesingal.substack.com/p/researchers-found-puberty-blockers) - *Singal‑Minded*
@@ -63,7 +63,7 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-## 5. How accurate are IQ tests?
+##How accurate are IQ tests?
 
 * [Breaking the Taboo](https://www.riotiq.com/articles/breaking-the-taboo) - *Riot IQ*
 * [12 Things Everyone Should Know About IQ](https://www.stevestewartwilliams.com/p/12-things-everyone-should-know-about) - *The Nature‑Nurture‑Nietzsche Newsletter*
@@ -74,7 +74,7 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-## 6. How accurate was press coverage of President Biden's mental decline?
+##How accurate was press coverage of President Biden's mental decline?
 
 * [How Biden’s Inner Circle Protected a Faltering President](https://archive.jwest.org/Articles/How%20Biden%E2%80%99s%20Inner%20Circle%20Protected%20a%20Faltering%20President%20-%20The%20New%20York%20Times.pdf) – *The New York Times*
 * [Original Sin: President Biden’s Decline, Its Cover‑Up, and His Disastrous Choice to Run Again](https://sites.prh.com/originalsin) – *Penguin Press*
@@ -84,7 +84,7 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-## 7. How do genes influence socio-economic status?
+##How do genes influence socio-economic status?
 
 * [Genes, money, status… and comics](https://arutherford.substack.com/p/genes-money-status-and-comics) – *Punctuated Equilibrium* 
 * [Socio‑economic status is a social construct with heritable components and genetic consequences](https://www.nature.com/articles/s41562-025-02150-4) – *Nature Human Behaviour* 
@@ -92,7 +92,7 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-## 8. How do you distinguish good science from propaganda?
+##How do you distinguish good science from propaganda?
 
 * https://unsafescience.substack.com/p/nih-staff-revolt-promotes-propaganda
 * https://rbnmckenna86.substack.com/p/two-ways-of-thinking-about-propaganda
@@ -101,7 +101,7 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-## 9. How does school spending in the United States compare to other nations?
+##How does school spending in the United States compare to other nations?
 
 * [National Center for Education Statistics (NCES)](https://nces.ed.gov/) – *National Center for Education Statistics* 
 * [Bringing it back home: Why state comparisons are more useful than international comparisons for improving U.S. education policy](https://www.epi.org/publication/bringing-it-back-home-why-state-comparisons-are-more-useful-than-international-comparisons-for-improving-u-s-education-policy/) – *Economic Policy Institute* 
@@ -110,7 +110,7 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-## 10. How many Americans have died due to fentanyl?
+##How many Americans have died due to fentanyl?
 
 * [Are fentanyl overdose deaths rising in the US?](https://usafacts.org/articles/are-fentanyl-overdose-deaths-rising-in-the-us/) – *USAFacts* 
 * [Clarifying CDC’s Efforts to Quantify Overdose Deaths](https://pmc.ncbi.nlm.nih.gov/articles/PMC10467501/) – *Public Health Reports* 
@@ -127,19 +127,19 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-## 11. How many immigrants are in the United States illegally?
+##How many immigrants are in the United States illegally?
 
 * [Study: Undocumented immigrant population roughly double current estimate](https://mitsloan.mit.edu/ideas-made-to-matter/study-undocumented-immigrant-population-roughly-double-current-estimate) – *MIT Sloan*
 
 ---
 
-## 12. How much of a problem is misinformation?
+##How much of a problem is misinformation?
 
 * https://www.conspicuouscognition.com/p/criticising-misinformation-research
 
 ---
 
-## 13. How much of intelligence is hereditary?
+##How much of intelligence is hereditary?
 
 * [Is Intelligence Hereditary?](https://www.scientificamerican.com/article/is-intelligence-hereditary/) - *Scientific American* 
 * [The new genetics of intelligence](https://www.nature.com/articles/nrg.2017.104) - *Nature Reviews Genetics* 
@@ -147,14 +147,14 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-## 14. Is nuclear power safe?
+##Is nuclear power safe?
 
 * [What are the safest and cleanest sources of energy?](https://ourworldindata.org/safest-sources-of-energy) – *Our World in Data* 
 * [Nuclear Safety Review 2024](https://www.iaea.org/sites/default/files/gc/gc68-inf2.pdf) – *International Atomic Energy Agency*
 
 ---
 
-## 15. Were the COVID-19 lockdowns effective?
+##Were the COVID-19 lockdowns effective?
 
 * [https://onlinelibrary.wiley.com/doi/full/10.1111/eci.13782 The End of the COVID-19 Pandemic – ''European Journal of Clinical Investigation''] (2022 peer-reviewed perspective)
 * [https://www.nature.com/articles/s41586-020-2405-7 Estimating the Effects of Non-Pharmaceutical Interventions on COVID-19 in Europe – ''Nature''] (2020 peer-reviewed modelling study)
@@ -164,7 +164,7 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-## 16. What are luxury beliefs?
+##What are luxury beliefs?
 
 * [Luxury Beliefs are Status Symbols](https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for) – *Rob Henderson’s Newsletter* 
 * [“Luxury beliefs”: Signaling through ideology?](https://www.ucd.ie/economics/t4media/WP2024_10.pdf) – *UCD School of Economics Working Paper* 
@@ -175,7 +175,7 @@ This document contains all questions and their suggested sources in one place.
 
 ---
 
-## 17. What caused the 2008 financial crisis?
+##What caused the 2008 financial crisis?
 
 * https://www.econlib.org/archives/2013/05/the_subprime_cr.html
 * https://isteve.blogspot.com/2010/03/unreal-estate.html
@@ -188,7 +188,7 @@ z
 
 ---
 
-## 18. What caused the crime spike in 2020 in the United States?
+##What caused the crime spike in 2020 in the United States?
 
 * [What Caused Last Year’s Spike in Violent Crime?](https://www.heritage.org/crime-and-justice/commentary/what-caused-last-years-spike-violent-crime) – *The Heritage Foundation* 
 * [What we know about the increase in U.S. murders in 2020](https://www.pewresearch.org/short-reads/2021/10/27/what-we-know-about-the-increase-in-u-s-murders-in-2020/) – *Pew Research Center* 
@@ -196,7 +196,7 @@ z
 
 ---
 
-## 19. What explains the rise in autism diagnoses?
+##What explains the rise in autism diagnoses?
 
 * [On RFK, Jr. on Autism](https://arnoldkling.substack.com/p/on-rfk-jr-on-autism) – *In My Tribe* (Substack)
 * [Getting Real About Autism’s Exponential Explosion](https://www.ncsautism.org/blog//autism-explosion-2024) – *National Council on Severe Autism*
@@ -226,7 +226,7 @@ z
 
 ---
 
-## 20. What is the replication crisis?
+##What is the replication crisis?
 
 * [Estimating the Reproducibility of Psychological Science](https://pubmed.ncbi.nlm.nih.gov/26315443/) – *Science* 
 * [\~75 % of Psychology Claims Are False](https://unsafescience.substack.com/p/75-of-psychology-claims-are-false) – *Unsafe Science* (Substack) 
@@ -238,7 +238,7 @@ z
 
 ---
 
-## 21. What is there so much financial fraud in Minnesota?
+##What is there so much financial fraud in Minnesota?
 
 * [Feeding Our Future](https://en.wikipedia.org/wiki/Feeding_Our_Future) – *Wikipedia*
 * [62 Investigations Underway Involving Federally‑Funded Minnesota Child‑Care Centers](https://kstp.com/kstp-news/top-news/62-investigations-underway-involving-federally-funded-minnesota-child-care-centers/) – *KSTP 5 Eyewitness News*
@@ -251,7 +251,7 @@ z
 
 ---
 
-## 22. Why are fertility rates declining in most nations?
+##Why are fertility rates declining in most nations?
 
 * [JD Vance, Elon Musk Are Right About Falling Birth Rates — Here’s Where They Get It Wrong](https://thehill.com/opinion/healthcare/5140744-genetics-fertility-musk-vance-pronatalist/) – *The Hill*
 * [Fertility rate, total (births per woman)](https://data.worldbank.org/indicator/SP.DYN.TFRT.IN) – *World Bank*
@@ -260,7 +260,7 @@ z
 
 ---
 
-## 23. Why is Stoicism becoming popular again?
+##Why is Stoicism becoming popular again?
 
 * [Stoicism: The Ancient Remedy to the Modern Age](https://www.gurwinder.blog/p/stoicism-the-ancient-remedy-to-the) – *The Prism* (Substack) 
 * [The Revival of Stoicism](https://www.vice.com/en/article/the-revival-of-stoicism/) – *VICE* 
@@ -270,7 +270,7 @@ z
 
 ---
 
-## 24. Why were mental hospitals closed in the United States?
+##Why were mental hospitals closed in the United States?
 
 * [Deinstitutionalization in the United States](https://en.wikipedia.org/wiki/Deinstitutionalization_in_the_United_States) – *Wikipedia* 
 * [Hard Truths About Deinstitutionalization, Then and Now](https://calmatters.org/commentary/2019/03/hard-truths-about-deinstitutionalization-then-and-now/) – *CalMatters* 
