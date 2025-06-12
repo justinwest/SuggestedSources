@@ -13,7 +13,7 @@ This is a comparative AI response system that automatically generates and organi
 
 This index provides links to all questions and their AI-generated responses.
 
-**Last Updated:** 2025-06-12 11:05:05
+**Last Updated:** 2025-06-12 11:11:06
 
 ## Questions
 
@@ -21,7 +21,7 @@ This index provides links to all questions and their AI-generated responses.
 
 **Status:** ✅ Complete
 **Folder:** `Are smartphones harming adolescent mental health/`
-**Last Updated:** 2025-06-12 11:00
+**Last Updated:** 2025-06-12 11:10
 
 ### 2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)
 
@@ -39,7 +39,7 @@ This index provides links to all questions and their AI-generated responses.
 
 **Status:** ✅ Complete
 **Folder:** `Does gender affirming care lower youth suicide risk/`
-**Last Updated:** 2025-06-10 20:30
+**Last Updated:** 2025-06-12 11:11
 
 ### 5. [How accurate are IQ tests?](How accurate are IQ tests/README.md)
 
@@ -99,7 +99,7 @@ This index provides links to all questions and their AI-generated responses.
 
 **Status:** ✅ Complete
 **Folder:** `Is nuclear power safe/`
-**Last Updated:** 2025-06-12 11:01
+**Last Updated:** 2025-06-12 11:10
 
 ### 15. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)
 
@@ -123,19 +123,19 @@ This index provides links to all questions and their AI-generated responses.
 
 **Status:** ✅ Complete
 **Folder:** `What caused the crime spike in 2020 in the United States/`
-**Last Updated:** 2025-06-12 11:02
+**Last Updated:** 2025-06-12 11:10
 
 ### 19. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What explains the rise in autism diagnoses/`
-**Last Updated:** 2025-06-12 11:03
+**Last Updated:** 2025-06-12 11:10
 
 ### 20. [What is the replication crisis?](What is the replication crisis/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What is the replication crisis/`
-**Last Updated:** 2025-06-12 11:04
+**Last Updated:** 2025-06-12 11:10
 
 ### 21. [What is there so much financial fraud in Minnesota?](What is there so much financial fraud in Minnesota/README.md)
 
@@ -147,7 +147,7 @@ This index provides links to all questions and their AI-generated responses.
 
 **Status:** ✅ Complete
 **Folder:** `Why are fertility rates declining in most nations/`
-**Last Updated:** 2025-06-12 11:05
+**Last Updated:** 2025-06-12 11:10
 
 ### 23. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)
 
