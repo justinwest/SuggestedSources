@@ -3,3 +3,5 @@
 * [Independent Review of Gender Identity Services for Children and Young People: Interim Report](https://webarchive.nationalarchives.gov.uk/ukgwa/20250310143846mp_/https://cass.independent-review.uk/wp-content/uploads/2022/03/Cass-Review-Interim-Report-Final-Web-Accessible.pdf) - *Cass Review (NHS England)*
 * [Treatment for Pediatric Gender Dysphoria: Review of Evidence and Best Practices](https://archive.jwest.org/Research/DHHS2025-GenderDysphoria.pdf) - *U.S. Department of Health and Human Services*
 * [Examining Gender‑Specific Mental Health Risks After Gender‑Affirming Surgery: A National Database Study](https://academic.oup.com/jsm/article-abstract/22/4/645/8042063) - *The Journal of Sexual Medicine*
+* https://pubmed.ncbi.nlm.nih.gov/35212746/
+* https://pubmed.ncbi.nlm.nih.gov/36652355
