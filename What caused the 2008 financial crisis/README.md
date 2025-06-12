@@ -1,6 +1,6 @@
 # What caused the 2008 financial crisis?
 
-**Generated:** 2025-06-11 20:33:56
+**Generated:** 2025-06-11 20:41:39
 
 ## Sources
 
