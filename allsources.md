@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-06-12 23:28:17
+**Last Updated:** 2025-06-13 09:29:06
 
 ---
 
@@ -12,13 +12,13 @@ This document contains all questions and their suggested sources in one place, w
 
 ### Sources
 
-* [A Consensus Statement on Potential Negative Impacts of Smartphone and Social Media Use on Adolescent Mental Health](https://archive.jwest.org/Research/Capraro2025-SmartphoneHealth.pdf) – *OSF Preprints* 
-* [Associations Between Screen Time and Lower Psychological Well‑Being Among Children and Adolescents: Evidence From a Population‑Based Study](https://www.sciencedirect.com/science/article/pii/S2211335518301827) – *Preventive Medicine Reports* 
-* [Screens, Teens, and Psychological Well‑Being: Evidence From Three Time‑Use Diary Studies](https://journals.sagepub.com/doi/10.1177/0956797619830329) – *Psychological Science* 
-* [Adolescent Mental Health in the Digital Age: Facts, Fears and Future Directions](https://pmc.ncbi.nlm.nih.gov/articles/PMC8221420/) – *Journal of Child Psychology and Psychiatry*
-* [Behind the Scenes of the Consensus Statement on Potential Negative Impacts of Smartphone and Social Media Use](https://www.centerconflictcooperation-newsletter.com/p/behind-the-scenes-of-the-consensus) – *Center for Conflict + Cooperation Newsletter* 
-* https://www.npr.org/sections/health-shots/2023/04/25/1171773181/social-media-teens-mental-health
-* https://www.nature.com/articles/d41586-025-00991-7
+* [A Consensus Statement on Potential Negative Impacts of Smartphone and Social Media Use on Adolescent Mental Health](https://osf.io/preprints/psyarxiv/b94dy) – *OSF Preprints* 
+* [Associations Between Screen Time and Lower Psychological Well-Being Among Children and Adolescents: Evidence From a Population-Based Study](https://www.sciencedirect.com/science/article/pii/S2211335518301827) – *Preventive Medicine Reports* 
+* [Screens, Teens, and Psychological Well-Being: Evidence From Three Time-Use Diary Studies](https://journals.sagepub.com/doi/10.1177/0956797619830329) – *Psychological Science* 
+* [Adolescent Mental Health in the Digital Age: Facts, Fears and Future Directions](https://pmc.ncbi.nlm.nih.gov/articles/PMC8221420/) – *Journal of Child Psychology and Psychiatry* 
+* [Behind the Scenes of the Consensus Statement on Potential Negative Impacts of Smartphone and Social Media Use](https://www.centerconflictcooperation-newsletter.com/p/behind-the-scenes-of-the-consensus) – *Center for Conflict + Cooperation Newsletter* 
+* [The truth about teens, social media and the mental health crisis](https://www.npr.org/sections/health-shots/2023/04/25/1171773181/social-media-teens-mental-health) – *NPR*
+* [Are screens harming teens? What scientists can do to find answers](https://www.nature.com/articles/d41586-025-00991-7) – *Nature*
 
 ---
 
@@ -53,15 +53,14 @@ This document contains all questions and their suggested sources in one place, w
 
 ### Sources
 
-* [WHO‑convened Global Study of Origins of SARS‑CoV‑2: China Part](https://apps.who.int/gb/COVID-19/pdf_files/2021/28_03/20210328-%20Full%20report.pdf) - *World Health Organization*
-* [Declassified Assessment on COVID‑19 Origins](https://www.dni.gov/files/ODNI/documents/assessments/Declassified-Assessment-on-COVID-19-Origins.pdf) - *Office of the Director of National Intelligence*
-* [Lab Leak: The True Origins of COVID‑19](https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/) - *The White House*
-* [COVID‑19 Origins: Investigating a “Complex and Grave Situation” Inside a Wuhan Lab](https://www.vanityfair.com/news/2022/10/covid-origins-investigation-wuhan-lab) - *Vanity Fair*
-* [We Were Badly Misled About Covid](https://www.nytimes.com/2025/03/16/opinion/covid-pandemic-lab-leak.html) - *The New York Times*
-* [The Origin of COVID: Did People or Nature Open Pandora’s Box at Wuhan?](https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/) - *Bulletin of the Atomic Scientists*
-* [House Panel Concludes That COVID‑19 Pandemic Came From a Lab Leak](https://www.science.org/content/article/house-panel-concludes-covid-19-pandemic-came-lab-leak) - *Science*
-* https://www.news-medical.net/news/20220728/Evidence-that-the-Huanan-market-in-Wuhan-China-was-the-epicenter-of-the-COVID-19-pandemic.aspx
-* https://www.dni.gov/files/ODNI/documents/assessments/Declassified-Assessment-on-COVID-19-Origins.pdf
+* [WHO-convened Global Study of Origins of SARS-CoV-2: China Part](https://apps.who.int/gb/COVID-19/pdf_files/2021/28_03/20210328-%20Full%20report.pdf) – *World Health Organization* 
+* [Declassified Assessment on COVID-19 Origins](https://www.dni.gov/files/ODNI/documents/assessments/Declassified-Assessment-on-COVID-19-Origins.pdf) – *Office of the Director of National Intelligence* ([dni.gov][2])
+* [Lab Leak: The True Origins of COVID-19](https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/) – *The White House* 
+* [COVID-19 Origins: Investigating a “Complex and Grave Situation” Inside a Wuhan Lab](https://www.vanityfair.com/news/2022/10/covid-origins-investigation-wuhan-lab) – *Vanity Fair*
+* [We Were Badly Misled About Covid](https://www.nytimes.com/2025/03/16/opinion/covid-pandemic-lab-leak.html) – *The New York Times*
+* [The Origin of COVID: Did People or Nature Open Pandora’s Box at Wuhan?](https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/) – *Bulletin of the Atomic Scientists* 
+* [House Panel Concludes That COVID-19 Pandemic Came From a Lab Leak](https://www.science.org/content/article/house-panel-concludes-covid-19-pandemic-came-lab-leak) – *Science* 
+* [Evidence that the Huanan Market in Wuhan, China, Was the Epicenter of the COVID-19 Pandemic](https://www.news-medical.net/news/20220728/Evidence-that-the-Huanan-market-in-Wuhan-China-was-the-epicenter-of-the-COVID-19-pandemic.aspx) – *News-Medical.net*
 
 ---
 
@@ -71,13 +70,13 @@ This document contains all questions and their suggested sources in one place, w
 
 ### Sources
 
-* [Pubertal Suppression for Transgender Youth and Risk of Suicidal Ideation](https://publications.aap.org/pediatrics/article-abstract/145/2/e20191725/68259/Pubertal-Suppression-for-Transgender-Youth-and?redirectedFrom=fulltext) - *Pediatrics*
-* [Researchers Found Puberty Blockers and Hormones Didn’t Improve Trans Kids’ Mental Health at Their Clinic — Then They Published a Study Claiming the Opposite](https://jessesingal.substack.com/p/researchers-found-puberty-blockers) - *Singal‑Minded*
-* [Independent Review of Gender Identity Services for Children and Young People: Interim Report](https://webarchive.nationalarchives.gov.uk/ukgwa/20250310143846mp_/https://cass.independent-review.uk/wp-content/uploads/2022/03/Cass-Review-Interim-Report-Final-Web-Accessible.pdf) - *Cass Review (NHS England)*
-* [Treatment for Pediatric Gender Dysphoria: Review of Evidence and Best Practices](https://archive.jwest.org/Research/DHHS2025-GenderDysphoria.pdf) - *U.S. Department of Health and Human Services*
-* [Examining Gender‑Specific Mental Health Risks After Gender‑Affirming Surgery: A National Database Study](https://academic.oup.com/jsm/article-abstract/22/4/645/8042063) - *The Journal of Sexual Medicine*
-* https://pubmed.ncbi.nlm.nih.gov/35212746/
-* https://pubmed.ncbi.nlm.nih.gov/36652355
+* [Pubertal Suppression for Transgender Youth and Risk of Suicidal Ideation](https://publications.aap.org/pediatrics/article-abstract/145/2/e20191725/68259/Pubertal-Suppression-for-Transgender-Youth-and?redirectedFrom=fulltext) – *Pediatrics*
+* [Researchers Found Puberty Blockers and Hormones Didn’t Improve Trans Kids’ Mental Health at Their Clinic — Then They Published a Study Claiming the Opposite](https://jessesingal.substack.com/p/researchers-found-puberty-blockers) – *Singal-Minded*
+* [Independent Review of Gender Identity Services for Children and Young People: Interim Report](https://webarchive.nationalarchives.gov.uk/ukgwa/20250310143846mp_/https://cass.independent-review.uk/wp-content/uploads/2022/03/Cass-Review-Interim-Report-Final-Web-Accessible.pdf) – *Cass Review (NHS England)*
+* [Treatment for Pediatric Gender Dysphoria: Review of Evidence and Best Practices](https://archive.jwest.org/Research/DHHS2025-GenderDysphoria.pdf) – *U.S. Department of Health and Human Services*
+* [Examining Gender-Specific Mental Health Risks After Gender-Affirming Surgery: A National Database Study](https://academic.oup.com/jsm/article-abstract/22/4/645/8042063) – *The Journal of Sexual Medicine*
+* [Mental Health Outcomes in Transgender and Nonbinary Youths Receiving Gender-Affirming Care](https://pubmed.ncbi.nlm.nih.gov/35212746/) – *JAMA Network Open* 
+* [Psychosocial Functioning in Transgender Youth after 2 Years of Hormones](https://pubmed.ncbi.nlm.nih.gov/36652355/) – *New England Journal of Medicine*
 
 ---
 
@@ -102,13 +101,13 @@ This document contains all questions and their suggested sources in one place, w
 
 ### Sources
 
-* [How Biden’s Inner Circle Protected a Faltering President](https://archive.jwest.org/Articles/How%20Biden%E2%80%99s%20Inner%20Circle%20Protected%20a%20Faltering%20President%20-%20The%20New%20York%20Times.pdf) – *The New York Times*
-* [Original Sin: President Biden’s Decline, Its Cover‑Up, and His Disastrous Choice to Run Again](https://sites.prh.com/originalsin) – *Penguin Press*
-* [Original Sin](https://bookshop.org/p/books/untitled-0672-penguin-publishing-group/22284058) – *Bookshop.org*
-* [What We Don’t Learn in “Original Sin”](https://www.slowboring.com/p/what-we-dont-learn-in-original-sin) – *Slow Boring*
-* [The Crimes of the Politburo](https://www.persuasion.community/p/the-crimes-of-the-politburo) – *Persuasion*
-* https://www.newyorker.com/news/fault-lines/whos-to-blame-for-missing-bidens-decline
-* https://www.npr.org/transcripts/nx-s1-5309451
+* [How Biden’s Inner Circle Protected a Faltering President](https://archive.jwest.org/Articles/How%20Biden%E2%80%99s%20Inner%20Circle%20Protected%20a%20Faltering%20President%20-%20The%20New%20York%20Times.pdf) - *The New York Times*
+* [Original Sin: President Biden’s Decline, Its Cover-Up, and His Disastrous Choice to Run Again](https://sites.prh.com/originalsin) - *Penguin Press*
+* [Original Sin](https://bookshop.org/p/books/untitled-0672-penguin-publishing-group/22284058) - *Bookshop.org*
+* [What We Don’t Learn in “Original Sin”](https://www.slowboring.com/p/what-we-dont-learn-in-original-sin) - *Slow Boring*
+* [The Crimes of the Politburo](https://www.persuasion.community/p/the-crimes-of-the-politburo) - *Persuasion*
+* [Who’s to Blame for Missing Biden’s Decline?](https://www.newyorker.com/news/fault-lines/whos-to-blame-for-missing-bidens-decline) - *The New Yorker* 
+* [New Book Details How Biden’s Mental Decline Was Kept from Voters](https://www.npr.org/transcripts/nx-s1-5309451) - *NPR*
 
 ---
 
@@ -118,16 +117,14 @@ This document contains all questions and their suggested sources in one place, w
 
 ### Sources
 
-* [Genes, money, status… and comics](https://arutherford.substack.com/p/genes-money-status-and-comics) – *Punctuated Equilibrium* 
-* [Socio‑economic status is a social construct with heritable components and genetic consequences](https://www.nature.com/articles/s41562-025-02150-4) – *Nature Human Behaviour* 
-* [The Son Also Rises](https://en.wikipedia.org/wiki/The_Son_Also_Rises_%28book%29) – *Wikipedia* 
-* https://pmc.ncbi.nlm.nih.gov/articles/PMC4314507/
-* https://link.springer.com/article/10.1007/s10888-019-09413-x
-* https://www.nature.com/articles/s41467-025-58961-6?
-* https://pmc.ncbi.nlm.nih.gov/articles/PMC4314507/
-* https://link.springer.com/article/10.1007/s10888-019-09413-x
-* https://www.nature.com/articles/s41562-024-02080-7
-* https://www.eurekalert.org/news-releases/463685
+* [Genes, money, status… and comics](https://arutherford.substack.com/p/genes-money-status-and-comics) – *Punctuated Equilibrium* 
+* [Socio-economic status is a social construct with heritable components and genetic consequences](https://www.nature.com/articles/s41562-025-02150-4) – *Nature Human Behaviour* 
+* [The Son Also Rises](https://en.wikipedia.org/wiki/The_Son_Also_Rises_%28book%29) – *Wikipedia* 
+* [What can genes tell us about the relationship between education and health?](https://pmc.ncbi.nlm.nih.gov/articles/PMC4314507/) – *Social Science & Medicine* 
+* [Heritability of lifetime earnings](https://link.springer.com/article/10.1007/s10888-019-09413-x) – *The Journal of Economic Inequality* 
+* [The genetic and environmental composition of socioeconomic status in Norway](https://www.nature.com/articles/s41467-025-58961-6) – *Nature Communications* 
+* [Associations between common genetic variants and income provide insights about the socio-economic health gradient](https://www.nature.com/articles/s41562-024-02080-7) – *Nature Human Behaviour* 
+* [Education, genes, and social mobility](https://www.eurekalert.org/news-releases/463685) – *EurekAlert!* (news release summarizing a *PNAS* study)
 
 ---
 
@@ -137,10 +134,10 @@ This document contains all questions and their suggested sources in one place, w
 
 ### Sources
 
-* https://unsafescience.substack.com/p/nih-staff-revolt-promotes-propaganda
-* https://rbnmckenna86.substack.com/p/two-ways-of-thinking-about-propaganda
-* https://www.vox.com/2018/6/13/17449118/stanford-prison-experiment-fraud-psychology-replication
-* https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/disastrous-effects-lysenkoism-soviet-agriculture
+* [NIH Staff Revolt Promotes Propaganda](https://unsafescience.substack.com/p/nih-staff-revolt-promotes-propaganda) – *Unsafe Science*
+* [Two Ways of Thinking About Propaganda](https://rbnmckenna86.substack.com/p/two-ways-of-thinking-about-propaganda) – *RBN McKenna (Substack)*
+* [The Stanford Prison Experiment Was Massively Influential. We Just Learned It Was a Fraud.](https://www.vox.com/2018/6/13/17449118/stanford-prison-experiment-fraud-psychology-replication) – *Vox* 
+* [The Disastrous Effects of Lysenkoism on Soviet Agriculture](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/disastrous-effects-lysenkoism-soviet-agriculture) – *Encyclopedia.com*
 
 ---
 

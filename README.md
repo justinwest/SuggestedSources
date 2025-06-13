@@ -16,7 +16,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-12 23:28:17
+**Last Updated:** 2025-06-13 09:29:06
 
 ## Questions
 
@@ -24,7 +24,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `Are smartphones harming adolescent mental health/`
-**Last Updated:** 2025-06-12 11:10
+**Last Updated:** 2025-06-13 09:27
 
 ## 2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)
 
@@ -36,13 +36,13 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `Did COVID-19 leak from a lab or did it have natural origins/`
-**Last Updated:** 2025-06-12 15:41
+**Last Updated:** 2025-06-13 09:28
 
 ## 4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Does gender affirming care lower youth suicide risk/`
-**Last Updated:** 2025-06-12 11:11
+**Last Updated:** 2025-06-13 09:29
 
 ## 5. [How accurate are IQ tests?](How accurate are IQ tests/README.md)
 
