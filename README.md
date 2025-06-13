@@ -14,7 +14,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-12 20:09:22
+**Last Updated:** 2025-06-12 20:11:49
 
 ## Questions
 
@@ -88,7 +88,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `How much of a problem is misinformation/`
-**Last Updated:** 2025-06-08 21:18
+**Last Updated:** 2025-06-12 20:10
 
 ### 13. [How much of intelligence is hereditary?](How much of intelligence is hereditary/README.md)
 
@@ -118,7 +118,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `What caused the 2008 financial crisis/`
-**Last Updated:** 2025-06-11 20:41
+**Last Updated:** 2025-06-12 20:11
 
 ### 18. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)
 

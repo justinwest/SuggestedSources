@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-06-12 20:09:22
+**Last Updated:** 2025-06-12 20:11:49
 
 ---
 
@@ -188,6 +188,10 @@ This document contains all questions and their suggested sources in one place, w
 ### Sources
 
 * https://www.conspicuouscognition.com/p/criticising-misinformation-research
+* https://www.gmfus.org/event/rise-fact-checking-movement-ensuring-truth-heard-western-balkans
+* https://www.ncbi.nlm.nih.gov/books/NBK572171/
+* https://www.nature.com/articles/s41586-024-07417-w
+* https://journals.sagepub.com/doi/full/10.1177/20563051221150412
 
 ---
 
@@ -258,7 +262,10 @@ This document contains all questions and their suggested sources in one place, w
 * https://ethicsunwrapped.utexas.edu/video/countrywides-subprime-scandal
 * https://en.wikipedia.org/wiki/Collateralized_debt_obligation
 * https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf
-z
+
+https://georgewbush-whitehouse.archives.gov/news/releases/2004/09/20040902-2.html
+https://archives.hud.gov/initiatives/blueprint/
+https://www.federalregister.gov/documents/2004/11/02/04-24101/huds-housing-goals-for-the-federal-national-mortgage-association-fannie-mae-and-the-federal-home
 
 ---
 

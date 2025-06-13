@@ -1,6 +1,6 @@
 # What caused the 2008 financial crisis?
 
-**Generated:** 2025-06-11 20:41:39
+**Generated:** 2025-06-12 20:11:49
 
 ## Sources
 
@@ -11,8 +11,10 @@
 * https://ethicsunwrapped.utexas.edu/video/countrywides-subprime-scandal
 * https://en.wikipedia.org/wiki/Collateralized_debt_obligation
 * https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf
-z
 
+https://georgewbush-whitehouse.archives.gov/news/releases/2004/09/20040902-2.html
+https://archives.hud.gov/initiatives/blueprint/
+https://www.federalregister.gov/documents/2004/11/02/04-24101/huds-housing-goals-for-the-federal-national-mortgage-association-fannie-mae-and-the-federal-home
 
 ## AI Responses
 
@@ -34,7 +36,7 @@ These responses are generated using the provided sources as context:
 
 ## Navigation
 
-[← Back to Index](../README.md)
+[← Back to Index](../README.md) | [View All Sources](../allsources.md)
 
 ## Contributing
 
