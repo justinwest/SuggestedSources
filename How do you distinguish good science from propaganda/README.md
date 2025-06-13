@@ -1,13 +1,13 @@
 # How do you distinguish good science from propaganda?
 
-**Generated:** 2025-06-12 13:51:10
+**Generated:** 2025-06-13 09:32:06
 
 ## Sources
 
-* https://unsafescience.substack.com/p/nih-staff-revolt-promotes-propaganda
-* https://rbnmckenna86.substack.com/p/two-ways-of-thinking-about-propaganda
-* https://www.vox.com/2018/6/13/17449118/stanford-prison-experiment-fraud-psychology-replication
-* https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/disastrous-effects-lysenkoism-soviet-agriculture
+* [NIH Staff Revolt Promotes Propaganda](https://unsafescience.substack.com/p/nih-staff-revolt-promotes-propaganda) – *Unsafe Science*
+* [Two Ways of Thinking About Propaganda](https://rbnmckenna86.substack.com/p/two-ways-of-thinking-about-propaganda) – *RBN McKenna (Substack)*
+* [The Stanford Prison Experiment Was Massively Influential. We Just Learned It Was a Fraud.](https://www.vox.com/2018/6/13/17449118/stanford-prison-experiment-fraud-psychology-replication) – *Vox* 
+* [The Disastrous Effects of Lysenkoism on Soviet Agriculture](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/disastrous-effects-lysenkoism-soviet-agriculture) – *Encyclopedia.com* 
 
 
 ## AI Responses

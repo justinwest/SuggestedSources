@@ -16,7 +16,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-13 09:29:06
+**Last Updated:** 2025-06-13 09:32:06
 
 ## Questions
 
@@ -54,19 +54,19 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `How accurate was press coverage of President Biden's mental decline/`
-**Last Updated:** 2025-06-12 15:42
+**Last Updated:** 2025-06-13 09:30
 
 ## 7. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How do genes influence socio-economic status/`
-**Last Updated:** 2025-06-12 20:53
+**Last Updated:** 2025-06-13 09:31
 
 ## 8. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How do you distinguish good science from propaganda/`
-**Last Updated:** 2025-06-12 13:51
+**Last Updated:** 2025-06-13 09:32
 
 ## 9. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)
 
