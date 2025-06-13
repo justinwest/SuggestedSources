@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-06-12 20:52:00
+**Last Updated:** 2025-06-12 20:55:00
 
 ---
 
@@ -120,7 +120,14 @@ This document contains all questions and their suggested sources in one place, w
 
 * [Genes, money, status… and comics](https://arutherford.substack.com/p/genes-money-status-and-comics) – *Punctuated Equilibrium* 
 * [Socio‑economic status is a social construct with heritable components and genetic consequences](https://www.nature.com/articles/s41562-025-02150-4) – *Nature Human Behaviour* 
-* [The Son Also Rises](https://en.wikipedia.org/wiki/The_Son_Also_Rises_%28book%29) – *Wikipedia*
+* [The Son Also Rises](https://en.wikipedia.org/wiki/The_Son_Also_Rises_%28book%29) – *Wikipedia* 
+* https://pmc.ncbi.nlm.nih.gov/articles/PMC4314507/
+* https://link.springer.com/article/10.1007/s10888-019-09413-x
+* https://www.nature.com/articles/s41467-025-58961-6?
+* https://pmc.ncbi.nlm.nih.gov/articles/PMC4314507/
+* https://link.springer.com/article/10.1007/s10888-019-09413-x
+* https://www.nature.com/articles/s41562-024-02080-7
+* https://www.eurekalert.org/news-releases/463685
 
 ---
 
@@ -147,6 +154,9 @@ This document contains all questions and their suggested sources in one place, w
 * [Bringing it back home: Why state comparisons are more useful than international comparisons for improving U.S. education policy](https://www.epi.org/publication/bringing-it-back-home-why-state-comparisons-are-more-useful-than-international-comparisons-for-improving-u-s-education-policy/) – *Economic Policy Institute* 
 * [PISA 2022 U.S. Results](https://nces.ed.gov/surveys/pisa/pisa2022/) – *National Center for Education Statistics* )
 * [Elite Education Journalism: Still Ideology at Its Purest](https://freddiedeboer.substack.com/p/elite-education-journalism-still) – *Freddie deBoer (Substack)*
+* https://nces.ed.gov/programs/coe/indicator/cmd/education-expenditures-by-country
+* https://ies.ed.gov/learn/blog/education-glance-2023-putting-u-s-data-global-context
+* https://www.weforum.org/stories/2019/10/education-spending-highest-school-brazil-chile-italy mexico/
 
 ---
 
@@ -277,7 +287,12 @@ https://www.federalregister.gov/documents/2004/11/02/04-24101/huds-housing-goals
 
 * [What Caused Last Year’s Spike in Violent Crime?](https://www.heritage.org/crime-and-justice/commentary/what-caused-last-years-spike-violent-crime) – *The Heritage Foundation* 
 * [What we know about the increase in U.S. murders in 2020](https://www.pewresearch.org/short-reads/2021/10/27/what-we-know-about-the-increase-in-u-s-murders-in-2020/) – *Pew Research Center* 
-* [Crime in the USA](https://inquisitivebird.xyz/p/crime-in-the-usa) – *Patterns in Humanity*
+* [Crime in the USA](https://inquisitivebird.xyz/p/crime-in-the-usa) – *Patterns in Humanity* 
+* https://manhattan.institute/article/breaking-down-the-2020-homicide-spike
+* https://www.brennancenter.org/our-work/research-reports/myths-and-realities-understanding-recent-trends-violent-crime
+* https://jnix.netlify.app/publication/42-cpp-turnover/
+* https://www.axios.com/2021/07/12/gun-violence-rise-gun-purchases
+* https://www.mprnews.org/story/2021/02/01/study-killings-surge-in-2020-as-pandemic-protests-play-roles
 
 ---
 

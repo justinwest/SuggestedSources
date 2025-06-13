@@ -14,7 +14,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-12 20:52:00
+**Last Updated:** 2025-06-12 20:55:00
 
 ## Questions
 
@@ -58,7 +58,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `How do genes influence socio-economic status/`
-**Last Updated:** 2025-06-10 20:37
+**Last Updated:** 2025-06-12 20:53
 
 ### 8. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)
 
@@ -70,7 +70,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `How does school spending in the United States compare to other nations/`
-**Last Updated:** 2025-06-10 20:47
+**Last Updated:** 2025-06-12 20:54
 
 ### 10. [How many Americans have died due to fentanyl?](How many Americans have died due to fentanyl/README.md)
 
@@ -124,7 +124,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `What caused the crime spike in 2020 in the United States/`
-**Last Updated:** 2025-06-12 11:10
+**Last Updated:** 2025-06-12 20:55
 
 ### 19. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)
 
