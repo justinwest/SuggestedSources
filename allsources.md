@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-06-13 09:41:38
+**Last Updated:** 2025-06-13 11:16:26
 
 ---
 
@@ -208,13 +208,13 @@ This document contains all questions and their suggested sources in one place, w
 
 ### Sources
 
-* [Is Intelligence Hereditary?](https://www.scientificamerican.com/article/is-intelligence-hereditary/) - *Scientific American* 
-* [The new genetics of intelligence](https://www.nature.com/articles/nrg.2017.104) - *Nature Reviews Genetics* 
-* [Genome‑wide association meta‑analysis in 269,867 individuals identifies new genetic and functional links to intelligence](https://pubmed.ncbi.nlm.nih.gov/29942086/) - *Nature Genetics* 
-* https://pmc.ncbi.nlm.nih.gov/articles/PMC3954471/
-* https://www.nature.com/articles/s41380-021-01027-y
-* https://www.sciencedirect.com/science/article/abs/pii/S0160289624000655
-* https://pmc.ncbi.nlm.nih.gov/articles/PMC5985927/
+* [Is Intelligence Hereditary?](https://www.scientificamerican.com/article/is-intelligence-hereditary/) – *Scientific American*
+* [The new genetics of intelligence](https://www.nature.com/articles/nrg.2017.104) – *Nature Reviews Genetics*
+* [Genome-wide association meta-analysis in 269,867 individuals identifies new genetic and functional links to intelligence](https://pubmed.ncbi.nlm.nih.gov/29942086/) – *Nature Genetics*
+* [Explaining the Increasing Heritability of Cognitive Ability Across Development: A Meta-analysis of Longitudinal Twin and Adoption Studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC3954471/) – *Psychological Science* 
+* [Genetic Variation, Brain, and Intelligence Differences](https://www.nature.com/articles/s41380-021-01027-y) – *Molecular Psychiatry* 
+* [DNA and IQ: Big Deal or Much Ado About Nothing? – A Meta-analysis](https://www.sciencedirect.com/science/article/abs/pii/S0160289624000655) – *Intelligence* 
+* [The new genetics of intelligence](https://pmc.ncbi.nlm.nih.gov/articles/PMC5985927/) – *Nature Reviews Genetics (PMC Open Access)*
 
 ---
 
@@ -225,9 +225,9 @@ This document contains all questions and their suggested sources in one place, w
 ### Sources
 
 * [What are the safest and cleanest sources of energy?](https://ourworldindata.org/safest-sources-of-energy) – *Our World in Data* 
-* [Nuclear Safety Review 2024](https://www.iaea.org/sites/default/files/gc/gc68-inf2.pdf) – *International Atomic Energy Agency* 
-* https://www.economist.com/graphic-detail/2022/07/19/how-safe-is-nuclear-energy
-* https://energy.sandia.gov/programs/nuclear-energy/nuclear-energy-safety-studies/
+* [Nuclear Safety Review 2024](https://www.iaea.org/sites/default/files/gc/gc68-inf2.pdf) – *International Atomic Energy Agency*
+* [How safe is nuclear energy?](https://www.economist.com/graphic-detail/2022/07/19/how-safe-is-nuclear-energy) – *The Economist* 
+* [Nuclear Energy Safety Studies](https://energy.sandia.gov/programs/nuclear-energy/nuclear-energy-safety-studies/) – *Sandia National Laboratories*
 
 ---
 
@@ -237,11 +237,11 @@ This document contains all questions and their suggested sources in one place, w
 
 ### Sources
 
-* [https://onlinelibrary.wiley.com/doi/full/10.1111/eci.13782 The End of the COVID-19 Pandemic – ''European Journal of Clinical Investigation''] (2022 peer-reviewed perspective)
-* [https://www.nature.com/articles/s41586-020-2405-7 Estimating the Effects of Non-Pharmaceutical Interventions on COVID-19 in Europe – ''Nature''] (2020 peer-reviewed modelling study)
-* [https://sites.krieger.jhu.edu/iae/files/2022/01/A-Literature-Review-and-Meta-Analysis-of-the-Effects-of-Lockdowns-on-COVID-19-Mortality.pdf A Literature Review and Meta-Analysis of the Effects of Lockdowns on COVID-19 Mortality – ''Johns Hopkins Institute for Applied Economics'' (Working Paper No. 200)] (2022 literature review / Meta-analysis)
-* https://yaschamounk.substack.com/p/frances-lee-and-stephen-macedo
-* https://archive.jwest.org/Research/Herby2022-LockdownEffects.pdf
+* [The End of the COVID-19 Pandemic](https://onlinelibrary.wiley.com/doi/full/10.1111/eci.13782) – *European Journal of Clinical Investigation*
+* [Estimating the Effects of Non-Pharmaceutical Interventions on COVID-19 in Europe](https://www.nature.com/articles/s41586-020-2405-7) – *Nature*
+* [A Literature Review and Meta-Analysis of the Effects of Lockdowns on COVID-19 Mortality](https://sites.krieger.jhu.edu/iae/files/2022/01/A-Literature-Review-and-Meta-Analysis-of-the-Effects-of-Lockdowns-on-COVID-19-Mortality.pdf) – *Johns Hopkins Institute for Applied Economics*
+* [Frances Lee & Stephen Macedo on Why Institutions Failed During COVID](https://yaschamounk.substack.com/p/frances-lee-and-stephen-macedo) – *Persuasion (Substack)*
+* [A Literature Review and Meta-Analysis of the Effects of Lockdowns on COVID-19 Mortality](https://archive.jwest.org/Research/Herby2022-LockdownEffects.pdf) – *Johns Hopkins Institute for Applied Economics (archived)*
 
 ---
 
@@ -266,17 +266,16 @@ This document contains all questions and their suggested sources in one place, w
 
 ### Sources
 
-* https://www.econlib.org/archives/2013/05/the_subprime_cr.html
-* https://isteve.blogspot.com/2010/03/unreal-estate.html
-* https://www.federalreservehistory.org/essays/subprime-mortgage-crisis
-* https://en.wikipedia.org/wiki/No_doc_loan
-* https://ethicsunwrapped.utexas.edu/video/countrywides-subprime-scandal
-* https://en.wikipedia.org/wiki/Collateralized_debt_obligation
-* https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf
-
-https://georgewbush-whitehouse.archives.gov/news/releases/2004/09/20040902-2.html
-https://archives.hud.gov/initiatives/blueprint/
-https://www.federalregister.gov/documents/2004/11/02/04-24101/huds-housing-goals-for-the-federal-national-mortgage-association-fannie-mae-and-the-federal-home
+* [The Subprime Crisis: Why Asymmetric Information Didn’t Save Us](https://www.econlib.org/archives/2013/05/the_subprime_cr.html) – *Econlib* 
+* [Unreal Estate](https://isteve.blogspot.com/2010/03/unreal-estate.html) – *iSteve (Steve Sailer blog)* 
+* [Subprime Mortgage Crisis](https://www.federalreservehistory.org/essays/subprime-mortgage-crisis) – *Federal Reserve History* 
+* [No doc loan](https://en.wikipedia.org/wiki/No_doc_loan) – *Wikipedia* 
+* [Countrywide’s Subprime Scandal](https://ethicsunwrapped.utexas.edu/video/countrywides-subprime-scandal) – *Ethics Unwrapped* 
+* [Collateralized debt obligation](https://en.wikipedia.org/wiki/Collateralized_debt_obligation) – *Wikipedia*
+* [The Financial Crisis Inquiry Report](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf) – *Financial Crisis Inquiry Commission / U.S. GPO* 
+* [President’s Remarks at the 2004 Republican National Convention](https://georgewbush-whitehouse.archives.gov/news/releases/2004/09/20040902-2.html) – *George W. Bush White House Archives* 
+* [White House Conference on Minority Homeownership: Blueprint for the American Dream](https://archives.hud.gov/initiatives/blueprint/) – *U.S. Department of Housing and Urban Development* 
+* [HUD’s Housing Goals for Fannie Mae and Freddie Mac, 2005–2008](https://www.federalregister.gov/documents/2004/11/02/04-24101/huds-housing-goals-for-the-federal-national-mortgage-association-fannie-mae-and-the-federal-home) – *Federal Register*
 
 ---
 
@@ -286,14 +285,14 @@ https://www.federalregister.gov/documents/2004/11/02/04-24101/huds-housing-goals
 
 ### Sources
 
-* [What Caused Last Year’s Spike in Violent Crime?](https://www.heritage.org/crime-and-justice/commentary/what-caused-last-years-spike-violent-crime) – *The Heritage Foundation* 
-* [What we know about the increase in U.S. murders in 2020](https://www.pewresearch.org/short-reads/2021/10/27/what-we-know-about-the-increase-in-u-s-murders-in-2020/) – *Pew Research Center* 
-* [Crime in the USA](https://inquisitivebird.xyz/p/crime-in-the-usa) – *Patterns in Humanity* 
-* https://manhattan.institute/article/breaking-down-the-2020-homicide-spike
-* https://www.brennancenter.org/our-work/research-reports/myths-and-realities-understanding-recent-trends-violent-crime
-* https://jnix.netlify.app/publication/42-cpp-turnover/
-* https://www.axios.com/2021/07/12/gun-violence-rise-gun-purchases
-* https://www.mprnews.org/story/2021/02/01/study-killings-surge-in-2020-as-pandemic-protests-play-roles
+* [What Caused Last Year’s Spike in Violent Crime?](https://www.heritage.org/crime-and-justice/commentary/what-caused-last-years-spike-violent-crime) – *The Heritage Foundation*
+* [What We Know About the Increase in U.S. Murders in 2020](https://www.pewresearch.org/short-reads/2021/10/27/what-we-know-about-the-increase-in-u-s-murders-in-2020/) – *Pew Research Center*
+* [Crime in the USA](https://inquisitivebird.xyz/p/crime-in-the-usa) – *Patterns in Humanity*
+* [Breaking Down the 2020 Homicide Spike](https://manhattan.institute/article/breaking-down-the-2020-homicide-spike) – *Manhattan Institute*
+* [Myths and Realities: Understanding Recent Trends in Violent Crime](https://www.brennancenter.org/our-work/research-reports/myths-and-realities-understanding-recent-trends-violent-crime) – *Brennan Center for Justice*
+* [Elevated Police Turnover Following the Summer of George Floyd](https://jnix.netlify.app/publication/42-cpp-turnover/) – *Criminology & Public Policy*
+* [Study: No Clear Link Between Gun Sales Spike and Murder Rise](https://www.axios.com/2021/07/12/gun-violence-rise-gun-purchases) – *Axios*
+* [Study: Killings Surge in 2020 as Pandemic, Protests Play Roles](https://www.mprnews.org/story/2021/02/01/study-killings-surge-in-2020-as-pandemic-protests-play-roles) – *MPR News*
 
 ---
 
@@ -402,13 +401,13 @@ https://www.federalregister.gov/documents/2004/11/02/04-24101/huds-housing-goals
 
 ### Sources
 
-* [Deinstitutionalization in the United States](https://en.wikipedia.org/wiki/Deinstitutionalization_in_the_United_States) – *Wikipedia* 
-* [Hard Truths About Deinstitutionalization, Then and Now](https://calmatters.org/commentary/2019/03/hard-truths-about-deinstitutionalization-then-and-now/) – *CalMatters* 
-* [The Truth About Deinstitutionalization](https://www.theatlantic.com/health/archive/2021/05/truth-about-deinstitutionalization/618986/) – *The Atlantic* 
-* https://www.pbs.org/wgbh/americanexperience/features/lobotomist-bedlam-1946/
-* https://psychiatryonline.org/doi/full/10.1176/appi.ajp-rj.2021.160404
-* https://www.nri-inc.org/media/1111/2015-tracking-the-history-of-state-psychiatric-hospital-closures-lutterman.pdf
-* https://www.pbs.org/wgbh/pages/frontline/shows/asylums/special/excerpt.html
+* [Deinstitutionalization in the United States](https://en.wikipedia.org/wiki/Deinstitutionalization_in_the_United_States) – *Wikipedia*
+* [Hard Truths About Deinstitutionalization, Then and Now](https://calmatters.org/commentary/2019/03/hard-truths-about-deinstitutionalization-then-and-now/) – *CalMatters*
+* [The Truth About Deinstitutionalization](https://www.theatlantic.com/health/archive/2021/05/truth-about-deinstitutionalization/618986/) – *The Atlantic*
+* [Bedlam 1946](https://www.pbs.org/wgbh/americanexperience/features/lobotomist-bedlam-1946/) – *PBS American Experience*
+* [Deinstitutionalization Through Optimism: The Community Mental Health Act of 1963](https://psychiatryonline.org/doi/full/10.1176/appi.ajp-rj.2021.160404) – *American Journal of Psychiatry Residents’ Journal*
+* [Tracking the History of State Psychiatric Hospital Closures, 1997–2015](https://www.nri-inc.org/media/1111/2015-tracking-the-history-of-state-psychiatric-hospital-closures-lutterman.pdf) – *NRI Research Institute*
+* [Deinstitutionalization (Special Report, *The New Asylums*)](https://www.pbs.org/wgbh/pages/frontline/shows/asylums/special/excerpt.html) – *PBS Frontline*
 
 ---
 

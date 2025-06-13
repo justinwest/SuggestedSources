@@ -16,7 +16,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-13 09:41:38
+**Last Updated:** 2025-06-13 11:16:26
 
 ## Questions
 
@@ -96,19 +96,19 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `How much of intelligence is hereditary/`
-**Last Updated:** 2025-06-12 22:50
+**Last Updated:** 2025-06-13 11:12
 
 ## 14. [Is nuclear power safe?](Is nuclear power safe/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Is nuclear power safe/`
-**Last Updated:** 2025-06-12 15:43
+**Last Updated:** 2025-06-13 11:13
 
 ## 15. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Were the COVID-19 lockdowns effective/`
-**Last Updated:** 2025-06-09 22:15
+**Last Updated:** 2025-06-13 11:13
 
 ## 16. [What are luxury beliefs?](What are luxury beliefs/README.md)
 
@@ -120,13 +120,13 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `What caused the 2008 financial crisis/`
-**Last Updated:** 2025-06-12 20:11
+**Last Updated:** 2025-06-13 11:14
 
 ## 18. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What caused the crime spike in 2020 in the United States/`
-**Last Updated:** 2025-06-12 20:55
+**Last Updated:** 2025-06-13 11:15
 
 ## 19. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)
 
@@ -162,7 +162,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why were mental hospitals closed in the United States/`
-**Last Updated:** 2025-06-12 22:53
+**Last Updated:** 2025-06-13 11:16
 
 ## Statistics
 
