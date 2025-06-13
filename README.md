@@ -15,153 +15,153 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-12 22:41:01
+**Last Updated:** 2025-06-12 22:58:16
 
 ## Questions
 
-### 1. [Are smartphones harming adolescent mental health?](Are smartphones harming adolescent mental health/README.md)
+*1. [Are smartphones harming adolescent mental health?](Are smartphones harming adolescent mental health/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `Are smartphones harming adolescent mental health/`
 **Last Updated:** 2025-06-12 11:10
 
-### 2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)
+*2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `Are we living through a crisis of expertise/`
 **Last Updated:** 2025-06-09 20:41
 
-### 3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)
+*3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `Did COVID-19 leak from a lab or did it have natural origins/`
 **Last Updated:** 2025-06-12 15:41
 
-### 4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)
+*4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `Does gender affirming care lower youth suicide risk/`
 **Last Updated:** 2025-06-12 11:11
 
-### 5. [How accurate are IQ tests?](How accurate are IQ tests/README.md)
+*5. [How accurate are IQ tests?](How accurate are IQ tests/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `How accurate are IQ tests/`
 **Last Updated:** 2025-06-10 20:30
 
-### 6. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)
+*6. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `How accurate was press coverage of President Biden's mental decline/`
 **Last Updated:** 2025-06-12 15:42
 
-### 7. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)
+*7. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `How do genes influence socio-economic status/`
 **Last Updated:** 2025-06-12 20:53
 
-### 8. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)
+*8. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `How do you distinguish good science from propaganda/`
 **Last Updated:** 2025-06-12 13:51
 
-### 9. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)
+*9. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `How does school spending in the United States compare to other nations/`
 **Last Updated:** 2025-06-12 20:54
 
-### 10. [How many Americans have died due to fentanyl?](How many Americans have died due to fentanyl/README.md)
+*10. [How many Americans have died due to fentanyl?](How many Americans have died due to fentanyl/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `How many Americans have died due to fentanyl/`
 **Last Updated:** 2025-06-10 22:00
 
-### 11. [How many immigrants are in the United States illegally?](How many immigrants are in the United States illegally/README.md)
+*11. [How many immigrants are in the United States illegally?](How many immigrants are in the United States illegally/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `How many immigrants are in the United States illegally/`
 **Last Updated:** 2025-06-10 22:01
 
-### 12. [How much of a problem is misinformation?](How much of a problem is misinformation/README.md)
+*12. [How much of a problem is misinformation?](How much of a problem is misinformation/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `How much of a problem is misinformation/`
 **Last Updated:** 2025-06-12 20:10
 
-### 13. [How much of intelligence is hereditary?](How much of intelligence is hereditary/README.md)
+*13. [How much of intelligence is hereditary?](How much of intelligence is hereditary/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `How much of intelligence is hereditary/`
-**Last Updated:** 2025-06-10 22:02
+**Last Updated:** 2025-06-12 22:50
 
-### 14. [Is nuclear power safe?](Is nuclear power safe/README.md)
+*14. [Is nuclear power safe?](Is nuclear power safe/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `Is nuclear power safe/`
 **Last Updated:** 2025-06-12 15:43
 
-### 15. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)
+*15. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `Were the COVID-19 lockdowns effective/`
 **Last Updated:** 2025-06-09 22:15
 
-### 16. [What are luxury beliefs?](What are luxury beliefs/README.md)
+*16. [What are luxury beliefs?](What are luxury beliefs/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `What are luxury beliefs/`
 **Last Updated:** 2025-06-10 23:00
 
-### 17. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)
+*17. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `What caused the 2008 financial crisis/`
 **Last Updated:** 2025-06-12 20:11
 
-### 18. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)
+*18. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `What caused the crime spike in 2020 in the United States/`
 **Last Updated:** 2025-06-12 20:55
 
-### 19. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)
+*19. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `What explains the rise in autism diagnoses/`
 **Last Updated:** 2025-06-12 11:10
 
-### 20. [What is the replication crisis?](What is the replication crisis/README.md)
+*20. [What is the replication crisis?](What is the replication crisis/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `What is the replication crisis/`
 **Last Updated:** 2025-06-12 11:10
 
-### 21. [What is there so much financial fraud in Minnesota?](What is there so much financial fraud in Minnesota/README.md)
+*21. [What is there so much financial fraud in Minnesota?](What is there so much financial fraud in Minnesota/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `What is there so much financial fraud in Minnesota/`
-**Last Updated:** 2025-06-08 20:45
+**Last Updated:** 2025-06-12 22:51
 
-### 22. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)
+*22. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `Why are fertility rates declining in most nations/`
-**Last Updated:** 2025-06-12 11:10
+**Last Updated:** 2025-06-12 22:52
 
-### 23. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)
+*23. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `Why is Stoicism becoming popular again/`
 **Last Updated:** 2025-06-11 10:40
 
-### 24. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)
+*24. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)*
 
 **Status:** ✅ Complete
 **Folder:** `Why were mental hospitals closed in the United States/`
-**Last Updated:** 2025-06-10 23:00
+**Last Updated:** 2025-06-12 22:53
 
 ## Statistics
 

@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-06-12 22:41:01
+**Last Updated:** 2025-06-12 22:58:16
 
 ---
 
@@ -213,7 +213,11 @@ This document contains all questions and their suggested sources in one place, w
 
 * [Is Intelligence Hereditary?](https://www.scientificamerican.com/article/is-intelligence-hereditary/) - *Scientific American* 
 * [The new genetics of intelligence](https://www.nature.com/articles/nrg.2017.104) - *Nature Reviews Genetics* 
-* [Genome‑wide association meta‑analysis in 269,867 individuals identifies new genetic and functional links to intelligence](https://pubmed.ncbi.nlm.nih.gov/29942086/) - *Nature Genetics*
+* [Genome‑wide association meta‑analysis in 269,867 individuals identifies new genetic and functional links to intelligence](https://pubmed.ncbi.nlm.nih.gov/29942086/) - *Nature Genetics* 
+* https://pmc.ncbi.nlm.nih.gov/articles/PMC3954471/
+* https://www.nature.com/articles/s41380-021-01027-y
+* https://www.sciencedirect.com/science/article/abs/pii/S0160289624000655
+* https://pmc.ncbi.nlm.nih.gov/articles/PMC5985927/
 
 ---
 
@@ -360,6 +364,7 @@ https://www.federalregister.gov/documents/2004/11/02/04-24101/huds-housing-goals
 * [Minnesota Couple Indicted in \$15 Million Medical Billing Fraud Scheme](https://www.justice.gov/usao-mn/pr/minnesota-couple-indicted-15-million-medical-billing-fraud-scheme-0) – *U.S. Attorney’s Office, District of Minnesota*
 * [Bank Ordered to Pay \$564 Million to Victims of Petters Fraud](https://www.cbsnews.com/minnesota/news/bank-ordered-to-pay-564-million-to-victims-of-petters-fraud/) – *CBS Minnesota / AP*
 * [Projected Deficit Renews Focus on Fraud in Minnesota](https://axios.com/local/twin-cities/2024/12/13/minnesota-government-fraud-auditor-report-spending-deficit) – *Axios Twin Cities*
+* [https://www.kare11.com/article/news/investigations/kare-11-investigates-tackling-fraud-minnesota-lawmakers-pass-key-reforms/](https://www.kare11.com/article/news/investigations/kare-11-investigates-tackling-fraud-minnesota-lawmakers-pass-key-reforms/89-aee5191b-bad7-49e9-8f02-5cb53a06757f)
 
 ---
 
@@ -373,6 +378,10 @@ https://www.federalregister.gov/documents/2004/11/02/04-24101/huds-housing-goals
 * [Fertility rate, total (births per woman)](https://data.worldbank.org/indicator/SP.DYN.TFRT.IN) – *World Bank*
 * [Fertility, mortality, migration, and population scenarios for 195 countries and territories from 2017 to 2100: a forecasting analysis for the Global Burden of Disease Study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930677-2/fulltext) – *The Lancet*
 * [There’s a Link Between Therapy Culture and Childlessness](https://www.nytimes.com/2025/05/30/opinion/therapy-estrangement-childless-millennials.html) – *The New York Times*
+* https://www.mckinsey.com/mgi/our-research/dependency-and-depopulation-confronting-the-consequences-of-a-new-demographic-reality
+* https://www.imf.org/en/Publications/fandd/issues/Series/Analytical-Series/new-economics-of-fertility-doepke-hannusch-kindermann-tertilt
+* https://cals.ncsu.edu/news/you-decide-should-we-worry-about-the-declining-birth-rate/
+* https://pmc.ncbi.nlm.nih.gov/articles/PMC11079147/
 
 ---
 
@@ -398,7 +407,11 @@ https://www.federalregister.gov/documents/2004/11/02/04-24101/huds-housing-goals
 
 * [Deinstitutionalization in the United States](https://en.wikipedia.org/wiki/Deinstitutionalization_in_the_United_States) – *Wikipedia* 
 * [Hard Truths About Deinstitutionalization, Then and Now](https://calmatters.org/commentary/2019/03/hard-truths-about-deinstitutionalization-then-and-now/) – *CalMatters* 
-* [The Truth About Deinstitutionalization](https://www.theatlantic.com/health/archive/2021/05/truth-about-deinstitutionalization/618986/) – *The Atlantic*
+* [The Truth About Deinstitutionalization](https://www.theatlantic.com/health/archive/2021/05/truth-about-deinstitutionalization/618986/) – *The Atlantic* 
+* https://www.pbs.org/wgbh/americanexperience/features/lobotomist-bedlam-1946/
+* https://psychiatryonline.org/doi/full/10.1176/appi.ajp-rj.2021.160404
+* https://www.nri-inc.org/media/1111/2015-tracking-the-history-of-state-psychiatric-hospital-closures-lutterman.pdf
+* https://www.pbs.org/wgbh/pages/frontline/shows/asylums/special/excerpt.html
 
 ---
 
