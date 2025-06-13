@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-06-13 09:32:06
+**Last Updated:** 2025-06-13 09:41:38
 
 ---
 
@@ -147,13 +147,13 @@ This document contains all questions and their suggested sources in one place, w
 
 ### Sources
 
-* [National Center for Education Statistics (NCES)](https://nces.ed.gov/) – *National Center for Education Statistics* 
-* [Bringing it back home: Why state comparisons are more useful than international comparisons for improving U.S. education policy](https://www.epi.org/publication/bringing-it-back-home-why-state-comparisons-are-more-useful-than-international-comparisons-for-improving-u-s-education-policy/) – *Economic Policy Institute* 
-* [PISA 2022 U.S. Results](https://nces.ed.gov/surveys/pisa/pisa2022/) – *National Center for Education Statistics* )
-* [Elite Education Journalism: Still Ideology at Its Purest](https://freddiedeboer.substack.com/p/elite-education-journalism-still) – *Freddie deBoer (Substack)*
-* https://nces.ed.gov/programs/coe/indicator/cmd/education-expenditures-by-country
-* https://ies.ed.gov/learn/blog/education-glance-2023-putting-u-s-data-global-context
-* https://www.weforum.org/stories/2019/10/education-spending-highest-school-brazil-chile-italy mexico/
+* [National Center for Education Statistics (NCES)](https://nces.ed.gov/) – *NCES* 
+* [Bringing it back home: Why state comparisons are more useful than international comparisons for improving U.S. education policy](https://www.epi.org/publication/bringing-it-back-home-why-state-comparisons-are-more-useful-than-international-comparisons-for-improving-u-s-education-policy/) – *Economic Policy Institute* 
+* [PISA 2022 U.S. Results](https://nces.ed.gov/surveys/pisa/pisa2022/) – *NCES* 
+* [Elite Education Journalism: Still Ideology at Its Purest](https://freddiedeboer.substack.com/p/elite-education-journalism-still) – *Freddie deBoer (Substack)* 
+* [Education Expenditures by Country](https://nces.ed.gov/programs/coe/indicator/cmd/education-expenditures-by-country) – *NCES Condition of Education* 
+* [Education at a Glance 2023: Putting U.S. Data in a Global Context](https://ies.ed.gov/learn/blog/education-glance-2023-putting-u-s-data-global-context) – *IES Blog* 
+* [These countries spend the most on education](https://www.weforum.org/stories/2019/10/education-spending-highest-school-brazil-chile-italy-mexico/) – *World Economic Forum*
 
 ---
 
@@ -194,11 +194,11 @@ This document contains all questions and their suggested sources in one place, w
 
 ### Sources
 
-* https://www.conspicuouscognition.com/p/criticising-misinformation-research
-* https://www.gmfus.org/event/rise-fact-checking-movement-ensuring-truth-heard-western-balkans
-* https://www.ncbi.nlm.nih.gov/books/NBK572171/
-* https://www.nature.com/articles/s41586-024-07417-w
-* https://journals.sagepub.com/doi/full/10.1177/20563051221150412
+* [Criticising Misinformation Research Doesn’t Make You a Trump Supporter](https://www.conspicuouscognition.com/p/criticising-misinformation-research) – *Conspicuous Cognition* 
+* [The Rise of the Fact-checking Movement: Ensuring the Truth Is Heard in the Western Balkans](https://www.gmfus.org/event/rise-fact-checking-movement-ensuring-truth-heard-western-balkans) – *German Marshall Fund of the United States* 
+* [Confronting Health Misinformation: U.S. Surgeon General’s Advisory (Foreword)](https://www.ncbi.nlm.nih.gov/books/NBK572171/) – *NCBI Bookshelf* 
+* [Misunderstanding the Harms of Online Misinformation](https://www.nature.com/articles/s41586-024-07417-w) – *Nature* 
+* [Misinformation on Misinformation: Conceptual and Methodological Challenges](https://journals.sagepub.com/doi/full/10.1177/20563051221150412) – *Social Media + Society*
 
 ---
 

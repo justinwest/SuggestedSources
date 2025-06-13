@@ -16,7 +16,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-13 09:32:06
+**Last Updated:** 2025-06-13 09:41:38
 
 ## Questions
 
@@ -54,25 +54,25 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `How accurate was press coverage of President Biden's mental decline/`
-**Last Updated:** 2025-06-13 09:30
+**Last Updated:** 2025-06-13 09:40
 
 ## 7. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How do genes influence socio-economic status/`
-**Last Updated:** 2025-06-13 09:31
+**Last Updated:** 2025-06-13 09:40
 
 ## 8. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How do you distinguish good science from propaganda/`
-**Last Updated:** 2025-06-13 09:32
+**Last Updated:** 2025-06-13 09:40
 
 ## 9. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How does school spending in the United States compare to other nations/`
-**Last Updated:** 2025-06-12 20:54
+**Last Updated:** 2025-06-13 09:40
 
 ## 10. [How many Americans have died due to fentanyl?](How many Americans have died due to fentanyl/README.md)
 
@@ -90,7 +90,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `How much of a problem is misinformation/`
-**Last Updated:** 2025-06-12 20:10
+**Last Updated:** 2025-06-13 09:41
 
 ## 13. [How much of intelligence is hereditary?](How much of intelligence is hereditary/README.md)
 
