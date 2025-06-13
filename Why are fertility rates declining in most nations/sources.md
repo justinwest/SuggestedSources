@@ -6,4 +6,4 @@
 * https://www.imf.org/en/Publications/fandd/issues/Series/Analytical-Series/new-economics-of-fertility-doepke-hannusch-kindermann-tertilt
 * https://cals.ncsu.edu/news/you-decide-should-we-worry-about-the-declining-birth-rate/
 * https://pmc.ncbi.nlm.nih.gov/articles/PMC11079147/
-* 
+  
