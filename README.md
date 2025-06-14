@@ -16,7 +16,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-13 11:16:26
+**Last Updated:** 2025-06-13 21:39:34
 
 ## Questions
 
@@ -132,7 +132,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `What explains the rise in autism diagnoses/`
-**Last Updated:** 2025-06-12 11:10
+**Last Updated:** 2025-06-13 21:38
 
 ## 20. [What is the replication crisis?](What is the replication crisis/README.md)
 
@@ -150,7 +150,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why are fertility rates declining in most nations/`
-**Last Updated:** 2025-06-12 22:52
+**Last Updated:** 2025-06-13 21:39
 
 ## 23. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)
 
