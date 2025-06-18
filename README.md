@@ -16,7 +16,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-18 09:59:55
+**Last Updated:** 2025-06-18 11:53:28
 
 ## Questions
 
@@ -90,7 +90,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `How much of a problem is misinformation/`
-**Last Updated:** 2025-06-13 09:41
+**Last Updated:** 2025-06-18 11:53
 
 ## 13. [How much of intelligence is hereditary?](How much of intelligence is hereditary/README.md)
 
