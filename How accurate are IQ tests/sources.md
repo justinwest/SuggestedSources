@@ -4,3 +4,4 @@
 * [Myths and Misconceptions About Intelligence: A Study of 35 Myths](https://archive.jwest.org/Research/Furnham2021-MythsIntelligence.pdf) - *Personality and Individual Differences*
 * [What Do Undergraduates Learn About Human Intelligence? An Analysis of Introductory Psychology Textbooks](https://archive.jwest.org/Research/Warne2018-UndergradIntelligence.pdf) - *Archives of Scientific Psychology*
 * [Communicating Intelligence Research: Media Misrepresentation, the Gould Effect, and Unexpected Forces](https://archive.jwest.org/Research/Correspondence2018-CommunicatingIntelligenceResearch.pdf) - *Intelligence*
+* [IQ: From Causes to Consequences](https://douance.org/qicc/) - *DOUANCE QI : Des causes aux conséquences (French)*
