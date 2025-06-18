@@ -1,6 +1,6 @@
 # How accurate are IQ tests?
 
-**Generated:** 2025-06-10 20:22:07
+**Generated:** 2025-06-18 09:59:55
 
 ## Sources
 
@@ -10,6 +10,7 @@
 * [Myths and Misconceptions About Intelligence: A Study of 35 Myths](https://archive.jwest.org/Research/Furnham2021-MythsIntelligence.pdf) - *Personality and Individual Differences*
 * [What Do Undergraduates Learn About Human Intelligence? An Analysis of Introductory Psychology Textbooks](https://archive.jwest.org/Research/Warne2018-UndergradIntelligence.pdf) - *Archives of Scientific Psychology*
 * [Communicating Intelligence Research: Media Misrepresentation, the Gould Effect, and Unexpected Forces](https://archive.jwest.org/Research/Correspondence2018-CommunicatingIntelligenceResearch.pdf) - *Intelligence*
+* [IQ: From Causes to Consequences](https://douance.org/qicc/references.html) - *Long list of references (French)*
 
 
 ## AI Responses
@@ -32,7 +33,7 @@ These responses are generated using the provided sources as context:
 
 ## Navigation
 
-[← Back to Index](../README.md)
+[← Back to Index](../README.md) | [View All Sources](../allsources.md)
 
 ## Contributing
 

@@ -16,7 +16,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-15 10:55:55
+**Last Updated:** 2025-06-18 09:59:55
 
 ## Questions
 
@@ -48,7 +48,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `How accurate are IQ tests/`
-**Last Updated:** 2025-06-10 20:30
+**Last Updated:** 2025-06-18 09:59
 
 ## 6. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)
 

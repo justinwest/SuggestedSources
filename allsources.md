@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-06-15 10:55:55
+**Last Updated:** 2025-06-18 09:59:55
 
 ---
 
@@ -93,6 +93,7 @@ x
 * [Myths and Misconceptions About Intelligence: A Study of 35 Myths](https://archive.jwest.org/Research/Furnham2021-MythsIntelligence.pdf) - *Personality and Individual Differences*
 * [What Do Undergraduates Learn About Human Intelligence? An Analysis of Introductory Psychology Textbooks](https://archive.jwest.org/Research/Warne2018-UndergradIntelligence.pdf) - *Archives of Scientific Psychology*
 * [Communicating Intelligence Research: Media Misrepresentation, the Gould Effect, and Unexpected Forces](https://archive.jwest.org/Research/Correspondence2018-CommunicatingIntelligenceResearch.pdf) - *Intelligence*
+* [IQ: From Causes to Consequences](https://douance.org/qicc/references.html) - *Long list of references (French)*
 
 ---
 
