@@ -16,7 +16,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-21 15:26:08
+**Last Updated:** 2025-06-21 15:39:12
 
 ## Questions
 
@@ -156,7 +156,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why do some Christians believe it is their religious duty to support Israel?/`
-**Last Updated:** 2025-06-21 15:26
+**Last Updated:** 2025-06-21 15:39
 
 ## 24. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)
 
