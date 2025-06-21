@@ -1,6 +1,6 @@
 # Why do some Christians believe it is their religious duty to support Israel?
 
-**Generated:** 2025-06-21 15:45:29
+**Generated:** 2025-06-21 15:50:26
 
 ## Sources
 
@@ -11,6 +11,8 @@
 * https://www.theatlantic.com/ideas/archive/2020/08/the-judeo-christian-tradition-is-over/614812/
 
 * https://www.lrb.co.uk/the-paper/v28/n06/john-mearsheimer/the-israel-lobby
+
+* https://www.pewresearch.org/short-reads/2013/10/03/more-white-evangelicals-than-american-jews-say-god-gave-israel-to-the-jewish-people/
 
 
 ## AI Responses

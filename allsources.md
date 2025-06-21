@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-06-21 15:45:29
+**Last Updated:** 2025-06-21 15:50:26
 
 ---
 
@@ -385,6 +385,8 @@ x
 * https://www.theatlantic.com/ideas/archive/2020/08/the-judeo-christian-tradition-is-over/614812/
 
 * https://www.lrb.co.uk/the-paper/v28/n06/john-mearsheimer/the-israel-lobby
+
+* https://www.pewresearch.org/short-reads/2013/10/03/more-white-evangelicals-than-american-jews-say-god-gave-israel-to-the-jewish-people/
 
 ---
 
