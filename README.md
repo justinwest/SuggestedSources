@@ -16,7 +16,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-21 15:39:12
+**Last Updated:** 2025-06-21 15:45:29
 
 ## Questions
 
@@ -152,11 +152,11 @@ For a single page showing all questions and sources, [click here](allsources.md)
 **Folder:** `Why are fertility rates declining in most nations/`
 **Last Updated:** 2025-06-13 21:39
 
-## 23. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel?/README.md)
+## 23. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)
 
 **Status:** ✅ Complete
-**Folder:** `Why do some Christians believe it is their religious duty to support Israel?/`
-**Last Updated:** 2025-06-21 15:39
+**Folder:** `Why do some Christians believe it is their religious duty to support Israel/`
+**Last Updated:** 2025-06-21 15:45
 
 ## 24. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)
 

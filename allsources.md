@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-06-21 15:39:12
+**Last Updated:** 2025-06-21 15:45:29
 
 ---
 
@@ -374,7 +374,7 @@ x
 
 ## 23. Why do some Christians believe it is their religious duty to support Israel?
 
-**AI Responses:** [Claude](Why do some Christians believe it is their religious duty to support Israel?/response-claude-default.md) - [Claude w/sources](Why do some Christians believe it is their religious duty to support Israel?/response-claude-sources.md) - [ChatGPT](Why do some Christians believe it is their religious duty to support Israel?/response-chatgpt-default.md) - [ChatGPT w/sources](Why do some Christians believe it is their religious duty to support Israel?/response-chatgpt-sources.md) - [Gemini](Why do some Christians believe it is their religious duty to support Israel?/response-gemini-default.md) - [Gemini w/sources](Why do some Christians believe it is their religious duty to support Israel?/response-gemini-sources.md) - [Grok](Why do some Christians believe it is their religious duty to support Israel?/response-grok-default.md) - [Grok w/sources](Why do some Christians believe it is their religious duty to support Israel?/response-grok-sources.md)
+**AI Responses:** [Claude](Why do some Christians believe it is their religious duty to support Israel/response-claude-default.md) - [Claude w/sources](Why do some Christians believe it is their religious duty to support Israel/response-claude-sources.md) - [ChatGPT](Why do some Christians believe it is their religious duty to support Israel/response-chatgpt-default.md) - [ChatGPT w/sources](Why do some Christians believe it is their religious duty to support Israel/response-chatgpt-sources.md) - [Gemini](Why do some Christians believe it is their religious duty to support Israel/response-gemini-default.md) - [Gemini w/sources](Why do some Christians believe it is their religious duty to support Israel/response-gemini-sources.md) - [Grok](Why do some Christians believe it is their religious duty to support Israel/response-grok-default.md) - [Grok w/sources](Why do some Christians believe it is their religious duty to support Israel/response-grok-sources.md)
 
 ### Sources
 
@@ -383,6 +383,8 @@ x
 * https://www.washingtonpost.com/news/made-by-history/wp/2017/12/18/the-biggest-fans-of-president-trumps-israel-policy-evangelical-christians/
 
 * https://www.theatlantic.com/ideas/archive/2020/08/the-judeo-christian-tradition-is-over/614812/
+
+* https://www.lrb.co.uk/the-paper/v28/n06/john-mearsheimer/the-israel-lobby
 
 ---
 

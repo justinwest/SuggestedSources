@@ -1,6 +1,6 @@
 # Why do some Christians believe it is their religious duty to support Israel?
 
-**Generated:** 2025-06-21 15:39:12
+**Generated:** 2025-06-21 15:45:29
 
 ## Sources
 
@@ -9,6 +9,8 @@
 * https://www.washingtonpost.com/news/made-by-history/wp/2017/12/18/the-biggest-fans-of-president-trumps-israel-policy-evangelical-christians/
 
 * https://www.theatlantic.com/ideas/archive/2020/08/the-judeo-christian-tradition-is-over/614812/
+
+* https://www.lrb.co.uk/the-paper/v28/n06/john-mearsheimer/the-israel-lobby
 
 
 ## AI Responses
