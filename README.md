@@ -16,7 +16,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-18 11:53:28
+**Last Updated:** 2025-06-21 15:26:08
 
 ## Questions
 
@@ -90,7 +90,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `How much of a problem is misinformation/`
-**Last Updated:** 2025-06-18 11:53
+**Last Updated:** 2025-06-18 11:56
 
 ## 13. [How much of intelligence is hereditary?](How much of intelligence is hereditary/README.md)
 
@@ -152,13 +152,19 @@ For a single page showing all questions and sources, [click here](allsources.md)
 **Folder:** `Why are fertility rates declining in most nations/`
 **Last Updated:** 2025-06-13 21:39
 
-## 23. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)
+## 23. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel?/README.md)
+
+**Status:** ✅ Complete
+**Folder:** `Why do some Christians believe it is their religious duty to support Israel?/`
+**Last Updated:** 2025-06-21 15:26
+
+## 24. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why is Stoicism becoming popular again/`
 **Last Updated:** 2025-06-11 10:40
 
-## 24. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)
+## 25. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why were mental hospitals closed in the United States/`
@@ -166,17 +172,17 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 ## Statistics
 
-- **Total Questions:** 24
-- **Total Responses Generated:** 192/192
+- **Total Questions:** 25
+- **Total Responses Generated:** 200/200
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 24 | 24 | 48 |
-| Chatgpt | 24 | 24 | 48 |
-| Gemini | 24 | 24 | 48 |
-| Grok | 24 | 24 | 48 |
+| Claude | 25 | 25 | 50 |
+| Chatgpt | 25 | 25 | 50 |
+| Gemini | 25 | 25 | 50 |
+| Grok | 25 | 25 | 50 |
 
 ## About
 

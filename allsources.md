@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-06-18 11:53:28
+**Last Updated:** 2025-06-21 15:26:08
 
 ---
 
@@ -372,7 +372,19 @@ x
 
 ---
 
-## 23. Why is Stoicism becoming popular again?
+## 23. Why do some Christians believe it is their religious duty to support Israel?
+
+**AI Responses:** [Claude](Why do some Christians believe it is their religious duty to support Israel?/response-claude-default.md) - [Claude w/sources](Why do some Christians believe it is their religious duty to support Israel?/response-claude-sources.md) - [ChatGPT](Why do some Christians believe it is their religious duty to support Israel?/response-chatgpt-default.md) - [ChatGPT w/sources](Why do some Christians believe it is their religious duty to support Israel?/response-chatgpt-sources.md) - [Gemini](Why do some Christians believe it is their religious duty to support Israel?/response-gemini-default.md) - [Gemini w/sources](Why do some Christians believe it is their religious duty to support Israel?/response-gemini-sources.md) - [Grok](Why do some Christians believe it is their religious duty to support Israel?/response-grok-default.md) - [Grok w/sources](Why do some Christians believe it is their religious duty to support Israel?/response-grok-sources.md)
+
+### Sources
+
+* https://www.christiancentury.org/article/2012-03/evangelicals-and-israel
+
+* https://www.washingtonpost.com/news/made-by-history/wp/2017/12/18/the-biggest-fans-of-president-trumps-israel-policy-evangelical-christians/
+
+---
+
+## 24. Why is Stoicism becoming popular again?
 
 **AI Responses:** [Claude](Why is Stoicism becoming popular again/response-claude-default.md) - [Claude w/sources](Why is Stoicism becoming popular again/response-claude-sources.md) - [ChatGPT](Why is Stoicism becoming popular again/response-chatgpt-default.md) - [ChatGPT w/sources](Why is Stoicism becoming popular again/response-chatgpt-sources.md) - [Gemini](Why is Stoicism becoming popular again/response-gemini-default.md) - [Gemini w/sources](Why is Stoicism becoming popular again/response-gemini-sources.md) - [Grok](Why is Stoicism becoming popular again/response-grok-default.md) - [Grok w/sources](Why is Stoicism becoming popular again/response-grok-sources.md)
 
@@ -386,7 +398,7 @@ x
 
 ---
 
-## 24. Why were mental hospitals closed in the United States?
+## 25. Why were mental hospitals closed in the United States?
 
 **AI Responses:** [Claude](Why were mental hospitals closed in the United States/response-claude-default.md) - [Claude w/sources](Why were mental hospitals closed in the United States/response-claude-sources.md) - [ChatGPT](Why were mental hospitals closed in the United States/response-chatgpt-default.md) - [ChatGPT w/sources](Why were mental hospitals closed in the United States/response-chatgpt-sources.md) - [Gemini](Why were mental hospitals closed in the United States/response-gemini-default.md) - [Gemini w/sources](Why were mental hospitals closed in the United States/response-gemini-sources.md) - [Grok](Why were mental hospitals closed in the United States/response-grok-default.md) - [Grok w/sources](Why were mental hospitals closed in the United States/response-grok-sources.md)
 
