@@ -16,7 +16,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-21 22:28:22
+**Last Updated:** 2025-06-21 23:08:34
 
 ## Questions
 
@@ -108,7 +108,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `Was the public misled about the UK grooming gang scandal/`
-**Last Updated:** 2025-06-21 22:28
+**Last Updated:** 2025-06-21 23:08
 
 ## 16. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)
 

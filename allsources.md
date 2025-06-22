@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-06-21 22:28:22
+**Last Updated:** 2025-06-21 23:08:34
 
 ---
 
@@ -245,6 +245,8 @@ x
 * https://www.gov.uk/government/speeches/baroness-caseys-audit-of-group-based-child-sexual-exploitation-and-abuse
 
 * https://emilkirkegaard.dk/en/2025/01/did-the-new-york-times-inform-readers-about-rotherham/
+
+* https://x.com/jonatanpallesen/status/1843657638904569928
 
 ---
 
