@@ -16,7 +16,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-21 15:50:26
+**Last Updated:** 2025-06-21 22:28:22
 
 ## Questions
 
@@ -104,67 +104,73 @@ For a single page showing all questions and sources, [click here](allsources.md)
 **Folder:** `Is nuclear power safe/`
 **Last Updated:** 2025-06-13 11:13
 
-## 15. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)
+## 15. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)
+
+**Status:** ✅ Complete
+**Folder:** `Was the public misled about the UK grooming gang scandal/`
+**Last Updated:** 2025-06-21 22:28
+
+## 16. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Were the COVID-19 lockdowns effective/`
 **Last Updated:** 2025-06-13 11:13
 
-## 16. [What are luxury beliefs?](What are luxury beliefs/README.md)
+## 17. [What are luxury beliefs?](What are luxury beliefs/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What are luxury beliefs/`
 **Last Updated:** 2025-06-10 23:00
 
-## 17. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)
+## 18. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What caused the 2008 financial crisis/`
 **Last Updated:** 2025-06-13 11:14
 
-## 18. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)
+## 19. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What caused the crime spike in 2020 in the United States/`
 **Last Updated:** 2025-06-13 11:15
 
-## 19. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)
+## 20. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What explains the rise in autism diagnoses/`
 **Last Updated:** 2025-06-13 21:38
 
-## 20. [What is the replication crisis?](What is the replication crisis/README.md)
+## 21. [What is the replication crisis?](What is the replication crisis/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What is the replication crisis/`
 **Last Updated:** 2025-06-12 11:10
 
-## 21. [What is there so much financial fraud in Minnesota?](What is there so much financial fraud in Minnesota/README.md)
+## 22. [What is there so much financial fraud in Minnesota?](What is there so much financial fraud in Minnesota/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What is there so much financial fraud in Minnesota/`
 **Last Updated:** 2025-06-12 22:51
 
-## 22. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)
+## 23. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why are fertility rates declining in most nations/`
 **Last Updated:** 2025-06-13 21:39
 
-## 23. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)
+## 24. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why do some Christians believe it is their religious duty to support Israel/`
 **Last Updated:** 2025-06-21 15:50
 
-## 24. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)
+## 25. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why is Stoicism becoming popular again/`
 **Last Updated:** 2025-06-11 10:40
 
-## 25. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)
+## 26. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why were mental hospitals closed in the United States/`
@@ -172,17 +178,17 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 ## Statistics
 
-- **Total Questions:** 25
-- **Total Responses Generated:** 200/200
+- **Total Questions:** 26
+- **Total Responses Generated:** 208/208
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 25 | 25 | 50 |
-| Chatgpt | 25 | 25 | 50 |
-| Gemini | 25 | 25 | 50 |
-| Grok | 25 | 25 | 50 |
+| Claude | 26 | 26 | 52 |
+| Chatgpt | 26 | 26 | 52 |
+| Gemini | 26 | 26 | 52 |
+| Grok | 26 | 26 | 52 |
 
 ## About
 
