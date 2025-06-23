@@ -6,3 +6,4 @@
 * [The Origin of COVID: Did People or Nature Open Pandora’s Box at Wuhan?](https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/) – *Bulletin of the Atomic Scientists* 
 * [House Panel Concludes That COVID-19 Pandemic Came From a Lab Leak](https://www.science.org/content/article/house-panel-concludes-covid-19-pandemic-came-lab-leak) – *Science* 
 * [Evidence that the Huanan Market in Wuhan, China, Was the Epicenter of the COVID-19 Pandemic](https://www.news-medical.net/news/20220728/Evidence-that-the-Huanan-market-in-Wuhan-China-was-the-epicenter-of-the-COVID-19-pandemic.aspx) – *News-Medical.net* 
+* https://www.astralcodexten.com/p/practically-a-book-review-rootclaim
