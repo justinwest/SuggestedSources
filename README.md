@@ -16,7 +16,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-21 23:08:34
+**Last Updated:** 2025-06-23 16:06:13
 
 ## Questions
 
@@ -138,7 +138,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `What explains the rise in autism diagnoses/`
-**Last Updated:** 2025-06-13 21:38
+**Last Updated:** 2025-06-23 16:06
 
 ## 21. [What is the replication crisis?](What is the replication crisis/README.md)
 

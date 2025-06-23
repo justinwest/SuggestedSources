@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-06-21 23:08:34
+**Last Updated:** 2025-06-23 16:06:13
 
 ---
 
@@ -333,7 +333,9 @@ x
 * [Prevalence of Autism Spectrum Disorder in Preterm Infants: A Meta-analysis](https://pubmed.ncbi.nlm.nih.gov/30076190/) – *Pediatrics* 
 * [The Changing Prevalence of Autism in California](https://pubmed.ncbi.nlm.nih.gov/12108622/) – *Journal of Autism & Developmental Disorders* 
 * [Advancing Maternal Age Is Associated With Increasing Risk for Autism: A Review and Meta-Analysis](https://pubmed.ncbi.nlm.nih.gov/22525954/) – *Journal of the American Academy of Child & Adolescent Psychiatry* 
-* [Update on Diagnostic Classification in Autism](https://pmc.ncbi.nlm.nih.gov/articles/PMC4929984/) – *Current Opinion in Psychiatry*
+* [Update on Diagnostic Classification in Autism](https://pmc.ncbi.nlm.nih.gov/articles/PMC4929984/) – *Current Opinion in Psychiatry* 
+https://www.cremieux.xyz/p/whats-the-deal-with-https://www.cremieux.xyz/p/whats-the-deal-with-autism-rates?utm_campaign=post&utm_medium=web
+https://www.nytimes.com/2025/06/23/opinion/why-autism-rates-increased.html
 
 ---
 
