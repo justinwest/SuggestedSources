@@ -16,7 +16,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-23 17:23:25
+**Last Updated:** 2025-06-23 17:30:49
 
 ## Questions
 
@@ -24,7 +24,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `Are smartphones harming adolescent mental health/`
-**Last Updated:** 2025-06-23 17:21
+**Last Updated:** 2025-06-23 17:30
 
 ## 2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)
 
@@ -36,7 +36,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `Did COVID-19 leak from a lab or did it have natural origins/`
-**Last Updated:** 2025-06-23 17:22
+**Last Updated:** 2025-06-23 17:30
 
 ## 4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)
 
@@ -102,7 +102,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `Is nuclear power safe/`
-**Last Updated:** 2025-06-13 11:13
+**Last Updated:** 2025-06-23 17:30
 
 ## 15. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)
 
@@ -138,7 +138,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `What explains the rise in autism diagnoses/`
-**Last Updated:** 2025-06-23 17:23
+**Last Updated:** 2025-06-23 17:30
 
 ## 21. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)
 
