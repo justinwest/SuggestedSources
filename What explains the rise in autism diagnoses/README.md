@@ -1,6 +1,6 @@
 # What explains the rise in autism diagnoses?
 
-**Generated:** 2025-06-23 16:06:13
+**Generated:** 2025-06-23 17:23:25
 
 ## Sources
 
@@ -17,8 +17,9 @@
 * [The Changing Prevalence of Autism in California](https://pubmed.ncbi.nlm.nih.gov/12108622/) – *Journal of Autism & Developmental Disorders* 
 * [Advancing Maternal Age Is Associated With Increasing Risk for Autism: A Review and Meta-Analysis](https://pubmed.ncbi.nlm.nih.gov/22525954/) – *Journal of the American Academy of Child & Adolescent Psychiatry* 
 * [Update on Diagnostic Classification in Autism](https://pmc.ncbi.nlm.nih.gov/articles/PMC4929984/) – *Current Opinion in Psychiatry* 
-https://www.cremieux.xyz/p/whats-the-deal-with-https://www.cremieux.xyz/p/whats-the-deal-with-autism-rates?utm_campaign=post&utm_medium=web
-https://www.nytimes.com/2025/06/23/opinion/why-autism-rates-increased.html
+* https://www.cremieux.xyz/p/whats-the-deal-with-autism-rates
+* https://www.nytimes.com/2025/06/23/opinion/why-autism-rates-increased.html
+
 
 ## AI Responses
 

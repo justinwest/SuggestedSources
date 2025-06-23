@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-06-23 17:14:45
+**Last Updated:** 2025-06-23 17:23:25
 
 ---
 
@@ -18,7 +18,8 @@ This document contains all questions and their suggested sources in one place, w
 * [Adolescent Mental Health in the Digital Age: Facts, Fears and Future Directions](https://pmc.ncbi.nlm.nih.gov/articles/PMC8221420/) – *Journal of Child Psychology and Psychiatry* 
 * [Behind the Scenes of the Consensus Statement on Potential Negative Impacts of Smartphone and Social Media Use](https://www.centerconflictcooperation-newsletter.com/p/behind-the-scenes-of-the-consensus) – *Center for Conflict + Cooperation Newsletter* 
 * [The truth about teens, social media and the mental health crisis](https://www.npr.org/sections/health-shots/2023/04/25/1171773181/social-media-teens-mental-health) – *NPR*
-* [Are screens harming teens? What scientists can do to find answers](https://www.nature.com/articles/d41586-025-00991-7) – *Nature*
+* [Are screens harming teens? What scientists can do to find answers](https://www.nature.com/articles/d41586-025-00991-7) – *Nature* 
+* https://www.aporiamagazine.com/p/the-anxious-generation-in-the-classroom
 
 ---
 
@@ -61,7 +62,8 @@ x
 * [We Were Badly Misled About Covid](https://www.nytimes.com/2025/03/16/opinion/covid-pandemic-lab-leak.html) – *The New York Times*
 * [The Origin of COVID: Did People or Nature Open Pandora’s Box at Wuhan?](https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/) – *Bulletin of the Atomic Scientists* 
 * [House Panel Concludes That COVID-19 Pandemic Came From a Lab Leak](https://www.science.org/content/article/house-panel-concludes-covid-19-pandemic-came-lab-leak) – *Science* 
-* [Evidence that the Huanan Market in Wuhan, China, Was the Epicenter of the COVID-19 Pandemic](https://www.news-medical.net/news/20220728/Evidence-that-the-Huanan-market-in-Wuhan-China-was-the-epicenter-of-the-COVID-19-pandemic.aspx) – *News-Medical.net*
+* [Evidence that the Huanan Market in Wuhan, China, Was the Epicenter of the COVID-19 Pandemic](https://www.news-medical.net/news/20220728/Evidence-that-the-Huanan-market-in-Wuhan-China-was-the-epicenter-of-the-COVID-19-pandemic.aspx) – *News-Medical.net* 
+* https://www.astralcodexten.com/p/practically-a-book-review-rootclaim
 
 ---
 
@@ -334,8 +336,8 @@ x
 * [The Changing Prevalence of Autism in California](https://pubmed.ncbi.nlm.nih.gov/12108622/) – *Journal of Autism & Developmental Disorders* 
 * [Advancing Maternal Age Is Associated With Increasing Risk for Autism: A Review and Meta-Analysis](https://pubmed.ncbi.nlm.nih.gov/22525954/) – *Journal of the American Academy of Child & Adolescent Psychiatry* 
 * [Update on Diagnostic Classification in Autism](https://pmc.ncbi.nlm.nih.gov/articles/PMC4929984/) – *Current Opinion in Psychiatry* 
-https://www.cremieux.xyz/p/whats-the-deal-with-https://www.cremieux.xyz/p/whats-the-deal-with-autism-rates?utm_campaign=post&utm_medium=web
-https://www.nytimes.com/2025/06/23/opinion/why-autism-rates-increased.html
+* https://www.cremieux.xyz/p/whats-the-deal-with-autism-rates
+* https://www.nytimes.com/2025/06/23/opinion/why-autism-rates-increased.html
 
 ---
 

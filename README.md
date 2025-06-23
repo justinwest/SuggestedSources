@@ -16,7 +16,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-23 17:14:45
+**Last Updated:** 2025-06-23 17:23:25
 
 ## Questions
 
@@ -24,7 +24,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `Are smartphones harming adolescent mental health/`
-**Last Updated:** 2025-06-13 09:27
+**Last Updated:** 2025-06-23 17:21
 
 ## 2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)
 
@@ -36,7 +36,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `Did COVID-19 leak from a lab or did it have natural origins/`
-**Last Updated:** 2025-06-13 09:28
+**Last Updated:** 2025-06-23 17:22
 
 ## 4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)
 
@@ -138,13 +138,13 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `What explains the rise in autism diagnoses/`
-**Last Updated:** 2025-06-23 16:06
+**Last Updated:** 2025-06-23 17:23
 
 ## 21. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What is antidepressant discontinuation syndrome/`
-**Last Updated:** 2025-06-23 17:14
+**Last Updated:** 2025-06-23 17:20
 
 ## 22. [What is the replication crisis?](What is the replication crisis/README.md)
 
