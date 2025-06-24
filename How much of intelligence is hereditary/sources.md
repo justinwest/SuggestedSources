@@ -5,3 +5,4 @@
 * [Genetic Variation, Brain, and Intelligence Differences](https://www.nature.com/articles/s41380-021-01027-y) – *Molecular Psychiatry* 
 * [DNA and IQ: Big Deal or Much Ado About Nothing? – A Meta-analysis](https://www.sciencedirect.com/science/article/abs/pii/S0160289624000655) – *Intelligence* 
 * [The new genetics of intelligence](https://pmc.ncbi.nlm.nih.gov/articles/PMC5985927/) – *Nature Reviews Genetics (PMC Open Access)* 
+* https://icajournal.scholasticahq.com/article/140654-polygenic-score-prediction-within-and-between-sibling-pairs-for-intelligence-cognitive-abilities-and-educational-traits-from-childhood-to-early-adul
