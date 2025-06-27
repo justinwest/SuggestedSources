@@ -1,6 +1,6 @@
 # Does gender affirming care lower youth suicide risk?
 
-**Generated:** 2025-06-26 22:38:12
+**Generated:** 2025-06-26 22:45:53
 
 ## Sources
 
@@ -13,6 +13,7 @@
 * [Psychosocial Functioning in Transgender Youth after 2 Years of Hormones](https://pubmed.ncbi.nlm.nih.gov/36652355/) – *New England Journal of Medicine* 
 * https://www.washingtonpost.com/opinions/2025/06/26/hhs-review-anonymous-author/
 
+z
 
 
 ## AI Responses
