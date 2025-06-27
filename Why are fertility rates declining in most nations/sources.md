@@ -6,4 +6,4 @@
 * [The New Economics of Fertility](https://www.imf.org/en/Publications/fandd/issues/Series/Analytical-Series/new-economics-of-fertility-doepke-hannusch-kindermann-tertilt) – *IMF Finance & Development*
 * [You Decide: Should We Worry About the Declining Birth Rate?](https://cals.ncsu.edu/news/you-decide-should-we-worry-about-the-declining-birth-rate/) – *NC State CALS News*
 * [What Is Driving the Global Decline of Human Fertility? Need for a Multidisciplinary Approach to the Underlying Mechanisms](https://pmc.ncbi.nlm.nih.gov/articles/PMC11079147/) – *Frontiers in Reproductive Health*
-* [https://www.noahpinion.blog/p/the-dawn-of-the-posthuman-age](The dawn of the posthuman age) - *Noah Smith*
+* [The dawn of the posthuman age](https://www.noahpinion.blog/p/the-dawn-of-the-posthuman-age) - *Noah Smith*
