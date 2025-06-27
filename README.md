@@ -7,6 +7,12 @@ This is a comparative AI response system that automatically generates and organi
 * See how sources influence AI responses
 * Compare how different AIs approach the same question
 
+**Supported Models:**
+* Claude (Anthropic): claude-3-sonnet, claude-3-opus, etc.
+* ChatGPT (OpenAI): GPT-4, GPT-4o, o3-deep-research, etc.
+* Gemini (Google): gemini-pro, gemini-1.5-pro, etc.
+* Grok (X.AI): grok-1, grok-2, grok-3, etc.
+
 **Want to add more sources or suggest new questions? [Contribute on GitHub](https://github.com/justinwest/SuggestedSources)**
 
 * Create a new folder to add a new question
@@ -16,7 +22,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-26 20:24:30
+**Last Updated:** 2025-06-26 20:39:53
 
 ## Questions
 
