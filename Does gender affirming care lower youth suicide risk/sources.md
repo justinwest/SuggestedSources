@@ -5,3 +5,4 @@
 * [Examining Gender-Specific Mental Health Risks After Gender-Affirming Surgery: A National Database Study](https://academic.oup.com/jsm/article-abstract/22/4/645/8042063) – *The Journal of Sexual Medicine*
 * [Mental Health Outcomes in Transgender and Nonbinary Youths Receiving Gender-Affirming Care](https://pubmed.ncbi.nlm.nih.gov/35212746/) – *JAMA Network Open* 
 * [Psychosocial Functioning in Transgender Youth after 2 Years of Hormones](https://pubmed.ncbi.nlm.nih.gov/36652355/) – *New England Journal of Medicine* 
+https://www.washingtonpost.com/opinions/2025/06/26/hhs-review-anonymous-author/
