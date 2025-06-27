@@ -1,6 +1,6 @@
 # Does gender affirming care lower youth suicide risk?
 
-**Generated:** 2025-06-26 21:44:01
+**Generated:** 2025-06-26 22:09:02
 
 ## Sources
 
@@ -12,7 +12,6 @@
 * [Mental Health Outcomes in Transgender and Nonbinary Youths Receiving Gender-Affirming Care](https://pubmed.ncbi.nlm.nih.gov/35212746/) – *JAMA Network Open* 
 * [Psychosocial Functioning in Transgender Youth after 2 Years of Hormones](https://pubmed.ncbi.nlm.nih.gov/36652355/) – *New England Journal of Medicine* 
 * https://www.washingtonpost.com/opinions/2025/06/26/hhs-review-anonymous-author/
-z
 
 
 ## AI Responses
