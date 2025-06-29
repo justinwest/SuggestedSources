@@ -1,8 +1,10 @@
 # How much of intelligence is hereditary?
 
-**Generated:** 2025-06-29 00:52:03
+**Generated:** 2025-06-29 17:00:56
 
 ## Sources
+
+[📝 Edit sources on GitHub](https://github.com/justinwest/SuggestedSources/edit/main/How%20much%20of%20intelligence%20is%20hereditary/sources.md)
 
 * [Is Intelligence Hereditary?](https://www.scientificamerican.com/article/is-intelligence-hereditary/) – *Scientific American*
 * [The new genetics of intelligence](https://www.nature.com/articles/nrg.2017.104) – *Nature Reviews Genetics*
@@ -13,7 +15,6 @@
 * [The new genetics of intelligence](https://pmc.ncbi.nlm.nih.gov/articles/PMC5985927/) – *Nature Reviews Genetics (PMC Open Access)* 
 * https://icajournal.scholasticahq.com/article/140654-polygenic-score-prediction-within-and-between-sibling-pairs-for-intelligence-cognitive-abilities-and-educational-traits-from-childhood-to-early-adul
 * https://www.pnas.org/doi/10.1073/pnas.2426531122
-z
 
 
 ## AI Responses
