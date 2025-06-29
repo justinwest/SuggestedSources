@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-06-28 19:50:19
+**Last Updated:** 2025-06-28 20:06:21
 
 ---
 
@@ -223,6 +223,7 @@ test
 * [DNA and IQ: Big Deal or Much Ado About Nothing? – A Meta-analysis](https://www.sciencedirect.com/science/article/abs/pii/S0160289624000655) – *Intelligence* 
 * [The new genetics of intelligence](https://pmc.ncbi.nlm.nih.gov/articles/PMC5985927/) – *Nature Reviews Genetics (PMC Open Access)* 
 * https://icajournal.scholasticahq.com/article/140654-polygenic-score-prediction-within-and-between-sibling-pairs-for-intelligence-cognitive-abilities-and-educational-traits-from-childhood-to-early-adul
+* https://www.pnas.org/doi/10.1073/pnas.2426531122
 
 ---
 

@@ -22,7 +22,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-28 19:50:19
+**Last Updated:** 2025-06-28 20:06:20
 
 ## Questions
 
@@ -102,7 +102,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `How much of intelligence is hereditary/`
-**Last Updated:** 2025-06-26 13:20
+**Last Updated:** 2025-06-28 20:06
 
 ## 14. [Is nuclear power safe?](Is nuclear power safe/README.md)
 
