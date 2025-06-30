@@ -24,7 +24,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-29 17:55:26
+**Last Updated:** 2025-06-29 19:01:17
 
 ## Questions
 
@@ -50,7 +50,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `Does gender affirming care lower youth suicide risk/`
-**Last Updated:** 2025-06-29 16:40
+**Last Updated:** 2025-06-29 17:56
 
 ## 5. [How accurate are IQ tests?](How accurate are IQ tests/README.md)
 
