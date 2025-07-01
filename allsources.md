@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-06-30 22:52:12
+**Last Updated:** 2025-07-01 18:19:21
 
 ---
 
@@ -286,7 +286,18 @@ z
 
 ---
 
-## 18. What caused the 2008 financial crisis?
+## 18. What are the externalities of immigration?
+
+**AI Responses:** [Claude](What are the externalities of immigration/response-claude-default.md) - [Claude w/sources](What are the externalities of immigration/response-claude-sources.md) - [ChatGPT](What are the externalities of immigration/response-chatgpt-default.md) - [ChatGPT w/sources](What are the externalities of immigration/response-chatgpt-sources.md) - [Gemini](What are the externalities of immigration/response-gemini-default.md) - [Gemini w/sources](What are the externalities of immigration/response-gemini-sources.md) - [Grok](What are the externalities of immigration/response-grok-default.md) - [Grok w/sources](What are the externalities of immigration/response-grok-sources.md)
+
+### Sources
+
+* https://www.lorenzofromoz.net/p/the-limits-of-social-science-i
+* https://www.lorenzofromoz.net/p/the-limits-of-social-science-ii
+
+---
+
+## 19. What caused the 2008 financial crisis?
 
 **AI Responses:** [Claude](What caused the 2008 financial crisis/response-claude-default.md) - [Claude w/sources](What caused the 2008 financial crisis/response-claude-sources.md) - [ChatGPT](What caused the 2008 financial crisis/response-chatgpt-default.md) - [ChatGPT w/sources](What caused the 2008 financial crisis/response-chatgpt-sources.md) - [Gemini](What caused the 2008 financial crisis/response-gemini-default.md) - [Gemini w/sources](What caused the 2008 financial crisis/response-gemini-sources.md) - [Grok](What caused the 2008 financial crisis/response-grok-default.md) - [Grok w/sources](What caused the 2008 financial crisis/response-grok-sources.md)
 
@@ -305,7 +316,7 @@ z
 
 ---
 
-## 19. What caused the crime spike in 2020 in the United States?
+## 20. What caused the crime spike in 2020 in the United States?
 
 **AI Responses:** [Claude](What caused the crime spike in 2020 in the United States/response-claude-default.md) - [Claude w/sources](What caused the crime spike in 2020 in the United States/response-claude-sources.md) - [ChatGPT](What caused the crime spike in 2020 in the United States/response-chatgpt-default.md) - [ChatGPT w/sources](What caused the crime spike in 2020 in the United States/response-chatgpt-sources.md) - [Gemini](What caused the crime spike in 2020 in the United States/response-gemini-default.md) - [Gemini w/sources](What caused the crime spike in 2020 in the United States/response-gemini-sources.md) - [Grok](What caused the crime spike in 2020 in the United States/response-grok-default.md) - [Grok w/sources](What caused the crime spike in 2020 in the United States/response-grok-sources.md)
 
@@ -322,7 +333,7 @@ z
 
 ---
 
-## 20. What explains the rise in autism diagnoses?
+## 21. What explains the rise in autism diagnoses?
 
 **AI Responses:** [Claude](What explains the rise in autism diagnoses/response-claude-default.md) - [Claude w/sources](What explains the rise in autism diagnoses/response-claude-sources.md) - [ChatGPT](What explains the rise in autism diagnoses/response-chatgpt-default.md) - [ChatGPT w/sources](What explains the rise in autism diagnoses/response-chatgpt-sources.md) - [Gemini](What explains the rise in autism diagnoses/response-gemini-default.md) - [Gemini w/sources](What explains the rise in autism diagnoses/response-gemini-sources.md) - [Grok](What explains the rise in autism diagnoses/response-grok-default.md) - [Grok w/sources](What explains the rise in autism diagnoses/response-grok-sources.md)
 
@@ -346,7 +357,7 @@ z
 
 ---
 
-## 21. What is antidepressant discontinuation syndrome?
+## 22. What is antidepressant discontinuation syndrome?
 
 **AI Responses:** [Claude](What is antidepressant discontinuation syndrome/response-claude-default.md) - [Claude w/sources](What is antidepressant discontinuation syndrome/response-claude-sources.md) - [ChatGPT](What is antidepressant discontinuation syndrome/response-chatgpt-default.md) - [ChatGPT w/sources](What is antidepressant discontinuation syndrome/response-chatgpt-sources.md) - [Gemini](What is antidepressant discontinuation syndrome/response-gemini-default.md) - [Gemini w/sources](What is antidepressant discontinuation syndrome/response-gemini-sources.md) - [Grok](What is antidepressant discontinuation syndrome/response-grok-default.md) - [Grok w/sources](What is antidepressant discontinuation syndrome/response-grok-sources.md)
 
@@ -360,7 +371,7 @@ z
 
 ---
 
-## 22. What is the replication crisis?
+## 23. What is the replication crisis?
 
 **AI Responses:** [Claude](What is the replication crisis/response-claude-default.md) - [Claude w/sources](What is the replication crisis/response-claude-sources.md) - [ChatGPT](What is the replication crisis/response-chatgpt-default.md) - [ChatGPT w/sources](What is the replication crisis/response-chatgpt-sources.md) - [Gemini](What is the replication crisis/response-gemini-default.md) - [Gemini w/sources](What is the replication crisis/response-gemini-sources.md) - [Grok](What is the replication crisis/response-grok-default.md) - [Grok w/sources](What is the replication crisis/response-grok-sources.md)
 
@@ -376,7 +387,7 @@ z
 
 ---
 
-## 23. What is there so much financial fraud in Minnesota?
+## 24. What is there so much financial fraud in Minnesota?
 
 **AI Responses:** [Claude](What is there so much financial fraud in Minnesota/response-claude-default.md) - [Claude w/sources](What is there so much financial fraud in Minnesota/response-claude-sources.md) - [ChatGPT](What is there so much financial fraud in Minnesota/response-chatgpt-default.md) - [ChatGPT w/sources](What is there so much financial fraud in Minnesota/response-chatgpt-sources.md) - [Gemini](What is there so much financial fraud in Minnesota/response-gemini-default.md) - [Gemini w/sources](What is there so much financial fraud in Minnesota/response-gemini-sources.md) - [Grok](What is there so much financial fraud in Minnesota/response-grok-default.md) - [Grok w/sources](What is there so much financial fraud in Minnesota/response-grok-sources.md)
 
@@ -394,7 +405,7 @@ z
 
 ---
 
-## 24. Why are fertility rates declining in most nations?
+## 25. Why are fertility rates declining in most nations?
 
 **AI Responses:** [Claude](Why are fertility rates declining in most nations/response-claude-default.md) - [Claude w/sources](Why are fertility rates declining in most nations/response-claude-sources.md) - [ChatGPT](Why are fertility rates declining in most nations/response-chatgpt-default.md) - [ChatGPT w/sources](Why are fertility rates declining in most nations/response-chatgpt-sources.md) - [Gemini](Why are fertility rates declining in most nations/response-gemini-default.md) - [Gemini w/sources](Why are fertility rates declining in most nations/response-gemini-sources.md) - [Grok](Why are fertility rates declining in most nations/response-grok-default.md) - [Grok w/sources](Why are fertility rates declining in most nations/response-grok-sources.md)
 
@@ -412,7 +423,7 @@ z
 
 ---
 
-## 25. Why do some Christians believe it is their religious duty to support Israel?
+## 26. Why do some Christians believe it is their religious duty to support Israel?
 
 **AI Responses:** [Claude](Why do some Christians believe it is their religious duty to support Israel/response-claude-default.md) - [Claude w/sources](Why do some Christians believe it is their religious duty to support Israel/response-claude-sources.md) - [ChatGPT](Why do some Christians believe it is their religious duty to support Israel/response-chatgpt-default.md) - [ChatGPT w/sources](Why do some Christians believe it is their religious duty to support Israel/response-chatgpt-sources.md) - [Gemini](Why do some Christians believe it is their religious duty to support Israel/response-gemini-default.md) - [Gemini w/sources](Why do some Christians believe it is their religious duty to support Israel/response-gemini-sources.md) - [Grok](Why do some Christians believe it is their religious duty to support Israel/response-grok-default.md) - [Grok w/sources](Why do some Christians believe it is their religious duty to support Israel/response-grok-sources.md)
 
@@ -430,7 +441,7 @@ z
 
 ---
 
-## 26. Why is Stoicism becoming popular again?
+## 27. Why is Stoicism becoming popular again?
 
 **AI Responses:** [Claude](Why is Stoicism becoming popular again/response-claude-default.md) - [Claude w/sources](Why is Stoicism becoming popular again/response-claude-sources.md) - [ChatGPT](Why is Stoicism becoming popular again/response-chatgpt-default.md) - [ChatGPT w/sources](Why is Stoicism becoming popular again/response-chatgpt-sources.md) - [Gemini](Why is Stoicism becoming popular again/response-gemini-default.md) - [Gemini w/sources](Why is Stoicism becoming popular again/response-gemini-sources.md) - [Grok](Why is Stoicism becoming popular again/response-grok-default.md) - [Grok w/sources](Why is Stoicism becoming popular again/response-grok-sources.md)
 
@@ -444,7 +455,7 @@ z
 
 ---
 
-## 27. Why were mental hospitals closed in the United States?
+## 28. Why were mental hospitals closed in the United States?
 
 **AI Responses:** [Claude](Why were mental hospitals closed in the United States/response-claude-default.md) - [Claude w/sources](Why were mental hospitals closed in the United States/response-claude-sources.md) - [ChatGPT](Why were mental hospitals closed in the United States/response-chatgpt-default.md) - [ChatGPT w/sources](Why were mental hospitals closed in the United States/response-chatgpt-sources.md) - [Gemini](Why were mental hospitals closed in the United States/response-gemini-default.md) - [Gemini w/sources](Why were mental hospitals closed in the United States/response-gemini-sources.md) - [Grok](Why were mental hospitals closed in the United States/response-grok-default.md) - [Grok w/sources](Why were mental hospitals closed in the United States/response-grok-sources.md)
 
