@@ -24,7 +24,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-06-30 20:03:34
+**Last Updated:** 2025-06-30 20:27:29
 
 ## Questions
 
@@ -38,7 +38,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `Are we living through a crisis of expertise/`
-**Last Updated:** 2025-06-30 20:03
+**Last Updated:** 2025-06-30 20:27
 
 ## 3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)
 
