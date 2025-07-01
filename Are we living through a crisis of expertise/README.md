@@ -1,8 +1,10 @@
 # Are we living through a crisis of expertise?
 
-**Generated:** 2025-06-15 10:55:55
+**Generated:** 2025-06-30 20:03:34
 
 ## Sources
+
+[📝 Edit sources on GitHub](https://github.com/justinwest/SuggestedSources/edit/main/Are%20we%20living%20through%20a%20crisis%20of%20expertise/sources.md)
 
 - [Frances Lee & Stephen Macedo on Why Institutions Failed During COVID](https://yaschamounk.substack.com/p/frances-lee-and-stephen-macedo) - *Yascha Mounk (Substack)*
 - [Elite failures and populist backlash](https://www.conspicuouscognition.com/p/elite-failures-and-populist-backlash) - *Conspicuous Cognition (Substack)*
@@ -20,7 +22,7 @@
 - [The Ten Warning Signs](https://www.honest-broker.com/p/the-ten-warning-signs) - *The Honest Broker (Substack)*
 - [When the New York Times lost its way](https://www.economist.com/1843/2023/12/14/when-the-new-york-times-lost-its-way) - *The Economist*
 - [Can You Trust Anybody?](https://www.wsj.com/opinion/can-you-trust-anybody-president-media-influencer-ai-aa13b7ea) - *The Wall Street Journal*
-x
+
 
 
 ## AI Responses

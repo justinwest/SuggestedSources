@@ -14,4 +14,4 @@
 - [The Ten Warning Signs](https://www.honest-broker.com/p/the-ten-warning-signs) - *The Honest Broker (Substack)*
 - [When the New York Times lost its way](https://www.economist.com/1843/2023/12/14/when-the-new-york-times-lost-its-way) - *The Economist*
 - [Can You Trust Anybody?](https://www.wsj.com/opinion/can-you-trust-anybody-president-media-influencer-ai-aa13b7ea) - *The Wall Street Journal*
-x
+
