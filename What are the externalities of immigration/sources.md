@@ -3,3 +3,4 @@
 * https://www.aporiamagazine.com/p/externalities-from-low-skilled-migration
 * https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf
 * https://archive.jwest.org/Articles/Green2025-RenaudCamus.pdf
+* https://archive.jwest.org/Research/Putnam2007-Diversity.pdf
