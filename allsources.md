@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-01 18:19:21
+**Last Updated:** 2025-07-02 09:39:04
 
 ---
 
@@ -294,6 +294,7 @@ z
 
 * https://www.lorenzofromoz.net/p/the-limits-of-social-science-i
 * https://www.lorenzofromoz.net/p/the-limits-of-social-science-ii
+* https://www.aporiamagazine.com/p/externalities-from-low-skilled-migration
 
 ---
 
