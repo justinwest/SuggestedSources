@@ -1,6 +1,6 @@
 # What are the externalities of immigration?
 
-**Generated:** 2025-07-02 12:06:10
+**Generated:** 2025-07-02 22:11:04
 
 ## Sources
 
@@ -11,6 +11,7 @@
 * https://www.aporiamagazine.com/p/externalities-from-low-skilled-migration
 * https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf
 * https://archive.jwest.org/Articles/Green2025-RenaudCamus.pdf
+* https://archive.jwest.org/Research/Putnam2007-Diversity.pdf
 
 
 ## AI Responses

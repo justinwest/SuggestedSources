@@ -21,7 +21,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-02 12:06:10
+**Last Updated:** 2025-07-02 22:11:04
 
 ## Questions
 
@@ -131,7 +131,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `What are the externalities of immigration/`
-**Last Updated:** 2025-07-02 12:06
+**Last Updated:** 2025-07-02 22:11
 
 ## 19. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)
 

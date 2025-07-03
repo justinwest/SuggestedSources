@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-02 12:06:10
+**Last Updated:** 2025-07-02 22:11:04
 
 ---
 
@@ -297,6 +297,7 @@ z
 * https://www.aporiamagazine.com/p/externalities-from-low-skilled-migration
 * https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf
 * https://archive.jwest.org/Articles/Green2025-RenaudCamus.pdf
+* https://archive.jwest.org/Research/Putnam2007-Diversity.pdf
 
 ---
 
