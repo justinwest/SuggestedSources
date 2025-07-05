@@ -21,7 +21,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-02 22:11:04
+**Last Updated:** 2025-07-04 20:44:15
 
 ## Questions
 
@@ -109,85 +109,91 @@ For a single page showing all questions and sources, [click here](allsources.md)
 **Folder:** `Is nuclear power safe/`
 **Last Updated:** 2025-06-23 17:30
 
-## 15. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)
+## 15. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)
+
+**Status:** ✅ Complete
+**Folder:** `Summarize the effects of the One Big Beautiful Bill Act/`
+**Last Updated:** 2025-07-04 20:44
+
+## 16. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Was the public misled about the UK grooming gang scandal/`
 **Last Updated:** 2025-06-21 23:08
 
-## 16. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)
+## 17. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Were the COVID-19 lockdowns effective/`
 **Last Updated:** 2025-06-13 11:13
 
-## 17. [What are luxury beliefs?](What are luxury beliefs/README.md)
+## 18. [What are luxury beliefs?](What are luxury beliefs/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What are luxury beliefs/`
 **Last Updated:** 2025-06-10 23:00
 
-## 18. [What are the externalities of immigration?](What are the externalities of immigration/README.md)
+## 19. [What are the externalities of immigration?](What are the externalities of immigration/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What are the externalities of immigration/`
 **Last Updated:** 2025-07-02 22:11
 
-## 19. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)
+## 20. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What caused the 2008 financial crisis/`
 **Last Updated:** 2025-06-13 11:14
 
-## 20. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)
+## 21. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What caused the crime spike in 2020 in the United States/`
 **Last Updated:** 2025-06-13 11:15
 
-## 21. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)
+## 22. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What explains the rise in autism diagnoses/`
 **Last Updated:** 2025-06-23 17:30
 
-## 22. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)
+## 23. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What is antidepressant discontinuation syndrome/`
 **Last Updated:** 2025-06-23 18:03
 
-## 23. [What is the replication crisis?](What is the replication crisis/README.md)
+## 24. [What is the replication crisis?](What is the replication crisis/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What is the replication crisis/`
 **Last Updated:** 2025-06-12 11:10
 
-## 24. [What is there so much financial fraud in Minnesota?](What is there so much financial fraud in Minnesota/README.md)
+## 25. [What is there so much financial fraud in Minnesota?](What is there so much financial fraud in Minnesota/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What is there so much financial fraud in Minnesota/`
 **Last Updated:** 2025-06-12 22:51
 
-## 25. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)
+## 26. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why are fertility rates declining in most nations/`
 **Last Updated:** 2025-06-27 08:21
 
-## 26. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)
+## 27. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why do some Christians believe it is their religious duty to support Israel/`
 **Last Updated:** 2025-06-21 15:50
 
-## 27. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)
+## 28. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why is Stoicism becoming popular again/`
 **Last Updated:** 2025-06-11 10:40
 
-## 28. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)
+## 29. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why were mental hospitals closed in the United States/`
@@ -195,17 +201,17 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 ## Statistics
 
-- **Total Questions:** 28
-- **Total Responses Generated:** 224/224
+- **Total Questions:** 29
+- **Total Responses Generated:** 232/232
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 28 | 28 | 56 |
-| Chatgpt | 28 | 28 | 56 |
-| Gemini | 28 | 28 | 56 |
-| Grok | 28 | 28 | 56 |
+| Claude | 29 | 29 | 58 |
+| Chatgpt | 29 | 29 | 58 |
+| Gemini | 29 | 29 | 58 |
+| Grok | 29 | 29 | 58 |
 
 ## About
 
