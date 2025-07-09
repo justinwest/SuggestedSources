@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-04 20:44:15
+**Last Updated:** 2025-07-08 19:04:58
 
 ---
 
@@ -130,7 +130,8 @@ z
 * [Heritability of lifetime earnings](https://link.springer.com/article/10.1007/s10888-019-09413-x) – *The Journal of Economic Inequality* 
 * [The genetic and environmental composition of socioeconomic status in Norway](https://www.nature.com/articles/s41467-025-58961-6) – *Nature Communications* 
 * [Associations between common genetic variants and income provide insights about the socio-economic health gradient](https://www.nature.com/articles/s41562-024-02080-7) – *Nature Human Behaviour* 
-* [Education, genes, and social mobility](https://www.eurekalert.org/news-releases/463685) – *EurekAlert!* (news release summarizing a *PNAS* study)
+* [Education, genes, and social mobility](https://www.eurekalert.org/news-releases/463685) – *EurekAlert!* (news release summarizing a *PNAS* study) 
+* https://www.nature.com/articles/s41467-025-58961-6
 
 ---
 
@@ -224,6 +225,7 @@ z
 * [The new genetics of intelligence](https://pmc.ncbi.nlm.nih.gov/articles/PMC5985927/) – *Nature Reviews Genetics (PMC Open Access)* 
 * https://icajournal.scholasticahq.com/article/140654-polygenic-score-prediction-within-and-between-sibling-pairs-for-intelligence-cognitive-abilities-and-educational-traits-from-childhood-to-early-adul
 * https://www.pnas.org/doi/10.1073/pnas.2426531122
+* https://jamesjlee.altervista.org/wp-content/uploads/2025/04/genetics_intelligence_CDPS.pdf
 
 ---
 

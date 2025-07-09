@@ -21,7 +21,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-04 20:44:15
+**Last Updated:** 2025-07-08 19:04:58
 
 ## Questions
 
@@ -65,7 +65,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `How do genes influence socio-economic status/`
-**Last Updated:** 2025-06-13 09:40
+**Last Updated:** 2025-07-08 19:04
 
 ## 8. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)
 

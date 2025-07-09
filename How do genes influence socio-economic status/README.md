@@ -1,8 +1,10 @@
 # How do genes influence socio-economic status?
 
-**Generated:** 2025-06-13 09:31:19
+**Generated:** 2025-07-08 19:04:58
 
 ## Sources
+
+[📝 Edit sources on GitHub](https://github.com/justinwest/SuggestedSources/edit/main/How%20do%20genes%20influence%20socio-economic%20status/sources.md)
 
 * [Genes, money, status… and comics](https://arutherford.substack.com/p/genes-money-status-and-comics) – *Punctuated Equilibrium* 
 * [Socio-economic status is a social construct with heritable components and genetic consequences](https://www.nature.com/articles/s41562-025-02150-4) – *Nature Human Behaviour* 
@@ -12,7 +14,7 @@
 * [The genetic and environmental composition of socioeconomic status in Norway](https://www.nature.com/articles/s41467-025-58961-6) – *Nature Communications* 
 * [Associations between common genetic variants and income provide insights about the socio-economic health gradient](https://www.nature.com/articles/s41562-024-02080-7) – *Nature Human Behaviour* 
 * [Education, genes, and social mobility](https://www.eurekalert.org/news-releases/463685) – *EurekAlert!* (news release summarizing a *PNAS* study) 
-
+* https://www.nature.com/articles/s41467-025-58961-6
 
 ## AI Responses
 
