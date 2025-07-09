@@ -6,3 +6,4 @@
 * [The genetic and environmental composition of socioeconomic status in Norway](https://www.nature.com/articles/s41467-025-58961-6) – *Nature Communications* 
 * [Associations between common genetic variants and income provide insights about the socio-economic health gradient](https://www.nature.com/articles/s41562-024-02080-7) – *Nature Human Behaviour* 
 * [Education, genes, and social mobility](https://www.eurekalert.org/news-releases/463685) – *EurekAlert!* (news release summarizing a *PNAS* study) 
+* https://www.nature.com/articles/s41467-025-58961-6
