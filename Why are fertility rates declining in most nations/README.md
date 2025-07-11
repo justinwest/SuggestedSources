@@ -1,8 +1,10 @@
 # Why are fertility rates declining in most nations?
 
-**Generated:** 2025-06-27 08:21:15
+**Generated:** 2025-07-10 20:54:20
 
 ## Sources
+
+[📝 Edit sources on GitHub](https://github.com/justinwest/SuggestedSources/edit/main/Why%20are%20fertility%20rates%20declining%20in%20most%20nations/sources.md)
 
 * [JD Vance, Elon Musk Are Right About Falling Birth Rates — Here’s Where They Get It Wrong](https://thehill.com/opinion/healthcare/5140744-genetics-fertility-musk-vance-pronatalist/) – *The Hill*
 * [Fertility rate, total (births per woman)](https://data.worldbank.org/indicator/SP.DYN.TFRT.IN) – *World Bank*
@@ -13,6 +15,7 @@
 * [You Decide: Should We Worry About the Declining Birth Rate?](https://cals.ncsu.edu/news/you-decide-should-we-worry-about-the-declining-birth-rate/) – *NC State CALS News*
 * [What Is Driving the Global Decline of Human Fertility? Need for a Multidisciplinary Approach to the Underlying Mechanisms](https://pmc.ncbi.nlm.nih.gov/articles/PMC11079147/) – *Frontiers in Reproductive Health*
 * [The dawn of the posthuman age](https://www.noahpinion.blog/p/the-dawn-of-the-posthuman-age) - *Noah Smith*
+* https://www.theatlantic.com/ideas/archive/2025/06/birth-rate-population-decline/683333/
 
 
 ## AI Responses

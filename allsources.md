@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-10 20:48:32
+**Last Updated:** 2025-07-10 20:54:20
 
 ---
 
@@ -436,6 +436,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 * [You Decide: Should We Worry About the Declining Birth Rate?](https://cals.ncsu.edu/news/you-decide-should-we-worry-about-the-declining-birth-rate/) – *NC State CALS News*
 * [What Is Driving the Global Decline of Human Fertility? Need for a Multidisciplinary Approach to the Underlying Mechanisms](https://pmc.ncbi.nlm.nih.gov/articles/PMC11079147/) – *Frontiers in Reproductive Health*
 * [The dawn of the posthuman age](https://www.noahpinion.blog/p/the-dawn-of-the-posthuman-age) - *Noah Smith*
+* https://www.theatlantic.com/ideas/archive/2025/06/birth-rate-population-decline/683333/
 
 ---
 

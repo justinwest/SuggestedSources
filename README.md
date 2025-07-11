@@ -22,7 +22,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-10 20:48:32
+**Last Updated:** 2025-07-10 20:54:20
 
 ## Questions
 
@@ -180,7 +180,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why are fertility rates declining in most nations/`
-**Last Updated:** 2025-06-27 08:21
+**Last Updated:** 2025-07-10 20:54
 
 ## 27. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)
 
