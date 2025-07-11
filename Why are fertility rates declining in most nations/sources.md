@@ -8,4 +8,4 @@
 * [What Is Driving the Global Decline of Human Fertility? Need for a Multidisciplinary Approach to the Underlying Mechanisms](https://pmc.ncbi.nlm.nih.gov/articles/PMC11079147/) – *Frontiers in Reproductive Health*
 * [The dawn of the posthuman age](https://www.noahpinion.blog/p/the-dawn-of-the-posthuman-age) - *Noah Smith*
 * [The Birth-Rate Crisis Isn’t as Bad as You’ve Heard—It’s Worse](https://www.theatlantic.com/ideas/archive/2025/06/birth-rate-population-decline/683333/) *The Atlantic*
-
+* https://philipskogsberg.substack.com/p/where-have-all-the-babies-gone

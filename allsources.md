@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-11 08:45:12
+**Last Updated:** 2025-07-11 09:26:26
 
 ---
 
@@ -437,6 +437,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 * [What Is Driving the Global Decline of Human Fertility? Need for a Multidisciplinary Approach to the Underlying Mechanisms](https://pmc.ncbi.nlm.nih.gov/articles/PMC11079147/) – *Frontiers in Reproductive Health*
 * [The dawn of the posthuman age](https://www.noahpinion.blog/p/the-dawn-of-the-posthuman-age) - *Noah Smith*
 * [The Birth-Rate Crisis Isn’t as Bad as You’ve Heard—It’s Worse](https://www.theatlantic.com/ideas/archive/2025/06/birth-rate-population-decline/683333/) *The Atlantic*
+* https://philipskogsberg.substack.com/p/where-have-all-the-babies-gone
 
 ---
 

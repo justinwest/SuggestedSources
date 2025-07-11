@@ -1,5 +1,5 @@
 
-This is a comparative AI response system that automatically generates and organizes responses from multiple AI models (Claude, ChatGPT, Gemini, and Grok) to user-defined questions, both with and without suggested sources. All responses are included directly in each question's README file for easy comparison.
+This is a comparative AI response system that automatically generates and organizes responses from multiple AI models (Claude, ChatGPT, Gemini, and Grok) to user-defined questions, both with and without suggested sources.
 
 **Use Cases:**
 
@@ -23,7 +23,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-11 08:45:12
+**Last Updated:** 2025-07-11 09:26:26
 
 ## Questions
 
@@ -181,7 +181,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why are fertility rates declining in most nations/`
-**Last Updated:** 2025-07-11 08:45
+**Last Updated:** 2025-07-11 09:26
 
 ## 27. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)
 
