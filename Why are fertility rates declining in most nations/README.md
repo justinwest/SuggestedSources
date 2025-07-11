@@ -1,6 +1,6 @@
 # Why are fertility rates declining in most nations?
 
-**Generated:** 2025-07-10 20:54:20
+**Generated:** 2025-07-10 21:18:45
 
 ## Sources
 
@@ -16,6 +16,7 @@
 * [What Is Driving the Global Decline of Human Fertility? Need for a Multidisciplinary Approach to the Underlying Mechanisms](https://pmc.ncbi.nlm.nih.gov/articles/PMC11079147/) – *Frontiers in Reproductive Health*
 * [The dawn of the posthuman age](https://www.noahpinion.blog/p/the-dawn-of-the-posthuman-age) - *Noah Smith*
 * https://www.theatlantic.com/ideas/archive/2025/06/birth-rate-population-decline/683333/
+z
 
 
 ## AI Responses
