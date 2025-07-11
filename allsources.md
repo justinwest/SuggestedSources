@@ -2,13 +2,13 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-10 21:18:45
+**Last Updated:** 2025-07-10 21:29:43
 
 ---
 
 ## 1. Are smartphones harming adolescent mental health?
 
-**AI Responses:** [Claude](Are smartphones harming adolescent mental health/response-claude-default.md) - [Claude w/sources](Are smartphones harming adolescent mental health/response-claude-sources.md) - [ChatGPT](Are smartphones harming adolescent mental health/response-chatgpt-default.md) - [ChatGPT w/sources](Are smartphones harming adolescent mental health/response-chatgpt-sources.md) - [Gemini](Are smartphones harming adolescent mental health/response-gemini-default.md) - [Gemini w/sources](Are smartphones harming adolescent mental health/response-gemini-sources.md) - [Grok](Are smartphones harming adolescent mental health/response-grok-default.md) - [Grok w/sources](Are smartphones harming adolescent mental health/response-grok-sources.md)
+**[📄 View All Responses](Are smartphones harming adolescent mental health/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -25,7 +25,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ## 2. Are we living through a crisis of expertise?
 
-**AI Responses:** [Claude](Are we living through a crisis of expertise/response-claude-default.md) - [Claude w/sources](Are we living through a crisis of expertise/response-claude-sources.md) - [ChatGPT](Are we living through a crisis of expertise/response-chatgpt-default.md) - [ChatGPT w/sources](Are we living through a crisis of expertise/response-chatgpt-sources.md) - [Gemini](Are we living through a crisis of expertise/response-gemini-default.md) - [Gemini w/sources](Are we living through a crisis of expertise/response-gemini-sources.md) - [Grok](Are we living through a crisis of expertise/response-grok-default.md) - [Grok w/sources](Are we living through a crisis of expertise/response-grok-sources.md)
+**[📄 View All Responses](Are we living through a crisis of expertise/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -50,7 +50,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ## 3. Did COVID-19 leak from a lab or did it have natural origins?
 
-**AI Responses:** [Claude](Did COVID-19 leak from a lab or did it have natural origins/response-claude-default.md) - [Claude w/sources](Did COVID-19 leak from a lab or did it have natural origins/response-claude-sources.md) - [ChatGPT](Did COVID-19 leak from a lab or did it have natural origins/response-chatgpt-default.md) - [ChatGPT w/sources](Did COVID-19 leak from a lab or did it have natural origins/response-chatgpt-sources.md) - [Gemini](Did COVID-19 leak from a lab or did it have natural origins/response-gemini-default.md) - [Gemini w/sources](Did COVID-19 leak from a lab or did it have natural origins/response-gemini-sources.md) - [Grok](Did COVID-19 leak from a lab or did it have natural origins/response-grok-default.md) - [Grok w/sources](Did COVID-19 leak from a lab or did it have natural origins/response-grok-sources.md)
+**[📄 View All Responses](Did COVID-19 leak from a lab or did it have natural origins/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -68,7 +68,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ## 4. Does gender affirming care lower youth suicide risk?
 
-**AI Responses:** [Claude](Does gender affirming care lower youth suicide risk/response-claude-default.md) - [Claude w/sources](Does gender affirming care lower youth suicide risk/response-claude-sources.md) - [ChatGPT](Does gender affirming care lower youth suicide risk/response-chatgpt-default.md) - [ChatGPT w/sources](Does gender affirming care lower youth suicide risk/response-chatgpt-sources.md) - [Gemini](Does gender affirming care lower youth suicide risk/response-gemini-default.md) - [Gemini w/sources](Does gender affirming care lower youth suicide risk/response-gemini-sources.md) - [Grok](Does gender affirming care lower youth suicide risk/response-grok-default.md) - [Grok w/sources](Does gender affirming care lower youth suicide risk/response-grok-sources.md)
+**[📄 View All Responses](Does gender affirming care lower youth suicide risk/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -87,7 +87,7 @@ z
 
 ## 5. How accurate are IQ tests?
 
-**AI Responses:** [Claude](How accurate are IQ tests/response-claude-default.md) - [Claude w/sources](How accurate are IQ tests/response-claude-sources.md) - [ChatGPT](How accurate are IQ tests/response-chatgpt-default.md) - [ChatGPT w/sources](How accurate are IQ tests/response-chatgpt-sources.md) - [Gemini](How accurate are IQ tests/response-gemini-default.md) - [Gemini w/sources](How accurate are IQ tests/response-gemini-sources.md) - [Grok](How accurate are IQ tests/response-grok-default.md) - [Grok w/sources](How accurate are IQ tests/response-grok-sources.md)
+**[📄 View All Responses](How accurate are IQ tests/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -103,7 +103,7 @@ z
 
 ## 6. How accurate was press coverage of President Biden's mental decline?
 
-**AI Responses:** [Claude](How accurate was press coverage of President Biden's mental decline/response-claude-default.md) - [Claude w/sources](How accurate was press coverage of President Biden's mental decline/response-claude-sources.md) - [ChatGPT](How accurate was press coverage of President Biden's mental decline/response-chatgpt-default.md) - [ChatGPT w/sources](How accurate was press coverage of President Biden's mental decline/response-chatgpt-sources.md) - [Gemini](How accurate was press coverage of President Biden's mental decline/response-gemini-default.md) - [Gemini w/sources](How accurate was press coverage of President Biden's mental decline/response-gemini-sources.md) - [Grok](How accurate was press coverage of President Biden's mental decline/response-grok-default.md) - [Grok w/sources](How accurate was press coverage of President Biden's mental decline/response-grok-sources.md)
+**[📄 View All Responses](How accurate was press coverage of President Biden's mental decline/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -119,7 +119,7 @@ z
 
 ## 7. How do genes influence socio-economic status?
 
-**AI Responses:** [Claude](How do genes influence socio-economic status/response-claude-default.md) - [Claude w/sources](How do genes influence socio-economic status/response-claude-sources.md) - [ChatGPT](How do genes influence socio-economic status/response-chatgpt-default.md) - [ChatGPT w/sources](How do genes influence socio-economic status/response-chatgpt-sources.md) - [Gemini](How do genes influence socio-economic status/response-gemini-default.md) - [Gemini w/sources](How do genes influence socio-economic status/response-gemini-sources.md) - [Grok](How do genes influence socio-economic status/response-grok-default.md) - [Grok w/sources](How do genes influence socio-economic status/response-grok-sources.md)
+**[📄 View All Responses](How do genes influence socio-economic status/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -137,7 +137,7 @@ z
 
 ## 8. How do you distinguish good science from propaganda?
 
-**AI Responses:** [Claude](How do you distinguish good science from propaganda/response-claude-default.md) - [Claude w/sources](How do you distinguish good science from propaganda/response-claude-sources.md) - [ChatGPT](How do you distinguish good science from propaganda/response-chatgpt-default.md) - [ChatGPT w/sources](How do you distinguish good science from propaganda/response-chatgpt-sources.md) - [Gemini](How do you distinguish good science from propaganda/response-gemini-default.md) - [Gemini w/sources](How do you distinguish good science from propaganda/response-gemini-sources.md) - [Grok](How do you distinguish good science from propaganda/response-grok-default.md) - [Grok w/sources](How do you distinguish good science from propaganda/response-grok-sources.md)
+**[📄 View All Responses](How do you distinguish good science from propaganda/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -150,7 +150,7 @@ z
 
 ## 9. How does school spending in the United States compare to other nations?
 
-**AI Responses:** [Claude](How does school spending in the United States compare to other nations/response-claude-default.md) - [Claude w/sources](How does school spending in the United States compare to other nations/response-claude-sources.md) - [ChatGPT](How does school spending in the United States compare to other nations/response-chatgpt-default.md) - [ChatGPT w/sources](How does school spending in the United States compare to other nations/response-chatgpt-sources.md) - [Gemini](How does school spending in the United States compare to other nations/response-gemini-default.md) - [Gemini w/sources](How does school spending in the United States compare to other nations/response-gemini-sources.md) - [Grok](How does school spending in the United States compare to other nations/response-grok-default.md) - [Grok w/sources](How does school spending in the United States compare to other nations/response-grok-sources.md)
+**[📄 View All Responses](How does school spending in the United States compare to other nations/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -166,7 +166,7 @@ z
 
 ## 10. How many Americans have died due to fentanyl?
 
-**AI Responses:** [Claude](How many Americans have died due to fentanyl/response-claude-default.md) - [Claude w/sources](How many Americans have died due to fentanyl/response-claude-sources.md) - [ChatGPT](How many Americans have died due to fentanyl/response-chatgpt-default.md) - [ChatGPT w/sources](How many Americans have died due to fentanyl/response-chatgpt-sources.md) - [Gemini](How many Americans have died due to fentanyl/response-gemini-default.md) - [Gemini w/sources](How many Americans have died due to fentanyl/response-gemini-sources.md) - [Grok](How many Americans have died due to fentanyl/response-grok-default.md) - [Grok w/sources](How many Americans have died due to fentanyl/response-grok-sources.md)
+**[📄 View All Responses](How many Americans have died due to fentanyl/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -187,7 +187,7 @@ z
 
 ## 11. How many immigrants are in the United States illegally?
 
-**AI Responses:** [Claude](How many immigrants are in the United States illegally/response-claude-default.md) - [Claude w/sources](How many immigrants are in the United States illegally/response-claude-sources.md) - [ChatGPT](How many immigrants are in the United States illegally/response-chatgpt-default.md) - [ChatGPT w/sources](How many immigrants are in the United States illegally/response-chatgpt-sources.md) - [Gemini](How many immigrants are in the United States illegally/response-gemini-default.md) - [Gemini w/sources](How many immigrants are in the United States illegally/response-gemini-sources.md) - [Grok](How many immigrants are in the United States illegally/response-grok-default.md) - [Grok w/sources](How many immigrants are in the United States illegally/response-grok-sources.md)
+**[📄 View All Responses](How many immigrants are in the United States illegally/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -197,7 +197,7 @@ z
 
 ## 12. How much of a problem is misinformation?
 
-**AI Responses:** [Claude](How much of a problem is misinformation/response-claude-default.md) - [Claude w/sources](How much of a problem is misinformation/response-claude-sources.md) - [ChatGPT](How much of a problem is misinformation/response-chatgpt-default.md) - [ChatGPT w/sources](How much of a problem is misinformation/response-chatgpt-sources.md) - [Gemini](How much of a problem is misinformation/response-gemini-default.md) - [Gemini w/sources](How much of a problem is misinformation/response-gemini-sources.md) - [Grok](How much of a problem is misinformation/response-grok-default.md) - [Grok w/sources](How much of a problem is misinformation/response-grok-sources.md)
+**[📄 View All Responses](How much of a problem is misinformation/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -212,7 +212,7 @@ z
 
 ## 13. How much of intelligence is hereditary?
 
-**AI Responses:** [Claude](How much of intelligence is hereditary/response-claude-default.md) - [Claude w/sources](How much of intelligence is hereditary/response-claude-sources.md) - [ChatGPT](How much of intelligence is hereditary/response-chatgpt-default.md) - [ChatGPT w/sources](How much of intelligence is hereditary/response-chatgpt-sources.md) - [Gemini](How much of intelligence is hereditary/response-gemini-default.md) - [Gemini w/sources](How much of intelligence is hereditary/response-gemini-sources.md) - [Grok](How much of intelligence is hereditary/response-grok-default.md) - [Grok w/sources](How much of intelligence is hereditary/response-grok-sources.md)
+**[📄 View All Responses](How much of intelligence is hereditary/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -231,7 +231,7 @@ z
 
 ## 14. Is nuclear power safe?
 
-**AI Responses:** [Claude](Is nuclear power safe/response-claude-default.md) - [Claude w/sources](Is nuclear power safe/response-claude-sources.md) - [ChatGPT](Is nuclear power safe/response-chatgpt-default.md) - [ChatGPT w/sources](Is nuclear power safe/response-chatgpt-sources.md) - [Gemini](Is nuclear power safe/response-gemini-default.md) - [Gemini w/sources](Is nuclear power safe/response-gemini-sources.md) - [Grok](Is nuclear power safe/response-grok-default.md) - [Grok w/sources](Is nuclear power safe/response-grok-sources.md)
+**[📄 View All Responses](Is nuclear power safe/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -245,7 +245,7 @@ z
 
 ## 15. Summarize the effects of the One Big Beautiful Bill Act?
 
-**AI Responses:** [Claude](Summarize the effects of the One Big Beautiful Bill Act/response-claude-default.md) - [Claude w/sources](Summarize the effects of the One Big Beautiful Bill Act/response-claude-sources.md) - [ChatGPT](Summarize the effects of the One Big Beautiful Bill Act/response-chatgpt-default.md) - [ChatGPT w/sources](Summarize the effects of the One Big Beautiful Bill Act/response-chatgpt-sources.md) - [Gemini](Summarize the effects of the One Big Beautiful Bill Act/response-gemini-default.md) - [Gemini w/sources](Summarize the effects of the One Big Beautiful Bill Act/response-gemini-sources.md) - [Grok](Summarize the effects of the One Big Beautiful Bill Act/response-grok-default.md) - [Grok w/sources](Summarize the effects of the One Big Beautiful Bill Act/response-grok-sources.md)
+**[📄 View All Responses](Summarize the effects of the One Big Beautiful Bill Act/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -255,7 +255,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ## 16. Was the public misled about the UK grooming gang scandal?
 
-**AI Responses:** [Claude](Was the public misled about the UK grooming gang scandal/response-claude-default.md) - [Claude w/sources](Was the public misled about the UK grooming gang scandal/response-claude-sources.md) - [ChatGPT](Was the public misled about the UK grooming gang scandal/response-chatgpt-default.md) - [ChatGPT w/sources](Was the public misled about the UK grooming gang scandal/response-chatgpt-sources.md) - [Gemini](Was the public misled about the UK grooming gang scandal/response-gemini-default.md) - [Gemini w/sources](Was the public misled about the UK grooming gang scandal/response-gemini-sources.md) - [Grok](Was the public misled about the UK grooming gang scandal/response-grok-default.md) - [Grok w/sources](Was the public misled about the UK grooming gang scandal/response-grok-sources.md)
+**[📄 View All Responses](Was the public misled about the UK grooming gang scandal/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -271,7 +271,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ## 17. Were the COVID-19 lockdowns effective?
 
-**AI Responses:** [Claude](Were the COVID-19 lockdowns effective/response-claude-default.md) - [Claude w/sources](Were the COVID-19 lockdowns effective/response-claude-sources.md) - [ChatGPT](Were the COVID-19 lockdowns effective/response-chatgpt-default.md) - [ChatGPT w/sources](Were the COVID-19 lockdowns effective/response-chatgpt-sources.md) - [Gemini](Were the COVID-19 lockdowns effective/response-gemini-default.md) - [Gemini w/sources](Were the COVID-19 lockdowns effective/response-gemini-sources.md) - [Grok](Were the COVID-19 lockdowns effective/response-grok-default.md) - [Grok w/sources](Were the COVID-19 lockdowns effective/response-grok-sources.md)
+**[📄 View All Responses](Were the COVID-19 lockdowns effective/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -285,7 +285,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ## 18. What are luxury beliefs?
 
-**AI Responses:** [Claude](What are luxury beliefs/response-claude-default.md) - [Claude w/sources](What are luxury beliefs/response-claude-sources.md) - [ChatGPT](What are luxury beliefs/response-chatgpt-default.md) - [ChatGPT w/sources](What are luxury beliefs/response-chatgpt-sources.md) - [Gemini](What are luxury beliefs/response-gemini-default.md) - [Gemini w/sources](What are luxury beliefs/response-gemini-sources.md) - [Grok](What are luxury beliefs/response-grok-default.md) - [Grok w/sources](What are luxury beliefs/response-grok-sources.md)
+**[📄 View All Responses](What are luxury beliefs/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -300,7 +300,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ## 19. What are the externalities of immigration?
 
-**AI Responses:** [Claude](What are the externalities of immigration/response-claude-default.md) - [Claude w/sources](What are the externalities of immigration/response-claude-sources.md) - [ChatGPT](What are the externalities of immigration/response-chatgpt-default.md) - [ChatGPT w/sources](What are the externalities of immigration/response-chatgpt-sources.md) - [Gemini](What are the externalities of immigration/response-gemini-default.md) - [Gemini w/sources](What are the externalities of immigration/response-gemini-sources.md) - [Grok](What are the externalities of immigration/response-grok-default.md) - [Grok w/sources](What are the externalities of immigration/response-grok-sources.md)
+**[📄 View All Responses](What are the externalities of immigration/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -315,7 +315,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ## 20. What caused the 2008 financial crisis?
 
-**AI Responses:** [Claude](What caused the 2008 financial crisis/response-claude-default.md) - [Claude w/sources](What caused the 2008 financial crisis/response-claude-sources.md) - [ChatGPT](What caused the 2008 financial crisis/response-chatgpt-default.md) - [ChatGPT w/sources](What caused the 2008 financial crisis/response-chatgpt-sources.md) - [Gemini](What caused the 2008 financial crisis/response-gemini-default.md) - [Gemini w/sources](What caused the 2008 financial crisis/response-gemini-sources.md) - [Grok](What caused the 2008 financial crisis/response-grok-default.md) - [Grok w/sources](What caused the 2008 financial crisis/response-grok-sources.md)
+**[📄 View All Responses](What caused the 2008 financial crisis/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -334,7 +334,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ## 21. What caused the crime spike in 2020 in the United States?
 
-**AI Responses:** [Claude](What caused the crime spike in 2020 in the United States/response-claude-default.md) - [Claude w/sources](What caused the crime spike in 2020 in the United States/response-claude-sources.md) - [ChatGPT](What caused the crime spike in 2020 in the United States/response-chatgpt-default.md) - [ChatGPT w/sources](What caused the crime spike in 2020 in the United States/response-chatgpt-sources.md) - [Gemini](What caused the crime spike in 2020 in the United States/response-gemini-default.md) - [Gemini w/sources](What caused the crime spike in 2020 in the United States/response-gemini-sources.md) - [Grok](What caused the crime spike in 2020 in the United States/response-grok-default.md) - [Grok w/sources](What caused the crime spike in 2020 in the United States/response-grok-sources.md)
+**[📄 View All Responses](What caused the crime spike in 2020 in the United States/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -351,7 +351,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ## 22. What explains the rise in autism diagnoses?
 
-**AI Responses:** [Claude](What explains the rise in autism diagnoses/response-claude-default.md) - [Claude w/sources](What explains the rise in autism diagnoses/response-claude-sources.md) - [ChatGPT](What explains the rise in autism diagnoses/response-chatgpt-default.md) - [ChatGPT w/sources](What explains the rise in autism diagnoses/response-chatgpt-sources.md) - [Gemini](What explains the rise in autism diagnoses/response-gemini-default.md) - [Gemini w/sources](What explains the rise in autism diagnoses/response-gemini-sources.md) - [Grok](What explains the rise in autism diagnoses/response-grok-default.md) - [Grok w/sources](What explains the rise in autism diagnoses/response-grok-sources.md)
+**[📄 View All Responses](What explains the rise in autism diagnoses/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -375,7 +375,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ## 23. What is antidepressant discontinuation syndrome?
 
-**AI Responses:** [Claude](What is antidepressant discontinuation syndrome/response-claude-default.md) - [Claude w/sources](What is antidepressant discontinuation syndrome/response-claude-sources.md) - [ChatGPT](What is antidepressant discontinuation syndrome/response-chatgpt-default.md) - [ChatGPT w/sources](What is antidepressant discontinuation syndrome/response-chatgpt-sources.md) - [Gemini](What is antidepressant discontinuation syndrome/response-gemini-default.md) - [Gemini w/sources](What is antidepressant discontinuation syndrome/response-gemini-sources.md) - [Grok](What is antidepressant discontinuation syndrome/response-grok-default.md) - [Grok w/sources](What is antidepressant discontinuation syndrome/response-grok-sources.md)
+**[📄 View All Responses](What is antidepressant discontinuation syndrome/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -389,7 +389,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ## 24. What is the replication crisis?
 
-**AI Responses:** [Claude](What is the replication crisis/response-claude-default.md) - [Claude w/sources](What is the replication crisis/response-claude-sources.md) - [ChatGPT](What is the replication crisis/response-chatgpt-default.md) - [ChatGPT w/sources](What is the replication crisis/response-chatgpt-sources.md) - [Gemini](What is the replication crisis/response-gemini-default.md) - [Gemini w/sources](What is the replication crisis/response-gemini-sources.md) - [Grok](What is the replication crisis/response-grok-default.md) - [Grok w/sources](What is the replication crisis/response-grok-sources.md)
+**[📄 View All Responses](What is the replication crisis/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -405,7 +405,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ## 25. What is there so much financial fraud in Minnesota?
 
-**AI Responses:** [Claude](What is there so much financial fraud in Minnesota/response-claude-default.md) - [Claude w/sources](What is there so much financial fraud in Minnesota/response-claude-sources.md) - [ChatGPT](What is there so much financial fraud in Minnesota/response-chatgpt-default.md) - [ChatGPT w/sources](What is there so much financial fraud in Minnesota/response-chatgpt-sources.md) - [Gemini](What is there so much financial fraud in Minnesota/response-gemini-default.md) - [Gemini w/sources](What is there so much financial fraud in Minnesota/response-gemini-sources.md) - [Grok](What is there so much financial fraud in Minnesota/response-grok-default.md) - [Grok w/sources](What is there so much financial fraud in Minnesota/response-grok-sources.md)
+**[📄 View All Responses](What is there so much financial fraud in Minnesota/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -423,7 +423,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ## 26. Why are fertility rates declining in most nations?
 
-**AI Responses:** [Claude](Why are fertility rates declining in most nations/response-claude-default.md) - [Claude w/sources](Why are fertility rates declining in most nations/response-claude-sources.md) - [ChatGPT](Why are fertility rates declining in most nations/response-chatgpt-default.md) - [ChatGPT w/sources](Why are fertility rates declining in most nations/response-chatgpt-sources.md) - [Gemini](Why are fertility rates declining in most nations/response-gemini-default.md) - [Gemini w/sources](Why are fertility rates declining in most nations/response-gemini-sources.md) - [Grok](Why are fertility rates declining in most nations/response-grok-default.md) - [Grok w/sources](Why are fertility rates declining in most nations/response-grok-sources.md)
+**[📄 View All Responses](Why are fertility rates declining in most nations/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -443,7 +443,7 @@ z
 
 ## 27. Why do some Christians believe it is their religious duty to support Israel?
 
-**AI Responses:** [Claude](Why do some Christians believe it is their religious duty to support Israel/response-claude-default.md) - [Claude w/sources](Why do some Christians believe it is their religious duty to support Israel/response-claude-sources.md) - [ChatGPT](Why do some Christians believe it is their religious duty to support Israel/response-chatgpt-default.md) - [ChatGPT w/sources](Why do some Christians believe it is their religious duty to support Israel/response-chatgpt-sources.md) - [Gemini](Why do some Christians believe it is their religious duty to support Israel/response-gemini-default.md) - [Gemini w/sources](Why do some Christians believe it is their religious duty to support Israel/response-gemini-sources.md) - [Grok](Why do some Christians believe it is their religious duty to support Israel/response-grok-default.md) - [Grok w/sources](Why do some Christians believe it is their religious duty to support Israel/response-grok-sources.md)
+**[📄 View All Responses](Why do some Christians believe it is their religious duty to support Israel/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -461,7 +461,7 @@ z
 
 ## 28. Why is Stoicism becoming popular again?
 
-**AI Responses:** [Claude](Why is Stoicism becoming popular again/response-claude-default.md) - [Claude w/sources](Why is Stoicism becoming popular again/response-claude-sources.md) - [ChatGPT](Why is Stoicism becoming popular again/response-chatgpt-default.md) - [ChatGPT w/sources](Why is Stoicism becoming popular again/response-chatgpt-sources.md) - [Gemini](Why is Stoicism becoming popular again/response-gemini-default.md) - [Gemini w/sources](Why is Stoicism becoming popular again/response-gemini-sources.md) - [Grok](Why is Stoicism becoming popular again/response-grok-default.md) - [Grok w/sources](Why is Stoicism becoming popular again/response-grok-sources.md)
+**[📄 View All Responses](Why is Stoicism becoming popular again/README.md)** - Contains all AI responses inline
 
 ### Sources
 
@@ -475,7 +475,7 @@ z
 
 ## 29. Why were mental hospitals closed in the United States?
 
-**AI Responses:** [Claude](Why were mental hospitals closed in the United States/response-claude-default.md) - [Claude w/sources](Why were mental hospitals closed in the United States/response-claude-sources.md) - [ChatGPT](Why were mental hospitals closed in the United States/response-chatgpt-default.md) - [ChatGPT w/sources](Why were mental hospitals closed in the United States/response-chatgpt-sources.md) - [Gemini](Why were mental hospitals closed in the United States/response-gemini-default.md) - [Gemini w/sources](Why were mental hospitals closed in the United States/response-gemini-sources.md) - [Grok](Why were mental hospitals closed in the United States/response-grok-default.md) - [Grok w/sources](Why were mental hospitals closed in the United States/response-grok-sources.md)
+**[📄 View All Responses](Why were mental hospitals closed in the United States/README.md)** - Contains all AI responses inline
 
 ### Sources
 
