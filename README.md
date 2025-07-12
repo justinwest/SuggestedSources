@@ -23,7 +23,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-12 17:12:11
+**Last Updated:** 2025-07-12 18:18:42
 
 ## Questions
 
@@ -63,139 +63,145 @@ For a single page showing all questions and sources, [click here](allsources.md)
 **Folder:** `How accurate was press coverage of President Biden's mental decline/`
 **Last Updated:** 2025-07-12 12:59
 
-## 7. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)
+## 7. [How accurate were economists' predications about immigration?](How accurate were economists' predications about immigration/README.md)
+
+**Status:** ⏳ In Progress (6/8 responses)
+**Folder:** `How accurate were economists' predications about immigration/`
+**Last Updated:** 2025-07-12 18:18
+
+## 8. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How do genes influence socio-economic status/`
 **Last Updated:** 2025-07-08 19:04
 
-## 8. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)
+## 9. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How do you distinguish good science from propaganda/`
 **Last Updated:** 2025-06-13 09:40
 
-## 9. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)
+## 10. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How does school spending in the United States compare to other nations/`
 **Last Updated:** 2025-06-13 09:40
 
-## 10. [How many Americans have died due to fentanyl?](How many Americans have died due to fentanyl/README.md)
+## 11. [How many Americans have died due to fentanyl?](How many Americans have died due to fentanyl/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How many Americans have died due to fentanyl/`
 **Last Updated:** 2025-06-10 22:00
 
-## 11. [How many immigrants are in the United States illegally?](How many immigrants are in the United States illegally/README.md)
+## 12. [How many immigrants are in the United States illegally?](How many immigrants are in the United States illegally/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How many immigrants are in the United States illegally/`
 **Last Updated:** 2025-06-10 22:01
 
-## 12. [How much of a problem is misinformation?](How much of a problem is misinformation/README.md)
+## 13. [How much of a problem is misinformation?](How much of a problem is misinformation/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How much of a problem is misinformation/`
 **Last Updated:** 2025-06-18 11:56
 
-## 13. [How much of intelligence is hereditary?](How much of intelligence is hereditary/README.md)
+## 14. [How much of intelligence is hereditary?](How much of intelligence is hereditary/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `How much of intelligence is hereditary/`
 **Last Updated:** 2025-07-08 19:11
 
-## 14. [Is nuclear power safe?](Is nuclear power safe/README.md)
+## 15. [Is nuclear power safe?](Is nuclear power safe/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Is nuclear power safe/`
 **Last Updated:** 2025-06-23 17:30
 
-## 15. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)
+## 16. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Summarize the effects of the One Big Beautiful Bill Act/`
 **Last Updated:** 2025-07-04 20:44
 
-## 16. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)
+## 17. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Was the public misled about the UK grooming gang scandal/`
 **Last Updated:** 2025-06-21 23:08
 
-## 17. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)
+## 18. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Were the COVID-19 lockdowns effective/`
 **Last Updated:** 2025-06-13 11:13
 
-## 18. [What are luxury beliefs?](What are luxury beliefs/README.md)
+## 19. [What are luxury beliefs?](What are luxury beliefs/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What are luxury beliefs/`
 **Last Updated:** 2025-06-10 23:00
 
-## 19. [What are the externalities of immigration?](What are the externalities of immigration/README.md)
+## 20. [What are the externalities of immigration?](What are the externalities of immigration/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What are the externalities of immigration/`
 **Last Updated:** 2025-07-02 22:11
 
-## 20. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)
+## 21. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What caused the 2008 financial crisis/`
 **Last Updated:** 2025-06-13 11:14
 
-## 21. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)
+## 22. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What caused the crime spike in 2020 in the United States/`
 **Last Updated:** 2025-07-11 22:23
 
-## 22. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)
+## 23. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What explains the rise in autism diagnoses/`
 **Last Updated:** 2025-06-23 17:30
 
-## 23. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)
+## 24. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What is antidepressant discontinuation syndrome/`
 **Last Updated:** 2025-07-11 20:21
 
-## 24. [What is the replication crisis?](What is the replication crisis/README.md)
+## 25. [What is the replication crisis?](What is the replication crisis/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What is the replication crisis/`
 **Last Updated:** 2025-06-12 11:10
 
-## 25. [What is there so much financial fraud in Minnesota?](What is there so much financial fraud in Minnesota/README.md)
+## 26. [What is there so much financial fraud in Minnesota?](What is there so much financial fraud in Minnesota/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `What is there so much financial fraud in Minnesota/`
 **Last Updated:** 2025-06-12 22:51
 
-## 26. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)
+## 27. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why are fertility rates declining in most nations/`
 **Last Updated:** 2025-07-11 09:26
 
-## 27. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)
+## 28. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why do some Christians believe it is their religious duty to support Israel/`
 **Last Updated:** 2025-06-21 15:50
 
-## 28. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)
+## 29. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why is Stoicism becoming popular again/`
 **Last Updated:** 2025-06-11 10:40
 
-## 29. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)
+## 30. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why were mental hospitals closed in the United States/`
@@ -203,17 +209,17 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 ## Statistics
 
-- **Total Questions:** 29
-- **Total Responses Generated:** 232/232
+- **Total Questions:** 30
+- **Total Responses Generated:** 238/240
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 29 | 29 | 58 |
+| Claude | 30 | 30 | 60 |
 | Chatgpt | 29 | 29 | 58 |
-| Gemini | 29 | 29 | 58 |
-| Grok | 29 | 29 | 58 |
+| Gemini | 30 | 30 | 60 |
+| Grok | 30 | 30 | 60 |
 
 ## About
 

@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-12 17:12:11
+**Last Updated:** 2025-07-12 18:18:42
 
 ---
 
@@ -118,7 +118,17 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 7. How do genes influence socio-economic status?
+## 7. How accurate were economists' predications about immigration?
+
+**[📄 View All Responses](How accurate were economists' predications about immigration/README.md)** - Contains all AI responses inline
+
+### Sources
+
+* https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf
+
+---
+
+## 8. How do genes influence socio-economic status?
 
 **[📄 View All Responses](How do genes influence socio-economic status/README.md)** - Contains all AI responses inline
 
@@ -136,7 +146,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 8. How do you distinguish good science from propaganda?
+## 9. How do you distinguish good science from propaganda?
 
 **[📄 View All Responses](How do you distinguish good science from propaganda/README.md)** - Contains all AI responses inline
 
@@ -149,7 +159,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 9. How does school spending in the United States compare to other nations?
+## 10. How does school spending in the United States compare to other nations?
 
 **[📄 View All Responses](How does school spending in the United States compare to other nations/README.md)** - Contains all AI responses inline
 
@@ -165,7 +175,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 10. How many Americans have died due to fentanyl?
+## 11. How many Americans have died due to fentanyl?
 
 **[📄 View All Responses](How many Americans have died due to fentanyl/README.md)** - Contains all AI responses inline
 
@@ -186,7 +196,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 11. How many immigrants are in the United States illegally?
+## 12. How many immigrants are in the United States illegally?
 
 **[📄 View All Responses](How many immigrants are in the United States illegally/README.md)** - Contains all AI responses inline
 
@@ -196,7 +206,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 12. How much of a problem is misinformation?
+## 13. How much of a problem is misinformation?
 
 **[📄 View All Responses](How much of a problem is misinformation/README.md)** - Contains all AI responses inline
 
@@ -211,7 +221,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 13. How much of intelligence is hereditary?
+## 14. How much of intelligence is hereditary?
 
 **[📄 View All Responses](How much of intelligence is hereditary/README.md)** - Contains all AI responses inline
 
@@ -230,7 +240,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 14. Is nuclear power safe?
+## 15. Is nuclear power safe?
 
 **[📄 View All Responses](Is nuclear power safe/README.md)** - Contains all AI responses inline
 
@@ -244,7 +254,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 15. Summarize the effects of the One Big Beautiful Bill Act?
+## 16. Summarize the effects of the One Big Beautiful Bill Act?
 
 **[📄 View All Responses](Summarize the effects of the One Big Beautiful Bill Act/README.md)** - Contains all AI responses inline
 
@@ -254,7 +264,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ---
 
-## 16. Was the public misled about the UK grooming gang scandal?
+## 17. Was the public misled about the UK grooming gang scandal?
 
 **[📄 View All Responses](Was the public misled about the UK grooming gang scandal/README.md)** - Contains all AI responses inline
 
@@ -270,7 +280,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ---
 
-## 17. Were the COVID-19 lockdowns effective?
+## 18. Were the COVID-19 lockdowns effective?
 
 **[📄 View All Responses](Were the COVID-19 lockdowns effective/README.md)** - Contains all AI responses inline
 
@@ -284,7 +294,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ---
 
-## 18. What are luxury beliefs?
+## 19. What are luxury beliefs?
 
 **[📄 View All Responses](What are luxury beliefs/README.md)** - Contains all AI responses inline
 
@@ -299,7 +309,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ---
 
-## 19. What are the externalities of immigration?
+## 20. What are the externalities of immigration?
 
 **[📄 View All Responses](What are the externalities of immigration/README.md)** - Contains all AI responses inline
 
@@ -314,7 +324,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ---
 
-## 20. What caused the 2008 financial crisis?
+## 21. What caused the 2008 financial crisis?
 
 **[📄 View All Responses](What caused the 2008 financial crisis/README.md)** - Contains all AI responses inline
 
@@ -333,7 +343,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ---
 
-## 21. What caused the crime spike in 2020 in the United States?
+## 22. What caused the crime spike in 2020 in the United States?
 
 **[📄 View All Responses](What caused the crime spike in 2020 in the United States/README.md)** - Contains all AI responses inline
 
@@ -351,7 +361,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ---
 
-## 22. What explains the rise in autism diagnoses?
+## 23. What explains the rise in autism diagnoses?
 
 **[📄 View All Responses](What explains the rise in autism diagnoses/README.md)** - Contains all AI responses inline
 
@@ -375,7 +385,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ---
 
-## 23. What is antidepressant discontinuation syndrome?
+## 24. What is antidepressant discontinuation syndrome?
 
 **[📄 View All Responses](What is antidepressant discontinuation syndrome/README.md)** - Contains all AI responses inline
 
@@ -390,7 +400,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ---
 
-## 24. What is the replication crisis?
+## 25. What is the replication crisis?
 
 **[📄 View All Responses](What is the replication crisis/README.md)** - Contains all AI responses inline
 
@@ -406,7 +416,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ---
 
-## 25. What is there so much financial fraud in Minnesota?
+## 26. What is there so much financial fraud in Minnesota?
 
 **[📄 View All Responses](What is there so much financial fraud in Minnesota/README.md)** - Contains all AI responses inline
 
@@ -424,7 +434,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ---
 
-## 26. Why are fertility rates declining in most nations?
+## 27. Why are fertility rates declining in most nations?
 
 **[📄 View All Responses](Why are fertility rates declining in most nations/README.md)** - Contains all AI responses inline
 
@@ -444,7 +454,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ---
 
-## 27. Why do some Christians believe it is their religious duty to support Israel?
+## 28. Why do some Christians believe it is their religious duty to support Israel?
 
 **[📄 View All Responses](Why do some Christians believe it is their religious duty to support Israel/README.md)** - Contains all AI responses inline
 
@@ -462,7 +472,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ---
 
-## 28. Why is Stoicism becoming popular again?
+## 29. Why is Stoicism becoming popular again?
 
 **[📄 View All Responses](Why is Stoicism becoming popular again/README.md)** - Contains all AI responses inline
 
@@ -476,7 +486,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 
 ---
 
-## 29. Why were mental hospitals closed in the United States?
+## 30. Why were mental hospitals closed in the United States?
 
 **[📄 View All Responses](Why were mental hospitals closed in the United States/README.md)** - Contains all AI responses inline
 
