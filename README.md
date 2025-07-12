@@ -23,7 +23,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-11 09:26:26
+**Last Updated:** 2025-07-11 20:19:33
 
 ## Questions
 
@@ -163,7 +163,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `What is antidepressant discontinuation syndrome/`
-**Last Updated:** 2025-06-23 18:03
+**Last Updated:** 2025-07-11 20:19
 
 ## 24. [What is the replication crisis?](What is the replication crisis/README.md)
 

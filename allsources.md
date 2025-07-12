@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-11 09:26:26
+**Last Updated:** 2025-07-11 20:19:33
 
 ---
 
@@ -384,6 +384,7 @@ https://www.congress.gov/bill/119th-congress/house-bill/1
 * https://www.rcpsych.ac.uk/docs/default-source/mental-health/treatments-and-wellbeing/print-outs/stopping-antidepressants-information-resource-print-version-18-03-24.pdf
 * https://core.ac.uk/reader/195308748?utm_source=linkout
 * https://pmc.ncbi.nlm.nih.gov/articles/PMC8061160/
+* https://www.psychiatrymargins.com/p/playing-whack-a-mole-with-the-uncertainties
 
 ---
 
