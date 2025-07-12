@@ -6,3 +6,4 @@
 * [Elevated Police Turnover Following the Summer of George Floyd](https://jnix.netlify.app/publication/42-cpp-turnover/) – *Criminology & Public Policy*
 * [Study: No Clear Link Between Gun Sales Spike and Murder Rise](https://www.axios.com/2021/07/12/gun-violence-rise-gun-purchases) – *Axios*
 * [Study: Killings Surge in 2020 as Pandemic, Protests Play Roles](https://www.mprnews.org/story/2021/02/01/study-killings-surge-in-2020-as-pandemic-protests-play-roles) – *MPR News*
+* https://www.slowboring.com/p/30-months-of-great-news-on-falling

@@ -23,7 +23,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-11 22:03:07
+**Last Updated:** 2025-07-11 22:23:16
 
 ## Questions
 
@@ -151,7 +151,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `What caused the crime spike in 2020 in the United States/`
-**Last Updated:** 2025-06-13 11:15
+**Last Updated:** 2025-07-11 22:23
 
 ## 22. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)
 
