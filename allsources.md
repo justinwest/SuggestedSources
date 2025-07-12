@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-11 22:23:16
+**Last Updated:** 2025-07-12 12:59:39
 
 ---
 
@@ -113,7 +113,8 @@ z
 * [What We Don’t Learn in “Original Sin”](https://www.slowboring.com/p/what-we-dont-learn-in-original-sin) - *Slow Boring*
 * [The Crimes of the Politburo](https://www.persuasion.community/p/the-crimes-of-the-politburo) - *Persuasion*
 * [Who’s to Blame for Missing Biden’s Decline?](https://www.newyorker.com/news/fault-lines/whos-to-blame-for-missing-bidens-decline) - *The New Yorker* 
-* [New Book Details How Biden’s Mental Decline Was Kept from Voters](https://www.npr.org/transcripts/nx-s1-5309451) - *NPR*
+* [New Book Details How Biden’s Mental Decline Was Kept from Voters](https://www.npr.org/transcripts/nx-s1-5309451) - *NPR* 
+https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 

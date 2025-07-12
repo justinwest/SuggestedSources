@@ -23,7 +23,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-11 22:23:16
+**Last Updated:** 2025-07-12 12:59:39
 
 ## Questions
 
@@ -61,7 +61,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `How accurate was press coverage of President Biden's mental decline/`
-**Last Updated:** 2025-06-13 09:40
+**Last Updated:** 2025-07-12 12:59
 
 ## 7. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)
 
