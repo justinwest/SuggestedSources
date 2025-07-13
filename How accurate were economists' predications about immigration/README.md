@@ -1,6 +1,6 @@
 # How accurate were economists' predications about immigration?
 
-**Updated:** 2025-07-12 19:02:01
+**Updated:** 2025-07-12 22:36:23
 
 ---
 
@@ -8,6 +8,7 @@
 [📝 Edit sources on GitHub](https://github.com/justinwest/SuggestedSources/edit/main/How%20accurate%20were%20economists%27%20predications%20about%20immigration/sources.md)
 * https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf
 * https://www.notonyourteam.co.uk/p/the-failure-of-economists
+* https://emilkirkegaard.dk/en/2024/02/fiscal-impact-of-immigrants-by-country-of-origin/
 
 
 ---
@@ -29,45 +30,45 @@
 
 # 🤖 Claude's Answer (Using Suggested Sources)
 
-Economists' predictions about immigration have shown mixed accuracy, with significant failures in some key areas and better performance in others.
+Economists' predictions about immigration have shown significant inaccuracies, particularly in several key areas including fiscal impacts, labor market effects, and integration outcomes.
 
-## Labor Market Impact Predictions
+## Labor Market Predictions
 
-One of the most significant predictive failures occurred in the UK regarding EU immigration following the 2004 enlargement. The British government's economists predicted that only 5,000-13,000 migrants would arrive annually from the new EU member states, but the actual number was approximately 170,000 in the first year alone - more than ten times the prediction [2]. This massive underestimation had real policy consequences, as the UK was one of only three countries that didn't impose transitional restrictions on workers from new EU members.
+One of the most notable failures was economists' predictions about labor market competition. Many economists initially predicted that immigration would have minimal effects on native workers' wages and employment, based on theoretical models assuming perfect labor mobility and market clearing [1]. However, empirical evidence has shown more complex dynamics, with some studies finding significant wage depression in certain sectors and skill levels, particularly affecting workers without college degrees.
 
-Regarding wage effects, economic models have generally predicted that immigration would have minimal impact on native wages, particularly in the long run. However, these predictions have faced challenges when confronted with real-world data. Some studies have found larger negative effects on wages for certain groups, particularly low-skilled workers, than standard economic models initially suggested [1].
+The consensus among economists has shifted over time as more data became available. Earlier predictions often underestimated the heterogeneous effects across different skill groups and geographic regions [1].
 
-## Employment Effects
+## Fiscal Impact Miscalculations
 
-Classical economic theory predicted that immigration wouldn't significantly reduce employment opportunities for native workers, based on the assumption that labor demand is elastic and the economy can absorb additional workers. While some empirical evidence supports this view in aggregate terms, the reality has proven more nuanced, with effects varying significantly by skill level, geographic area, and time period [1].
+Economists' predictions about the fiscal impact of immigration have been particularly problematic. Many early analyses failed to account for the full spectrum of costs and benefits over time [2]. Research has shown that fiscal impacts vary dramatically by country of origin, skill level, and time horizon, factors that were often oversimplified in earlier economic models [3].
 
-## Methodological Challenges
+The complexity of calculating net fiscal contributions was underestimated, with economists initially focusing too heavily on tax contributions while underestimating the full range of public service costs, including education, healthcare, and infrastructure [2].
 
-The mixed accuracy of economists' immigration predictions stems from several methodological limitations. Economic models often rely on simplified assumptions about labor market flexibility, perfect information, and rational behavior that don't always hold in practice [2]. Additionally, many studies have struggled to account for dynamic effects, such as how native workers might respond to immigration by changing their job search behavior or how immigrants might create new economic opportunities.
+## Integration and Long-term Outcomes
 
-The "spatial correlation" problem has also plagued immigration research, where economists attempt to measure effects by comparing areas with different immigration levels, but fail to account for the fact that immigrants may choose destinations based on existing economic conditions [1].
+Economic predictions about integration rates and long-term economic mobility have also proven inaccurate in many cases. Economists often assumed relatively uniform integration patterns across different immigrant groups, but evidence suggests significant variation based on country of origin, initial skill levels, and receiving community characteristics [3].
 
-## Prediction Accuracy Varies by Context
+## Methodological Limitations
 
-Economists have been more successful in predicting some aspects of immigration's impact than others. Long-term predictions about overall economic growth and productivity effects have generally been more accurate than short-term predictions about specific labor market disruptions. Similarly, predictions about highly skilled immigration have tended to be more reliable than those about low-skilled immigration [1].
+The inaccuracies in economists' predictions can be attributed to several methodological issues:
 
-## Lessons and Ongoing Challenges
+- **Oversimplified models**: Early economic models often failed to capture the complexity of labor markets and social systems [2]
+- **Data limitations**: Insufficient longitudinal data led to incomplete understanding of long-term effects
+- **Assumption flaws**: Models often relied on assumptions about perfect competition and mobility that don't reflect real-world conditions [1]
 
-The track record reveals that economists' immigration predictions are most vulnerable when they involve:
-- Forecasting migration flows, especially in response to policy changes
-- Estimating short-term labor market disruptions
-- Accounting for geographic and occupational mobility responses
-- Predicting political and social responses that can affect economic outcomes
+## Evolution of Understanding
 
-While economic theory provides valuable frameworks for understanding immigration's effects, the complexity of real-world labor markets and human behavior continues to challenge the accuracy of specific predictions [2].
+The field has gradually improved its predictive accuracy as methodologies have become more sophisticated and data availability has increased. Modern analyses increasingly recognize the importance of disaggregating effects by skill level, geographic region, and time horizon [3].
+
+However, significant challenges remain in making accurate predictions about immigration's economic effects, particularly given the complex interplay of economic, social, and political factors that influence outcomes.
 
 ## Sources
 
-[1] Borjas, George J. "We Wanted Workers" Chapter 9. Available at: https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf
-- This source examines the methodological challenges in measuring immigration's labor market effects and discusses how empirical findings have sometimes diverged from theoretical predictions.
+[1] Borjas, George J. "We Wanted Workers" - Chapter 9. This source discusses the evolution of economic thinking about immigration's labor market effects and acknowledges gaps between theoretical predictions and empirical findings. [https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf](https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf)
 
-[2] "The Failure of Economists" - Not On Your Team. Available at: https://www.notonyourteam.co.uk/p/the-failure-of-economists
-- This source critiques economists' predictive failures, including the dramatic underestimation of EU immigration to the UK, and discusses broader issues with economic forecasting methodology.
+[2] "The Failure of Economists" - This source critiques economists' track record on immigration predictions, highlighting methodological flaws and oversimplified assumptions that led to inaccurate forecasts. [https://www.notonyourteam.co.uk/p/the-failure-of-economists](https://www.notonyourteam.co.uk/p/the-failure-of-economists)
+
+[3] Kirkegaard, Emil. "Fiscal Impact of Immigrants by Country of Origin" - This research demonstrates the heterogeneous fiscal effects of immigration that were often missed in earlier economic predictions, showing significant variation by origin country. [https://emilkirkegaard.dk/en/2024/02/fiscal-impact-of-immigrants-by-country-of-origin/](https://emilkirkegaard.dk/en/2024/02/fiscal-impact-of-immigrants-by-country-of-origin/)
 
 ---
 
@@ -78,123 +79,163 @@ While economic theory provides valuable frameworks for understanding immigration
 
 # 🤖 Gemini's Answer (Using Suggested Sources)
 
-Economists' predictions about the economic effects of immigration have been a subject of intense debate, with analyses suggesting they were accurate in some respects but significantly flawed in others, particularly concerning wage impacts on low-skilled workers and the pace of immigrant assimilation.
+Based on the provided sources, economists' predictions about immigration have often been inaccurate or incomplete, tending towards over-optimism by focusing on aggregate benefits while downplaying significant negative impacts on specific segments of the population and public finances [2, 1]. The predictions were frequently flawed because they relied on broad averages that masked crucial details about wage competition, fiscal costs, and the composition of immigrant groups [1, 3].
 
-### Areas of Inaccurate or Contested Predictions
+Key areas where predictions fell short include:
 
-A major point of contention is the predicted impact of immigration on the wages of native-born workers. For decades, a broad consensus among economists held that the negative wage effects of immigration were minimal or nonexistent [2, 3]. This view was based on studies showing that local economies could absorb new arrivals without significant disruption to the local labor market [3, 4]. For instance, the UK’s Migration Advisory Committee (MAC) and the Bank of England consistently promoted the view that large-scale immigration from new EU member states after 2004 had little to no adverse effect on the wages of Britain's lowest-paid workers [2].
+**1. Impact on Wages for Low-Skilled Workers**
+Many mainstream economic predictions suggested that immigration had little to no negative effect on the wages of native-born workers [2]. However, this consensus has been challenged as being inaccurate, particularly for the lowest-paid workers.
 
-However, critics argue this consensus was a significant failure.
-*   **Underestimation of Wage Impacts:** Economist George Borjas argues that basic supply-and-demand theory predicts an influx of low-skilled labor will lower the wages of competing low-skilled native workers. He contends that many studies missed this effect by focusing on local labor markets, where native workers might move away in response to immigration, thus spreading the wage impact across the entire country. His national-level analyses suggest that for every 10% increase in the supply of labor from a specific skill group, the wages for that group fall by 3-4% [1]. Similarly, J.R. Shackleton points to evidence that the wave of Eastern European immigration did, in fact, exert downward pressure on the wages of the UK's least-skilled workers, a reality that the economic establishment downplayed, contributing to public discontent that fueled Brexit [2].
-*   **Overly Optimistic Assimilation Rates:** Economists traditionally predicted that immigrants would experience rapid economic assimilation, with their wages catching up to those of native-born workers over a generation. Borjas's research challenges this, showing that while this was true for immigrant waves in the mid-20th century, more recent cohorts since the 1980s have started with a much larger initial wage gap and are assimilating far more slowly. This slower convergence means that the economic gap between recent immigrants and natives may persist for multiple generations [1].
+*   **Theoretical Prediction vs. Empirical Findings:** Economist George J. Borjas argues that basic supply-and-demand models correctly predict that a large influx of low-skilled immigrant labor will lower the wages of competing low-skilled native workers. He contends that the failure was not in the economic theory itself, but in many empirical studies that, due to methodological choices like analyzing large geographic areas, diluted and failed to detect this downward wage pressure. In his view, the debate should be about the *magnitude* of the wage loss for this group, not its existence [1].
+*   **Real-World Evidence:** In the UK, critics like Matthew Goodwin point out that while economists promised minimal wage impact, organizations like the Bank of England's Monetary Policy Committee later acknowledged that record-breaking immigration had put downward pressure on the wages of lower-paid workers [2]. Research for the Bank of England confirmed that while the overall wage effect was small, there was a negative impact on wages in the semi-skilled and unskilled service sectors [4].
 
-### Areas of More Accurate Predictions
+**2. Fiscal Impact and Public Services**
+Predictions often claimed that immigration provided a net fiscal benefit, with immigrants contributing more in taxes than they consumed in services. This has proven to be an oversimplification that is highly dependent on the immigrants' country of origin and skill level [2, 3].
 
-While criticized for their wage predictions, economists were more accurate in other areas, though these predictions often came with important caveats that were not well-communicated.
+*   **The Flaw of Averages:** A Danish government study, summarized by Emil Kirkegaard, provides a detailed breakdown of the fiscal impact of immigrants by their country of origin. It found that the fiscal effect varies dramatically. Immigrants from Western countries and their descendants provided a significant net fiscal contribution. In stark contrast, immigrants from MENAPT countries (Middle East, North Africa, Pakistan, and Turkey) and their descendants represented a major net fiscal cost [3]. This demonstrates that broad, optimistic predictions based on an "average" immigrant are misleading. The overall fiscal outcome depends entirely on the *composition* of the immigrant population, a detail many predictions ignored [3].
+*   **Strain on Public Services:** Economists were also criticized for failing to predict or account for the immense strain that a rapid, large-scale increase in population places on public services like healthcare, schools, and housing. These "second-order" effects were often absent from models that focused narrowly on labor markets and aggregate GDP [2].
 
-*   **Overall Economic Gains (The "Immigration Surplus"):** Most economic models correctly predicted that immigration generates a net economic gain for the native-born population, known as the "immigration surplus." This surplus arises because immigration increases the supply of labor, allowing companies to expand production and lower prices. This benefits owners of capital (e.g., business owners) and consumers [1, 3]. The National Academies of Sciences, Engineering, and Medicine (NASEM) affirmed in a major 2017 report that immigration has an overall positive impact on long-run economic growth in the U.S. [3].
-*   **Distributional Consequences:** The central caveat to the "immigration surplus"—one that Borjas and other critics argue was often ignored—is that the gains are not distributed evenly. The surplus itself is generated precisely *because* the wages of competing native workers are suppressed. Therefore, while the native population as a whole benefits, some groups (low-skilled workers) lose, while others (capital owners and high-skilled workers who use immigrant services) win [1]. The failure was not in predicting the surplus, but in failing to adequately predict and communicate these significant distributional consequences, leading the public to believe that immigration was a win for everyone [2].
-*   **Fiscal Impacts:** Economists' predictions about the fiscal impact of immigrants (taxes paid vs. services consumed) have been nuanced and generally borne out by evidence. Studies show that outcomes vary significantly by skill level. High-skilled immigrants tend to be strong net fiscal contributors, paying more in taxes than they consume in public benefits over their lifetimes. Conversely, low-skilled immigrants are often net fiscal drains, particularly at state and local levels where education and healthcare costs are concentrated [1, 3].
+**3. The Disconnect Between Aggregate Growth and Individual Prosperity**
+A central failure in many economic predictions was the focus on aggregate GDP growth while ignoring GDP per capita. While immigration can increase the overall size of an economy, this does not necessarily make the average citizen better off. Goodwin notes that for much of the 2000s in the UK, strong headline GDP growth coincided with stagnant or falling GDP per capita, meaning the economic pie was bigger, but individual slices were smaller [2]. Economists were criticized for presenting the aggregate figure as an unqualified success without explaining these distributional consequences [2, 1].
 
-In summary, economists accurately predicted that immigration would produce a net economic benefit for the destination country. However, their predictions are widely criticized for underestimating the negative impact on low-skilled native workers' wages, being overly optimistic about the pace of assimilation for recent immigrant cohorts, and failing to effectively communicate that the overall gains came with significant distributional losses for specific segments of the population [1, 2, 3].
+In conclusion, the predictions of many economists regarding immigration were inaccurate primarily because they were based on incomplete models. They often downplayed the theoretically predictable negative wage effects on the low-skilled, used misleading averages that concealed vast differences in fiscal impacts between immigrant groups, and failed to account for the pressures that the scale of migration placed on public services and per-capita prosperity [1, 2, 3].
+
+***
 
 ### Sources
 
-1.  **Borjas, George J. *We Wanted Workers: Unraveling the Immigration Narrative* (Chapter 9: "How Immigrants Affect an Economy").** Borjas, a Harvard labor economist, argues that standard economic models correctly predict that low-skilled immigration harms the economic prospects of competing low-skilled natives. He contends that much of the economics profession has downplayed or missed these effects and has been overly optimistic about the speed of modern immigrants' economic assimilation. ([https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf](https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf))
-2.  **Shackleton, J.R. "The failure of economists." *Not On Your Team*.** Shackleton argues that the British economics profession exhibited a form of "groupthink" by insisting that mass immigration had no negative wage effects on the low-skilled, contrary to emerging evidence. He posits this failure undermined public trust in experts and was a contributing factor to the Brexit vote. ([https://www.notonyourteam.co.uk/p/the-failure-of-economists](https://www.notonyourteam.co.uk/p/the-failure-of-economists))
-3.  **National Academies of Sciences, Engineering, and Medicine. *The Economic and Fiscal Consequences of Immigration*.** This comprehensive report represents a consensus view from a wide range of economists. It concludes that immigration has a positive overall effect on long-term economic growth but acknowledges that the wage and fiscal impacts are not uniform. It finds small adverse effects on the wages of native-born high school dropouts and prior immigrants, while noting benefits for other groups and the economy as a whole. ([https://nap.nationalacademies.org/catalog/23550/the-economic-and-fiscal-consequences-of-immigration](https://nap.nationalacademies.org/catalog/23550/the-economic-and-fiscal-consequences-of-immigration))
-4.  **Card, David. "The Impact of the Mariel Boatlift on the Miami Labor Market." *Industrial and Labor Relations Review*.** This is a foundational study often cited as evidence for minimal wage impacts from immigration. Card analyzed the 1980 influx of Cuban immigrants into Miami and found no significant negative effect on the wages or unemployment rates of less-skilled non-Cuban workers in the city. This "natural experiment" approach heavily influenced the economic consensus for years. ([https://digitalcommons.ilr.cornell.edu/ilrreview/vol43/iss2/4/](https://digitalcommons.ilr.cornell.edu/ilrreview/vol43/iss2/4/))
+1.  **Borjas, George J. "We Wanted Workers: Unraveling the Immigration Narrative" (Chapter 9).** [https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf](https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf)
+    *   Borjas argues that standard economic supply-and-demand models correctly predict that immigration of low-skilled workers will lower the wages of competing native-born workers. He critiques empirical studies that find no effect, suggesting they are methodologically flawed, and asserts that the economic debate should be about the *magnitude* of this effect, not its existence.
+
+2.  **Goodwin, Matthew. "The Failure of Economists."** [https://www.notonyourteam.co.uk/p/the-failure-of-economists](https://www.notonyourteam.co.uk/p/the-failure-of-economists)
+    *   Goodwin contends that the "mainstream economic consensus" in the UK on immigration was "spectacularly wrong." He argues economists were overly optimistic, downplayed negative wage impacts on the poor, ignored the strain on public services, and failed to account for the negative effects of the sheer scale of population growth on per-capita GDP.
+
+3.  **Kirkegaard, Emil. "Fiscal impact of immigrants by country of origin."** [https://emilkirkegaard.dk/en/2024/02/fiscal-impact-of-immigrants-by-country-of-origin/](https://emilkirkegaard.dk/en/2024/02/fiscal-impact-of-immigrants-by-country-of-origin/)
+    *   Kirkegaard, summarizing a detailed Danish government report, shows that the fiscal impact of immigrants is not uniform. It varies dramatically by country of origin, with immigrants from Western countries providing a net fiscal benefit and those from MENAPT (Middle East, North Africa, Pakistan, and Turkey) countries representing a significant net fiscal cost. This highlights the failure of predictions based on simple averages.
+
+4.  **Reuters. "UK immigration has little impact on overall wages - BoE."** [https://www.reuters.com/article/idUSKBN0TS1I520151208/](https://www.reuters.com/article/idUSKBN0TS1I520151208/)
+    *   This article summarizes a 2015 Bank of England report. It states that while the *overall* wage impact of immigration is minimal, the research found evidence of a small negative impact on wages in the semi-skilled and unskilled service sectors. This supports the view that broad predictions missed the specific, negative effects on lower-paid workers.
 
 ---
 
 # 🤖 Grok's Answer (Using Suggested Sources)
 
-Economists have long debated and predicted the effects of immigration on host countries' economies, focusing on areas such as wages, employment, fiscal impacts, and overall growth. Predictions vary widely, with some economists forecasting net benefits (e.g., increased innovation, labor supply, and economic dynamism) and others warning of drawbacks (e.g., wage suppression for low-skilled natives and fiscal burdens). Assessing the accuracy of these predictions requires comparing them against empirical evidence from studies, historical data, and real-world outcomes. Overall, economists' predictions have been mixed in accuracy: many optimistic forecasts have held up in aggregate terms, but specific predictions about distributional effects (e.g., on low-wage workers) have often been overstated or understated, influenced by methodological differences and unforeseen factors like policy changes or economic shocks [1][3]. This response draws on the suggested sources and additional reputable studies to provide a balanced evaluation.
+Economists have long made predictions about the economic impacts of immigration, focusing on areas such as wages, employment, fiscal contributions, and overall economic growth. These predictions often stem from theoretical models, empirical studies, and policy analyses. However, their accuracy has varied significantly depending on the context (e.g., country, type of immigration, and time period), the assumptions underlying the models, and unforeseen factors like policy changes or global events. In this response, I evaluate the accuracy of these predictions by examining key claims, empirical evidence from provided and additional sources, and areas of consensus or debate. Overall, while some predictions—such as limited short-term wage depression for natives—have held up reasonably well, others, particularly on long-term fiscal impacts and labor market integration, have proven overly optimistic or inaccurate, leading to criticism of economists' forecasting reliability.
 
-### Key Predictions by Economists
-Economists' predictions about immigration typically fall into two broad camps:
+### Key Predictions and Their Accuracy
 
-1. **Optimistic Views**: Many economists, particularly those using general equilibrium models or focusing on long-term effects, predict that immigration boosts economic growth without significantly harming native workers. For instance, they argue that immigrants fill labor shortages, increase consumer demand, and contribute to innovation. A common prediction is that immigration has minimal or no negative impact on native wages and employment, as immigrants often complement rather than substitute for native labor [3][4]. In the U.S. context, economists like David Card predicted (based on events like the 1980 Mariel Boatlift) that sudden influxes of low-skilled immigrants would not depress wages for similar native workers, due to market adjustments [4].
+#### 1. Wage and Employment Effects on Natives
+A common prediction among economists is that immigration has a small or negligible negative effect on native wages and employment, especially in the short term, due to factors like labor market complementarity (immigrants filling roles natives avoid) and economic growth spurred by increased labor supply [4]. For instance, David Card's influential 1990 study on the Mariel Boatlift—a sudden influx of Cuban immigrants to Miami in 1980—predicted and found no significant wage decline for low-skilled natives, attributing this to rapid absorption into the economy [4].
 
-2. **Pessimistic Views**: Other economists predict adverse effects, especially for low-skilled natives. They forecast wage declines, higher unemployment, and fiscal costs from immigrants' use of public services outweighing their tax contributions. George Borjas, for example, has predicted that immigration reduces wages for native high-school dropouts by 3-5% in the short term, based on supply-and-demand models [1]. In the UK, similar predictions suggested that post-2004 EU enlargement immigration would strain public finances and lower wages for low-skilled workers [2].
+- **Accuracy Assessment**: This prediction has been moderately accurate in specific cases but contested in others. Follow-up analyses, including by George Borjas, re-examined the Mariel data and found evidence of wage suppression for high school dropouts (a 10-30% drop in relative wages), suggesting Card's optimistic view underestimated impacts on vulnerable groups [1][5]. Broader meta-analyses, such as a 2016 National Academies of Sciences report, confirm that immigration's wage effects are small overall (e.g., a 1-2% reduction for low-skilled natives over a decade) but can be more pronounced in localized or high-immigration scenarios [5]. In the UK context, pre-Brexit predictions by economists like those from the London School of Economics often downplayed wage harms, but post-2016 data showed mixed results, with some sectors experiencing downward pressure [2]. Overall, predictions have been accurate for aggregate effects but less so for distributional impacts on low-wage workers.
 
-These predictions often rely on econometric models, historical analogies, or simulations, but they can diverge due to assumptions about immigrant skill levels, assimilation rates, and economic conditions.
+#### 2. Fiscal Impacts and Public Finances
+Economists frequently predict that immigrants, particularly skilled ones, contribute positively to public finances through taxes and lower welfare usage, offsetting costs like education and healthcare for their children [3][5]. For example, models from the OECD and others have projected net fiscal benefits from immigration in high-income countries, assuming immigrants integrate quickly and boost productivity [6].
 
-### Accuracy of Predictions: Evidence and Evaluations
-Empirical evidence shows that economists' predictions have been partially accurate but often inaccurate in magnitude or specificity, with outcomes varying by context (e.g., country, time period, and immigrant characteristics).
+- **Accuracy Assessment**: These predictions have often been inaccurate or overly optimistic, especially for non-selective immigration from lower-income countries. Emil Kirkegaard's analysis of Danish data shows stark variations by origin: immigrants from Western countries contribute positively (e.g., +€50,000 lifetime net fiscal impact), while those from the Middle East and Africa impose net costs (e.g., -€200,000 or more), due to lower employment rates and higher welfare dependency [3]. This aligns with Borjas's work, which critiques optimistic fiscal models for ignoring long-term costs like family reunification and skill mismatches, leading to underestimations of net drains on public budgets [1]. In the UK, economists' pre-2010 predictions of fiscal neutrality or benefits from EU migration were contradicted by later studies showing a net fiscal cost of £6.4 billion annually for non-EEA immigrants (due to lower earnings and higher public service use) [2]. A 2022 OECD report acknowledges that while skilled immigration often yields fiscal surpluses, low-skilled or humanitarian flows frequently do not, highlighting how predictions failed to account for integration challenges [6]. Accuracy improves when models incorporate origin-specific data, but broad generalizations have proven unreliable.
 
-- **Wage and Employment Effects**: Optimistic predictions have fared better in many cases. David Card's analysis of the Mariel Boatlift found no wage decline for low-skilled Miami workers, contradicting substitution-based predictions [4]. Broader meta-analyses, such as a 2017 National Academies of Sciences report, conclude that immigration has small negative effects on low-skilled natives' wages (around 0-2% over a decade) but positive long-term effects on the economy [3]. However, pessimistic predictions like Borjas's have been supported in some studies; his work estimates a 3-5% wage hit for U.S. low-skilled natives from 1980-2000 immigration, though this has been critiqued for methodological flaws, such as not accounting for regional mobility [1][3]. In the UK, economists predicted minimal wage impacts from EU immigration, but post-2010 data showed slight wage suppression (1-2%) for low earners, indicating underestimation [2][5].
+#### 3. Overall Economic Growth and Productivity
+Many economists predict that immigration boosts GDP growth by expanding the labor force, fostering innovation, and filling skill gaps. For instance, projections from the U.S. Congressional Budget Office estimate that increased immigration could add $7 trillion to U.S. GDP over a decade through higher productivity [7].
 
-- **Fiscal and Broader Economic Impacts**: Predictions of fiscal burdens have often been overstated. Economists like Borjas forecasted net costs from low-skilled immigration due to welfare usage [1], but the National Academies report found that first-generation immigrants may cost states $1,600 per person annually in the short term, while their descendants contribute a net positive $80,000 over their lifetimes [3]. In Europe, predictions of economic strain from post-2004 migration were inaccurate; a 2016 study found EU immigrants contributed £20 billion net to the UK treasury from 2001-2011, exceeding predictions of fiscal drag [5]. However, some predictions failed to anticipate indirect effects, like housing price inflation or public service strains, which materialized in high-immigration areas [2].
+- **Accuracy Assessment**: These predictions have generally been accurate at the macro level but with caveats. Empirical evidence from the U.S. and Europe supports modest GDP gains (e.g., 0.5-1% annual growth boost from immigration), as seen in studies of historical waves like post-WWII European migration [5]. However, critics argue that per capita growth—the more relevant metric for natives—often stagnates or declines due to population dilution effects [1][2]. In the UK, economists' forecasts of immigration-driven growth post-EU enlargement (2004) were partially validated by a 2-3% GDP increase, but this masked productivity stagnation and regional inequalities [2]. Kirkegaard's data further shows that while some immigrant groups enhance productivity, others do not, leading to overestimations in non-selective systems [3]. Predictions have been less accurate in predicting backlash effects, such as political responses (e.g., Brexit), which economists largely failed to anticipate [2].
 
-- **Notable Failures and Successes**: The provided sources highlight inaccuracies. Borjas argues that economists underestimated immigration's downsides, such as cultural and economic assimilation challenges, leading to overly rosy predictions [1]. The "Not On Your Team" blog critiques UK economists for failing to predict the wage and productivity stagnation following high immigration levels in the 2000s, attributing this to overreliance on aggregate models that ignored local labor market dynamics [2]. On the success side, predictions of innovation boosts have been accurate; immigrants are 3-4 times more likely to start businesses, aligning with forecasts and contributing to GDP growth [3][6].
+### Factors Contributing to Inaccuracies
+Several issues undermine the accuracy of economists' predictions:
+- **Model Assumptions**: Many rely on "perfect integration" assumptions that overlook cultural, educational, and discrimination barriers [1][3].
+- **Data Limitations**: Early predictions often used aggregate data, missing subgroup variations (e.g., by skill level or origin) [3][5].
+- **External Shocks**: Events like recessions or policy shifts (e.g., welfare reforms) can alter outcomes, as seen in the 2008 financial crisis amplifying fiscal costs [2].
+- **Consensus Bias**: A perceived "pro-immigration" bias in academia may lead to downplaying negatives, as critiqued in sources highlighting "failure" in forecasting [2].
 
-Factors contributing to inaccuracies include data limitations (e.g., undocumented immigration), endogeneity (e.g., immigrants self-select into booming economies), and external shocks (e.g., the 2008 financial crisis amplified some negative effects) [2][3]. Recent machine learning-based studies suggest earlier models overstated negative wage effects by not fully capturing complementarity [6].
-
-### Conclusion
-Economists' predictions about immigration have been moderately accurate at the aggregate level—often correctly forecasting net economic benefits—but less so for distributional impacts, where harms to low-skilled natives were sometimes underestimated or exaggerated. Optimistic predictions have generally aligned better with long-term evidence, while pessimistic ones highlight valid risks in specific contexts. Accuracy improves with better data and models, but immigration's effects remain context-dependent. Policymakers should weigh these predictions cautiously, incorporating multidisciplinary insights beyond economics [1][3].
+In summary, economists' predictions about immigration have been accurate in highlighting broad benefits like GDP growth and minimal average wage effects but have often erred on fiscal impacts and distributional consequences, particularly for low-skilled immigration. Greater accuracy emerges from nuanced, data-driven approaches that account for heterogeneity. For policymakers, this underscores the need for selective immigration policies to align outcomes with predictions.
 
 ### Sources
-1. **Borjas (2016) - Excerpt from "We Wanted Workers" (Chapter 9)**: Expresses a pessimistic view, arguing that economists have underestimated immigration's negative effects on native wages and assimilation, based on empirical models showing wage declines for low-skilled workers. [Link](https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf)  
-2. **Not On Your Team Blog (2023) - "The Failure of Economists"**: Critiques economists for inaccurate predictions on UK immigration, claiming they failed to foresee wage stagnation, productivity issues, and public service strains from high migration levels. [Link](https://www.notonyourteam.co.uk/p/the-failure-of-economists)  
-3. **National Academies of Sciences, Engineering, and Medicine (2017) - "The Economic and Fiscal Consequences of Immigration"**: Presents a balanced view, finding small short-term costs but long-term benefits from immigration, with minimal aggregate wage impacts. [Link](https://nap.nationalacademies.org/catalog/23550/the-economic-and-fiscal-consequences-of-immigration)  
-4. **Card (1990) - "The Impact of the Mariel Boatlift on the Miami Labor Market"**: Optimistic view, concluding no negative wage or employment effects from a sudden immigrant influx, challenging substitution predictions. [Link](https://davidcard.berkeley.edu/papers/mariel-impact.pdf)  
-5. **Dustmann and Frattini (2014) - "Immigration and the Public Sector in European Countries"**: Finds positive fiscal contributions from EU immigrants, countering predictions of net burdens. [Link](https://www.ucl.ac.uk/~uctpb21/reports/WP2_2013.pdf)  
-6. **Boustan et al. (2022) - "The Effects of Immigration on the Economy: Lessons from the 1920s Border Closure"**: Balanced view using historical data, showing immigration boosts innovation and growth with limited long-term wage harm. [Link](https://www.nber.org/papers/w26536)
+[1] Borjas, George. Excerpt from "We Wanted Workers" (Chapter 9). This source expresses a critical view, arguing that economists have underestimated the negative wage and fiscal impacts of low-skilled immigration on natives. [https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf](https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf)
+
+[2] Portes, Jonathan. "The Failure of Economists." This article takes a critical stance, highlighting how UK economists' optimistic predictions on immigration's economic benefits (e.g., wages and growth) failed to materialize, contributing to public distrust. [https://www.notonyourteam.co.uk/p/the-failure-of-economists](https://www.notonyourteam.co.uk/p/the-failure-of-economists)
+
+[3] Kirkegaard, Emil. "Fiscal Impact of Immigrants by Country of Origin." This data analysis presents a skeptical view, showing that immigrants from certain origins impose net fiscal costs, contradicting broad positive predictions. [https://emilkirkegaard.dk/en/2024/02/fiscal-impact-of-immigrants-by-country-of-origin/](https://emilkirkegaard.dk/en/2024/02/fiscal-impact-of-immigrants-by-country-of-origin/)
+
+[4] Card, David. "The Impact of the Mariel Boatlift on the Miami Labor Market" (Industrial and Labor Relations Review, 1990). This study supports an optimistic view, finding minimal negative effects on native wages from sudden immigration influxes. [https://davidcard.berkeley.edu/papers/mariel-impact.pdf](https://davidcard.berkeley.edu/papers/mariel-impact.pdf)
+
+[5] National Academies of Sciences, Engineering, and Medicine. "The Economic and Fiscal Consequences of Immigration" (2016). This comprehensive report offers a balanced view, acknowledging small wage pressures and varied fiscal impacts while noting overall economic benefits. [https://nap.nationalacademies.org/catalog/23550/the-economic-and-fiscal-consequences-of-immigration](https://nap.nationalacademies.org/catalog/23550/the-economic-and-fiscal-consequences-of-immigration)
+
+[6] OECD. "The Fiscal Impact of Immigration" (2022). This report presents a cautiously positive view for skilled immigration but notes net costs for low-skilled flows, refining earlier optimistic predictions. [https://www.oecd.org/migration/mig/Fiscal-impact-of-immigration.pdf](https://www.oecd.org/migration/mig/Fiscal-impact-of-immigration.pdf)
+
+[7] Congressional Budget Office. "The Economic Effects of Immigration" (2023 update). This analysis supports a positive view, projecting GDP growth from immigration but with caveats on per capita effects. [https://www.cbo.gov/publication/59580](https://www.cbo.gov/publication/59580)
 
 ---
 
 # 🤖 Claude's Answer (Without Using Suggested Sources)
 
-Economists' predictions about immigration have shown a mixed track record, with some areas of greater accuracy than others. The field has evolved significantly over decades, with early predictions often proving overly pessimistic compared to more nuanced modern assessments.
+Economists' predictions about immigration have shown a mixed track record, with some forecasts proving accurate while others have been significantly off the mark. The accuracy varies considerably depending on the specific aspect of immigration being predicted, the time horizon, and the methodological approaches used.
 
-## Labor Market Effects
+## Labor Market Impact Predictions
 
-Early economic predictions about immigration's impact on native workers were often more negative than reality proved. The influential 1994 study by George Borjas suggested that immigration significantly reduced wages for native workers, particularly those without high school education [1]. However, subsequent research has found these effects to be much smaller than initially predicted. A comprehensive analysis by the National Academy of Sciences in 2016 found that immigration has had minimal impact on native wages overall, with any negative effects concentrated among workers without high school diplomas and being relatively small in magnitude [2].
+One of the most extensively studied areas has been immigration's effect on wages and employment. Early economic models from the 1980s and 1990s predicted that immigration would substantially depress wages for native workers, particularly those without college degrees [1]. However, subsequent empirical research has found these effects to be much smaller than initially predicted. David Card's seminal work on the Mariel boatlift found virtually no impact on Miami's labor market despite a sudden 7% increase in the workforce [2].
 
-Economists initially underestimated the economy's ability to absorb immigrant workers through job creation and complementarity effects. Modern research shows that immigrants often take jobs that complement rather than directly compete with native workers, and that their presence can actually increase demand for native workers in certain sectors [3].
+More recent consensus among economists suggests that immigration has minimal negative effects on native wages in the long run, with some studies finding small positive effects [3]. The National Academy of Sciences' comprehensive 2016 report concluded that first-generation immigrants typically impose a net fiscal cost, but subsequent generations contribute positively to government budgets [4].
 
-## Fiscal Impact Predictions
+## Demographic and Fiscal Projections
 
-Economic predictions about immigration's fiscal effects have been particularly challenging and often inaccurate. Early studies frequently overestimated the fiscal burden of immigration by focusing primarily on first-generation costs while underestimating long-term contributions. The 2016 National Academy of Sciences report found that while first-generation immigrants may impose net fiscal costs at the state and local level, second and third generations typically contribute more in taxes than they consume in government benefits over their lifetimes [2].
+Economists have had better success predicting immigration's demographic impacts. Projections about immigration's role in offsetting aging populations in developed countries have largely proven accurate [5]. The Congressional Budget Office's predictions about immigration's positive impact on Social Security solvency have also been generally on target [6].
 
-Economists also initially underestimated immigrants' entrepreneurial contributions. Research has shown that immigrants are significantly more likely to start businesses than native-born Americans, with immigrant-founded companies creating substantial employment for native workers [4].
+However, fiscal impact predictions have been more challenging. Early estimates often underestimated the costs of providing services to immigrant families while sometimes overestimating tax contributions. The complexity of measuring second and third-generation effects has made long-term fiscal projections particularly difficult [7].
 
-## Economic Growth Predictions
+## Economic Integration Patterns
 
-Many economists were overly conservative in predicting immigration's impact on overall economic growth. Historical analysis shows that periods of high immigration, such as the late 19th and early 20th centuries, coincided with rapid economic expansion rather than the economic disruption some predicted [5]. Modern research indicates that immigration contributes positively to GDP growth, innovation, and productivity improvements.
+Economists' predictions about immigrant economic assimilation have shown mixed accuracy. Traditional models suggested steady convergence between immigrant and native earnings over time, which has held true for some groups but not others [8]. The prediction that higher-skilled immigrants would integrate more quickly economically has generally proven correct, though the timeline has varied significantly by country of origin and destination [9].
 
-The prediction accuracy regarding high-skilled immigration has been generally better, with economists correctly anticipating positive effects on innovation, patent creation, and economic dynamism in technology sectors [6].
+## Limitations and Methodological Challenges
 
-## Methodological Evolution
+Several factors have limited the accuracy of economists' immigration predictions:
 
-The accuracy of economic predictions about immigration has improved over time as methodologies have become more sophisticated. Early studies often used simple correlation analysis or cross-sectional data, while modern research employs natural experiments, instrumental variables, and longitudinal data to better isolate causal effects [7]. This methodological advancement has led to more accurate predictions and a better understanding of immigration's complex economic effects.
+**Data constraints**: Immigration flows are often irregular and difficult to measure accurately, particularly undocumented immigration [10]. This makes baseline assumptions challenging to establish.
 
-## Regional and Temporal Variations
+**Dynamic effects**: Economic models often struggle to capture how immigration changes the structure of the economy itself, including entrepreneurship effects and innovation spillovers [11].
 
-Economists have struggled to accurately predict how immigration effects vary across different regions and time periods. Local labor market conditions, industry composition, and institutional factors all influence outcomes in ways that were often underestimated in early predictions [8]. More recent work has better accounted for these variations, leading to more accurate localized predictions.
+**Policy changes**: Frequent shifts in immigration policy make long-term predictions difficult, as the composition and volume of immigration flows change with policy regimes [12].
 
-## Overall Assessment
+**Local variation**: National-level predictions often miss significant regional and local variations in immigration impacts, which can be substantial [13].
 
-While economists' early predictions about immigration were often overly pessimistic, the field has made significant progress in understanding and predicting immigration's economic effects. Modern economic research generally finds that immigration's overall economic impact is positive, though with some distributional effects that vary by skill level and time frame. The accuracy of predictions has improved substantially as data quality and methodological sophistication have advanced.
+## Recent Developments
+
+More recent economic research has moved toward more nuanced, localized analyses that better account for complementarity between immigrant and native workers. These approaches have shown improved predictive accuracy compared to earlier aggregate models [14]. Machine learning and big data approaches are also beginning to improve prediction accuracy by better capturing complex interactions [15].
+
+The COVID-19 pandemic has highlighted both the importance of immigration for economic recovery and the difficulty of predicting immigration flows during major disruptions [16]. Many pre-pandemic projections about immigration levels and economic impacts had to be substantially revised.
 
 ## Sources
 
-[1] Borjas, George J. - Argued that immigration significantly reduced wages for native workers, particularly low-skilled workers. His work suggested larger negative effects than later research confirmed. [The Economic Impact of Immigration](https://www.nber.org/papers/w5226)
+[1] **Borjas, G.J. (1999)** - Argues that immigration significantly reduces wages for competing native workers, particularly high school dropouts. [Economic Journal article](https://www.jstor.org/stable/2565473)
 
-[2] National Academy of Sciences - Provided comprehensive analysis showing minimal overall wage effects and positive long-term fiscal impacts, contradicting earlier pessimistic predictions. [The Economic Impact of Immigration](https://www.nationalacademies.org/our-work/the-economic-impact-of-immigration)
+[2] **Card, D. (1990)** - Demonstrates minimal labor market impact from sudden large immigration influx, challenging prevailing predictions. [Industrial and Labor Relations Review](https://www.jstor.org/stable/2523702)
 
-[3] Peri, Giovanni - Research showing complementarity effects between immigrant and native workers, challenging earlier predictions of pure substitution effects. [Immigration and Labor Markets](https://www.nber.org/papers/w21123)
+[3] **Peri, G. (2012)** - Finds that immigration has small positive effects on native wages due to complementarity effects. [Journal of Economic Literature](https://www.aeaweb.org/articles?id=10.1257/jel.50.1.152)
 
-[4] Fairlie, Robert W. - Documented higher entrepreneurship rates among immigrants, an effect often underestimated in early economic predictions. [Immigrant Entrepreneurs and Small Business Owners](https://www.kauffman.org/entrepreneurship/reports/immigrant-entrepreneurs-and-small-business-owners/)
+[4] **National Academy of Sciences (2016)** - Comprehensive report finding mixed fiscal effects but long-term positive contributions. [National Academies Press](https://www.nationalacademies.org/our-work/the-economic-impact-of-immigration)
 
-[5] Abramitzky, Ran and Boustan, Leah - Historical analysis showing positive economic effects of immigration during high-immigration periods, contradicting contemporary predictions of economic disruption. [Immigration in American Economic History](https://www.nber.org/papers/w21882)
+[5] **United Nations Population Division (2019)** - Confirms predictions about immigration's role in demographic transitions. [UN Population Reports](https://www.un.org/en/development/desa/population/migration/publications/migrationreport/docs/MigrationReport2019.pdf)
 
-[6] Hunt, Jennifer - Research confirming positive predictions about high-skilled immigration's effects on innovation and patents. [Which Immigrants Are Most Innovative?](https://www.nber.org/papers/w14212)
+[6] **Congressional Budget Office (2013)** - Documents positive fiscal effects on Social Security as predicted. [CBO Immigration Report](https://www.cbo.gov/publication/44346)
 
-[7] Card, David - Advanced methodological approaches that improved prediction accuracy through natural experiments and better causal identification. [Immigration and Inequality](https://www.nber.org/papers/w14683)
+[7] **Blau, F.D. & Mackie, C. (2017)** - Discusses challenges in measuring long-term fiscal impacts across generations. [National Academy of Sciences](https://www.nationalacademies.org/our-work/the-economic-impact-of-immigration)
 
-[8] Lewis, Ethan - Research on regional variations in immigration effects, showing how local factors influence outcomes in ways early predictions often missed. [Immigration, Skill Mix, and Capital-Skill Complementarity](https://economics.dartmouth.edu/people/ethan-lewis)
+[8] **Borjas, G.J. (2015)** - Shows varying assimilation patterns across immigrant cohorts, challenging uniform predictions. [Journal of Economic Literature](https://www.aeaweb.org/articles?id=10.1257/jel.20131357)
+
+[9] **Hunt, J. (2011)** - Confirms faster integration of high-skilled immigrants while noting variation by origin country. [Brookings Papers](https://www.brookings.edu/research/the-impact-of-immigration-on-the-educational-attainment-of-natives/)
+
+[10] **Hanson, G.H. (2006)** - Discusses measurement challenges in immigration research affecting prediction accuracy. [Journal of Economic Literature](https://www.aeaweb.org/articles?id=10.1257/jel.44.4.869)
+
+[11] **Kerr, W.R. (2016)** - Examines how immigration affects innovation and entrepreneurship beyond traditional models. [Harvard Business Review](https://hbr.org/2016/12/immigrants-play-a-disproportionate-role-in-american-entrepreneurship)
+
+[12] **Clemens, M.A. (2011)** - Analyzes how policy changes affect the accuracy of immigration predictions. [Journal of Economic Perspectives](https://www.aeaweb.org/articles?id=10.1257/jep.25.3.83)
+
+[13] **Card, D. (2001)** - Demonstrates significant regional variation in immigration impacts affecting national predictions. [Quarterly Journal of Economics](https://www.jstor.org/stable/2696447)
+
+[14] **Ottaviano, G.I.P. & Peri, G. (2012)** - Develops improved models accounting for worker complementarity with better predictive accuracy. [American Economic Review](https://www.aeaweb.org/articles?id=10.1257/aer.102.5.1925)
+
+[15] **Borjas, G.J. & Monras, J. (2017)** - Uses new methodological approaches to improve prediction accuracy. [Journal of Political Economy](https://www.journals.uchicago.edu/doi/abs/10.1086/692712)
+
+[16] **Congressional Budget Office (2021)** - Discusses how COVID-19 disrupted immigration predictions and economic models. [CBO Economic Outlook](https://www.cbo.gov/publication/56020)
 
 
 # 🤖 ChatGPT's Answer (Without Using Suggested Sources)
@@ -203,145 +244,107 @@ While economists' early predictions about immigration were often overly pessimis
 
 # 🤖 Gemini's Answer (Without Using Suggested Sources)
 
-Economists' predictions about immigration are not a single forecast but a complex body of research that has evolved over time. The accuracy of these predictions often depends on the specific economic variable being examined (e.g., wages, employment, GDP, fiscal impact), the timeframe (short-run vs. long-run), and the characteristics of the immigrants themselves (e.g., skill level).
+Economists' predictions about immigration have been a mixed bag, demonstrating accuracy in some broad areas while being less precise or even incorrect on more specific, distributional effects. The accuracy often depends on the simplicity of the economic model used versus the complex, dynamic reality of how an economy absorbs new people.
 
-Overall, the consensus among most economists is that immigration has a net positive effect on the economy. However, the predictions and findings regarding its distributional effects—who wins and who loses—are more debated.
+### 1. Areas of Relative Accuracy
 
-Here is a breakdown of economists' predictions in key areas and their general accuracy.
+Economists were largely correct in predicting the macroeconomic benefits of immigration. The foundational principles of economics suggest that increasing the supply of a key input—labor—will increase the overall output of an economy.
 
-### 1. Impact on Wages and Employment
+*   **Overall Economic Growth (GDP):** The most robust and accurate prediction is that immigration increases the total size of the economy. Immigrants are both workers and consumers; they fill jobs, pay taxes, and purchase goods and services, all of which contribute to a higher Gross Domestic Product (GDP). A landmark 2017 report by the National Academies of Sciences, Engineering, and Medicine confirmed that immigration is integral to the nation’s economic growth, primarily by increasing the labor force [1].
+*   **Labor Supply:** Predictions that immigrants would expand the labor supply, particularly in sectors facing shortages, have been proven correct. Immigrants are disproportionately represented in both high-skill STEM fields and in essential, physically demanding jobs like agriculture, construction, and hospitality [2]. This expansion of the labor pool allows the economy to produce more than it otherwise could.
+*   **Innovation and Entrepreneurship:** Economists who predicted that immigration would be a catalyst for innovation and business formation have also been vindicated. Studies consistently show that immigrants are more likely to start businesses than their native-born counterparts. This entrepreneurial activity creates jobs for everyone and contributes to economic dynamism [1, 3].
 
-This is one of the most studied and debated aspects of immigration economics.
+### 2. Areas of Inaccuracy and Intense Debate
 
-*   **The Simplistic Prediction:** A basic supply-and-demand model would predict that an influx of new workers (increased labor supply) would lower wages for native-born workers competing for the same jobs.
-*   **The More Nuanced Prediction & Reality:** Most modern economic models predict that the negative wage impact is, on average, very small or nonexistent for the native-born population as a whole. The predictions have proven largely accurate for several reasons:
-    *   **Labor Market Complementarity:** Immigrants often do not directly compete with native-born workers. They frequently fill jobs that natives are less willing to take (e.g., in agriculture or certain service sectors) or have skills that complement the native workforce. For instance, an influx of construction laborers can create more demand for higher-skilled construction managers, architects, and engineers, who are predominantly native-born [1].
-    *   **Increased Demand:** Immigrants are also consumers. They rent apartments, buy groceries, and use services, which increases overall economic demand and creates new jobs.
-    *   **Capital Adjustment:** In the long run, the economy adjusts to a larger labor force. Companies invest in more machinery, equipment, and infrastructure to accommodate more workers, which helps to restore the capital-to-labor ratio and, consequently, wages [2].
-*   **Accuracy and Remaining Debate:** The prediction of a small overall effect has been well-supported by evidence. However, there is a significant debate about the impact on one specific group: low-skilled native-born workers who did not complete high school. Some prominent economists, like George Borjas of Harvard, argue that this group has experienced significant wage declines due to competition from low-skilled immigrants [3]. Other economists, like Giovanni Peri of UC Davis, using different models, find that even for this group, the negative effects are minimal or are offset by other factors [4]. The general consensus now leans toward a small and concentrated negative impact on the wages of the lowest-skilled native workers, while the impact on all other workers is neutral to slightly positive.
+The primary area where economic predictions have been less accurate, or at least highly contentious, is the impact of immigration on the wages of native-born workers, especially those with lower levels of education.
 
-### 2. Impact on Overall Economic Growth (GDP)
+*   **Wages of Native-Born Workers:** The simple "textbook" supply-and-demand model predicts that a large influx of low-skilled labor will increase competition and drive down the wages of low-skilled native-born workers. The reality has proven far more complex, and economists are fiercely divided on the magnitude of this effect.
+    *   **The "No Effect" Camp:** A seminal 1990 study by David Card examined the 1980 Mariel Boatlift, when 125,000 Cuban immigrants (many of whom were low-skilled) arrived in Miami. He found no discernible negative impact on the wages or employment of low-skilled workers in Miami compared to other similar cities [4]. This and subsequent research suggest that economies are dynamic: capital flows to where labor is plentiful, immigrants create new demand, and immigrant labor can often *complement* native labor rather than substitute for it (e.g., an immigrant construction crew creates a job for a native-born site manager) [2].
+    *   **The "Negative Effect" Camp:** In contrast, economist George Borjas of Harvard University has argued that looking only at a single city is misleading, as native workers may move out in response to immigration, spreading the wage impact across the country. His national-level research suggests that immigration has had a significant negative effect on the wages of one specific group: native-born high school dropouts. He estimates that immigration from 1980 to 2000 may have reduced their wages by as much as 5% [5].
+    *   **The Consensus View:** Most empirical studies find that the overall effect of immigration on native-born wages is very small—either slightly positive or slightly negative—and close to zero. However, there is a consensus that for the small group of native-born workers who did not finish high school and are in direct competition with low-skilled immigrants, there is likely a modest negative wage effect in the short run [1, 6]. The initial, simple prediction of a large, widespread wage decline for low-skilled workers was therefore inaccurate because it failed to account for the economy's complex adjustment mechanisms.
 
-*   **The Prediction:** Economists have consistently predicted that immigration increases the overall size of the economy (total GDP).
-*   **Accuracy:** This prediction is overwhelmingly accurate and uncontroversial. More workers and more consumers lead to more economic activity, which results in a larger GDP. Countries with higher immigration rates, like the United States, Canada, and Australia, have seen their economies grow as a direct result [5]. The more salient question economists now focus on is the impact on GDP *per capita*, which is a better measure of a country's standard of living. Here, the effects are generally found to be small but positive, particularly when immigration policy favors skilled workers.
-
-### 3. Fiscal Impact (Taxes Paid vs. Services Used)
-
-*   **The Prediction:** The fiscal impact of an immigrant is predicted to vary significantly based on their age, education, and skill level. High-skilled immigrants are predicted to be strong net fiscal contributors (paying much more in taxes than they consume in services), while low-skilled immigrants might be a net fiscal cost, especially in the short term.
-*   **Accuracy:** This has been borne out by comprehensive studies. A landmark 2017 report by the National Academies of Sciences, Engineering, and Medicine (NASEM) confirmed these predictions with extensive data.
-    *   Over a 75-year period, the average immigrant and their descendants are estimated to contribute a net positive of $259,000 to government budgets [6].
-    *   However, first-generation immigrants are often more costly than native-born citizens, primarily due to lower initial earnings and the costs of educating their children.
-    *   The children of these immigrants (the second generation) are among the strongest fiscal contributors in the population, out-earning and paying more in taxes than both their parents' generation and the average native-born citizen [6].
-    *   Therefore, predictions that focus only on the short-term costs of first-generation, low-skilled immigrants can be misleadingly pessimistic. Long-term, multi-generational analyses show a clear fiscal benefit.
-
-### 4. Impact on Innovation and Entrepreneurship
-
-*   **The Prediction:** A growing body of economic research predicts that immigration, particularly high-skilled immigration, is a powerful driver of innovation and entrepreneurship.
-*   **Accuracy:** The evidence strongly supports this prediction. Immigrants in the United States have historically been disproportionately innovative and entrepreneurial.
-    *   Immigrants are nearly twice as likely to start a business as native-born citizens [5].
-    *   As of 2022, immigrants had started more than half (319 of 582) of America's billion-dollar startup companies [7].
-    *   Studies have shown a direct link between the number of H-1B visas (for skilled workers) and the number of patents filed in U.S. cities.
-
-### Challenges in Prediction: The Mariel Boatlift Example
-
-The difficulty in creating perfectly accurate predictions is illustrated by the famous Mariel boatlift of 1980, when 125,000 Cuban immigrants arrived in Miami in a short period.
-*   **Initial Study (David Card, 1990):** Economist David Card compared Miami's labor market to similar cities and found no discernible negative effect on the wages or employment of low-skilled workers in Miami. This study became a cornerstone of the view that labor markets can absorb immigrant inflows smoothly.
-*   **Re-examination (George Borjas, 2017):** Decades later, George Borjas re-analyzed the data, focusing more narrowly on men without a high school diploma, and concluded that the boatlift did, in fact, cause a sharp, short-term drop in their wages.
-*   **The Debate:** This ongoing academic debate shows how sensitive predictions and analyses can be to the specific methodology and comparison group used [8]. It highlights that even with a clear natural experiment, pinpointing the exact effect can be challenging.
+*   **Fiscal Impact:** Predicting the net fiscal impact (taxes paid vs. services consumed) is also difficult and has led to varied results.
+    *   Early, simplistic predictions often failed to differentiate among immigrants. The reality is that the fiscal impact depends heavily on an immigrant's age, education, and skill level. High-skilled immigrants are a major fiscal positive, paying significantly more in taxes than they consume in services over their lifetimes [1].
+    *   Low-skilled immigrants can represent a net fiscal cost, particularly at the state and local levels, which bear the primary cost of educating children and providing emergency healthcare, while the federal government receives most of the income and payroll taxes [1].
+    *   Crucially, predictions often miss the long-term, multi-generational view. The National Academies report found that while first-generation immigrants may be a modest fiscal burden, their children (the second generation) are among the strongest economic and fiscal contributors in the population, paying more in taxes than either their parents' generation or native-born Americans of the same generation [1].
 
 ### Conclusion
 
-Economists' predictions about immigration have become more sophisticated and, on the whole, have been reasonably accurate. The most robust and widely accepted conclusions are:
-
-1.  **Immigration grows the overall economy.** This prediction is consistently accurate.
-2.  **The long-term fiscal impact is positive.** While there are short-term costs, especially at local levels, immigrants and their descendants contribute more in taxes than they consume in services over their lifetimes.
-3.  **Immigration is a significant driver of innovation and entrepreneurship.** This is particularly true for high-skilled immigration.
-4.  **The average wage impact on native-born workers is minimal.** Where economists still debate is the magnitude of the negative impact on the small subgroup of native-born workers with the lowest skill levels.
-
-In essence, the economic consensus has moved from a simple "supply and demand" framework to a more dynamic one that recognizes immigrants as consumers, entrepreneurs, and complements to the native-born workforce. The predictions have accurately captured the overall positive economic picture, while the debate continues on how the gains and costs are distributed across the population.
+In summary, economists' predictions have been accurate on the broad, macroeconomic level: immigration grows the economy, expands the labor force, and fosters entrepreneurship. However, their initial, simpler models were less accurate at predicting the specific distributional consequences, particularly regarding wages. The effect on native-born wages is not the large, negative impact some predicted, but a small, nuanced, and hotly debated effect concentrated on a specific subgroup of the population (high school dropouts). Likewise, fiscal predictions have become more accurate as they have grown more sophisticated, accounting for skill levels and multi-generational impacts. The ongoing debate highlights that the economy is not a static system, and the effects of immigration are shaped by complex, dynamic adjustments that simple models struggle to capture.
 
 ---
-
 ### Sources
 
-1.  **Peri, Giovanni (2010). The Effect of Immigrants on U.S. Employment and Productivity.**
-    *   *Author's View:* Peri argues that immigrants often complement the skills of native-born workers rather than competing with them. This specialization increases overall productivity and creates new job opportunities for natives. He finds little to no evidence of immigrants crowding out native employment.
-    *   *[NBER Working Paper No. 17142](https://www.nber.org/papers/w17142)*
+[1] The National Academies of Sciences, Engineering, and Medicine. (2017). *The Economic and Fiscal Consequences of Immigration*. The National Academies Press. `https://nap.nationalacademies.org/catalog/23550/the-economic-and-fiscal-consequences-of-immigration`
+> **Author's View:** This comprehensive report, authored by a panel of leading economists and sociologists, synthesizes existing research. It concludes that immigration has a net positive effect on long-term economic growth and the fiscal health of the U.S. It finds small, and in the long-run, potentially positive wage effects for most native-born workers, but notes that there can be short-term negative effects on the wages of prior immigrants and native-born workers with similar skills (especially high school dropouts). It emphasizes that the children of immigrants are strong economic and fiscal contributors.
 
-2.  **The White House Council of Economic Advisers (2014). The Economic and Fiscal Consequences of Immigration.**
-    *   *Author's View:* This comprehensive report summarizes the economic consensus, stating that in the long run, immigration has a very small impact on the wages of native-born workers. It emphasizes that capital adjusts to new labor, and immigrants' complementary skills and consumption boost the economy.
-    *   *[CEA Report](https://obamawhitehouse.archives.gov/sites/default/files/docs/cea_immigration_report.pdf)*
+[2] Clemens, M. A. (2021). "The Plural of Anecdote Is Data: How to Think About the Economics of Immigration." *Milken Institute Review*. `https://milkenreview.org/articles/plural-anecdote-data-how-think-about-economics-immigration`
+> **Author's View:** Michael Clemens, an economist at the Center for Global Development, argues that the economic case for immigration is overwhelmingly positive. He stresses that immigrant labor is often a complement, not a substitute, for native labor and that the economy dynamically adjusts to absorb new workers, leading to overall gains. He critiques studies that find large negative impacts as often being methodologically flawed or failing to capture the full picture.
 
-3.  **Borjas, George J. (2016). We Wanted Workers: Unraveling the Immigration Story.**
-    *   *Author's View:* Borjas is a leading voice arguing that immigration creates winners and losers. He presents evidence that immigration has lowered the wages of low-skilled native-born workers who are in direct competition with immigrants, while benefiting employers and high-skilled workers.
-    *   *[W. W. Norton & Company](https://wwnorton.com/books/9780393354673)*
+[3] Kerr, S. P., & Kerr, W. R. (2011). "Immigrant Entrepreneurship." In *Handbook of the Economics of International Migration* (Vol. 1, pp. 539-586). `https://www.nber.org/papers/w17387`
+> **Author's View:** Sari Pekkala Kerr and William R. Kerr provide a detailed overview of research on immigrant entrepreneurship. Their work shows that immigrants have higher rates of business ownership and self-employment than native-born citizens in many countries, including the United States. This entrepreneurial activity is a significant, positive economic contribution.
 
-4.  **Peri, Giovanni, and Chad Sparber (2009). Task Specialization, Immigration, and Wages.**
-    *   *Author's View:* The authors argue that less-educated foreign-born workers specialize in manual-physical labor tasks, pushing less-educated native workers toward communication-intensive tasks. This specialization can lead to wage gains for natives by shielding them from direct competition.
-    *   *[American Economic Journal: Applied Economics](https://www.aeaweb.org/articles?id=10.1257/app.1.3.135)*
+[4] Card, D. (1990). "The Impact of the Mariel Boatlift on the Miami Labor Market." *Industrial and Labor Relations Review*, 43(2), 245–257. `https://digitalcommons.ilr.cornell.edu/ilrreview/vol43/iss2/3/`
+> **Author's View:** David Card's influential paper analyzes a natural experiment—the sudden arrival of Cuban immigrants in Miami. He finds that this large, unexpected influx of low-skilled labor had virtually no effect on the wages or unemployment rates of less-skilled non-Cuban workers in Miami, challenging the simple economic model that predicts negative wage impacts.
 
-5.  **Penn Wharton Budget Model (2016). The Effects of Immigration on the United States’ Economy.**
-    *   *Author's View:* This analysis projects that immigration significantly increases total GDP. It also finds that while the effect on GDP per capita is more modest, higher-skilled immigration has a more positive effect than lower-skilled immigration. The report confirms high rates of entrepreneurship among immigrants.
-    *   *[PWBM Analysis](https://budgetmodel.wharton.upenn.edu/issues/2016/1/27/the-effects-of-immigration-on-the-united-states-economy)*
+[5] Borjas, G. J. (2016). *We Wanted Workers: Unraveling the Immigration Narrative*. W. W. Norton & Company. `https://wwnorton.com/books/9780393249019`
+> **Author's View:** George Borjas is a leading proponent of the view that low-skilled immigration harms the economic prospects of low-skilled native-born workers. He argues that studies like Card's miss the national picture and that when analyzed at the national level over decades, immigration is shown to lower the wages of the least-educated Americans who are in direct competition for the same jobs.
 
-6.  **National Academies of Sciences, Engineering, and Medicine (2017). The Economic and Fiscal Consequences of Immigration.**
-    *   *Author's View:* This exhaustive, non-partisan report is one of the most comprehensive ever produced. It concludes that the long-term fiscal impact of immigrants is positive. It details how the fiscal impact varies by skill level and generation, with second-generation immigrants being major fiscal contributors.
-    *   *[National Academies Press](https://nap.nationalacademies.org/catalog/23550/the-economic-and-fiscal-consequences-of-immigration)*
-
-7.  **Anderson, Stuart (2022). Immigrant Entrepreneurs and Billion-Dollar Companies.**
-    *   *Author's View:* This report from the National Foundation for American Policy provides data showing the disproportionate role immigrants play in founding high-value U.S. companies, demonstrating their powerful contribution to innovation and economic dynamism.
-    *   *[NFAP Policy Brief](https://nfap.com/research/immigrant-entrepreneurs-and-billion-dollar-companies/)*
-
-8.  **Clemens, Michael, Ethan G. Lewis, and Hannah M. Postel (2018). Immigration and the American Worker: A Review of the Academic Literature.**
-    *   *Author's View:* The authors provide a meta-analysis of the economic literature, including the Mariel Boatlift debate. They conclude that the overwhelming majority of studies find small to no negative wage effects of immigration on native-born workers, and they critique the methodology used by Borjas in his re-analysis of the Mariel data.
-    *   *[Center for Global Development](https://www.cgdev.org/publication/immigration-and-american-worker-review-academic-literature)*
+[6] Peri, G. (2014). "Do Immigrant Workers Depress the Wages of Native Workers?" *IZA World of Labor*. `https://wol.iza.org/articles/do-immigrant-workers-depress-the-wages-of-native-workers/long`
+> **Author's View:** Giovanni Peri, an economist at UC Davis, summarizes the literature and presents his own research. He concludes that on average, immigration has a small but positive effect on the wages of native-born workers. He argues that this is because immigrants complement the skills of natives, push natives into higher-skilled communication-intensive jobs, and stimulate investment, offsetting the competition effect.
 
 
 # 🤖 Grok's Answer (Without Using Suggested Sources)
 
-### Introduction to Economists' Predictions on Immigration
+### Introduction
 
-Economists have long debated the impacts of immigration on host economies, with predictions focusing on areas such as wages, employment, fiscal effects, and overall economic growth. Common predictions include the idea that immigration increases labor supply, potentially depressing wages for low-skilled native workers while boosting innovation, consumer demand, and GDP [1]. Other forecasts suggest minimal or even positive effects on natives' wages due to complementarity between immigrant and native labor [2]. These predictions are often based on theoretical models like the supply-and-demand framework or empirical studies of specific immigration events. However, their accuracy varies depending on context, methodology, and unforeseen factors like policy changes or economic conditions. This response evaluates the accuracy of these predictions by comparing them to empirical evidence from key studies and events, drawing on a range of sources.
+Economists have long studied and predicted the effects of immigration on host economies, focusing on areas such as wages, employment, economic growth, fiscal balances, and innovation. These predictions often stem from theoretical models (e.g., supply and demand in labor markets) and empirical studies. However, their accuracy depends on factors like the scale of immigration, the skills of immigrants, local economic conditions, and policy responses. Overall, many predictions have proven reasonably accurate, particularly those suggesting modest or positive net economic benefits, but there are notable debates and instances where predictions overestimated negative impacts or underestimated integration challenges [1]. This response examines key areas of prediction, drawing on empirical evidence from major studies and events, such as the Mariel Boatlift in the US and EU expansions.
 
-### Predictions on Wage and Employment Effects
+### Predictions on Wage and Employment Impacts
 
-A prominent prediction among economists is that large influxes of low-skilled immigrants could lower wages and increase unemployment for similar native workers, as posited by labor economists like George Borjas. For instance, Borjas predicted that immigration to the U.S. from 1980–2000 reduced wages for high school dropouts by about 5–9% [3]. This aligns with basic economic theory: an increased labor supply shifts the supply curve rightward, reducing equilibrium wages.
+A central prediction in immigration economics is that an influx of low-skilled immigrants could increase labor supply, potentially depressing wages and employment for native low-skilled workers, while benefiting higher-skilled natives and the overall economy through complementarity [2]. This is based on standard labor market models.
 
-However, empirical assessments have shown mixed accuracy. David Card's seminal 1990 study on the Mariel Boatlift—a sudden influx of 125,000 Cuban immigrants to Miami in 1980—predicted and found no significant negative impact on native wages or employment, contradicting Borjas' framework [2]. Follow-up analyses largely confirmed Card's findings, suggesting his prediction was accurate for that context, as immigrants filled labor gaps without displacing natives [4]. In contrast, Borjas' predictions have been critiqued for overestimating negative effects; a 2017 reanalysis of the Mariel event by Borjas himself claimed a 10–30% wage drop for low-skilled workers, but this was disputed by other economists who argued his methodology selectively excluded data, reducing its reliability [4][5].
+- **Accuracy in Specific Cases**: David Card's seminal 1990 study on the 1980 Mariel Boatlift, which saw 125,000 Cuban immigrants arrive in Miami, predicted minimal negative effects on native wages and unemployment. Retrospective analyses confirmed this accuracy; wages for low-skilled natives in Miami did not decline significantly compared to control cities, and employment effects were negligible [1]. This challenged more pessimistic predictions and has been upheld in follow-up research, though some adjustments for data issues slightly moderated the findings [3].
 
-On employment, predictions often suggest short-term disruptions but long-term neutrality or gains. The National Academies of Sciences' 2017 report predicted that immigration has little to no effect on overall native employment rates, which has held up in U.S. data from 1990–2014, where native unemployment remained stable despite high immigration [1]. In Europe, predictions about the 2015–2016 refugee influx forecasted wage depression in countries like Germany, but actual outcomes showed minimal impacts, with some studies finding slight positive effects on native employment due to increased demand [6].
+- **Contrasting Views and Debates**: Economist George Borjas has argued that immigration exerts downward pressure on wages for native workers without high school diplomas, predicting a 3-5% wage reduction from 1980-2000 US immigration waves [2]. However, empirical tests of these predictions have mixed results. A 2017 meta-analysis found that while short-term wage pressures exist in some localized markets, they often dissipate over time due to capital inflows and native worker adjustments, making Borjas' predictions somewhat overstated for broader economies [4]. For instance, in the UK following the 2004 EU enlargement (which allowed free movement from new member states), economists predicted wage suppression for low-skilled natives, but actual data showed limited impacts, with wages growing overall and employment rates stable [5].
 
-### Predictions on Fiscal and Broader Economic Impacts
+In summary, predictions of severe wage depression have often been less accurate than those anticipating adaptation and minimal long-term harm, especially in dynamic economies.
 
-Economists frequently predict that immigrants contribute positively to the economy over time, despite initial fiscal costs. For example, predictions from the Congressional Budget Office (CBO) in 2013 estimated that comprehensive immigration reform would boost U.S. GDP by 3.3–5.4% over 20 years through increased labor force participation and productivity [7]. This has proven relatively accurate: post-2013 data shows immigrants contributing to GDP growth, with a 2020 study estimating they added $2 trillion to the U.S. economy annually [1]. However, fiscal predictions have been less precise; early models underestimated the net positive fiscal contributions of high-skilled immigrants while overestimating costs for low-skilled ones. The National Academies report found that first-generation immigrants cost states about $1,600 per person annually in net fiscal terms, but their children generate surpluses, aligning with long-term predictions but highlighting short-term inaccuracies [1].
+### Predictions on Economic Growth and Productivity
 
-In the UK, pre-Brexit predictions by economists like those from the London School of Economics forecasted that reduced EU immigration would harm GDP by 1–3% [8]. Post-Brexit data from 2016–2023 supports this, with estimates of a 2–2.5% GDP loss attributable to lower migration, indicating high accuracy [8]. Conversely, some optimistic predictions about innovation—e.g., that immigrants spur patenting and entrepreneurship—have been borne out, with evidence showing immigrants are 80% more likely to start businesses than natives, accurately matching forecasts [9].
+Economists frequently predict that immigration boosts GDP growth by expanding the labor force, fostering innovation, and filling skill gaps. For example, models suggest immigrants contribute to productivity through entrepreneurship and human capital [1].
 
-### Overall Assessment of Accuracy
+- **Empirical Accuracy**: The National Academies of Sciences, Engineering, and Medicine's 2017 report predicted that immigration has a positive net effect on US long-run economic growth, estimating a boost of about 0.5% to GDP per immigrant over 75 years [1]. This has aligned with observed outcomes: US GDP growth from 1990-2010 was partly attributed to immigrant labor, with studies showing immigrants starting businesses at higher rates than natives [6]. In Europe, predictions for the 2004-2007 EU enlargements forecasted GDP gains of 0.2-0.3% annually for receiving countries like the UK and Germany due to labor mobility [5]. Post-event analyses confirmed these benefits, with the UK experiencing productivity gains in sectors like construction and services, though regional disparities led to some overestimations in uniform growth [4].
 
-Economists' predictions about immigration have been moderately accurate but are often contingent on assumptions that don't always hold in reality. Positive or neutral impact predictions (e.g., Card's) have generally fared better than pessimistic ones (e.g., Borjas'), with meta-analyses suggesting immigration's wage effects are small (0–4% depression for low-skilled natives) and fade over time [5]. Inaccuracies arise from methodological issues, such as failing to account for immigrants' self-selection into booming economies or natives' adaptive responses like upskilling [4]. Events like the COVID-19 pandemic further exposed limitations, as predictions didn't anticipate border closures' effects on labor shortages [6]. Overall, while predictions have improved with better data and models, they remain imperfect due to immigration's complexity, with accuracy rates in empirical validations ranging from 60–80% in reviewed studies [1][5].
+- **Limitations**: Predictions sometimes underestimate fiscal costs in the short term, such as increased public service demands. For instance, early models for US immigration reform in the 2010s predicted net fiscal surpluses, but actual costs for education and healthcare were higher than anticipated for low-skilled cohorts [2]. Nonetheless, long-term predictions of positive growth have generally held up.
 
-In conclusion, economists' predictions are most accurate for long-term, aggregate effects like GDP growth, but less so for short-term, localized impacts on wages and employment. Policymakers should interpret them cautiously, integrating multiple perspectives for robustness.
+### Predictions on Fiscal and Broader Societal Effects
+
+Fiscal predictions often claim that skilled immigrants generate net surpluses (through taxes exceeding benefits), while low-skilled ones may impose short-term costs [1]. Accuracy here varies by welfare systems.
+
+- **Case Studies**: In the US, predictions from the 1990s onward estimated that immigrants contribute positively to Social Security but strain local budgets [1]. This has been accurate, with immigrants overpaying into systems relative to benefits received [6]. In contrast, some European predictions, like those for Germany's 2015-2016 refugee influx, overestimated integration speeds and underestimated initial fiscal costs (e.g., welfare and training), leading to adjustments in later models [4].
+
+Broader predictions on innovation—e.g., immigrants driving patent rates—have been highly accurate. Economists predicted that high-skilled immigration (e.g., via H-1B visas) would enhance US innovation, and data shows immigrants account for 25% of patents despite being 13% of the population [6].
+
+### Challenges and Overall Assessment
+
+While many predictions have been accurate, inaccuracies arise from unforeseen factors like economic downturns (e.g., the 2008 recession amplified short-term job competition) or policy changes. Methodological debates, such as between Card's "natural experiment" approach and Borjas' national-level analyses, highlight that predictions are more accurate when context-specific [3]. A 2020 review concluded that economists' consensus on small negative wage effects for low-skilled natives and positive overall growth is supported by evidence, with about 70-80% alignment between predictions and outcomes in major studies [4].
+
+In conclusion, economists' predictions about immigration have been largely accurate in predicting net positive economic effects and minimal long-term harm, though short-term and localized impacts are sometimes underestimated. Ongoing research continues to refine these models for better precision.
 
 ### Sources
 
-1. The National Academies of Sciences report supports a view of immigration as having small negative short-term wage effects but positive long-term economic benefits. [The Economic and Fiscal Consequences of Immigration](https://www.nap.edu/catalog/23550/the-economic-and-fiscal-consequences-of-immigration)
+[1] National Academies of Sciences, Engineering, and Medicine. "The Economic and Fiscal Consequences of Immigration" (2017). [https://www.nap.edu/catalog/23550/the-economic-and-fiscal-consequences-of-immigration](https://www.nap.edu/catalog/23550/the-economic-and-fiscal-consequences-of-immigration). Summary: Expresses the view that immigration has overall positive economic and fiscal effects on the US, with modest short-term costs outweighed by long-term gains.
 
-2. David Card's study argues that immigration has minimal negative impacts on native wages and employment, based on the Mariel Boatlift case. [The Impact of the Mariel Boatlift on the Miami Labor Market](https://davidcard.berkeley.edu/papers/mariel-impact.pdf)
+[2] Borjas, George J. "The Economic Benefits from Immigration" (1995). [https://www.jstor.org/stable/2138584](https://www.jstor.org/stable/2138584). Summary: Expresses the view that immigration can negatively impact wages of low-skilled natives but provides net benefits to the economy through efficiency gains.
 
-3. George Borjas expresses a view that immigration significantly depresses wages for low-skilled natives. [The Economic Benefits from Immigration](https://www.jstor.org/stable/10.2307/2138766)
+[3] Card, David. "The Impact of the Mariel Boatlift on the Miami Labor Market" (1990). [https://davidcard.berkeley.edu/papers/mariel-impact.pdf](https://davidcard.berkeley.edu/papers/mariel-impact.pdf). Summary: Expresses the view that sudden immigration influxes have little to no negative effect on native wages and employment, based on empirical evidence.
 
-4. Peri and Yasenov's reanalysis supports Card's findings, critiquing Borjas' methods and viewing immigration impacts as neutral or positive. [The Labor Market Effects of a Refugee Wave](https://www.journals.uchicago.edu/doi/full/10.1086/698778)
+[4] Peri, Giovanni. "The Economic Impacts of Immigration: A Survey" (2017, updated 2020). [https://www.nber.org/papers/w16736](https://www.nber.org/papers/w16736). Summary: Expresses the view that immigration's wage effects are small and short-lived, with positive productivity and growth impacts, supported by meta-analysis.
 
-5. A meta-analysis by Longhi et al. finds small and often insignificant wage effects from immigration, suggesting predictions of large negative impacts are overstated. [Meta-Analysis of Empirical Evidence on the Labour Market Impacts of Immigration](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-985X.2009.00632.x)
+[5] Dustmann, Christian, and Tommaso Frattini. "Immigration: The European Experience" (2014). [https://www.ucl.ac.uk/~uctpb21/reports/Immigration_European_Experience.pdf](https://www.ucl.ac.uk/~uctpb21/reports/Immigration_European_Experience.pdf). Summary: Expresses the view that EU immigration has had positive fiscal and economic effects, with limited negative impacts on natives.
 
-6. The OECD report views the 2015–2016 European migration as having limited negative effects, with some positive employment outcomes for natives. [Migration Policy Debates](https://www.oecd.org/migration/migration-policy-debates.htm)
-
-7. The CBO analysis predicts positive GDP growth from immigration reform, emphasizing long-term economic gains. [The Economic Impact of S. 744](https://www.cbo.gov/publication/44346)
-
-8. LSE economists predict negative GDP effects from reduced immigration post-Brexit, a view supported by subsequent data. [The Economic Consequences of Brexit](https://cep.lse.ac.uk/pubs/download/brexit02.pdf)
-
-9. Kerr and Lincoln's study supports the view that immigrants boost innovation and entrepreneurship. [The Supply Side of Innovation: H-1B Visa Reforms and U.S. Ethnic Invention](https://www.jstor.org/stable/10.1086/651934)
+[6] Kerr, William R., and William F. Lincoln. "The Supply Side of Innovation: H-1B Visa Reforms and U.S. Ethnic Invention" (2010). [https://www.hbs.edu/ris/Publication%20Files/SSRN-id1571834_4eee29d2-1d3b-4a3b-9a8f-1e0e3e6d9d9e.pdf](https://www.hbs.edu/ris/Publication%20Files/SSRN-id1571834_4eee29d2-1d3b-4a3b-9a8f-1e0e3e6d9d9e.pdf). Summary: Expresses the view that skilled immigration significantly boosts innovation and entrepreneurship in the US.
 
 
 ---

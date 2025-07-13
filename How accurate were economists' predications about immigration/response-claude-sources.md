@@ -1,39 +1,39 @@
-Economists' predictions about immigration have shown mixed accuracy, with significant failures in some key areas and better performance in others.
+Economists' predictions about immigration have shown significant inaccuracies, particularly in several key areas including fiscal impacts, labor market effects, and integration outcomes.
 
-## Labor Market Impact Predictions
+## Labor Market Predictions
 
-One of the most significant predictive failures occurred in the UK regarding EU immigration following the 2004 enlargement. The British government's economists predicted that only 5,000-13,000 migrants would arrive annually from the new EU member states, but the actual number was approximately 170,000 in the first year alone - more than ten times the prediction [2]. This massive underestimation had real policy consequences, as the UK was one of only three countries that didn't impose transitional restrictions on workers from new EU members.
+One of the most notable failures was economists' predictions about labor market competition. Many economists initially predicted that immigration would have minimal effects on native workers' wages and employment, based on theoretical models assuming perfect labor mobility and market clearing [1]. However, empirical evidence has shown more complex dynamics, with some studies finding significant wage depression in certain sectors and skill levels, particularly affecting workers without college degrees.
 
-Regarding wage effects, economic models have generally predicted that immigration would have minimal impact on native wages, particularly in the long run. However, these predictions have faced challenges when confronted with real-world data. Some studies have found larger negative effects on wages for certain groups, particularly low-skilled workers, than standard economic models initially suggested [1].
+The consensus among economists has shifted over time as more data became available. Earlier predictions often underestimated the heterogeneous effects across different skill groups and geographic regions [1].
 
-## Employment Effects
+## Fiscal Impact Miscalculations
 
-Classical economic theory predicted that immigration wouldn't significantly reduce employment opportunities for native workers, based on the assumption that labor demand is elastic and the economy can absorb additional workers. While some empirical evidence supports this view in aggregate terms, the reality has proven more nuanced, with effects varying significantly by skill level, geographic area, and time period [1].
+Economists' predictions about the fiscal impact of immigration have been particularly problematic. Many early analyses failed to account for the full spectrum of costs and benefits over time [2]. Research has shown that fiscal impacts vary dramatically by country of origin, skill level, and time horizon, factors that were often oversimplified in earlier economic models [3].
 
-## Methodological Challenges
+The complexity of calculating net fiscal contributions was underestimated, with economists initially focusing too heavily on tax contributions while underestimating the full range of public service costs, including education, healthcare, and infrastructure [2].
 
-The mixed accuracy of economists' immigration predictions stems from several methodological limitations. Economic models often rely on simplified assumptions about labor market flexibility, perfect information, and rational behavior that don't always hold in practice [2]. Additionally, many studies have struggled to account for dynamic effects, such as how native workers might respond to immigration by changing their job search behavior or how immigrants might create new economic opportunities.
+## Integration and Long-term Outcomes
 
-The "spatial correlation" problem has also plagued immigration research, where economists attempt to measure effects by comparing areas with different immigration levels, but fail to account for the fact that immigrants may choose destinations based on existing economic conditions [1].
+Economic predictions about integration rates and long-term economic mobility have also proven inaccurate in many cases. Economists often assumed relatively uniform integration patterns across different immigrant groups, but evidence suggests significant variation based on country of origin, initial skill levels, and receiving community characteristics [3].
 
-## Prediction Accuracy Varies by Context
+## Methodological Limitations
 
-Economists have been more successful in predicting some aspects of immigration's impact than others. Long-term predictions about overall economic growth and productivity effects have generally been more accurate than short-term predictions about specific labor market disruptions. Similarly, predictions about highly skilled immigration have tended to be more reliable than those about low-skilled immigration [1].
+The inaccuracies in economists' predictions can be attributed to several methodological issues:
 
-## Lessons and Ongoing Challenges
+- **Oversimplified models**: Early economic models often failed to capture the complexity of labor markets and social systems [2]
+- **Data limitations**: Insufficient longitudinal data led to incomplete understanding of long-term effects
+- **Assumption flaws**: Models often relied on assumptions about perfect competition and mobility that don't reflect real-world conditions [1]
 
-The track record reveals that economists' immigration predictions are most vulnerable when they involve:
-- Forecasting migration flows, especially in response to policy changes
-- Estimating short-term labor market disruptions
-- Accounting for geographic and occupational mobility responses
-- Predicting political and social responses that can affect economic outcomes
+## Evolution of Understanding
 
-While economic theory provides valuable frameworks for understanding immigration's effects, the complexity of real-world labor markets and human behavior continues to challenge the accuracy of specific predictions [2].
+The field has gradually improved its predictive accuracy as methodologies have become more sophisticated and data availability has increased. Modern analyses increasingly recognize the importance of disaggregating effects by skill level, geographic region, and time horizon [3].
+
+However, significant challenges remain in making accurate predictions about immigration's economic effects, particularly given the complex interplay of economic, social, and political factors that influence outcomes.
 
 ## Sources
 
-[1] Borjas, George J. "We Wanted Workers" Chapter 9. Available at: https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf
-- This source examines the methodological challenges in measuring immigration's labor market effects and discusses how empirical findings have sometimes diverged from theoretical predictions.
+[1] Borjas, George J. "We Wanted Workers" - Chapter 9. This source discusses the evolution of economic thinking about immigration's labor market effects and acknowledges gaps between theoretical predictions and empirical findings. [https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf](https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf)
 
-[2] "The Failure of Economists" - Not On Your Team. Available at: https://www.notonyourteam.co.uk/p/the-failure-of-economists
-- This source critiques economists' predictive failures, including the dramatic underestimation of EU immigration to the UK, and discusses broader issues with economic forecasting methodology.
+[2] "The Failure of Economists" - This source critiques economists' track record on immigration predictions, highlighting methodological flaws and oversimplified assumptions that led to inaccurate forecasts. [https://www.notonyourteam.co.uk/p/the-failure-of-economists](https://www.notonyourteam.co.uk/p/the-failure-of-economists)
+
+[3] Kirkegaard, Emil. "Fiscal Impact of Immigrants by Country of Origin" - This research demonstrates the heterogeneous fiscal effects of immigration that were often missed in earlier economic predictions, showing significant variation by origin country. [https://emilkirkegaard.dk/en/2024/02/fiscal-impact-of-immigrants-by-country-of-origin/](https://emilkirkegaard.dk/en/2024/02/fiscal-impact-of-immigrants-by-country-of-origin/)
