@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-12 18:18:42
+**Last Updated:** 2025-07-12 19:02:01
 
 ---
 
@@ -125,6 +125,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 ### Sources
 
 * https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf
+* https://www.notonyourteam.co.uk/p/the-failure-of-economists
 
 ---
 

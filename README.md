@@ -23,7 +23,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-12 18:18:42
+**Last Updated:** 2025-07-12 19:02:01
 
 ## Questions
 
@@ -67,7 +67,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ⏳ In Progress (6/8 responses)
 **Folder:** `How accurate were economists' predications about immigration/`
-**Last Updated:** 2025-07-12 18:18
+**Last Updated:** 2025-07-12 19:02
 
 ## 8. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)
 

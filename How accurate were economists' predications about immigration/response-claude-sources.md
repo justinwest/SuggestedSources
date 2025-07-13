@@ -1,36 +1,39 @@
-Economists' predictions about immigration have shown mixed accuracy, with some fundamental insights proving correct while others have required significant revision as empirical evidence accumulated.
+Economists' predictions about immigration have shown mixed accuracy, with significant failures in some key areas and better performance in others.
 
-## Early Theoretical Predictions vs. Empirical Reality
+## Labor Market Impact Predictions
 
-Traditional economic theory predicted that immigration would depress wages for native workers, particularly those without college degrees, through increased labor supply. However, empirical studies have found much smaller effects than initially predicted. According to George Borjas's analysis, the actual wage effects of immigration on native workers have been more nuanced than early theoretical models suggested, with the impact varying significantly across different skill levels and time periods [1].
+One of the most significant predictive failures occurred in the UK regarding EU immigration following the 2004 enlargement. The British government's economists predicted that only 5,000-13,000 migrants would arrive annually from the new EU member states, but the actual number was approximately 170,000 in the first year alone - more than ten times the prediction [2]. This massive underestimation had real policy consequences, as the UK was one of only three countries that didn't impose transitional restrictions on workers from new EU members.
 
-## Labor Market Complementarity
+Regarding wage effects, economic models have generally predicted that immigration would have minimal impact on native wages, particularly in the long run. However, these predictions have faced challenges when confronted with real-world data. Some studies have found larger negative effects on wages for certain groups, particularly low-skilled workers, than standard economic models initially suggested [1].
 
-One area where economists' predictions have proven more accurate is in recognizing labor market complementarity. Economists correctly anticipated that immigrants and native workers often perform different types of jobs rather than directly competing for identical positions. This complementarity has helped explain why the predicted large-scale wage depression for native workers did not materialize to the extent initially forecasted [1].
+## Employment Effects
 
-## Fiscal Impact Predictions
+Classical economic theory predicted that immigration wouldn't significantly reduce employment opportunities for native workers, based on the assumption that labor demand is elastic and the economy can absorb additional workers. While some empirical evidence supports this view in aggregate terms, the reality has proven more nuanced, with effects varying significantly by skill level, geographic area, and time period [1].
 
-Economists' predictions about the fiscal impact of immigration have been particularly challenging to assess accurately. Early models often failed to account for the complex, long-term nature of fiscal effects, including the significant contributions of second-generation immigrants. The actual fiscal impact has proven more positive than many initial predictions suggested, especially when considering the full lifecycle effects of immigrant families [1].
+## Methodological Challenges
 
-## Adaptation and Assimilation Rates
+The mixed accuracy of economists' immigration predictions stems from several methodological limitations. Economic models often rely on simplified assumptions about labor market flexibility, perfect information, and rational behavior that don't always hold in practice [2]. Additionally, many studies have struggled to account for dynamic effects, such as how native workers might respond to immigration by changing their job search behavior or how immigrants might create new economic opportunities.
 
-Economic predictions about immigrant adaptation and wage growth over time have shown reasonable accuracy. Economists correctly predicted that immigrant wages would converge toward native wages over time, though the speed of this convergence has varied across different immigrant cohorts and countries of origin [1].
+The "spatial correlation" problem has also plagued immigration research, where economists attempt to measure effects by comparing areas with different immigration levels, but fail to account for the fact that immigrants may choose destinations based on existing economic conditions [1].
 
-## Limitations in Predictive Models
+## Prediction Accuracy Varies by Context
 
-Several factors have limited the accuracy of economists' immigration predictions:
+Economists have been more successful in predicting some aspects of immigration's impact than others. Long-term predictions about overall economic growth and productivity effects have generally been more accurate than short-term predictions about specific labor market disruptions. Similarly, predictions about highly skilled immigration have tended to be more reliable than those about low-skilled immigration [1].
 
-- **Dynamic effects**: Early models often treated labor markets as static, failing to account for how economies adjust and expand in response to immigration
-- **Spatial considerations**: Predictions frequently underestimated the importance of geographic distribution and local labor market conditions
-- **Skill complementarity**: Initial models oversimplified the relationship between immigrant and native worker skills
-- **Long-term perspectives**: Many predictions focused on short-term effects while missing important long-term economic benefits [1]
+## Lessons and Ongoing Challenges
 
-## Methodological Improvements
+The track record reveals that economists' immigration predictions are most vulnerable when they involve:
+- Forecasting migration flows, especially in response to policy changes
+- Estimating short-term labor market disruptions
+- Accounting for geographic and occupational mobility responses
+- Predicting political and social responses that can affect economic outcomes
 
-As empirical methods have improved, economists have refined their predictions and developed more sophisticated models. Natural experiments and quasi-experimental approaches have provided better tools for testing theoretical predictions against real-world outcomes, leading to more accurate assessments of immigration's economic effects [1].
-
-Overall, while economists' broad theoretical framework for understanding immigration has proven largely sound, specific quantitative predictions have often required substantial revision based on empirical evidence. The field has evolved toward more nuanced models that better capture the complexity of how immigration affects modern economies.
+While economic theory provides valuable frameworks for understanding immigration's effects, the complexity of real-world labor markets and human behavior continues to challenge the accuracy of specific predictions [2].
 
 ## Sources
 
-[1] Borjas, George J. "We Wanted Workers: Chapter 9." This source examines the evolution of economic thinking about immigration and compares theoretical predictions with empirical findings. Borjas provides a critical assessment of how economists' understanding of immigration impacts has developed over time. [https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf](https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf)
+[1] Borjas, George J. "We Wanted Workers" Chapter 9. Available at: https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf
+- This source examines the methodological challenges in measuring immigration's labor market effects and discusses how empirical findings have sometimes diverged from theoretical predictions.
+
+[2] "The Failure of Economists" - Not On Your Team. Available at: https://www.notonyourteam.co.uk/p/the-failure-of-economists
+- This source critiques economists' predictive failures, including the dramatic underestimation of EU immigration to the UK, and discusses broader issues with economic forecasting methodology.
