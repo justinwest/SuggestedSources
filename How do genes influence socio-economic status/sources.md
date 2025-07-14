@@ -7,3 +7,4 @@
 * [Associations between common genetic variants and income provide insights about the socio-economic health gradient](https://www.nature.com/articles/s41562-024-02080-7) – *Nature Human Behaviour* 
 * [Education, genes, and social mobility](https://www.eurekalert.org/news-releases/463685) – *EurekAlert!* (news release summarizing a *PNAS* study) 
 * https://www.nature.com/articles/s41467-025-58961-6
+* https://www.nber.org/system/files/working_papers/w27053/w27053.pdf

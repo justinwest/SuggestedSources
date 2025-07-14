@@ -28,7 +28,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-13 22:31:18
+**Last Updated:** 2025-07-13 22:59:47
 
 ## Questions
 
@@ -78,7 +78,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `How do genes influence socio-economic status/`
-**Last Updated:** 2025-07-08 19:04
+**Last Updated:** 2025-07-13 22:59
 
 ### 9. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)
 
