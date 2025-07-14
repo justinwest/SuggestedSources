@@ -8,6 +8,11 @@ This is a comparative AI response system that automatically generates and organi
 * Compare how different AIs approach the same question
 * Leverage advanced capabilities from different AI models
 
+
+**Feedback:**
+* [Discord Server](https://discord.gg/HPDT9PvS)
+
+
 **Changelog:**
 * 11-JUL-2025: Updated to include all AI responses directly in question READMEs for easier comparison.
 * 10-JUL-2025: Added Grok 4 with Live Search support for real-time information retrieval.
@@ -23,7 +28,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-12 23:31:37
+**Last Updated:** 2025-07-13 22:31:18
 
 ## Questions
 
