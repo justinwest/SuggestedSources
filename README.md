@@ -28,7 +28,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-13 22:59:47
+**Last Updated:** 2025-07-14 21:58:44
 
 ## Questions
 
@@ -126,7 +126,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `Summarize the effects of the One Big Beautiful Bill Act/`
-**Last Updated:** 2025-07-04 20:44
+**Last Updated:** 2025-07-14 21:58
 
 ### 17. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)
 

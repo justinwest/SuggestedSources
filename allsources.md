@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-13 22:59:47
+**Last Updated:** 2025-07-14 21:58:44
 
 ---
 
@@ -263,7 +263,8 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ### Sources
 
-https://www.congress.gov/bill/119th-congress/house-bill/1
+* https://www.congress.gov/bill/119th-congress/house-bill/1
+* https://usafacts.org/articles/whats-in-the-one-big-beautiful-bill/
 
 ---
 
