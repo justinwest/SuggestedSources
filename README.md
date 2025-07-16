@@ -28,7 +28,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-16 14:42:36
+**Last Updated:** 2025-07-16 14:54:11
 
 ## Questions
 
@@ -144,7 +144,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `What are luxury beliefs/`
-**Last Updated:** 2025-06-10 23:00
+**Last Updated:** 2025-07-16 14:54
 
 **20. [What are the externalities of immigration?](What are the externalities of immigration/README.md)**
 
