@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-15 15:00:55
+**Last Updated:** 2025-07-15 23:24:53
 
 ---
 
@@ -98,6 +98,7 @@ z
 * [What Do Undergraduates Learn About Human Intelligence? An Analysis of Introductory Psychology Textbooks](https://archive.jwest.org/Research/Warne2018-UndergradIntelligence.pdf) - *Archives of Scientific Psychology*
 * [Communicating Intelligence Research: Media Misrepresentation, the Gould Effect, and Unexpected Forces](https://archive.jwest.org/Research/Correspondence2018-CommunicatingIntelligenceResearch.pdf) - *Intelligence*
 * [IQ: From Causes to Consequences](https://douance.org/qicc/references.html) - *Long list of references (French)*
+* https://humanvarieties.org/2024/06/01/controversy-over-the-predictive-validity-of-iq-on-job-performance/
 
 ---
 
