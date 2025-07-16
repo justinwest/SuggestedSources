@@ -28,7 +28,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-16 12:48:45
+**Last Updated:** 2025-07-16 14:42:36
 
 ## Questions
 
@@ -210,7 +210,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `Why were mental hospitals closed in the United States/`
-**Last Updated:** 2025-06-13 11:16
+**Last Updated:** 2025-07-16 14:42
 
 ## Statistics
 
