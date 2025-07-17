@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-16 23:02:51
+**Last Updated:** 2025-07-17 08:54:09
 
 ---
 
@@ -435,25 +435,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 27. What is there so much financial fraud in Minnesota?
-
-**[📄 View All Responses](What is there so much financial fraud in Minnesota/README.md)** - Contains all AI responses inline
-
-### Sources
-
-* [Feeding Our Future](https://en.wikipedia.org/wiki/Feeding_Our_Future) – *Wikipedia*
-* [62 Investigations Underway Involving Federally‑Funded Minnesota Child‑Care Centers](https://kstp.com/kstp-news/top-news/62-investigations-underway-involving-federally-funded-minnesota-child-care-centers/) – *KSTP 5 Eyewitness News*
-* [Report: Minnesota Department of Education’s “Inadequate Oversight” of Feeding Our Future Opened Door to Fraud](https://web.archive.org/web/20240909131550/https://www.startribune.com/did-minnesota-department-of-education-do-enough-to-stop-feeding-our-future-fraud-legislative-auditor-report-to-be-released-thursday/600373216) – *Star Tribune*
-* [Minnesota Department of Education: Oversight of Feeding Our Future](https://www.auditor.leg.state.mn.us/sreview/pdf/2024-mdefof.pdf) – *Minnesota Office of the Legislative Auditor*
-* [Commerce Fraud Bureau Annual Report 2023](https://mn.gov/commerce-stat/pdfs/business/fraud-bureau/2023-Annual-Report.pdf) – *Minnesota Department of Commerce*
-* [Minnesota Couple Indicted in \$15 Million Medical Billing Fraud Scheme](https://www.justice.gov/usao-mn/pr/minnesota-couple-indicted-15-million-medical-billing-fraud-scheme-0) – *U.S. Attorney’s Office, District of Minnesota*
-* [Bank Ordered to Pay \$564 Million to Victims of Petters Fraud](https://www.cbsnews.com/minnesota/news/bank-ordered-to-pay-564-million-to-victims-of-petters-fraud/) – *CBS Minnesota / AP*
-* [Projected Deficit Renews Focus on Fraud in Minnesota](https://axios.com/local/twin-cities/2024/12/13/minnesota-government-fraud-auditor-report-spending-deficit) – *Axios Twin Cities*
-* [https://www.kare11.com/article/news/investigations/kare-11-investigates-tackling-fraud-minnesota-lawmakers-pass-key-reforms/](https://www.kare11.com/article/news/investigations/kare-11-investigates-tackling-fraud-minnesota-lawmakers-pass-key-reforms/89-aee5191b-bad7-49e9-8f02-5cb53a06757f)
-
----
-
-## 28. Why are fertility rates declining in most nations?
+## 27. Why are fertility rates declining in most nations?
 
 **[📄 View All Responses](Why are fertility rates declining in most nations/README.md)** - Contains all AI responses inline
 
@@ -473,7 +455,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 29. Why do some Christians believe it is their religious duty to support Israel?
+## 28. Why do some Christians believe it is their religious duty to support Israel?
 
 **[📄 View All Responses](Why do some Christians believe it is their religious duty to support Israel/README.md)** - Contains all AI responses inline
 
@@ -491,7 +473,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 30. Why is Stoicism becoming popular again?
+## 29. Why is Stoicism becoming popular again?
 
 **[📄 View All Responses](Why is Stoicism becoming popular again/README.md)** - Contains all AI responses inline
 
@@ -502,6 +484,25 @@ https://yaschamounk.substack.com/p/alex-thompson
 * [Stoicism 5.0: The Unlikely 21st‑Century Reboot of an Ancient Philosophy](https://theconversation.com/stoicism-5-0-the-unlikely-21st-century-reboot-of-an-ancient-philosophy-80986) – *The Conversation*
 * [Why Stoicism Is Having a Cultural Moment](https://dailystoic.com/stoicism-cultural-moment/) – *Daily Stoic* 
 * [Stoicism as a Fad and a Philosophy](https://www.psychologytoday.com/us/blog/the-philosophers-diaries/202208/stoicism-fad-and-philosophy) – *Psychology Today*
+
+---
+
+## 30. Why is there some much financial fraud in Minnesota?
+
+**[📄 View All Responses](Why is there some much financial fraud in Minnesota/README.md)** - Contains all AI responses inline
+
+### Sources
+
+* [Feeding Our Future](https://en.wikipedia.org/wiki/Feeding_Our_Future) – *Wikipedia*
+* [62 Investigations Underway Involving Federally‑Funded Minnesota Child‑Care Centers](https://kstp.com/kstp-news/top-news/62-investigations-underway-involving-federally-funded-minnesota-child-care-centers/) – *KSTP 5 Eyewitness News*
+* [Report: Minnesota Department of Education’s “Inadequate Oversight” of Feeding Our Future Opened Door to Fraud](https://web.archive.org/web/20240909131550/https://www.startribune.com/did-minnesota-department-of-education-do-enough-to-stop-feeding-our-future-fraud-legislative-auditor-report-to-be-released-thursday/600373216) – *Star Tribune*
+* [Minnesota Department of Education: Oversight of Feeding Our Future](https://www.auditor.leg.state.mn.us/sreview/pdf/2024-mdefof.pdf) – *Minnesota Office of the Legislative Auditor*
+* [Commerce Fraud Bureau Annual Report 2023](https://mn.gov/commerce-stat/pdfs/business/fraud-bureau/2023-Annual-Report.pdf) – *Minnesota Department of Commerce*
+* [Minnesota Couple Indicted in \$15 Million Medical Billing Fraud Scheme](https://www.justice.gov/usao-mn/pr/minnesota-couple-indicted-15-million-medical-billing-fraud-scheme-0) – *U.S. Attorney’s Office, District of Minnesota*
+* [Bank Ordered to Pay \$564 Million to Victims of Petters Fraud](https://www.cbsnews.com/minnesota/news/bank-ordered-to-pay-564-million-to-victims-of-petters-fraud/) – *CBS Minnesota / AP*
+* [Projected Deficit Renews Focus on Fraud in Minnesota](https://axios.com/local/twin-cities/2024/12/13/minnesota-government-fraud-auditor-report-spending-deficit) – *Axios Twin Cities*
+* [https://www.kare11.com/article/news/investigations/kare-11-investigates-tackling-fraud-minnesota-lawmakers-pass-key-reforms/](https://www.kare11.com/article/news/investigations/kare-11-investigates-tackling-fraud-minnesota-lawmakers-pass-key-reforms/89-aee5191b-bad7-49e9-8f02-5cb53a06757f)
+* https://kstp.com/kstp-news/top-news/minnesota-autism-expert-said-he-started-suspecting-fraud-a-year-ago/
 
 ---
 

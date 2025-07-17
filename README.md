@@ -28,19 +28,19 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-16 23:02:51
+**Last Updated:** 2025-07-17 08:54:09
 
 ## Questions
 
 **1. [Are smartphones harming adolescent mental health?](Are smartphones harming adolescent mental health/README.md)** *(Updated: 2025-06-23)*
 
-**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 10 hours ago)*
+**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 20 hours ago)*
 
 **3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 2025-06-23)*
 
 **4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 2025-06-29)*
 
-**5. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: 23 hours ago)*
+**5. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: yesterday)*
 
 **6. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)** *(Updated: 4 days ago)*
 
@@ -68,11 +68,11 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **18. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)** *(Updated: 2025-06-13)*
 
-**19. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: 8 hours ago)*
+**19. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: 17 hours ago)*
 
 **20. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2025-07-02)*
 
-**21. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 1 hour ago)*
+**21. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 11 hours ago)*
 
 **22. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)** *(Updated: 2025-06-13)*
 
@@ -84,15 +84,15 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **26. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 2025-06-12)*
 
-**27. [What is there so much financial fraud in Minnesota?](What is there so much financial fraud in Minnesota/README.md)** *(Updated: 2025-06-12)*
+**27. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 5 days ago)*
 
-**28. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 5 days ago)*
+**28. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-06-21)*
 
-**29. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-06-21)*
+**29. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-06-11)*
 
-**30. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-06-11)*
+**30. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: just now)*
 
-**31. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 8 hours ago)*
+**31. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 18 hours ago)*
 
 
 ## Active AI Models
