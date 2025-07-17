@@ -28,7 +28,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-16 14:54:11
+**Last Updated:** 2025-07-16 21:50:01
 
 ## Questions
 
@@ -152,61 +152,67 @@ For a single page showing all questions and sources, [click here](allsources.md)
 **Folder:** `What are the externalities of immigration/`
 **Last Updated:** 2025-07-02 22:11
 
-**21. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)**
+**21. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)**
+
+**Status:** ✅ Complete
+**Folder:** `What can we learn from systemic failures/`
+**Last Updated:** 2025-07-16 21:50
+
+**22. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)**
 
 **Status:** ✅ Complete
 **Folder:** `What caused the 2008 financial crisis/`
 **Last Updated:** 2025-06-13 11:14
 
-**22. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)**
+**23. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)**
 
 **Status:** ✅ Complete
 **Folder:** `What caused the crime spike in 2020 in the United States/`
 **Last Updated:** 2025-07-11 22:23
 
-**23. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)**
+**24. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)**
 
 **Status:** ✅ Complete
 **Folder:** `What explains the rise in autism diagnoses/`
 **Last Updated:** 2025-06-23 17:30
 
-**24. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)**
+**25. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)**
 
 **Status:** ✅ Complete
 **Folder:** `What is antidepressant discontinuation syndrome/`
 **Last Updated:** 2025-07-11 20:21
 
-**25. [What is the replication crisis?](What is the replication crisis/README.md)**
+**26. [What is the replication crisis?](What is the replication crisis/README.md)**
 
 **Status:** ✅ Complete
 **Folder:** `What is the replication crisis/`
 **Last Updated:** 2025-06-12 11:10
 
-**26. [What is there so much financial fraud in Minnesota?](What is there so much financial fraud in Minnesota/README.md)**
+**27. [What is there so much financial fraud in Minnesota?](What is there so much financial fraud in Minnesota/README.md)**
 
 **Status:** ✅ Complete
 **Folder:** `What is there so much financial fraud in Minnesota/`
 **Last Updated:** 2025-06-12 22:51
 
-**27. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)**
+**28. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)**
 
 **Status:** ✅ Complete
 **Folder:** `Why are fertility rates declining in most nations/`
 **Last Updated:** 2025-07-11 09:26
 
-**28. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)**
+**29. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)**
 
 **Status:** ✅ Complete
 **Folder:** `Why do some Christians believe it is their religious duty to support Israel/`
 **Last Updated:** 2025-06-21 15:50
 
-**29. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)**
+**30. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)**
 
 **Status:** ✅ Complete
 **Folder:** `Why is Stoicism becoming popular again/`
 **Last Updated:** 2025-06-11 10:40
 
-**30. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)**
+**31. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)**
 
 **Status:** ✅ Complete
 **Folder:** `Why were mental hospitals closed in the United States/`
@@ -214,17 +220,17 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 ## Statistics
 
-- **Total Questions:** 30
-- **Total Responses Generated:** 238/240
+- **Total Questions:** 31
+- **Total Responses Generated:** 246/248
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 30 | 30 | 60 |
-| Chatgpt | 29 | 29 | 58 |
-| Gemini | 30 | 30 | 60 |
-| Grok | 30 | 30 | 60 |
+| Claude | 31 | 31 | 62 |
+| Chatgpt | 30 | 30 | 60 |
+| Gemini | 31 | 31 | 62 |
+| Grok | 31 | 31 | 62 |
 
 ## About
 
