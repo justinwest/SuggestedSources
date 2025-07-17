@@ -7,3 +7,4 @@
 * [Bank Ordered to Pay \$564 Million to Victims of Petters Fraud](https://www.cbsnews.com/minnesota/news/bank-ordered-to-pay-564-million-to-victims-of-petters-fraud/) – *CBS Minnesota / AP*
 * [Projected Deficit Renews Focus on Fraud in Minnesota](https://axios.com/local/twin-cities/2024/12/13/minnesota-government-fraud-auditor-report-spending-deficit) – *Axios Twin Cities*
 * [https://www.kare11.com/article/news/investigations/kare-11-investigates-tackling-fraud-minnesota-lawmakers-pass-key-reforms/](https://www.kare11.com/article/news/investigations/kare-11-investigates-tackling-fraud-minnesota-lawmakers-pass-key-reforms/89-aee5191b-bad7-49e9-8f02-5cb53a06757f)
+* https://kstp.com/kstp-news/top-news/minnesota-autism-expert-said-he-started-suspecting-fraud-a-year-ago/
