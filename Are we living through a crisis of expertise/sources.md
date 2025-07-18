@@ -15,3 +15,5 @@
 - [When the New York Times lost its way](https://www.economist.com/1843/2023/12/14/when-the-new-york-times-lost-its-way) - *The Economist*
 - [Can You Trust Anybody?](https://www.wsj.com/opinion/can-you-trust-anybody-president-media-influencer-ai-aa13b7ea) - *The Wall Street Journal*
 - https://www.theseedsofscience.pub/p/coordination-problems-why-smart-people
+* https://www.slowboring.com/p/the-crisis-of-expertise-is-about
+* https://www.conspicuouscognition.com/p/status-class-and-the-crisis-of-expertise
