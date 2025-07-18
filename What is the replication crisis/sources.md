@@ -6,3 +6,4 @@
 * [Medicine Is Plagued by Untrustworthy Clinical Trials. How Many Studies Are Faked or Flawed?](https://www.nature.com/articles/d41586-023-02299-w) – *Nature* 
 * [Are Most Published Research Findings False? Trends in Statistical Power, Publication Selection Bias, and the False Discovery Rate in Psychology (1975–2017)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10581498/) – *PLOS One* 
 
+https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion

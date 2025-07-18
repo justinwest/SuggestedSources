@@ -26,19 +26,19 @@ This is a comparative AI response system that automatically generates and organi
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-17 22:46:09
+**Last Updated:** 2025-07-17 23:13:08
 
 ## Questions
 
 **1. [Are smartphones harming adolescent mental health?](Are smartphones harming adolescent mental health/README.md)** *(Updated: 2025-06-23)*
 
-**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: yesterday)*
+**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: just now)*
 
 **3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 2025-06-23)*
 
 **4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 2025-06-29)*
 
-**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: just now)*
+**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 26 minutes ago)*
 
 **6. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: yesterday)*
 
@@ -46,7 +46,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **8. [How accurate were economists' predications about immigration?](How accurate were economists' predications about immigration/README.md)** *(Updated: 5 days ago)*
 
-**9. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)** *(Updated: 3 days ago)*
+**9. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)** *(Updated: 4 days ago)*
 
 **10. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)** *(Updated: 2025-06-13)*
 
@@ -90,7 +90,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **30. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-06-11)*
 
-**31. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 13 hours ago)*
+**31. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 14 hours ago)*
 
 **32. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: yesterday)*
 
