@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-17 09:08:04
+**Last Updated:** 2025-07-17 22:46:09
 
 ---
 
@@ -86,7 +86,18 @@ z
 
 ---
 
-## 5. How accurate are IQ tests?
+## 5. Does immigration drive down wages?
+
+**[📄 View All Responses](Does immigration drive down wages/README.md)** - Contains all AI responses inline
+
+### Sources
+
+* https://migration.ucdavis.edu/rmn/more.php?id=3047
+* https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf
+
+---
+
+## 6. How accurate are IQ tests?
 
 **[📄 View All Responses](How accurate are IQ tests/README.md)** - Contains all AI responses inline
 
@@ -103,7 +114,7 @@ z
 
 ---
 
-## 6. How accurate was press coverage of President Biden's mental decline?
+## 7. How accurate was press coverage of President Biden's mental decline?
 
 **[📄 View All Responses](How accurate was press coverage of President Biden's mental decline/README.md)** - Contains all AI responses inline
 
@@ -120,7 +131,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 7. How accurate were economists' predications about immigration?
+## 8. How accurate were economists' predications about immigration?
 
 **[📄 View All Responses](How accurate were economists' predications about immigration/README.md)** - Contains all AI responses inline
 
@@ -132,7 +143,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 8. How do genes influence socio-economic status?
+## 9. How do genes influence socio-economic status?
 
 **[📄 View All Responses](How do genes influence socio-economic status/README.md)** - Contains all AI responses inline
 
@@ -151,7 +162,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 9. How do you distinguish good science from propaganda?
+## 10. How do you distinguish good science from propaganda?
 
 **[📄 View All Responses](How do you distinguish good science from propaganda/README.md)** - Contains all AI responses inline
 
@@ -164,7 +175,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 10. How does school spending in the United States compare to other nations?
+## 11. How does school spending in the United States compare to other nations?
 
 **[📄 View All Responses](How does school spending in the United States compare to other nations/README.md)** - Contains all AI responses inline
 
@@ -180,7 +191,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 11. How many Americans have died due to fentanyl?
+## 12. How many Americans have died due to fentanyl?
 
 **[📄 View All Responses](How many Americans have died due to fentanyl/README.md)** - Contains all AI responses inline
 
@@ -201,7 +212,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 12. How many immigrants are in the United States illegally?
+## 13. How many immigrants are in the United States illegally?
 
 **[📄 View All Responses](How many immigrants are in the United States illegally/README.md)** - Contains all AI responses inline
 
@@ -211,7 +222,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 13. How much of a problem is misinformation?
+## 14. How much of a problem is misinformation?
 
 **[📄 View All Responses](How much of a problem is misinformation/README.md)** - Contains all AI responses inline
 
@@ -226,7 +237,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 14. How much of intelligence is hereditary?
+## 15. How much of intelligence is hereditary?
 
 **[📄 View All Responses](How much of intelligence is hereditary/README.md)** - Contains all AI responses inline
 
@@ -245,7 +256,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 15. Is nuclear power safe?
+## 16. Is nuclear power safe?
 
 **[📄 View All Responses](Is nuclear power safe/README.md)** - Contains all AI responses inline
 
@@ -259,7 +270,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 16. Summarize the effects of the One Big Beautiful Bill Act?
+## 17. Summarize the effects of the One Big Beautiful Bill Act?
 
 **[📄 View All Responses](Summarize the effects of the One Big Beautiful Bill Act/README.md)** - Contains all AI responses inline
 
@@ -270,7 +281,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 17. Was the public misled about the UK grooming gang scandal?
+## 18. Was the public misled about the UK grooming gang scandal?
 
 **[📄 View All Responses](Was the public misled about the UK grooming gang scandal/README.md)** - Contains all AI responses inline
 
@@ -286,7 +297,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 18. Were the COVID-19 lockdowns effective?
+## 19. Were the COVID-19 lockdowns effective?
 
 **[📄 View All Responses](Were the COVID-19 lockdowns effective/README.md)** - Contains all AI responses inline
 
@@ -300,7 +311,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 19. What are luxury beliefs?
+## 20. What are luxury beliefs?
 
 **[📄 View All Responses](What are luxury beliefs/README.md)** - Contains all AI responses inline
 
@@ -316,7 +327,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 20. What are the externalities of immigration?
+## 21. What are the externalities of immigration?
 
 **[📄 View All Responses](What are the externalities of immigration/README.md)** - Contains all AI responses inline
 
@@ -331,7 +342,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 21. What can we learn from systemic failures?
+## 22. What can we learn from systemic failures?
 
 **[📄 View All Responses](What can we learn from systemic failures/README.md)** - Contains all AI responses inline
 
@@ -343,7 +354,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 22. What caused the 2008 financial crisis?
+## 23. What caused the 2008 financial crisis?
 
 **[📄 View All Responses](What caused the 2008 financial crisis/README.md)** - Contains all AI responses inline
 
@@ -362,7 +373,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 23. What caused the crime spike in 2020 in the United States?
+## 24. What caused the crime spike in 2020 in the United States?
 
 **[📄 View All Responses](What caused the crime spike in 2020 in the United States/README.md)** - Contains all AI responses inline
 
@@ -380,7 +391,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 24. What explains the rise in autism diagnoses?
+## 25. What explains the rise in autism diagnoses?
 
 **[📄 View All Responses](What explains the rise in autism diagnoses/README.md)** - Contains all AI responses inline
 
@@ -404,7 +415,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 25. What is antidepressant discontinuation syndrome?
+## 26. What is antidepressant discontinuation syndrome?
 
 **[📄 View All Responses](What is antidepressant discontinuation syndrome/README.md)** - Contains all AI responses inline
 
@@ -419,7 +430,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 26. What is the replication crisis?
+## 27. What is the replication crisis?
 
 **[📄 View All Responses](What is the replication crisis/README.md)** - Contains all AI responses inline
 
@@ -435,7 +446,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 27. Why are fertility rates declining in most nations?
+## 28. Why are fertility rates declining in most nations?
 
 **[📄 View All Responses](Why are fertility rates declining in most nations/README.md)** - Contains all AI responses inline
 
@@ -455,7 +466,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 28. Why do some Christians believe it is their religious duty to support Israel?
+## 29. Why do some Christians believe it is their religious duty to support Israel?
 
 **[📄 View All Responses](Why do some Christians believe it is their religious duty to support Israel/README.md)** - Contains all AI responses inline
 
@@ -473,7 +484,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 29. Why is Stoicism becoming popular again?
+## 30. Why is Stoicism becoming popular again?
 
 **[📄 View All Responses](Why is Stoicism becoming popular again/README.md)** - Contains all AI responses inline
 
@@ -487,7 +498,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 30. Why is there some much financial fraud in Minnesota?
+## 31. Why is there some much financial fraud in Minnesota?
 
 **[📄 View All Responses](Why is there some much financial fraud in Minnesota/README.md)** - Contains all AI responses inline
 
@@ -506,7 +517,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 31. Why were mental hospitals closed in the United States?
+## 32. Why were mental hospitals closed in the United States?
 
 **[📄 View All Responses](Why were mental hospitals closed in the United States/README.md)** - Contains all AI responses inline
 

@@ -1,37 +1,31 @@
-The relationship between immigration and wages is complex and remains a subject of ongoing economic research, with studies showing mixed results depending on the specific circumstances, time periods, and methodologies used.
+The relationship between immigration and wages is complex and varies significantly depending on the time frame, skill levels of workers, and economic conditions. Research shows mixed effects, with some evidence of both wage depression and wage increases in different contexts.
 
 ## Short-term vs. Long-term Effects
 
-Most economic research suggests that immigration can have different effects on wages in the short term versus the long term. In the short run, an increase in labor supply through immigration may put downward pressure on wages, particularly in sectors where immigrant workers directly compete with native workers [1][2]. However, these effects tend to be small and often dissipate over time as the economy adjusts [3].
+In the short term, immigration can create downward pressure on wages, particularly for workers without high school diplomas and in certain sectors. However, this effect tends to diminish over time as the economy adjusts [1]. The immediate impact occurs when increased labor supply in specific job categories creates more competition for available positions.
 
-## Skill Level and Complementarity
+## Skill-Level Considerations
 
-The impact of immigration on wages varies significantly based on skill levels and whether immigrant workers complement or substitute for native workers [4]. High-skilled immigration often complements native workers and can lead to wage increases through increased productivity and innovation [5]. Low-skilled immigration may have more mixed effects, with some studies finding small negative impacts on wages for native workers without high school diplomas, while others find minimal effects [6].
+The wage effects of immigration differ substantially based on education and skill levels. Native-born workers without high school diplomas experience the most significant wage competition from immigrants, as they often compete for similar jobs [1]. In contrast, highly skilled immigrants may actually complement rather than substitute for native workers, potentially leading to wage increases in some sectors.
 
-## Sectoral and Geographic Variations
+## Economic Adaptation and Complementarity
 
-The wage effects of immigration are not uniform across all sectors or geographic areas. Industries with high concentrations of immigrant workers, such as agriculture, construction, and hospitality, may experience different wage dynamics than sectors with fewer immigrants [7]. Additionally, local labor market conditions and the absorptive capacity of regional economies influence how immigration affects wages [8].
+Over longer periods, the economy tends to adapt to immigration through several mechanisms. Immigrants often take jobs that complement rather than directly compete with native workers, create new businesses that generate employment, and contribute to economic growth that can raise wages overall [2]. Additionally, immigration can help fill labor shortages in specific industries, which may actually support wage levels.
 
-## Empirical Evidence
+## Sector-Specific Impacts
 
-A comprehensive review of economic literature reveals that most studies find relatively small effects of immigration on native wages. The National Academy of Sciences concluded that immigration has had a small but generally positive impact on the wages of native-born workers over the long term [9]. However, some studies have found negative effects on wages for workers without high school education, with estimates typically ranging from 0% to -5% [10].
+The wage effects vary considerably by industry. In sectors with high concentrations of immigrant workers, such as agriculture, construction, and certain service industries, there may be more pronounced downward pressure on wages. However, in other sectors, immigrant workers may fill essential roles that support overall economic productivity.
 
-## Economic Mechanisms
+## Geographic and Temporal Variations
 
-Several economic mechanisms help explain why immigration doesn't necessarily drive down wages as much as simple supply-and-demand models might suggest. These include: increased consumer demand from immigrant populations, entrepreneurship and job creation by immigrants, and efficiency gains from specialization [11]. Immigrants also often take jobs that complement rather than substitute for native workers, reducing direct competition [12].
+The impact of immigration on wages also depends on local economic conditions, the pace of immigration, and the ability of local labor markets to adjust. Areas with strong economic growth may absorb immigrant workers more easily without significant wage depression, while regions with economic challenges may experience more pronounced effects.
 
-## Conclusion
+## Research Consensus
 
-While immigration can create short-term wage pressures in specific sectors or for certain worker groups, the overall long-term effect on wages appears to be relatively small and often positive. The impact depends heavily on factors such as the skill composition of immigrants, local economic conditions, and the time frame considered. Rather than uniformly driving down wages, immigration tends to create a complex set of economic adjustments that vary across different segments of the labor market.
+While individual studies show varying results, the broader research consensus suggests that immigration's impact on wages is generally modest and varies significantly by context. The most consistent finding is that any negative wage effects are typically concentrated among workers with the lowest levels of education and tend to be temporary as markets adjust [1][2].
 
 ## Sources
 
-*Note: No sources were provided in the original question. The following represents the types of sources that would typically inform this analysis:*
+[1] University of California Davis Migration Research: This source presents research indicating that immigration effects on wages vary by skill level and tend to be temporary, with the most significant impacts on workers without high school education. [https://migration.ucdavis.edu/rmn/more.php?id=3047](https://migration.ucdavis.edu/rmn/more.php?id=3047)
 
-1. **National Academy of Sciences reports** - Generally find small positive long-term wage effects
-2. **Bureau of Labor Statistics studies** - Provide mixed findings on short-term impacts
-3. **Academic economic journals** - Show varied results depending on methodology and time period
-4. **Federal Reserve economic research** - Typically emphasize complementarity effects
-5. **Congressional Budget Office analyses** - Focus on fiscal and economic impacts across skill levels
-
-[Note: Actual URLs and specific source details would need to be provided to complete the citation format requested]
+[2] George J. Borjas, "We Wanted Workers" Chapter 9: This academic work examines the nuanced relationship between immigration and labor markets, discussing both competitive pressures and complementary effects that immigration can have on wages and employment. [https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf](https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf)
