@@ -26,21 +26,21 @@ This is a comparative AI response system that automatically generates and organi
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-17 23:13:08
+**Last Updated:** 2025-07-17 23:31:26
 
 ## Questions
 
 **1. [Are smartphones harming adolescent mental health?](Are smartphones harming adolescent mental health/README.md)** *(Updated: 2025-06-23)*
 
-**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: just now)*
+**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 18 minutes ago)*
 
 **3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 2025-06-23)*
 
 **4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 2025-06-29)*
 
-**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 26 minutes ago)*
+**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 45 minutes ago)*
 
-**6. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: yesterday)*
+**6. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: 2 days ago)*
 
 **7. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)** *(Updated: 5 days ago)*
 
@@ -82,7 +82,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **26. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 6 days ago)*
 
-**27. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 2025-06-12)*
+**27. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: just now)*
 
 **28. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 6 days ago)*
 

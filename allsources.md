@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-17 23:13:08
+**Last Updated:** 2025-07-17 23:31:26
 
 ---
 
@@ -444,7 +444,9 @@ https://yaschamounk.substack.com/p/alex-thompson
 * [Revisiting Stereotype Threat: A Reckoning for Social Psychology](https://www.factfaq.com/resources/Revisiting_Stereotype_Threat_-_by_Michael_Inzlicht.pdf) – *Michael Inzlicht* 
 * [The Staggering Death Toll of Scientific Lies](https://www.vox.com/future-perfect/368350/scientific-research-fraud-crime-jail-time) – *Vox* 
 * [Medicine Is Plagued by Untrustworthy Clinical Trials. How Many Studies Are Faked or Flawed?](https://www.nature.com/articles/d41586-023-02299-w) – *Nature* 
-* [Are Most Published Research Findings False? Trends in Statistical Power, Publication Selection Bias, and the False Discovery Rate in Psychology (1975–2017)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10581498/) – *PLOS One*
+* [Are Most Published Research Findings False? Trends in Statistical Power, Publication Selection Bias, and the False Discovery Rate in Psychology (1975–2017)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10581498/) – *PLOS One* 
+
+https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
