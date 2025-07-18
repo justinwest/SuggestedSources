@@ -26,23 +26,23 @@ This is a comparative AI response system that automatically generates and organi
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-17 23:31:26
+**Last Updated:** 2025-07-18 18:41:26
 
 ## Questions
 
 **1. [Are smartphones harming adolescent mental health?](Are smartphones harming adolescent mental health/README.md)** *(Updated: 2025-06-23)*
 
-**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 18 minutes ago)*
+**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 19 hours ago)*
 
 **3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 2025-06-23)*
 
 **4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 2025-06-29)*
 
-**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 45 minutes ago)*
+**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 19 hours ago)*
 
 **6. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: 2 days ago)*
 
-**7. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)** *(Updated: 5 days ago)*
+**7. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)** *(Updated: 6 days ago)*
 
 **8. [How accurate were economists' predications about immigration?](How accurate were economists' predications about immigration/README.md)** *(Updated: 5 days ago)*
 
@@ -68,7 +68,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **19. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)** *(Updated: 2025-06-13)*
 
-**20. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: yesterday)*
+**20. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: 2 days ago)*
 
 **21. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2025-07-02)*
 
@@ -82,17 +82,19 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **26. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 6 days ago)*
 
-**27. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: just now)*
+**27. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 19 hours ago)*
 
-**28. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 6 days ago)*
+**28. [What is woke and wokeness?](What is woke and wokeness/README.md)** *(Updated: just now)*
 
-**29. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-06-21)*
+**29. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 6 days ago)*
 
-**30. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-06-11)*
+**30. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-06-21)*
 
-**31. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 14 hours ago)*
+**31. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-06-11)*
 
-**32. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: yesterday)*
+**32. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: yesterday)*
+
+**33. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 2 days ago)*
 
 
 ## Active AI Models
@@ -114,16 +116,16 @@ The following AI models are currently active:
 
 ## Statistics
 
-- **Total Questions:** 32
-- **Total Responses Generated:** 254/256
+- **Total Questions:** 33
+- **Total Responses Generated:** 262/264
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 32 | 32 | 64 |
-| Chatgpt | 31 | 31 | 62 |
-| Gemini | 32 | 32 | 64 |
-| Grok | 32 | 32 | 64 |
+| Claude | 33 | 33 | 66 |
+| Chatgpt | 32 | 32 | 64 |
+| Gemini | 33 | 33 | 66 |
+| Grok | 33 | 33 | 66 |
 
 

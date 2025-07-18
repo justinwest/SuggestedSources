@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-17 23:31:26
+**Last Updated:** 2025-07-18 18:41:26
 
 ---
 
@@ -450,7 +450,22 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 28. Why are fertility rates declining in most nations?
+## 28. What is woke and wokeness?
+
+**[📄 View All Responses](What is woke and wokeness/README.md)** - Contains all AI responses inline
+
+### Sources
+
+* https://www.stevestewartwilliams.com/p/where-did-wokeness-come-from
+* https://www.aporiamagazine.com/p/woke-as-managerial-ideology
+* https://graymirror.substack.com/p/the-origin-of-woke-a-george-mason
+* https://musaalgharbi.substack.com/p/the-cultural-contradictions-of-the
+* https://frompovertytoprogress.substack.com/p/trends-that-created-the-woke
+* https://ncofnas.com/p/why-we-need-to-talk-about-the-rights
+
+---
+
+## 29. Why are fertility rates declining in most nations?
 
 **[📄 View All Responses](Why are fertility rates declining in most nations/README.md)** - Contains all AI responses inline
 
@@ -470,7 +485,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 29. Why do some Christians believe it is their religious duty to support Israel?
+## 30. Why do some Christians believe it is their religious duty to support Israel?
 
 **[📄 View All Responses](Why do some Christians believe it is their religious duty to support Israel/README.md)** - Contains all AI responses inline
 
@@ -488,7 +503,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 30. Why is Stoicism becoming popular again?
+## 31. Why is Stoicism becoming popular again?
 
 **[📄 View All Responses](Why is Stoicism becoming popular again/README.md)** - Contains all AI responses inline
 
@@ -502,7 +517,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 31. Why is there some much financial fraud in Minnesota?
+## 32. Why is there some much financial fraud in Minnesota?
 
 **[📄 View All Responses](Why is there some much financial fraud in Minnesota/README.md)** - Contains all AI responses inline
 
@@ -521,7 +536,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 32. Why were mental hospitals closed in the United States?
+## 33. Why were mental hospitals closed in the United States?
 
 **[📄 View All Responses](Why were mental hospitals closed in the United States/README.md)** - Contains all AI responses inline
 
