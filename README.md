@@ -26,7 +26,7 @@ This is a comparative AI response system that automatically generates and organi
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-18 18:41:26
+**Last Updated:** 2025-07-18 19:05:48
 
 ## Questions
 
@@ -38,7 +38,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 2025-06-29)*
 
-**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 19 hours ago)*
+**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 20 hours ago)*
 
 **6. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: 2 days ago)*
 
@@ -80,11 +80,11 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **25. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2025-06-23)*
 
-**26. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 6 days ago)*
+**26. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: just now)*
 
-**27. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 19 hours ago)*
+**27. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 6 days ago)*
 
-**28. [What is woke and wokeness?](What is woke and wokeness/README.md)** *(Updated: just now)*
+**28. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 19 hours ago)*
 
 **29. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 6 days ago)*
 

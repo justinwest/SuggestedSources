@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-18 18:41:26
+**Last Updated:** 2025-07-18 19:05:48
 
 ---
 
@@ -417,7 +417,23 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 26. What is antidepressant discontinuation syndrome?
+## 26. What is "woke" ideology?
+
+**[📄 View All Responses](What is "woke" ideology/README.md)** - Contains all AI responses inline
+
+### Sources
+
+* https://www.stevestewartwilliams.com/p/where-did-wokeness-come-from
+* https://www.aporiamagazine.com/p/woke-as-managerial-ideology
+* https://graymirror.substack.com/p/the-origin-of-woke-a-george-mason
+* https://musaalgharbi.substack.com/p/the-cultural-contradictions-of-the
+* https://frompovertytoprogress.substack.com/p/trends-that-created-the-woke
+* https://ncofnas.com/p/why-we-need-to-talk-about-the-rights
+* https://paulgraham.com/woke.html
+
+---
+
+## 27. What is antidepressant discontinuation syndrome?
 
 **[📄 View All Responses](What is antidepressant discontinuation syndrome/README.md)** - Contains all AI responses inline
 
@@ -432,7 +448,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 27. What is the replication crisis?
+## 28. What is the replication crisis?
 
 **[📄 View All Responses](What is the replication crisis/README.md)** - Contains all AI responses inline
 
@@ -447,21 +463,6 @@ https://yaschamounk.substack.com/p/alex-thompson
 * [Are Most Published Research Findings False? Trends in Statistical Power, Publication Selection Bias, and the False Discovery Rate in Psychology (1975–2017)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10581498/) – *PLOS One* 
 
 https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
-
----
-
-## 28. What is woke and wokeness?
-
-**[📄 View All Responses](What is woke and wokeness/README.md)** - Contains all AI responses inline
-
-### Sources
-
-* https://www.stevestewartwilliams.com/p/where-did-wokeness-come-from
-* https://www.aporiamagazine.com/p/woke-as-managerial-ideology
-* https://graymirror.substack.com/p/the-origin-of-woke-a-george-mason
-* https://musaalgharbi.substack.com/p/the-cultural-contradictions-of-the
-* https://frompovertytoprogress.substack.com/p/trends-that-created-the-woke
-* https://ncofnas.com/p/why-we-need-to-talk-about-the-rights
 
 ---
 
