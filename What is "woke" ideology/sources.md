@@ -4,3 +4,4 @@
 * https://musaalgharbi.substack.com/p/the-cultural-contradictions-of-the
 * https://frompovertytoprogress.substack.com/p/trends-that-created-the-woke
 * https://ncofnas.com/p/why-we-need-to-talk-about-the-rights
+* https://paulgraham.com/woke.html
