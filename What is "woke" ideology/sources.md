@@ -5,3 +5,4 @@
 * https://frompovertytoprogress.substack.com/p/trends-that-created-the-woke
 * https://ncofnas.com/p/why-we-need-to-talk-about-the-rights
 * https://paulgraham.com/woke.html
+* https://ncofnas.com/p/a-guide-for-the-hereditarian-revolution
