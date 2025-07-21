@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-21 08:32:58
+**Last Updated:** 2025-07-21 10:26:52
 
 ---
 
@@ -516,7 +516,17 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 32. Why is Stoicism becoming popular again?
+## 32. Why has talk about trauma become so popular?
+
+**[📄 View All Responses](Why has talk about trauma become so popular/README.md)** - Contains all AI responses inline
+
+### Sources
+
+* https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit
+
+---
+
+## 33. Why is Stoicism becoming popular again?
 
 **[📄 View All Responses](Why is Stoicism becoming popular again/README.md)** - Contains all AI responses inline
 
@@ -530,7 +540,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 33. Why is there some much financial fraud in Minnesota?
+## 34. Why is there some much financial fraud in Minnesota?
 
 **[📄 View All Responses](Why is there some much financial fraud in Minnesota/README.md)** - Contains all AI responses inline
 
@@ -549,7 +559,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 34. Why were mental hospitals closed in the United States?
+## 35. Why were mental hospitals closed in the United States?
 
 **[📄 View All Responses](Why were mental hospitals closed in the United States/README.md)** - Contains all AI responses inline
 

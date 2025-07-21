@@ -26,7 +26,7 @@ This is a comparative AI response system that automatically generates and organi
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-21 08:32:58
+**Last Updated:** 2025-07-21 10:26:52
 
 ## Questions
 
@@ -82,7 +82,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **26. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2025-06-23)*
 
-**27. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: just now)*
+**27. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 1 hour ago)*
 
 **28. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-11)*
 
@@ -92,11 +92,13 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **31. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-06-21)*
 
-**32. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-06-11)*
+**32. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: just now)*
 
-**33. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 3 days ago)*
+**33. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-06-11)*
 
-**34. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 4 days ago)*
+**34. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 4 days ago)*
+
+**35. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 4 days ago)*
 
 
 ## Active AI Models
@@ -118,16 +120,16 @@ The following AI models are currently active:
 
 ## Statistics
 
-- **Total Questions:** 34
-- **Total Responses Generated:** 270/272
+- **Total Questions:** 35
+- **Total Responses Generated:** 278/280
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 34 | 34 | 68 |
-| Chatgpt | 33 | 33 | 66 |
-| Gemini | 34 | 34 | 68 |
-| Grok | 34 | 34 | 68 |
+| Claude | 35 | 35 | 70 |
+| Chatgpt | 34 | 34 | 68 |
+| Gemini | 35 | 35 | 70 |
+| Grok | 35 | 35 | 70 |
 
 
