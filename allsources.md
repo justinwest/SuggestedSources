@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-21 11:26:09
+**Last Updated:** 2025-07-21 15:14:19
 
 ---
 
@@ -339,7 +339,19 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 22. What are the externalities of immigration?
+## 22. What are some examples of elite misinformation?
+
+**[📄 View All Responses](What are some examples of elite misinformation/README.md)** - Contains all AI responses inline
+
+### Sources
+
+* https://www.slowboring.com/p/elite-misinformation-is-an-underrated
+* https://www.economist.com/1843/2023/12/14/when-the-new-york-times-lost-its-way
+* 0;45;14M0;45;14m
+
+---
+
+## 23. What are the externalities of immigration?
 
 **[📄 View All Responses](What are the externalities of immigration/README.md)** - Contains all AI responses inline
 
@@ -354,7 +366,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 23. What can we learn from systemic failures?
+## 24. What can we learn from systemic failures?
 
 **[📄 View All Responses](What can we learn from systemic failures/README.md)** - Contains all AI responses inline
 
@@ -366,7 +378,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 24. What caused the 2008 financial crisis?
+## 25. What caused the 2008 financial crisis?
 
 **[📄 View All Responses](What caused the 2008 financial crisis/README.md)** - Contains all AI responses inline
 
@@ -385,7 +397,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 25. What caused the crime spike in 2020 in the United States?
+## 26. What caused the crime spike in 2020 in the United States?
 
 **[📄 View All Responses](What caused the crime spike in 2020 in the United States/README.md)** - Contains all AI responses inline
 
@@ -403,7 +415,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 26. What explains the rise in autism diagnoses?
+## 27. What explains the rise in autism diagnoses?
 
 **[📄 View All Responses](What explains the rise in autism diagnoses/README.md)** - Contains all AI responses inline
 
@@ -427,7 +439,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 27. What is "woke" ideology?
+## 28. What is "woke" ideology?
 
 **[📄 View All Responses](What is "woke" ideology/README.md)** - Contains all AI responses inline
 
@@ -445,7 +457,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 28. What is antidepressant discontinuation syndrome?
+## 29. What is antidepressant discontinuation syndrome?
 
 **[📄 View All Responses](What is antidepressant discontinuation syndrome/README.md)** - Contains all AI responses inline
 
@@ -460,7 +472,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 29. What is race?
+## 30. What is race?
 
 **[📄 View All Responses](What is race/README.md)** - Contains all AI responses inline
 
@@ -479,7 +491,7 @@ https://link.springer.com/article/10.1007/s10539-009-9193-7
 
 ---
 
-## 30. What is the replication crisis?
+## 31. What is the replication crisis?
 
 **[📄 View All Responses](What is the replication crisis/README.md)** - Contains all AI responses inline
 
@@ -497,7 +509,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 31. Why are fertility rates declining in most nations?
+## 32. Why are fertility rates declining in most nations?
 
 **[📄 View All Responses](Why are fertility rates declining in most nations/README.md)** - Contains all AI responses inline
 
@@ -517,7 +529,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 32. Why do some Christians believe it is their religious duty to support Israel?
+## 33. Why do some Christians believe it is their religious duty to support Israel?
 
 **[📄 View All Responses](Why do some Christians believe it is their religious duty to support Israel/README.md)** - Contains all AI responses inline
 
@@ -535,7 +547,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 33. Why has talk about trauma become so popular?
+## 34. Why has talk about trauma become so popular?
 
 **[📄 View All Responses](Why has talk about trauma become so popular/README.md)** - Contains all AI responses inline
 
@@ -545,7 +557,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 34. Why is Stoicism becoming popular again?
+## 35. Why is Stoicism becoming popular again?
 
 **[📄 View All Responses](Why is Stoicism becoming popular again/README.md)** - Contains all AI responses inline
 
@@ -559,7 +571,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 35. Why is there some much financial fraud in Minnesota?
+## 36. Why is there some much financial fraud in Minnesota?
 
 **[📄 View All Responses](Why is there some much financial fraud in Minnesota/README.md)** - Contains all AI responses inline
 
@@ -578,7 +590,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 36. Why were mental hospitals closed in the United States?
+## 37. Why were mental hospitals closed in the United States?
 
 **[📄 View All Responses](Why were mental hospitals closed in the United States/README.md)** - Contains all AI responses inline
 

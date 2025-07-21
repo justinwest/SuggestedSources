@@ -26,7 +26,7 @@ This is a comparative AI response system that automatically generates and organi
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-21 11:26:09
+**Last Updated:** 2025-07-21 15:14:19
 
 ## Questions
 
@@ -70,37 +70,39 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **20. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)** *(Updated: 2025-06-13)*
 
-**21. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: 4 days ago)*
+**21. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: 5 days ago)*
 
-**22. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2025-07-02)*
+**22. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: just now)*
 
-**23. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 4 days ago)*
+**23. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2025-07-02)*
 
-**24. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)** *(Updated: 2025-06-13)*
+**24. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 4 days ago)*
 
-**25. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)** *(Updated: 2025-07-11)*
+**25. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)** *(Updated: 2025-06-13)*
 
-**26. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2025-06-23)*
+**26. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)** *(Updated: 2025-07-11)*
 
-**27. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 2 hours ago)*
+**27. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2025-06-23)*
 
-**28. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-11)*
+**28. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 6 hours ago)*
 
-**29. [What is race?](What is race/README.md)** *(Updated: just now)*
+**29. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-11)*
 
-**30. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 3 days ago)*
+**30. [What is race?](What is race/README.md)** *(Updated: 3 hours ago)*
 
-**31. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2025-07-11)*
+**31. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 3 days ago)*
 
-**32. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-06-21)*
+**32. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2025-07-11)*
 
-**33. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 59 minutes ago)*
+**33. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-06-21)*
 
-**34. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-06-11)*
+**34. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 4 hours ago)*
 
-**35. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 4 days ago)*
+**35. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-06-11)*
 
-**36. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 4 days ago)*
+**36. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 4 days ago)*
+
+**37. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 5 days ago)*
 
 
 ## Active AI Models
@@ -122,16 +124,16 @@ The following AI models are currently active:
 
 ## Statistics
 
-- **Total Questions:** 36
-- **Total Responses Generated:** 286/288
+- **Total Questions:** 37
+- **Total Responses Generated:** 294/296
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 36 | 36 | 72 |
-| Chatgpt | 35 | 35 | 70 |
-| Gemini | 36 | 36 | 72 |
-| Grok | 36 | 36 | 72 |
+| Claude | 37 | 37 | 74 |
+| Chatgpt | 36 | 36 | 72 |
+| Gemini | 37 | 37 | 74 |
+| Grok | 37 | 37 | 74 |
 
 
