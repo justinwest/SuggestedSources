@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-21 10:26:52
+**Last Updated:** 2025-07-21 11:09:58
 
 ---
 
@@ -460,7 +460,23 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 29. What is the replication crisis?
+## 29. What is race?
+
+**[📄 View All Responses](What is race/README.md)** - Contains all AI responses inline
+
+### Sources
+
+https://openpublishing.princeton.edu/read/race-and-racism/section/2fb3629b-719a-47a0-976e-9f62ae8b2f70
+https://archive.jwest.org/Articles/Reich2028-GeneticsRace.pdf
+https://www.aporiamagazine.com/p/the-case-for-race-realism
+https://scijust.ucsc.edu/2019/05/30/developing-debate-on-race-and-genomics/
+https://archive.jwest.org/Research/Duedahl2020-RaceConceptUNESCO.pdf
+https://archive.jwest.org/BookExcerpts/TroublesomeInheritance-Chapter5.pdf
+https://archive.jwest.org/Research/Gichoya2022-RaceMedical.pdf
+
+---
+
+## 30. What is the replication crisis?
 
 **[📄 View All Responses](What is the replication crisis/README.md)** - Contains all AI responses inline
 
@@ -478,7 +494,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 30. Why are fertility rates declining in most nations?
+## 31. Why are fertility rates declining in most nations?
 
 **[📄 View All Responses](Why are fertility rates declining in most nations/README.md)** - Contains all AI responses inline
 
@@ -498,7 +514,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 31. Why do some Christians believe it is their religious duty to support Israel?
+## 32. Why do some Christians believe it is their religious duty to support Israel?
 
 **[📄 View All Responses](Why do some Christians believe it is their religious duty to support Israel/README.md)** - Contains all AI responses inline
 
@@ -516,7 +532,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 32. Why has talk about trauma become so popular?
+## 33. Why has talk about trauma become so popular?
 
 **[📄 View All Responses](Why has talk about trauma become so popular/README.md)** - Contains all AI responses inline
 
@@ -526,7 +542,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 33. Why is Stoicism becoming popular again?
+## 34. Why is Stoicism becoming popular again?
 
 **[📄 View All Responses](Why is Stoicism becoming popular again/README.md)** - Contains all AI responses inline
 
@@ -540,7 +556,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 34. Why is there some much financial fraud in Minnesota?
+## 35. Why is there some much financial fraud in Minnesota?
 
 **[📄 View All Responses](Why is there some much financial fraud in Minnesota/README.md)** - Contains all AI responses inline
 
@@ -559,7 +575,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 35. Why were mental hospitals closed in the United States?
+## 36. Why were mental hospitals closed in the United States?
 
 **[📄 View All Responses](Why were mental hospitals closed in the United States/README.md)** - Contains all AI responses inline
 
