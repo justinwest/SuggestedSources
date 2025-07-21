@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-20 01:32:03
+**Last Updated:** 2025-07-21 08:32:58
 
 ---
 
@@ -441,6 +441,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 * https://ncofnas.com/p/why-we-need-to-talk-about-the-rights
 * https://paulgraham.com/woke.html
 * https://ncofnas.com/p/a-guide-for-the-hereditarian-revolution
+* https://lawliberty.org/book-review/wokeisms-deeper-roots
 
 ---
 
