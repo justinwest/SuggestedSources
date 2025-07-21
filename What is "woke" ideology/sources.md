@@ -6,3 +6,4 @@
 * https://ncofnas.com/p/why-we-need-to-talk-about-the-rights
 * https://paulgraham.com/woke.html
 * https://ncofnas.com/p/a-guide-for-the-hereditarian-revolution
+* https://lawliberty.org/book-review/wokeisms-deeper-roots
