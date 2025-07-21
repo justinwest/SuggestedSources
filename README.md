@@ -26,7 +26,7 @@ This is a comparative AI response system that automatically generates and organi
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-21 11:09:58
+**Last Updated:** 2025-07-21 11:26:09
 
 ## Questions
 
@@ -94,7 +94,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **32. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-06-21)*
 
-**33. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 43 minutes ago)*
+**33. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 59 minutes ago)*
 
 **34. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-06-11)*
 

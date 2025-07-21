@@ -5,3 +5,6 @@ https://scijust.ucsc.edu/2019/05/30/developing-debate-on-race-and-genomics/
 https://archive.jwest.org/Research/Duedahl2020-RaceConceptUNESCO.pdf
 https://archive.jwest.org/BookExcerpts/TroublesomeInheritance-Chapter5.pdf
 https://archive.jwest.org/Research/Gichoya2022-RaceMedical.pdf
+https://archive.jwest.org/Research/Doron2012-RaceConcept.pdf
+https://archive.jwest.org/Research/Edwards2003-LewontinFallacy.pdf
+https://link.springer.com/article/10.1007/s10539-009-9193-7
