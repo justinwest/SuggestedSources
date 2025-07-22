@@ -26,7 +26,7 @@ This is a comparative AI response system that automatically generates and organi
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-21 15:38:15
+**Last Updated:** 2025-07-21 20:29:14
 
 ## Questions
 
@@ -40,7 +40,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 3 days ago)*
 
-**6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 2 days ago)*
+**6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 3 days ago)*
 
 **7. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: 5 days ago)*
 
@@ -84,11 +84,11 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **27. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2025-06-23)*
 
-**28. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 7 hours ago)*
+**28. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 11 hours ago)*
 
 **29. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-11)*
 
-**30. [What is race?](What is race/README.md)** *(Updated: 4 hours ago)*
+**30. [What is race?](What is race/README.md)** *(Updated: 9 hours ago)*
 
 **31. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 3 days ago)*
 
@@ -96,7 +96,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **33. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-06-21)*
 
-**34. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 5 hours ago)*
+**34. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 10 hours ago)*
 
 **35. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-06-11)*
 

@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-21 15:38:15
+**Last Updated:** 2025-07-21 20:29:14
 
 ---
 
@@ -349,6 +349,9 @@ https://yaschamounk.substack.com/p/alex-thompson
 * https://www.economist.com/1843/2023/12/14/when-the-new-york-times-lost-its-way
 * https://www.washingtonpost.com/opinions/2024/10/28/jeff-bezos-washington-post-trust/
 * https://www.thefp.com/p/npr-editor-how-npr-lost-americas-trust
+* https://josephheath.substack.com/p/highbrow-climate-misinformation
+* https://yaschamounk.substack.com/p/the-world-happiness-report-is-a-sham
+* https://www.natesilver.net/p/did-the-media-blow-it-on-biden
 
 ---
 
