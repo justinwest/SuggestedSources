@@ -26,23 +26,23 @@ This is a comparative AI response system that automatically generates and organi
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-21 21:49:27
+**Last Updated:** 2025-07-22 08:39:01
 
 ## Questions
 
 **1. [Are smartphones harming adolescent mental health?](Are smartphones harming adolescent mental health/README.md)** *(Updated: 2025-06-23)*
 
-**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 3 days ago)*
+**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 4 days ago)*
 
 **3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 2025-06-23)*
 
 **4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 2025-06-29)*
 
-**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 3 days ago)*
+**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 4 days ago)*
 
 **6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 3 days ago)*
 
-**7. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: 5 days ago)*
+**7. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: 6 days ago)*
 
 **8. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)** *(Updated: 2025-07-12)*
 
@@ -64,7 +64,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 2025-06-23)*
 
-**18. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 6 days ago)*
+**18. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2025-07-14)*
 
 **19. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)** *(Updated: 2025-06-21)*
 
@@ -76,7 +76,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **23. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2025-07-02)*
 
-**24. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 4 days ago)*
+**24. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 5 days ago)*
 
 **25. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)** *(Updated: 2025-06-13)*
 
@@ -84,19 +84,19 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **27. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2025-06-23)*
 
-**28. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 13 hours ago)*
+**28. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: yesterday)*
 
 **29. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-11)*
 
-**30. [What is race?](What is race/README.md)** *(Updated: 10 hours ago)*
+**30. [What is race?](What is race/README.md)** *(Updated: 21 hours ago)*
 
-**31. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 3 days ago)*
+**31. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 4 days ago)*
 
 **32. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2025-07-11)*
 
 **33. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-06-21)*
 
-**34. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 11 hours ago)*
+**34. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 22 hours ago)*
 
 **35. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-06-11)*
 

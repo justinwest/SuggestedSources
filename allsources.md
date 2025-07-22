@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-21 21:49:27
+**Last Updated:** 2025-07-22 08:39:01
 
 ---
 
@@ -354,6 +354,8 @@ https://yaschamounk.substack.com/p/alex-thompson
 * https://www.natesilver.net/p/did-the-media-blow-it-on-biden
 * https://archive.jwest.org/Research/Warne2018-UndergradIntelligence.pdf
 * https://freddiedeboer.substack.com/p/elite-education-journalism-still
+* https://thelastpsychiatrist.com/2007/05/the_wrong_lessons_of_iraq.html
+* https://www.stevesailer.net/p/britain-finally-admits-it-covered
 
 ---
 
