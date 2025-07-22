@@ -5,3 +5,6 @@
 * https://josephheath.substack.com/p/highbrow-climate-misinformation
 * https://yaschamounk.substack.com/p/the-world-happiness-report-is-a-sham
 * https://www.natesilver.net/p/did-the-media-blow-it-on-biden
+* https://archive.jwest.org/Research/Warne2018-UndergradIntelligence.pdf
+* https://freddiedeboer.substack.com/p/elite-education-journalism-still
+

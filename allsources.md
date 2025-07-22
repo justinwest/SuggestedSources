@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-21 20:29:14
+**Last Updated:** 2025-07-21 21:49:27
 
 ---
 
@@ -352,6 +352,8 @@ https://yaschamounk.substack.com/p/alex-thompson
 * https://josephheath.substack.com/p/highbrow-climate-misinformation
 * https://yaschamounk.substack.com/p/the-world-happiness-report-is-a-sham
 * https://www.natesilver.net/p/did-the-media-blow-it-on-biden
+* https://archive.jwest.org/Research/Warne2018-UndergradIntelligence.pdf
+* https://freddiedeboer.substack.com/p/elite-education-journalism-still
 
 ---
 
