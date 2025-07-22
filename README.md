@@ -26,7 +26,7 @@ This is a comparative AI response system that automatically generates and organi
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-22 08:39:01
+**Last Updated:** 2025-07-22 08:55:02
 
 ## Questions
 
@@ -38,7 +38,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 2025-06-29)*
 
-**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 4 days ago)*
+**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: just now)*
 
 **6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 3 days ago)*
 
@@ -72,7 +72,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **21. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: 5 days ago)*
 
-**22. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: just now)*
+**22. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: 16 minutes ago)*
 
 **23. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2025-07-02)*
 
@@ -100,7 +100,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **35. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-06-11)*
 
-**36. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 4 days ago)*
+**36. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 5 days ago)*
 
 **37. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 5 days ago)*
 

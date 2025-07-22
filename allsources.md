@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-22 08:39:01
+**Last Updated:** 2025-07-22 08:55:02
 
 ---
 
@@ -96,6 +96,7 @@ z
 
 * https://migration.ucdavis.edu/rmn/more.php?id=3047
 * https://archive.jwest.org/BookExcerpts/WeWantedWorkers-Chapter9.pdf
+* https://ifspp.substack.com/p/data-on-how-america-sold-out-its
 
 ---
 
