@@ -7,4 +7,6 @@
 * https://www.natesilver.net/p/did-the-media-blow-it-on-biden
 * https://archive.jwest.org/Research/Warne2018-UndergradIntelligence.pdf
 * https://freddiedeboer.substack.com/p/elite-education-journalism-still
-
+* https://thelastpsychiatrist.com/2007/05/the_wrong_lessons_of_iraq.html
+* https://www.stevesailer.net/p/britain-finally-admits-it-covered
+  
