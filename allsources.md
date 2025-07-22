@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-22 08:55:02
+**Last Updated:** 2025-07-22 09:01:23
 
 ---
 
@@ -351,12 +351,12 @@ https://yaschamounk.substack.com/p/alex-thompson
 * https://www.washingtonpost.com/opinions/2024/10/28/jeff-bezos-washington-post-trust/
 * https://www.thefp.com/p/npr-editor-how-npr-lost-americas-trust
 * https://josephheath.substack.com/p/highbrow-climate-misinformation
-* https://yaschamounk.substack.com/p/the-world-happiness-report-is-a-sham
 * https://www.natesilver.net/p/did-the-media-blow-it-on-biden
-* https://archive.jwest.org/Research/Warne2018-UndergradIntelligence.pdf
 * https://freddiedeboer.substack.com/p/elite-education-journalism-still
 * https://thelastpsychiatrist.com/2007/05/the_wrong_lessons_of_iraq.html
 * https://www.stevesailer.net/p/britain-finally-admits-it-covered
+* https://www.cjr.org/special_report/trumped-up-press-versus-president-ed-note.php  
+* https://eternallyradicalidea.com/p/the-misinformation-crisis-isnt-about
 
 ---
 
