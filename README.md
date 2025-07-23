@@ -26,23 +26,23 @@ This is a comparative AI response system that automatically generates and organi
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-22 09:01:23
+**Last Updated:** 2025-07-23 09:29:42
 
 ## Questions
 
 **1. [Are smartphones harming adolescent mental health?](Are smartphones harming adolescent mental health/README.md)** *(Updated: 2025-06-23)*
 
-**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 4 days ago)*
+**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 5 days ago)*
 
 **3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 2025-06-23)*
 
 **4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 2025-06-29)*
 
-**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 1 minute ago)*
+**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: yesterday)*
 
-**6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 3 days ago)*
+**6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 4 days ago)*
 
-**7. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: 6 days ago)*
+**7. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: 2025-07-15)*
 
 **8. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)** *(Updated: 2025-07-12)*
 
@@ -64,45 +64,47 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 2025-06-23)*
 
-**18. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2025-07-14)*
+**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: just now)*
 
-**19. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)** *(Updated: 2025-06-21)*
+**19. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2025-07-14)*
 
-**20. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)** *(Updated: 2025-06-13)*
+**20. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)** *(Updated: 2025-06-21)*
 
-**21. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: 5 days ago)*
+**21. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)** *(Updated: 2025-06-13)*
 
-**22. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: just now)*
+**22. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: 6 days ago)*
 
-**23. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2025-07-02)*
+**23. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: yesterday)*
 
-**24. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 5 days ago)*
+**24. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2025-07-02)*
 
-**25. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)** *(Updated: 2025-06-13)*
+**25. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 6 days ago)*
 
-**26. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)** *(Updated: 2025-07-11)*
+**26. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)** *(Updated: 2025-06-13)*
 
-**27. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2025-06-23)*
+**27. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)** *(Updated: 2025-07-11)*
 
-**28. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: yesterday)*
+**28. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2025-06-23)*
 
-**29. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-11)*
+**29. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 2 days ago)*
 
-**30. [What is race?](What is race/README.md)** *(Updated: 21 hours ago)*
+**30. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-11)*
 
-**31. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 4 days ago)*
+**31. [What is race?](What is race/README.md)** *(Updated: yesterday)*
 
-**32. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2025-07-11)*
+**32. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 5 days ago)*
 
-**33. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-06-21)*
+**33. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2025-07-11)*
 
-**34. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 22 hours ago)*
+**34. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-06-21)*
 
-**35. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-06-11)*
+**35. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: yesterday)*
 
-**36. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 5 days ago)*
+**36. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-06-11)*
 
-**37. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 5 days ago)*
+**37. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 6 days ago)*
+
+**38. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 6 days ago)*
 
 
 ## Active AI Models
@@ -124,16 +126,16 @@ The following AI models are currently active:
 
 ## Statistics
 
-- **Total Questions:** 37
-- **Total Responses Generated:** 294/296
+- **Total Questions:** 38
+- **Total Responses Generated:** 300/304
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 37 | 37 | 74 |
+| Claude | 38 | 38 | 76 |
 | Chatgpt | 36 | 36 | 72 |
-| Gemini | 37 | 37 | 74 |
-| Grok | 37 | 37 | 74 |
+| Gemini | 38 | 38 | 76 |
+| Grok | 38 | 38 | 76 |
 
 

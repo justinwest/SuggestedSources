@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-22 09:01:23
+**Last Updated:** 2025-07-23 09:29:42
 
 ---
 
@@ -283,7 +283,18 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 18. Summarize the effects of the One Big Beautiful Bill Act?
+## 18. Is the UK heading for a civil war?
+
+**[📄 View All Responses](Is the UK heading for a civil war/README.md)** - Contains all AI responses inline
+
+### Sources
+
+* https://www.youtube.com/watch?v=3h49O0AGxx0
+* https://www.militarystrategymagazine.com/article/civil-war-comes-to-the-west/
+
+---
+
+## 19. Summarize the effects of the One Big Beautiful Bill Act?
 
 **[📄 View All Responses](Summarize the effects of the One Big Beautiful Bill Act/README.md)** - Contains all AI responses inline
 
@@ -294,7 +305,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 19. Was the public misled about the UK grooming gang scandal?
+## 20. Was the public misled about the UK grooming gang scandal?
 
 **[📄 View All Responses](Was the public misled about the UK grooming gang scandal/README.md)** - Contains all AI responses inline
 
@@ -310,7 +321,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 20. Were the COVID-19 lockdowns effective?
+## 21. Were the COVID-19 lockdowns effective?
 
 **[📄 View All Responses](Were the COVID-19 lockdowns effective/README.md)** - Contains all AI responses inline
 
@@ -324,7 +335,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 21. What are luxury beliefs?
+## 22. What are luxury beliefs?
 
 **[📄 View All Responses](What are luxury beliefs/README.md)** - Contains all AI responses inline
 
@@ -340,7 +351,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 22. What are some examples of elite misinformation?
+## 23. What are some examples of elite misinformation?
 
 **[📄 View All Responses](What are some examples of elite misinformation/README.md)** - Contains all AI responses inline
 
@@ -360,7 +371,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 23. What are the externalities of immigration?
+## 24. What are the externalities of immigration?
 
 **[📄 View All Responses](What are the externalities of immigration/README.md)** - Contains all AI responses inline
 
@@ -375,7 +386,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 24. What can we learn from systemic failures?
+## 25. What can we learn from systemic failures?
 
 **[📄 View All Responses](What can we learn from systemic failures/README.md)** - Contains all AI responses inline
 
@@ -387,7 +398,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 25. What caused the 2008 financial crisis?
+## 26. What caused the 2008 financial crisis?
 
 **[📄 View All Responses](What caused the 2008 financial crisis/README.md)** - Contains all AI responses inline
 
@@ -406,7 +417,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 26. What caused the crime spike in 2020 in the United States?
+## 27. What caused the crime spike in 2020 in the United States?
 
 **[📄 View All Responses](What caused the crime spike in 2020 in the United States/README.md)** - Contains all AI responses inline
 
@@ -424,7 +435,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 27. What explains the rise in autism diagnoses?
+## 28. What explains the rise in autism diagnoses?
 
 **[📄 View All Responses](What explains the rise in autism diagnoses/README.md)** - Contains all AI responses inline
 
@@ -448,7 +459,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 28. What is "woke" ideology?
+## 29. What is "woke" ideology?
 
 **[📄 View All Responses](What is "woke" ideology/README.md)** - Contains all AI responses inline
 
@@ -466,7 +477,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 29. What is antidepressant discontinuation syndrome?
+## 30. What is antidepressant discontinuation syndrome?
 
 **[📄 View All Responses](What is antidepressant discontinuation syndrome/README.md)** - Contains all AI responses inline
 
@@ -481,7 +492,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 ---
 
-## 30. What is race?
+## 31. What is race?
 
 **[📄 View All Responses](What is race/README.md)** - Contains all AI responses inline
 
@@ -500,7 +511,7 @@ https://link.springer.com/article/10.1007/s10539-009-9193-7
 
 ---
 
-## 31. What is the replication crisis?
+## 32. What is the replication crisis?
 
 **[📄 View All Responses](What is the replication crisis/README.md)** - Contains all AI responses inline
 
@@ -518,7 +529,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 32. Why are fertility rates declining in most nations?
+## 33. Why are fertility rates declining in most nations?
 
 **[📄 View All Responses](Why are fertility rates declining in most nations/README.md)** - Contains all AI responses inline
 
@@ -538,7 +549,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 33. Why do some Christians believe it is their religious duty to support Israel?
+## 34. Why do some Christians believe it is their religious duty to support Israel?
 
 **[📄 View All Responses](Why do some Christians believe it is their religious duty to support Israel/README.md)** - Contains all AI responses inline
 
@@ -556,7 +567,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 34. Why has talk about trauma become so popular?
+## 35. Why has talk about trauma become so popular?
 
 **[📄 View All Responses](Why has talk about trauma become so popular/README.md)** - Contains all AI responses inline
 
@@ -566,7 +577,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 35. Why is Stoicism becoming popular again?
+## 36. Why is Stoicism becoming popular again?
 
 **[📄 View All Responses](Why is Stoicism becoming popular again/README.md)** - Contains all AI responses inline
 
@@ -580,7 +591,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 36. Why is there some much financial fraud in Minnesota?
+## 37. Why is there some much financial fraud in Minnesota?
 
 **[📄 View All Responses](Why is there some much financial fraud in Minnesota/README.md)** - Contains all AI responses inline
 
@@ -599,7 +610,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 37. Why were mental hospitals closed in the United States?
+## 38. Why were mental hospitals closed in the United States?
 
 **[📄 View All Responses](Why were mental hospitals closed in the United States/README.md)** - Contains all AI responses inline
 
