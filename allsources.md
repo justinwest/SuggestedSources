@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-23 09:29:42
+**Last Updated:** 2025-07-23 09:31:56
 
 ---
 
@@ -291,6 +291,7 @@ https://yaschamounk.substack.com/p/alex-thompson
 
 * https://www.youtube.com/watch?v=3h49O0AGxx0
 * https://www.militarystrategymagazine.com/article/civil-war-comes-to-the-west/
+* https://www.louiseperry.co.uk/p/the-coming-british-civil-war-david
 
 ---
 
