@@ -26,7 +26,7 @@ This is a comparative AI response system that automatically generates and organi
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-23 09:31:56
+**Last Updated:** 2025-07-23 14:52:24
 
 ## Questions
 
@@ -90,7 +90,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **30. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-11)*
 
-**31. [What is race?](What is race/README.md)** *(Updated: yesterday)*
+**31. [What is race?](What is race/README.md)** *(Updated: 2 days ago)*
 
 **32. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 5 days ago)*
 
@@ -98,13 +98,13 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **34. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-06-21)*
 
-**35. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: yesterday)*
+**35. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 2 days ago)*
 
 **36. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-06-11)*
 
 **37. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 6 days ago)*
 
-**38. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 6 days ago)*
+**38. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 2025-07-16)*
 
 
 ## Active AI Models
