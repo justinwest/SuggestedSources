@@ -26,13 +26,13 @@ This is a comparative AI response system that automatically generates and organi
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-23 21:01:36
+**Last Updated:** 2025-07-24 07:41:13
 
 ## Questions
 
 **1. [Are smartphones harming adolescent mental health?](Are smartphones harming adolescent mental health/README.md)** *(Updated: 2025-06-23)*
 
-**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 5 days ago)*
+**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 6 days ago)*
 
 **3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 2025-06-23)*
 
@@ -50,7 +50,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **10. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)** *(Updated: 2025-07-13)*
 
-**11. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)** *(Updated: just now)*
+**11. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)** *(Updated: 10 hours ago)*
 
 **12. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)** *(Updated: 2025-06-13)*
 
@@ -64,7 +64,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 2025-06-23)*
 
-**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 6 hours ago)*
+**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: just now)*
 
 **19. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2025-07-14)*
 
@@ -78,7 +78,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **24. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2025-07-02)*
 
-**25. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 6 days ago)*
+**25. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 2025-07-16)*
 
 **26. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)** *(Updated: 2025-06-13)*
 
@@ -92,11 +92,11 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **31. [What is race?](What is race/README.md)** *(Updated: 2 days ago)*
 
-**32. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 5 days ago)*
+**32. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 6 days ago)*
 
 **33. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2025-07-11)*
 
-**34. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 20 minutes ago)*
+**34. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 11 hours ago)*
 
 **35. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 2 days ago)*
 
