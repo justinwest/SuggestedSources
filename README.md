@@ -26,7 +26,7 @@ This is a comparative AI response system that automatically generates and organi
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-23 14:52:24
+**Last Updated:** 2025-07-23 20:40:52
 
 ## Questions
 
@@ -40,7 +40,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: yesterday)*
 
-**6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 4 days ago)*
+**6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 5 days ago)*
 
 **7. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: 2025-07-15)*
 
@@ -64,7 +64,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 2025-06-23)*
 
-**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: just now)*
+**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 5 hours ago)*
 
 **19. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2025-07-14)*
 
@@ -72,7 +72,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **21. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)** *(Updated: 2025-06-13)*
 
-**22. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: 6 days ago)*
+**22. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: 2025-07-16)*
 
 **23. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: yesterday)*
 
@@ -96,7 +96,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **33. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2025-07-11)*
 
-**34. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-06-21)*
+**34. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: just now)*
 
 **35. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 2 days ago)*
 
