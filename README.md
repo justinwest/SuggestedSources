@@ -26,7 +26,7 @@ This is a comparative AI response system that automatically generates and organi
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-23 20:40:52
+**Last Updated:** 2025-07-23 21:01:36
 
 ## Questions
 
@@ -50,7 +50,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **10. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)** *(Updated: 2025-07-13)*
 
-**11. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)** *(Updated: 2025-06-13)*
+**11. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)** *(Updated: just now)*
 
 **12. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)** *(Updated: 2025-06-13)*
 
@@ -64,7 +64,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 2025-06-23)*
 
-**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 5 hours ago)*
+**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 6 hours ago)*
 
 **19. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2025-07-14)*
 
@@ -96,7 +96,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **33. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2025-07-11)*
 
-**34. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: just now)*
+**34. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 20 minutes ago)*
 
 **35. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 2 days ago)*
 
