@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-24 07:41:13
+**Last Updated:** 2025-07-24 20:13:31
 
 ---
 
@@ -299,7 +299,20 @@ https://open.substack.com/pub/morgoth/p/the-summer-of-kindling?r=3cvjmt&utm_medi
 
 ---
 
-## 19. Summarize the effects of the One Big Beautiful Bill Act?
+## 19. Should academia be reformed?
+
+**[📄 View All Responses](Should academia be reformed/README.md)** - Contains all AI responses inline
+
+### Sources
+
+* https://unsafescience.substack.com/p/why-i-signed-on-to-the-manhattan
+* https://ivyexile.substack.com/p/lines-in-the-sand
+* https://barsoom.substack.com/p/the-class-of-2026
+* https://unsafescience.substack.com/p/we-tried-to-warn-you
+
+---
+
+## 20. Summarize the effects of the One Big Beautiful Bill Act?
 
 **[📄 View All Responses](Summarize the effects of the One Big Beautiful Bill Act/README.md)** - Contains all AI responses inline
 
@@ -310,7 +323,7 @@ https://open.substack.com/pub/morgoth/p/the-summer-of-kindling?r=3cvjmt&utm_medi
 
 ---
 
-## 20. Was the public misled about the UK grooming gang scandal?
+## 21. Was the public misled about the UK grooming gang scandal?
 
 **[📄 View All Responses](Was the public misled about the UK grooming gang scandal/README.md)** - Contains all AI responses inline
 
@@ -326,7 +339,7 @@ https://open.substack.com/pub/morgoth/p/the-summer-of-kindling?r=3cvjmt&utm_medi
 
 ---
 
-## 21. Were the COVID-19 lockdowns effective?
+## 22. Were the COVID-19 lockdowns effective?
 
 **[📄 View All Responses](Were the COVID-19 lockdowns effective/README.md)** - Contains all AI responses inline
 
@@ -340,7 +353,7 @@ https://open.substack.com/pub/morgoth/p/the-summer-of-kindling?r=3cvjmt&utm_medi
 
 ---
 
-## 22. What are luxury beliefs?
+## 23. What are luxury beliefs?
 
 **[📄 View All Responses](What are luxury beliefs/README.md)** - Contains all AI responses inline
 
@@ -356,7 +369,7 @@ https://open.substack.com/pub/morgoth/p/the-summer-of-kindling?r=3cvjmt&utm_medi
 
 ---
 
-## 23. What are some examples of elite misinformation?
+## 24. What are some examples of elite misinformation?
 
 **[📄 View All Responses](What are some examples of elite misinformation/README.md)** - Contains all AI responses inline
 
@@ -376,7 +389,7 @@ https://open.substack.com/pub/morgoth/p/the-summer-of-kindling?r=3cvjmt&utm_medi
 
 ---
 
-## 24. What are the externalities of immigration?
+## 25. What are the externalities of immigration?
 
 **[📄 View All Responses](What are the externalities of immigration/README.md)** - Contains all AI responses inline
 
@@ -391,7 +404,7 @@ https://open.substack.com/pub/morgoth/p/the-summer-of-kindling?r=3cvjmt&utm_medi
 
 ---
 
-## 25. What can we learn from systemic failures?
+## 26. What can we learn from systemic failures?
 
 **[📄 View All Responses](What can we learn from systemic failures/README.md)** - Contains all AI responses inline
 
@@ -403,7 +416,7 @@ https://open.substack.com/pub/morgoth/p/the-summer-of-kindling?r=3cvjmt&utm_medi
 
 ---
 
-## 26. What caused the 2008 financial crisis?
+## 27. What caused the 2008 financial crisis?
 
 **[📄 View All Responses](What caused the 2008 financial crisis/README.md)** - Contains all AI responses inline
 
@@ -422,7 +435,7 @@ https://open.substack.com/pub/morgoth/p/the-summer-of-kindling?r=3cvjmt&utm_medi
 
 ---
 
-## 27. What caused the crime spike in 2020 in the United States?
+## 28. What caused the crime spike in 2020 in the United States?
 
 **[📄 View All Responses](What caused the crime spike in 2020 in the United States/README.md)** - Contains all AI responses inline
 
@@ -440,7 +453,7 @@ https://open.substack.com/pub/morgoth/p/the-summer-of-kindling?r=3cvjmt&utm_medi
 
 ---
 
-## 28. What explains the rise in autism diagnoses?
+## 29. What explains the rise in autism diagnoses?
 
 **[📄 View All Responses](What explains the rise in autism diagnoses/README.md)** - Contains all AI responses inline
 
@@ -464,7 +477,7 @@ https://open.substack.com/pub/morgoth/p/the-summer-of-kindling?r=3cvjmt&utm_medi
 
 ---
 
-## 29. What is "woke" ideology?
+## 30. What is "woke" ideology?
 
 **[📄 View All Responses](What is "woke" ideology/README.md)** - Contains all AI responses inline
 
@@ -482,7 +495,7 @@ https://open.substack.com/pub/morgoth/p/the-summer-of-kindling?r=3cvjmt&utm_medi
 
 ---
 
-## 30. What is antidepressant discontinuation syndrome?
+## 31. What is antidepressant discontinuation syndrome?
 
 **[📄 View All Responses](What is antidepressant discontinuation syndrome/README.md)** - Contains all AI responses inline
 
@@ -497,7 +510,7 @@ https://open.substack.com/pub/morgoth/p/the-summer-of-kindling?r=3cvjmt&utm_medi
 
 ---
 
-## 31. What is race?
+## 32. What is race?
 
 **[📄 View All Responses](What is race/README.md)** - Contains all AI responses inline
 
@@ -516,7 +529,7 @@ https://link.springer.com/article/10.1007/s10539-009-9193-7
 
 ---
 
-## 32. What is the replication crisis?
+## 33. What is the replication crisis?
 
 **[📄 View All Responses](What is the replication crisis/README.md)** - Contains all AI responses inline
 
@@ -534,7 +547,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 33. Why are fertility rates declining in most nations?
+## 34. Why are fertility rates declining in most nations?
 
 **[📄 View All Responses](Why are fertility rates declining in most nations/README.md)** - Contains all AI responses inline
 
@@ -554,7 +567,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 34. Why do some Christians believe it is their religious duty to support Israel?
+## 35. Why do some Christians believe it is their religious duty to support Israel?
 
 **[📄 View All Responses](Why do some Christians believe it is their religious duty to support Israel/README.md)** - Contains all AI responses inline
 
@@ -569,7 +582,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 35. Why has talk about trauma become so popular?
+## 36. Why has talk about trauma become so popular?
 
 **[📄 View All Responses](Why has talk about trauma become so popular/README.md)** - Contains all AI responses inline
 
@@ -579,7 +592,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 36. Why is Stoicism becoming popular again?
+## 37. Why is Stoicism becoming popular again?
 
 **[📄 View All Responses](Why is Stoicism becoming popular again/README.md)** - Contains all AI responses inline
 
@@ -593,7 +606,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 37. Why is there some much financial fraud in Minnesota?
+## 38. Why is there some much financial fraud in Minnesota?
 
 **[📄 View All Responses](Why is there some much financial fraud in Minnesota/README.md)** - Contains all AI responses inline
 
@@ -612,7 +625,7 @@ https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion
 
 ---
 
-## 38. Why were mental hospitals closed in the United States?
+## 39. Why were mental hospitals closed in the United States?
 
 **[📄 View All Responses](Why were mental hospitals closed in the United States/README.md)** - Contains all AI responses inline
 
