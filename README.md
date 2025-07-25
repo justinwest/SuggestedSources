@@ -26,13 +26,13 @@ This is a comparative AI response system that automatically generates and organi
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-24 20:13:31
+**Last Updated:** 2025-07-24 23:42:02
 
 ## Questions
 
 **1. [Are smartphones harming adolescent mental health?](Are smartphones harming adolescent mental health/README.md)** *(Updated: 2025-06-23)*
 
-**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 6 days ago)*
+**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 2025-07-17)*
 
 **3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 2025-06-23)*
 
@@ -50,7 +50,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **10. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)** *(Updated: 2025-07-13)*
 
-**11. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)** *(Updated: 23 hours ago)*
+**11. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)** *(Updated: yesterday)*
 
 **12. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)** *(Updated: 2025-06-13)*
 
@@ -64,9 +64,9 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 2025-06-23)*
 
-**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 12 hours ago)*
+**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: just now)*
 
-**19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: just now)*
+**19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 3 hours ago)*
 
 **20. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2025-07-14)*
 
@@ -94,11 +94,11 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **32. [What is race?](What is race/README.md)** *(Updated: 3 days ago)*
 
-**33. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 6 days ago)*
+**33. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 2025-07-17)*
 
 **34. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2025-07-11)*
 
-**35. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 23 hours ago)*
+**35. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: yesterday)*
 
 **36. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 3 days ago)*
 
