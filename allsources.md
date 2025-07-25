@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-25 13:23:55
+**Last Updated:** 2025-07-25 17:11:57
 
 ---
 
@@ -512,7 +512,8 @@ https://yaschamounk.substack.com/p/alex-thompson
 * [Why We Need to Talk about the Right’s Stupidity Problem](https://ncofnas.com/p/why-we-need-to-talk-about-the-rights) – *Nathan Cofnas’s Newsletter* 
 * [The Origins of Wokeness](https://paulgraham.com/woke.html) – *PaulGraham.com* 
 * [A Guide for the Hereditarian Revolution](https://ncofnas.com/p/a-guide-for-the-hereditarian-revolution) – *Nathan Cofnas’s Newsletter* 
-* [Wokeism’s Deeper Roots](https://lawliberty.org/book-review/wokeisms-deeper-roots) – *Law & Liberty*
+* [Wokeism’s Deeper Roots](https://lawliberty.org/book-review/wokeisms-deeper-roots) – *Law & Liberty* 
+https://open.substack.com/pub/keithwoodspub/p/gnosticism?r=3cvjmt&utm_medium=ios
 
 ---
 

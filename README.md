@@ -26,7 +26,7 @@ This is a comparative AI response system that automatically generates and organi
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-25 13:23:55
+**Last Updated:** 2025-07-25 17:11:57
 
 ## Questions
 
@@ -64,9 +64,9 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 2025-06-23)*
 
-**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: just now)*
+**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 3 hours ago)*
 
-**19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 17 hours ago)*
+**19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 20 hours ago)*
 
 **20. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2025-07-14)*
 
@@ -88,11 +88,11 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **29. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2025-06-23)*
 
-**30. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 13 hours ago)*
+**30. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: just now)*
 
 **31. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-11)*
 
-**32. [What is race?](What is race/README.md)** *(Updated: 13 hours ago)*
+**32. [What is race?](What is race/README.md)** *(Updated: 17 hours ago)*
 
 **33. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 2025-07-17)*
 
