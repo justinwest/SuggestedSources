@@ -26,7 +26,7 @@ This is a comparative AI response system that automatically generates and organi
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-24 23:42:02
+**Last Updated:** 2025-07-24 23:51:00
 
 ## Questions
 
@@ -64,7 +64,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 2025-06-23)*
 
-**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: just now)*
+**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 8 minutes ago)*
 
 **19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 3 hours ago)*
 
@@ -92,7 +92,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **31. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-11)*
 
-**32. [What is race?](What is race/README.md)** *(Updated: 3 days ago)*
+**32. [What is race?](What is race/README.md)** *(Updated: just now)*
 
 **33. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 2025-07-17)*
 
