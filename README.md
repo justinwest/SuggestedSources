@@ -26,7 +26,7 @@ This is a comparative AI response system that automatically generates and organi
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-25 00:02:15
+**Last Updated:** 2025-07-25 13:23:55
 
 ## Questions
 
@@ -38,7 +38,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 2025-06-29)*
 
-**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 2 days ago)*
+**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 3 days ago)*
 
 **6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 6 days ago)*
 
@@ -64,9 +64,9 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 2025-06-23)*
 
-**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 20 minutes ago)*
+**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: just now)*
 
-**19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 3 hours ago)*
+**19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 17 hours ago)*
 
 **20. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2025-07-14)*
 
@@ -76,7 +76,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **23. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: 2025-07-16)*
 
-**24. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: 2 days ago)*
+**24. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: 3 days ago)*
 
 **25. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2025-07-02)*
 
@@ -88,11 +88,11 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **29. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2025-06-23)*
 
-**30. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: just now)*
+**30. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 13 hours ago)*
 
 **31. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-11)*
 
-**32. [What is race?](What is race/README.md)** *(Updated: 11 minutes ago)*
+**32. [What is race?](What is race/README.md)** *(Updated: 13 hours ago)*
 
 **33. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 2025-07-17)*
 
@@ -100,7 +100,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **35. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: yesterday)*
 
-**36. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 3 days ago)*
+**36. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 4 days ago)*
 
 **37. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-06-11)*
 
