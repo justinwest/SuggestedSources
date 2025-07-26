@@ -7,4 +7,4 @@
 * [The Origins of Wokeness](https://paulgraham.com/woke.html) – *PaulGraham.com*
 * [A Guide for the Hereditarian Revolution](https://ncofnas.com/p/a-guide-for-the-hereditarian-revolution) – *Nathan Cofnas’s Newsletter*
 * [Wokeism’s Deeper Roots](https://lawliberty.org/book-review/wokeisms-deeper-roots) – *Law & Liberty*
-* https://keithwoods.pub/p/gnosticism
+https://keithwoods.pub/p/gnosticism
