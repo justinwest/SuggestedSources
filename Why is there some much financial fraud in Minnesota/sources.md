@@ -1,10 +1,10 @@
-* [Feeding Our Future](https://en.wikipedia.org/wiki/Feeding_Our_Future) – *Wikipedia*
-* [62 Investigations Underway Involving Federally‑Funded Minnesota Child‑Care Centers](https://kstp.com/kstp-news/top-news/62-investigations-underway-involving-federally-funded-minnesota-child-care-centers/) – *KSTP 5 Eyewitness News*
-* [Report: Minnesota Department of Education’s “Inadequate Oversight” of Feeding Our Future Opened Door to Fraud](https://web.archive.org/web/20240909131550/https://www.startribune.com/did-minnesota-department-of-education-do-enough-to-stop-feeding-our-future-fraud-legislative-auditor-report-to-be-released-thursday/600373216) – *Star Tribune*
-* [Minnesota Department of Education: Oversight of Feeding Our Future](https://www.auditor.leg.state.mn.us/sreview/pdf/2024-mdefof.pdf) – *Minnesota Office of the Legislative Auditor*
-* [Commerce Fraud Bureau Annual Report 2023](https://mn.gov/commerce-stat/pdfs/business/fraud-bureau/2023-Annual-Report.pdf) – *Minnesota Department of Commerce*
-* [Minnesota Couple Indicted in \$15 Million Medical Billing Fraud Scheme](https://www.justice.gov/usao-mn/pr/minnesota-couple-indicted-15-million-medical-billing-fraud-scheme-0) – *U.S. Attorney’s Office, District of Minnesota*
-* [Bank Ordered to Pay \$564 Million to Victims of Petters Fraud](https://www.cbsnews.com/minnesota/news/bank-ordered-to-pay-564-million-to-victims-of-petters-fraud/) – *CBS Minnesota / AP*
-* [Projected Deficit Renews Focus on Fraud in Minnesota](https://axios.com/local/twin-cities/2024/12/13/minnesota-government-fraud-auditor-report-spending-deficit) – *Axios Twin Cities*
-* [https://www.kare11.com/article/news/investigations/kare-11-investigates-tackling-fraud-minnesota-lawmakers-pass-key-reforms/](https://www.kare11.com/article/news/investigations/kare-11-investigates-tackling-fraud-minnesota-lawmakers-pass-key-reforms/89-aee5191b-bad7-49e9-8f02-5cb53a06757f)
-* https://kstp.com/kstp-news/top-news/minnesota-autism-expert-said-he-started-suspecting-fraud-a-year-ago/
+* [Feeding Our Future](https://en.wikipedia.org/wiki/Feeding_Our_Future) – *Wikipedia*
+* [62 Investigations Underway Involving Federally‑Funded Minnesota Child‑Care Centers](https://kstp.com/kstp-news/top-news/62-investigations-underway-involving-federally-funded-minnesota-child-care-centers/) – *KSTP 5 Eyewitness News*
+* [Report: Minnesota Department of Education’s “Inadequate Oversight” of Feeding Our Future Opened Door to Fraud](https://web.archive.org/web/20240909131550/https://www.startribune.com/did-minnesota-department-of-education-do-enough-to-stop-feeding-our-future-fraud-legislative-auditor-report-to-be-released-thursday/600373216) – *Star Tribune*
+* [Minnesota Department of Education: Oversight of Feeding Our Future](https://www.auditor.leg.state.mn.us/sreview/pdf/2024-mdefof.pdf) – *Minnesota Office of the Legislative Auditor*
+* [Commerce Fraud Bureau Annual Report 2023](https://mn.gov/commerce-stat/pdfs/business/fraud-bureau/2023-Annual-Report.pdf) – *Minnesota Department of Commerce*
+* [Minnesota Couple Indicted in \$15 Million Medical Billing Fraud Scheme](https://www.justice.gov/usao-mn/pr/minnesota-couple-indicted-15-million-medical-billing-fraud-scheme-0) – *U.S. Attorney’s Office, District of Minnesota*
+* [Bank Ordered to Pay \$564 Million to Victims of Petters Fraud](https://www.cbsnews.com/minnesota/news/bank-ordered-to-pay-564-million-to-victims-of-petters-fraud/) – *CBS Minnesota / AP*
+* [Projected Deficit Renews Focus on Fraud in Minnesota](https://axios.com/local/twin-cities/2024/12/13/minnesota-government-fraud-auditor-report-spending-deficit) – *Axios Twin Cities*
+* [https://www.kare11.com/article/news/investigations/kare-11-investigates-tackling-fraud-minnesota-lawmakers-pass-key-reforms/](https://www.kare11.com/article/news/investigations/kare-11-investigates-tackling-fraud-minnesota-lawmakers-pass-key-reforms/89-aee5191b-bad7-49e9-8f02-5cb53a06757f) – *Kare11*
+* [Minnesota Autism Expert Said He Started Suspecting Fraud A Year Ago](https://kstp.com/kstp-news/top-news/minnesota-autism-expert-said-he-started-suspecting-fraud-a-year-ago/) – *Kstp*

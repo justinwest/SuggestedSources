@@ -14,7 +14,7 @@ This is a comparative AI response system that automatically generates and organi
 
 
 **Changelog:**
-* 11-JUL-2025: Updated to include all AI responses directly in question READMEs for easier comparison.
+* 11-JUL-2025: Updated to include all AI responses directly in question READMEs for easier comparison. Added automatic source formatting.
 * 10-JUL-2025: Added Grok 4 with Live Search support for real-time information retrieval.
 * 29-JUN-2025: Added Grok web search support for live information retrieval.
 * 27-JUN-2025: ChatGPT o3-deep-research is now active. This model is VERY expensive to run, so it's limited one update every 24 hours for each question.
@@ -26,7 +26,7 @@ This is a comparative AI response system that automatically generates and organi
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-25 17:11:57
+**Last Updated:** 2025-07-25 20:28:48
 
 ## Questions
 
@@ -40,7 +40,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 3 days ago)*
 
-**6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 6 days ago)*
+**6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 2025-07-18)*
 
 **7. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: 2025-07-15)*
 
@@ -64,9 +64,9 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 2025-06-23)*
 
-**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 3 hours ago)*
+**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 7 hours ago)*
 
-**19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 20 hours ago)*
+**19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: yesterday)*
 
 **20. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2025-07-14)*
 
@@ -88,11 +88,11 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **29. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2025-06-23)*
 
-**30. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: just now)*
+**30. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 3 hours ago)*
 
 **31. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-11)*
 
-**32. [What is race?](What is race/README.md)** *(Updated: 17 hours ago)*
+**32. [What is race?](What is race/README.md)** *(Updated: 20 hours ago)*
 
 **33. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 2025-07-17)*
 
