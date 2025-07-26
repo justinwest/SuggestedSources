@@ -28,7 +28,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-25 23:37:56
+**Last Updated:** 2025-07-25 23:42:19
 
 ## Questions
 
@@ -66,7 +66,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 3 hours ago)*
 
-**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 3 hours ago)*
+**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: just now)*
 
 **19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 3 hours ago)*
 
@@ -90,7 +90,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **29. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 3 hours ago)*
 
-**30. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: just now)*
+**30. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 4 minutes ago)*
 
 **31. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 3 hours ago)*
 
