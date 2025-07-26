@@ -28,7 +28,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-25 22:05:31
+**Last Updated:** 2025-07-25 22:22:06
 
 ## Questions
 
@@ -90,7 +90,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **29. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 1 hour ago)*
 
-**30. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 1 hour ago)*
+**30. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: just now)*
 
 **31. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 1 hour ago)*
 
