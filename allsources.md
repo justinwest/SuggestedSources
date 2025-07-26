@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-25 23:03:00
+**Last Updated:** 2025-07-25 23:11:26
 
 ---
 
@@ -513,7 +513,7 @@ z
 * [The Origins of Wokeness](https://paulgraham.com/woke.html) – *PaulGraham.com*
 * [A Guide for the Hereditarian Revolution](https://ncofnas.com/p/a-guide-for-the-hereditarian-revolution) – *Nathan Cofnas’s Newsletter*
 * [Wokeism’s Deeper Roots](https://lawliberty.org/book-review/wokeisms-deeper-roots) – *Law & Liberty*
-* https://keithwoods.pub/p/gnosticism
+https://keithwoods.pub/p/gnosticism
 
 ---
 

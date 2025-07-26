@@ -19,7 +19,7 @@ This index provides links to all questions and their AI-generated responses.
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-25 23:03:00
+**Last Updated:** 2025-07-25 23:11:26
 
 ## Questions
 
@@ -201,7 +201,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **Status:** ✅ Complete
 **Folder:** `What is "woke" ideology/`
-**Last Updated:** 2025-07-25 22:22
+**Last Updated:** 2025-07-25 23:11
 
 ## 31. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)
 
