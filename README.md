@@ -28,7 +28,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-25 23:42:19
+**Last Updated:** 2025-07-25 23:59:33
 
 ## Questions
 
@@ -38,7 +38,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 3 hours ago)*
 
-**4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 3 hours ago)*
+**4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: just now)*
 
 **5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 3 hours ago)*
 
@@ -66,7 +66,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 3 hours ago)*
 
-**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: just now)*
+**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 17 minutes ago)*
 
 **19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 3 hours ago)*
 
@@ -90,7 +90,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **29. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 3 hours ago)*
 
-**30. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 4 minutes ago)*
+**30. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 21 minutes ago)*
 
 **31. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 3 hours ago)*
 

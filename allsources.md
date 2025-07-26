@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-25 23:42:19
+**Last Updated:** 2025-07-25 23:59:33
 
 ---
 
@@ -82,9 +82,8 @@ This document contains all questions and their suggested sources in one place, w
 * [Examining Gender-Specific Mental Health Risks After Gender-Affirming Surgery: A National Database Study](https://academic.oup.com/jsm/article-abstract/22/4/645/8042063) – *The Journal of Sexual Medicine*
 * [Mental Health Outcomes in Transgender and Nonbinary Youths Receiving Gender-Affirming Care](https://pubmed.ncbi.nlm.nih.gov/35212746/) – *JAMA Network Open*
 * [Psychosocial Functioning in Transgender Youth after 2 Years of Hormones](https://pubmed.ncbi.nlm.nih.gov/36652355/) – *New England Journal of Medicine*
-* [Hhs Review Anonymous Author](https://www.washingtonpost.com/opinions/2025/06/26/hhs-review-anonymous-author/) – *The Washington Post*
-* [683350](https://www.theatlantic.com/ideas/archive/2025/06/transgender-youth-skrmetti/683350/) – *Theatlantic*
-z
+* https://www.washingtonpost.com/opinions/2025/06/26/hhs-review-anonymous-author/
+* https://www.theatlantic.com/ideas/archive/2025/06/transgender-youth-skrmetti/683350/
 
 ---
 
