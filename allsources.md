@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-27 11:16:48
+**Last Updated:** 2025-07-27 11:35:59
 
 ---
 
@@ -84,6 +84,7 @@ This document contains all questions and their suggested sources in one place, w
 * [Psychosocial Functioning in Transgender Youth after 2 Years of Hormones](https://pubmed.ncbi.nlm.nih.gov/36652355/) – *New England Journal of Medicine*
 * https://www.washingtonpost.com/opinions/2025/06/26/hhs-review-anonymous-author/
 * https://www.theatlantic.com/ideas/archive/2025/06/transgender-youth-skrmetti/683350/
+z
 
 ---
 

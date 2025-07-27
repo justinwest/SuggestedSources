@@ -29,7 +29,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-27 11:16:48
+**Last Updated:** 2025-07-27 11:35:59
 
 ## Questions
 
@@ -39,7 +39,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: yesterday)*
 
-**4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: yesterday)*
+**4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: just now)*
 
 **5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: yesterday)*
 
