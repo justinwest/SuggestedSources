@@ -29,7 +29,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-28 09:48:05
+**Last Updated:** 2025-07-28 09:56:24
 
 ## Questions
 
@@ -59,7 +59,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **13. [How many Americans have died due to fentanyl?](How many Americans have died due to fentanyl/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**14. [How many immigrants are in the United States illegally?](How many immigrants are in the United States illegally/README.md)** *(Updated: 2025-07-25 20:28:48)*
+**14. [How many immigrants are in the United States illegally?](How many immigrants are in the United States illegally/README.md)** *(Updated: 2025-07-28 09:56:24)*
 
 **15. [How much of a problem is misinformation?](How much of a problem is misinformation/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
