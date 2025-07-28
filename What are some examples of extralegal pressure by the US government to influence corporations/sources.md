@@ -1,0 +1,10 @@
+* https://www.washingtonpost.com/business/economy/banks-to-payday-lenders-quit-the-business-or-well-close-your-account/2014/04/11/afd34976-c0c6-11e3-bcec-b71ee10e9bc3_story.html
+* https://nymag.com/intelligencer/article/a-very-crypto-mystery.html#:~:text=A%20key%20piece%20of%20context%3A,might%20be%20in%20some%20cases
+* https://www.reuters.com/article/world/us/wikileaks-shows-reach-and-limits-of-internet-speech-idUSTRE6B85I4/
+* https://www.reuters.com/technology/zuckerberg-says-biden-administration-pressured-meta-censor-covid-19-content-2024-08-27/
+* https://www.theguardian.com/us-news/2023/jul/04/judge-restricts-white-house-communications-with-social-media-companies
+* https://www.bankingdive.com/news/fdic-letters-cryptos-operation-chokepoint-2-0-claims-coinbase/735309/
+* https://oversight.house.gov/report/report-dojs-operation-choke-point-secretly-pressured-banks-cut-ties-legal-business/
+* https://en.wikipedia.org/wiki/IRS_targeting_controversy
+* https://en.wikipedia.org/wiki/Operation_Choke_Point
+* https://en.wikipedia.org/wiki/Twitter_Files
