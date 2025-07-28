@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-27 22:31:46
+**Last Updated:** 2025-07-28 08:55:51
 
 ---
 
@@ -410,7 +410,26 @@ z
 
 ---
 
-## 25. What are the externalities of immigration?
+## 25. What are some examples of extralegal pressure by the US government to influence corporations?
+
+**[📄 View All Responses](What are some examples of extralegal pressure by the US government to influence corporations/README.md)** - Contains all AI responses inline
+
+### Sources
+
+* https://www.washingtonpost.com/business/economy/banks-to-payday-lenders-quit-the-business-or-well-close-your-account/2014/04/11/afd34976-c0c6-11e3-bcec-b71ee10e9bc3_story.html
+* https://nymag.com/intelligencer/article/a-very-crypto-mystery.html#:~:text=A%20key%20piece%20of%20context%3A,might%20be%20in%20some%20cases
+* https://www.reuters.com/article/world/us/wikileaks-shows-reach-and-limits-of-internet-speech-idUSTRE6B85I4/
+* https://www.reuters.com/technology/zuckerberg-says-biden-administration-pressured-meta-censor-covid-19-content-2024-08-27/
+* https://www.theguardian.com/us-news/2023/jul/04/judge-restricts-white-house-communications-with-social-media-companies
+* https://www.bankingdive.com/news/fdic-letters-cryptos-operation-chokepoint-2-0-claims-coinbase/735309/
+* https://oversight.house.gov/report/report-dojs-operation-choke-point-secretly-pressured-banks-cut-ties-legal-business/
+* https://en.wikipedia.org/wiki/IRS_targeting_controversy
+* https://en.wikipedia.org/wiki/Operation_Choke_Point
+* https://en.wikipedia.org/wiki/Twitter_Files
+
+---
+
+## 26. What are the externalities of immigration?
 
 **[📄 View All Responses](What are the externalities of immigration/README.md)** - Contains all AI responses inline
 
@@ -425,7 +444,7 @@ z
 
 ---
 
-## 26. What can we learn from systemic failures?
+## 27. What can we learn from systemic failures?
 
 **[📄 View All Responses](What can we learn from systemic failures/README.md)** - Contains all AI responses inline
 
@@ -437,7 +456,7 @@ z
 
 ---
 
-## 27. What caused the 2008 financial crisis?
+## 28. What caused the 2008 financial crisis?
 
 **[📄 View All Responses](What caused the 2008 financial crisis/README.md)** - Contains all AI responses inline
 
@@ -456,7 +475,7 @@ z
 
 ---
 
-## 28. What caused the crime spike in 2020 in the United States?
+## 29. What caused the crime spike in 2020 in the United States?
 
 **[📄 View All Responses](What caused the crime spike in 2020 in the United States/README.md)** - Contains all AI responses inline
 
@@ -474,7 +493,7 @@ z
 
 ---
 
-## 29. What explains the rise in autism diagnoses?
+## 30. What explains the rise in autism diagnoses?
 
 **[📄 View All Responses](What explains the rise in autism diagnoses/README.md)** - Contains all AI responses inline
 
@@ -498,7 +517,7 @@ z
 
 ---
 
-## 30. What is "woke" ideology?
+## 31. What is "woke" ideology?
 
 **[📄 View All Responses](What is "woke" ideology/README.md)** - Contains all AI responses inline
 
@@ -518,7 +537,7 @@ z
 
 ---
 
-## 31. What is antidepressant discontinuation syndrome?
+## 32. What is antidepressant discontinuation syndrome?
 
 **[📄 View All Responses](What is antidepressant discontinuation syndrome/README.md)** - Contains all AI responses inline
 
@@ -533,7 +552,7 @@ z
 
 ---
 
-## 32. What is race?
+## 33. What is race?
 
 **[📄 View All Responses](What is race/README.md)** - Contains all AI responses inline
 
@@ -552,7 +571,7 @@ z
 
 ---
 
-## 33. What is the replication crisis?
+## 34. What is the replication crisis?
 
 **[📄 View All Responses](What is the replication crisis/README.md)** - Contains all AI responses inline
 
@@ -570,7 +589,7 @@ z
 
 ---
 
-## 34. Why are fertility rates declining in most nations?
+## 35. Why are fertility rates declining in most nations?
 
 **[📄 View All Responses](Why are fertility rates declining in most nations/README.md)** - Contains all AI responses inline
 
@@ -590,7 +609,7 @@ z
 
 ---
 
-## 35. Why do some Christians believe it is their religious duty to support Israel?
+## 36. Why do some Christians believe it is their religious duty to support Israel?
 
 **[📄 View All Responses](Why do some Christians believe it is their religious duty to support Israel/README.md)** - Contains all AI responses inline
 
@@ -605,7 +624,7 @@ z
 
 ---
 
-## 36. Why has talk about trauma become so popular?
+## 37. Why has talk about trauma become so popular?
 
 **[📄 View All Responses](Why has talk about trauma become so popular/README.md)** - Contains all AI responses inline
 
@@ -615,7 +634,7 @@ z
 
 ---
 
-## 37. Why is Stoicism becoming popular again?
+## 38. Why is Stoicism becoming popular again?
 
 **[📄 View All Responses](Why is Stoicism becoming popular again/README.md)** - Contains all AI responses inline
 
@@ -629,7 +648,7 @@ z
 
 ---
 
-## 38. Why is there some much financial fraud in Minnesota?
+## 39. Why is there some much financial fraud in Minnesota?
 
 **[📄 View All Responses](Why is there some much financial fraud in Minnesota/README.md)** - Contains all AI responses inline
 
@@ -648,7 +667,7 @@ z
 
 ---
 
-## 39. Why were mental hospitals closed in the United States?
+## 40. Why were mental hospitals closed in the United States?
 
 **[📄 View All Responses](Why were mental hospitals closed in the United States/README.md)** - Contains all AI responses inline
 

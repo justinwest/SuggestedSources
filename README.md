@@ -29,17 +29,17 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-27 22:31:46
+**Last Updated:** 2025-07-28 08:55:51
 
 ## Questions
 
 **1. [Are smartphones harming adolescent mental health?](Are smartphones harming adolescent mental health/README.md)** *(Updated: 2 days ago)*
 
-**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 7 minutes ago)*
+**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 10 hours ago)*
 
-**3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 7 minutes ago)*
+**3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 10 hours ago)*
 
-**4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 10 hours ago)*
+**4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 21 hours ago)*
 
 **5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 2 days ago)*
 
@@ -49,9 +49,9 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **8. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)** *(Updated: 2 days ago)*
 
-**9. [How accurate were economists' predications about immigration?](How accurate were economists' predications about immigration/README.md)** *(Updated: 7 minutes ago)*
+**9. [How accurate were economists' predications about immigration?](How accurate were economists' predications about immigration/README.md)** *(Updated: 10 hours ago)*
 
-**10. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)** *(Updated: 7 minutes ago)*
+**10. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)** *(Updated: 10 hours ago)*
 
 **11. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)** *(Updated: 2 days ago)*
 
@@ -67,9 +67,9 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 2 days ago)*
 
-**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 13 minutes ago)*
+**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 10 hours ago)*
 
-**19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: just now)*
+**19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 10 hours ago)*
 
 **20. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2 days ago)*
 
@@ -81,35 +81,37 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **24. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: 2 days ago)*
 
-**25. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2 days ago)*
+**25. [What are some examples of extralegal pressure by the US government to influence corporations?](What are some examples of extralegal pressure by the US government to influence corporations/README.md)** *(Updated: just now)*
 
-**26. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 2 days ago)*
+**26. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2 days ago)*
 
-**27. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)** *(Updated: 2 days ago)*
+**27. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 2 days ago)*
 
-**28. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)** *(Updated: 2 days ago)*
+**28. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)** *(Updated: 2 days ago)*
 
-**29. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 7 minutes ago)*
+**29. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)** *(Updated: 2 days ago)*
 
-**30. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: yesterday)*
+**30. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 10 hours ago)*
 
-**31. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2 days ago)*
+**31. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 2 days ago)*
 
-**32. [What is race?](What is race/README.md)** *(Updated: just now)*
+**32. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2 days ago)*
 
-**33. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 7 minutes ago)*
+**33. [What is race?](What is race/README.md)** *(Updated: 10 hours ago)*
 
-**34. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2 days ago)*
+**34. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 10 hours ago)*
 
-**35. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2 days ago)*
+**35. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2 days ago)*
 
-**36. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 2 days ago)*
+**36. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2 days ago)*
 
-**37. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: just now)*
+**37. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 2 days ago)*
 
-**38. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 2 days ago)*
+**38. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 10 hours ago)*
 
-**39. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 7 minutes ago)*
+**39. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 2 days ago)*
+
+**40. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 10 hours ago)*
 
 ## Active AI Models
 
@@ -130,17 +132,17 @@ The following AI models are currently active:
 
 ## Statistics
 
-- **Total Questions:** 39
-- **Total Responses Generated:** 312/312
+- **Total Questions:** 40
+- **Total Responses Generated:** 320/320
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 39 | 39 | 78 |
-| Chatgpt | 39 | 39 | 78 |
-| Gemini | 39 | 39 | 78 |
-| Grok | 39 | 39 | 78 |
+| Claude | 40 | 40 | 80 |
+| Chatgpt | 40 | 40 | 80 |
+| Gemini | 40 | 40 | 80 |
+| Grok | 40 | 40 | 80 |
 
 ## About
 
