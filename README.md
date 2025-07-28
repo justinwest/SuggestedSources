@@ -29,7 +29,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-28 09:56:24
+**Last Updated:** 2025-07-28 10:21:04
 
 ## Questions
 
@@ -43,7 +43,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 2025-07-28 09:48:05)*
+**6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 2025-07-28 10:21:04)*
 
 **7. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: 2025-07-25 20:28:48)*
 

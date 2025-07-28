@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-28 09:56:24
+**Last Updated:** 2025-07-28 10:21:04
 
 ---
 
@@ -111,6 +111,8 @@ z
 * https://fergusmason.substack.com/p/the-scandal-of-the-century
 * https://www.politico.eu/article/sweden-bombings-grenade-attacks-violent-reality-undoing-peaceful-self-image-law-and-order/
 * https://www.eugyppius.com/p/migrants-will-not-stop-molesting
+* https://www.dw.com/en/my-europe-eastern-promise-and-western-pretension/a-45403613
+* https://en.wikipedia.org/wiki/2015%E2%80%9316_New_Year%27s_Eve_sexual_assaults_in_Germany
 
 ---
 
