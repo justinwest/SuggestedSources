@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-28 08:55:51
+**Last Updated:** 2025-07-28 09:08:27
 
 ---
 
@@ -426,6 +426,10 @@ z
 * https://en.wikipedia.org/wiki/IRS_targeting_controversy
 * https://en.wikipedia.org/wiki/Operation_Choke_Point
 * https://en.wikipedia.org/wiki/Twitter_Files
+* https://abcnews.go.com/blogs/politics/2012/10/at-white-house-request-lockheed-martin-drops-plan-to-issue-layoff-notices
+* https://www.cbsnews.com/news/carrier-united-technologies-donald-trump-indiana/
+* https://www.washingtonpost.com/business/economy/2018/11/27/76fd9bcc-f26e-11e8-80d0-f7e1948d55f4_story.html
+* https://www.reuters.com/article/2012/08/08/us-usa-defense-cuts-idUSBRE8771KO20120808/#:~:text=In%20a%20controversial%20move%20last,major%20layoffs%20or%20plant%20closures
 
 ---
 
