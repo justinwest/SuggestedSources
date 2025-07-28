@@ -14,3 +14,4 @@
 * https://www.reuters.com/article/2012/08/08/us-usa-defense-cuts-idUSBRE8771KO20120808/#:~:text=In%20a%20controversial%20move%20last,major%20layoffs%20or%20plant%20closures
 * https://en.wikipedia.org/wiki/Moral_suasion#Jawboning
 * https://en.wikipedia.org/wiki/Nudge_theory
+* https://en.wikipedia.org/wiki/National_Rifle_Association_of_America_v._Vullo

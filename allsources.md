@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-28 09:08:27
+**Last Updated:** 2025-07-28 09:27:57
 
 ---
 
@@ -430,6 +430,9 @@ z
 * https://www.cbsnews.com/news/carrier-united-technologies-donald-trump-indiana/
 * https://www.washingtonpost.com/business/economy/2018/11/27/76fd9bcc-f26e-11e8-80d0-f7e1948d55f4_story.html
 * https://www.reuters.com/article/2012/08/08/us-usa-defense-cuts-idUSBRE8771KO20120808/#:~:text=In%20a%20controversial%20move%20last,major%20layoffs%20or%20plant%20closures
+* https://en.wikipedia.org/wiki/Moral_suasion#Jawboning
+* https://en.wikipedia.org/wiki/Nudge_theory
+* https://en.wikipedia.org/wiki/National_Rifle_Association_of_America_v._Vullo
 
 ---
 

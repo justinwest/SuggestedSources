@@ -29,89 +29,89 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-28 09:08:27
+**Last Updated:** 2025-07-28 09:27:57
 
 ## Questions
 
-**1. [Are smartphones harming adolescent mental health?](Are smartphones harming adolescent mental health/README.md)** *(Updated: 2 days ago)*
+**1. [Are smartphones harming adolescent mental health?](Are smartphones harming adolescent mental health/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 10 hours ago)*
+**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 2025-07-27 22:24:16)*
 
-**3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 10 hours ago)*
+**3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 2025-07-27 22:24:16)*
 
-**4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 21 hours ago)*
+**4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 2025-07-27 11:35:59)*
 
-**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 2 days ago)*
+**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 2 days ago)*
+**6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**7. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: 2 days ago)*
+**7. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**8. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)** *(Updated: 2 days ago)*
+**8. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**9. [How accurate were economists' predications about immigration?](How accurate were economists' predications about immigration/README.md)** *(Updated: 10 hours ago)*
+**9. [How accurate were economists' predications about immigration?](How accurate were economists' predications about immigration/README.md)** *(Updated: 2025-07-27 22:24:16)*
 
-**10. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)** *(Updated: 10 hours ago)*
+**10. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)** *(Updated: 2025-07-27 22:24:16)*
 
-**11. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)** *(Updated: 2 days ago)*
+**11. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**12. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)** *(Updated: 2 days ago)*
+**12. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**13. [How many Americans have died due to fentanyl?](How many Americans have died due to fentanyl/README.md)** *(Updated: 2 days ago)*
+**13. [How many Americans have died due to fentanyl?](How many Americans have died due to fentanyl/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**14. [How many immigrants are in the United States illegally?](How many immigrants are in the United States illegally/README.md)** *(Updated: 2 days ago)*
+**14. [How many immigrants are in the United States illegally?](How many immigrants are in the United States illegally/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**15. [How much of a problem is misinformation?](How much of a problem is misinformation/README.md)** *(Updated: 2 days ago)*
+**15. [How much of a problem is misinformation?](How much of a problem is misinformation/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**16. [How much of intelligence is hereditary?](How much of intelligence is hereditary/README.md)** *(Updated: 2 days ago)*
+**16. [How much of intelligence is hereditary?](How much of intelligence is hereditary/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 2 days ago)*
+**17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 10 hours ago)*
+**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 2025-07-27 22:18:12)*
 
-**19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 10 hours ago)*
+**19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 2025-07-27 22:31:14)*
 
-**20. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2 days ago)*
+**20. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**21. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)** *(Updated: 2 days ago)*
+**21. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**22. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)** *(Updated: 2025-06-13)*
+**22. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)** *(Updated: 2025-06-13 11:13:52)*
 
-**23. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: 2 days ago)*
+**23. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**24. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: 2 days ago)*
+**24. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**25. [What are some examples of extralegal pressure by the US government to influence corporations?](What are some examples of extralegal pressure by the US government to influence corporations/README.md)** *(Updated: just now)*
+**25. [What are some examples of extralegal pressure by the US government to influence corporations?](What are some examples of extralegal pressure by the US government to influence corporations/README.md)** *(Updated: 2025-07-28 09:27:57)*
 
-**26. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2 days ago)*
+**26. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**27. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 2 days ago)*
+**27. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**28. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)** *(Updated: 2 days ago)*
+**28. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**29. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)** *(Updated: 2 days ago)*
+**29. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**30. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 10 hours ago)*
+**30. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2025-07-27 22:24:16)*
 
-**31. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 2 days ago)*
+**31. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 2025-07-25 23:37:56)*
 
-**32. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2 days ago)*
+**32. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**33. [What is race?](What is race/README.md)** *(Updated: 10 hours ago)*
+**33. [What is race?](What is race/README.md)** *(Updated: 2025-07-27 22:31:14)*
 
-**34. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 10 hours ago)*
+**34. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 2025-07-27 22:24:16)*
 
-**35. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2 days ago)*
+**35. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**36. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2 days ago)*
+**36. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**37. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 2 days ago)*
+**37. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**38. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 10 hours ago)*
+**38. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-07-27 22:31:14)*
 
-**39. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 2 days ago)*
+**39. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**40. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 10 hours ago)*
+**40. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 2025-07-27 22:24:16)*
 
 ## Active AI Models
 
