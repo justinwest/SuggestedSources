@@ -29,15 +29,15 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-27 22:24:16
+**Last Updated:** 2025-07-27 22:31:46
 
 ## Questions
 
 **1. [Are smartphones harming adolescent mental health?](Are smartphones harming adolescent mental health/README.md)** *(Updated: 2 days ago)*
 
-**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 2 days ago)*
+**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 7 minutes ago)*
 
-**3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 2 days ago)*
+**3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 7 minutes ago)*
 
 **4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 10 hours ago)*
 
@@ -49,9 +49,9 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **8. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)** *(Updated: 2 days ago)*
 
-**9. [How accurate were economists' predications about immigration?](How accurate were economists' predications about immigration/README.md)** *(Updated: just now)*
+**9. [How accurate were economists' predications about immigration?](How accurate were economists' predications about immigration/README.md)** *(Updated: 7 minutes ago)*
 
-**10. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)** *(Updated: 2 days ago)*
+**10. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)** *(Updated: 7 minutes ago)*
 
 **11. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)** *(Updated: 2 days ago)*
 
@@ -67,9 +67,9 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 2 days ago)*
 
-**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 6 minutes ago)*
+**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 13 minutes ago)*
 
-**19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 2 days ago)*
+**19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: just now)*
 
 **20. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2 days ago)*
 
@@ -89,15 +89,15 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **28. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)** *(Updated: 2 days ago)*
 
-**29. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2 days ago)*
+**29. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 7 minutes ago)*
 
 **30. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: yesterday)*
 
 **31. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2 days ago)*
 
-**32. [What is race?](What is race/README.md)** *(Updated: 2 days ago)*
+**32. [What is race?](What is race/README.md)** *(Updated: just now)*
 
-**33. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 2 days ago)*
+**33. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 7 minutes ago)*
 
 **34. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2 days ago)*
 
@@ -105,11 +105,11 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **36. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 2 days ago)*
 
-**37. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2 days ago)*
+**37. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: just now)*
 
 **38. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 2 days ago)*
 
-**39. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 2025-07-16)*
+**39. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 7 minutes ago)*
 
 ## Active AI Models
 
@@ -131,14 +131,14 @@ The following AI models are currently active:
 ## Statistics
 
 - **Total Questions:** 39
-- **Total Responses Generated:** 310/312
+- **Total Responses Generated:** 312/312
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
 | Claude | 39 | 39 | 78 |
-| Chatgpt | 38 | 38 | 76 |
+| Chatgpt | 39 | 39 | 78 |
 | Gemini | 39 | 39 | 78 |
 | Grok | 39 | 39 | 78 |
 
