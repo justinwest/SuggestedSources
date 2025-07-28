@@ -4,3 +4,4 @@
 * https://www.politico.eu/article/sweden-bombings-grenade-attacks-violent-reality-undoing-peaceful-self-image-law-and-order/
 * https://www.eugyppius.com/p/migrants-will-not-stop-molesting
 * https://www.dw.com/en/my-europe-eastern-promise-and-western-pretension/a-45403613
+* https://en.wikipedia.org/wiki/2015%E2%80%9316_New_Year%27s_Eve_sexual_assaults_in_Germany
