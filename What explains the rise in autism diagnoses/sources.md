@@ -1,4 +1,4 @@
-* [[On RFK, Jr. on Autism](](https://arnoldkling.substack.com/p/on-rfk-jr-on-autism)) – *In My Tribe* (Substack)*
+* [[On RFK, Jr. on Autism](](https://arnoldkling.substack.com/p/on-rfk-jr-on-autism) – *) – *In My Tribe* (Substack)**
 * [Getting Real About Autism’s Exponential Explosion](https://www.ncsautism.org/blog//autism-explosion-2024) – *National Council on Severe Autism*
 * [Heritability of Autism Spectrum Disorders: A Meta-Analysis of Twin Studies](https://acamh.onlinelibrary.wiley.com/doi/full/10.1111/jcpp.12499) – *Journal of Child Psychology & Psychiatry*
 * [Explaining the Increase in the Prevalence of Autism Spectrum Disorders: The Proportion Attributable to Changes in Reporting Practices](https://pubmed.ncbi.nlm.nih.gov/25365033/) – *JAMA Pediatrics*

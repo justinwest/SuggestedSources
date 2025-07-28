@@ -1,5 +1,5 @@
 * [Estimating the Reproducibility of Psychological Science](https://pubmed.ncbi.nlm.nih.gov/26315443/) – *Science*
-* [[\~75 % of Psychology Claims Are False](](https://unsafescience.substack.com/p/75-of-psychology-claims-are-false)) – *Unsafe Science* (Substack)*
+* [[\~75 % of Psychology Claims Are False](](https://unsafescience.substack.com/p/75-of-psychology-claims-are-false) – *) – *Unsafe Science* (Substack)**
 * [The Long Shadow of Fraud in Alzheimer’s Research](https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html) – *The New York Times*
 * [Revisiting Stereotype Threat: A Reckoning for Social Psychology](https://www.factfaq.com/resources/Revisiting_Stereotype_Threat_-_by_Michael_Inzlicht.pdf) – *Michael Inzlicht*
 * [The Staggering Death Toll of Scientific Lies](https://www.vox.com/future-perfect/368350/scientific-research-fraud-crime-jail-time) – *Vox*

@@ -29,7 +29,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-27 22:18:12
+**Last Updated:** 2025-07-27 22:24:16
 
 ## Questions
 
@@ -49,7 +49,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **8. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)** *(Updated: 2 days ago)*
 
-**9. [How accurate were economists' predications about immigration?](How accurate were economists' predications about immigration/README.md)** *(Updated: 2 days ago)*
+**9. [How accurate were economists' predications about immigration?](How accurate were economists' predications about immigration/README.md)** *(Updated: just now)*
 
 **10. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)** *(Updated: 2 days ago)*
 
@@ -67,7 +67,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 2 days ago)*
 
-**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: just now)*
+**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 6 minutes ago)*
 
 **19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 2 days ago)*
 
@@ -131,14 +131,14 @@ The following AI models are currently active:
 ## Statistics
 
 - **Total Questions:** 39
-- **Total Responses Generated:** 308/312
+- **Total Responses Generated:** 310/312
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
 | Claude | 39 | 39 | 78 |
-| Chatgpt | 37 | 37 | 74 |
+| Chatgpt | 38 | 38 | 76 |
 | Gemini | 39 | 39 | 78 |
 | Grok | 39 | 39 | 78 |
 

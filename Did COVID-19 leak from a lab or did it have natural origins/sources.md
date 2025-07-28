@@ -1,5 +1,5 @@
 * [WHO-convened Global Study of Origins of SARS-CoV-2: China Part](https://apps.who.int/gb/COVID-19/pdf_files/2021/28_03/20210328-%20Full%20report.pdf) – *World Health Organization*
-* [[Declassified Assessment on COVID](https://www.dni.gov/files/ODNI/documents/assessments/Declassified-Assessment-on-COVID-19-Origins.pdf)) – *19 Origins]( – *Office of the Director of National Intelligence* ([dni.gov][2])*
+* [[Declassified Assessment on COVID](https://www.dni.gov/files/ODNI/documents/assessments/Declassified-Assessment-on-COVID-19-Origins.pdf) – *) – *19 Origins]( – *Office of the Director of National Intelligence* ([dni.gov][2])**
 * [Lab Leak: The True Origins of COVID-19](https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/) – *The White House*
 * [COVID-19 Origins: Investigating a “Complex and Grave Situation” Inside a Wuhan Lab](https://www.vanityfair.com/news/2022/10/covid-origins-investigation-wuhan-lab) – *Vanity Fair*
 * [We Were Badly Misled About Covid](https://www.nytimes.com/2025/03/16/opinion/covid-pandemic-lab-leak.html) – *The New York Times*
