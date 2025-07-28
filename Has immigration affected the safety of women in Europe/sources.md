@@ -3,3 +3,4 @@
 * https://fergusmason.substack.com/p/the-scandal-of-the-century
 * https://www.politico.eu/article/sweden-bombings-grenade-attacks-violent-reality-undoing-peaceful-self-image-law-and-order/
 * https://www.eugyppius.com/p/migrants-will-not-stop-molesting
+* https://www.dw.com/en/my-europe-eastern-promise-and-western-pretension/a-45403613
