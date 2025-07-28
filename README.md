@@ -29,85 +29,85 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-27 11:35:59
+**Last Updated:** 2025-07-27 22:18:12
 
 ## Questions
 
-**1. [Are smartphones harming adolescent mental health?](Are smartphones harming adolescent mental health/README.md)** *(Updated: yesterday)*
+**1. [Are smartphones harming adolescent mental health?](Are smartphones harming adolescent mental health/README.md)** *(Updated: 2 days ago)*
 
-**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: yesterday)*
+**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 2 days ago)*
 
-**3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: yesterday)*
+**3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 2 days ago)*
 
-**4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: just now)*
+**4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 10 hours ago)*
 
-**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: yesterday)*
+**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 2 days ago)*
 
-**6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: yesterday)*
+**6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 2 days ago)*
 
-**7. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: yesterday)*
+**7. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: 2 days ago)*
 
-**8. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)** *(Updated: yesterday)*
+**8. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)** *(Updated: 2 days ago)*
 
-**9. [How accurate were economists' predications about immigration?](How accurate were economists' predications about immigration/README.md)** *(Updated: yesterday)*
+**9. [How accurate were economists' predications about immigration?](How accurate were economists' predications about immigration/README.md)** *(Updated: 2 days ago)*
 
-**10. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)** *(Updated: yesterday)*
+**10. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)** *(Updated: 2 days ago)*
 
-**11. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)** *(Updated: yesterday)*
+**11. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)** *(Updated: 2 days ago)*
 
-**12. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)** *(Updated: yesterday)*
+**12. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)** *(Updated: 2 days ago)*
 
-**13. [How many Americans have died due to fentanyl?](How many Americans have died due to fentanyl/README.md)** *(Updated: yesterday)*
+**13. [How many Americans have died due to fentanyl?](How many Americans have died due to fentanyl/README.md)** *(Updated: 2 days ago)*
 
-**14. [How many immigrants are in the United States illegally?](How many immigrants are in the United States illegally/README.md)** *(Updated: yesterday)*
+**14. [How many immigrants are in the United States illegally?](How many immigrants are in the United States illegally/README.md)** *(Updated: 2 days ago)*
 
-**15. [How much of a problem is misinformation?](How much of a problem is misinformation/README.md)** *(Updated: yesterday)*
+**15. [How much of a problem is misinformation?](How much of a problem is misinformation/README.md)** *(Updated: 2 days ago)*
 
-**16. [How much of intelligence is hereditary?](How much of intelligence is hereditary/README.md)** *(Updated: yesterday)*
+**16. [How much of intelligence is hereditary?](How much of intelligence is hereditary/README.md)** *(Updated: 2 days ago)*
 
-**17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: yesterday)*
+**17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 2 days ago)*
 
-**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: yesterday)*
+**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: just now)*
 
-**19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: yesterday)*
+**19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 2 days ago)*
 
-**20. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: yesterday)*
+**20. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2 days ago)*
 
-**21. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)** *(Updated: yesterday)*
+**21. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)** *(Updated: 2 days ago)*
 
 **22. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)** *(Updated: 2025-06-13)*
 
-**23. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: yesterday)*
+**23. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: 2 days ago)*
 
-**24. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: yesterday)*
+**24. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: 2 days ago)*
 
-**25. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: yesterday)*
+**25. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2 days ago)*
 
-**26. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: yesterday)*
+**26. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 2 days ago)*
 
-**27. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)** *(Updated: yesterday)*
+**27. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)** *(Updated: 2 days ago)*
 
-**28. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)** *(Updated: yesterday)*
+**28. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)** *(Updated: 2 days ago)*
 
-**29. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: yesterday)*
+**29. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2 days ago)*
 
 **30. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: yesterday)*
 
-**31. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: yesterday)*
+**31. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2 days ago)*
 
-**32. [What is race?](What is race/README.md)** *(Updated: yesterday)*
+**32. [What is race?](What is race/README.md)** *(Updated: 2 days ago)*
 
-**33. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: yesterday)*
+**33. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 2 days ago)*
 
-**34. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: yesterday)*
+**34. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2 days ago)*
 
-**35. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: yesterday)*
+**35. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2 days ago)*
 
-**36. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: yesterday)*
+**36. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 2 days ago)*
 
-**37. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: yesterday)*
+**37. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2 days ago)*
 
-**38. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: yesterday)*
+**38. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 2 days ago)*
 
 **39. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 2025-07-16)*
 
@@ -131,14 +131,14 @@ The following AI models are currently active:
 ## Statistics
 
 - **Total Questions:** 39
-- **Total Responses Generated:** 306/312
+- **Total Responses Generated:** 308/312
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
 | Claude | 39 | 39 | 78 |
-| Chatgpt | 36 | 36 | 72 |
+| Chatgpt | 37 | 37 | 74 |
 | Gemini | 39 | 39 | 78 |
 | Grok | 39 | 39 | 78 |
 
