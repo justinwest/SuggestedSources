@@ -30,7 +30,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 2025-07-29 23:09:20)*
 
-**4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 2025-07-27 11:35:59)*
+**4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 2025-07-30 09:27:42)*
 
 **5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 2025-07-25 20:28:48)*
 

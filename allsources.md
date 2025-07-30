@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-30 09:14:34
+**Last Updated:** 2025-07-30 09:27:42
 
 ---
 
@@ -77,15 +77,14 @@ This document contains all questions and their suggested sources in one place, w
 ### Sources
 
 * [Pubertal Suppression for Transgender Youth and Risk of Suicidal Ideation](https://publications.aap.org/pediatrics/article-abstract/145/2/e20191725/68259/Pubertal-Suppression-for-Transgender-Youth-and?redirectedFrom=fulltext) – *Pediatrics*
-* [Researchers Found Puberty Blockers and Hormones Didn’t Improve Trans Kids’ Mental Health at Their Clinic — Then They Published a Study Claiming the Opposite](https://jessesingal.substack.com/p/researchers-found-puberty-blockers) – *Singal-Minded*
+* [Researchers Found Puberty Blockers and Hormones Didn’t Improve Trans Kids’ Mental Health at Their Clinic — Then They Published a Study Claiming the Opposite](https://jessesingal.substack.com/p/researchers-found-puberty-blockers) – *Singal-Minded (Jesse Singal)*
 * [Independent Review of Gender Identity Services for Children and Young People: Interim Report](https://webarchive.nationalarchives.gov.uk/ukgwa/20250310143846mp_/https://cass.independent-review.uk/wp-content/uploads/2022/03/Cass-Review-Interim-Report-Final-Web-Accessible.pdf) – *Cass Review (NHS England)*
 * [Treatment for Pediatric Gender Dysphoria: Review of Evidence and Best Practices](https://archive.jwest.org/Research/DHHS2025-GenderDysphoria.pdf) – *U.S. Department of Health and Human Services*
 * [Examining Gender-Specific Mental Health Risks After Gender-Affirming Surgery: A National Database Study](https://academic.oup.com/jsm/article-abstract/22/4/645/8042063) – *The Journal of Sexual Medicine*
 * [Mental Health Outcomes in Transgender and Nonbinary Youths Receiving Gender-Affirming Care](https://pubmed.ncbi.nlm.nih.gov/35212746/) – *JAMA Network Open*
 * [Psychosocial Functioning in Transgender Youth after 2 Years of Hormones](https://pubmed.ncbi.nlm.nih.gov/36652355/) – *New England Journal of Medicine*
-* https://www.washingtonpost.com/opinions/2025/06/26/hhs-review-anonymous-author/
-* https://www.theatlantic.com/ideas/archive/2025/06/transgender-youth-skrmetti/683350/
-z
+* [I co-wrote the anonymous HHS report on pediatric gender medicine](https://www.washingtonpost.com/opinions/2025/06/26/hhs-review-anonymous-author/) – *The Washington Post*
+* [The Liberal Misinformation Bubble About Youth Gender Medicine](https://www.theatlantic.com/ideas/archive/2025/06/transgender-youth-skrmetti/683350/) – *The Atlantic*
 
 ---
 
