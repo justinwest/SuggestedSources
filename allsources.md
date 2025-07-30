@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-28 10:21:04
+**Last Updated:** 2025-07-29 23:09:20
 
 ---
 
@@ -66,6 +66,7 @@ This document contains all questions and their suggested sources in one place, w
 * [House Panel Concludes That COVID-19 Pandemic Came From a Lab Leak](https://www.science.org/content/article/house-panel-concludes-covid-19-pandemic-came-lab-leak) – *Science*
 * [Evidence that the Huanan Market in Wuhan, China, Was the Epicenter of the COVID-19 Pandemic](https://www.news-medical.net/news/20220728/Evidence-that-the-Huanan-market-in-Wuhan-China-was-the-epicenter-of-the-COVID-19-pandemic.aspx) – *News-Medical.net*
 * [Practically A Book Review Rootclaim](https://www.astralcodexten.com/p/practically-a-book-review-rootclaim) – *Astralcodexten*
+* [Was Covid a Chinese Bioweapons Research Project?](https://www.city-journal.org/article/robert-kadlec-covid-19-pandemic-report-bioweapons) – *city-journal.org*
 
 ---
 

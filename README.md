@@ -29,7 +29,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-28 10:21:04
+**Last Updated:** 2025-07-29 23:09:20
 
 ## Questions
 
@@ -37,7 +37,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 2025-07-27 22:24:16)*
 
-**3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 2025-07-27 22:24:16)*
+**3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 2025-07-29 23:09:20)*
 
 **4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 2025-07-27 11:35:59)*
 
