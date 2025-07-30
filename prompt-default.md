@@ -6,4 +6,4 @@ Provide a comprehensive, accurate, and well-structured response. Use additional 
 
 In the Sources section, summarize which view the different authors express and include the inline URLs for the sources (in markdown format).
 
-Do NOT include a title.
+Do NOT include a title for the response.
