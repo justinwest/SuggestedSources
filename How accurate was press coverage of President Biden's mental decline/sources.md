@@ -5,4 +5,4 @@
 * [The Crimes of the Politburo](https://www.persuasion.community/p/the-crimes-of-the-politburo) – *Persuasion*
 * [Who’s to Blame for Missing Biden’s Decline?](https://www.newyorker.com/news/fault-lines/whos-to-blame-for-missing-bidens-decline) – *The New Yorker*
 * [New Book Details How Biden’s Mental Decline Was Kept from Voters](https://www.npr.org/transcripts/nx-s1-5309451) – *NPR*
-* [Alex Thompson on the Decline of Joe Biden](https://yaschamounk.substack.com/p/alex-thompson) – *Substack*
+* [Alex Thompson on the Decline of Joe Biden](https://yaschamounk.substack.com/p/alex-thompson) – *Yascha Mounk*
