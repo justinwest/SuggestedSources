@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-31
+**Last Updated:** 2025-07-31 14:03:04
 
 ---
 
@@ -329,6 +329,7 @@ This document contains all questions and their suggested sources in one place, w
 * [BasedTorba X post responding to Ofcom news](https://x.com/basedtorba/status/1904947417637634176?s=46&t=yHdFAv2YVN90mg5_xAsv2A) – *- Twitter: BasedTorba*
 * [UK Government profile of Yvette Cooper](https://www.gov.uk/government/people/yvette-cooper) – *GOV.UK*
 * [VPN use surges in UK as new online safety rules kick in](https://news.ycombinator.com/item?id=44706653) – *Hacker News*
+* [Britain isn't lurching towards civil war, it's just a mess](https://www.viewfromcullingworth.com/p/britain-isnt-lurching-towards-civil) – *The View from Cullingworth*
 
 ---
 
