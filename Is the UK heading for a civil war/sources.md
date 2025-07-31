@@ -5,10 +5,10 @@
 * [Taking warnings of civil war seriously](https://blogs.lse.ac.uk/politicsandpolicy/taking-warnings-of-civil-war-seriously/) – *British Politics and Policy (LSE Blog)*
 * [The Summer of Kindling](https://morgoth.substack.com/p/the-summer-of-kindling) – *Morgoth’s Review*
 * [Who’s Afraid of Renaud Camus?](https://archive.jwest.org/Articles/Green2025-RenaudCamus.pdf) – *The Wall Street Journal*
-* [Jack Hadders on protest footage](https://x.com/JackHadders/status/1948464230086107457) - *Twitter: JackHadders*
-* [Will Coleshill on events in Epping](https://x.com/WillColeshill/status/1948438194199920759) - *Twitter: WillColeshill*
-* [Jack Hadders on media coverage](https://x.com/JackHadders/status/1948446872252600663) - *Twitter: JackHadders*
-* [BBC report on Epping incident](https://www.bbc.com/news/articles/cm202n3j0jro) - *BBC News*
+* [Jack Hadders on protest footage](https://x.com/JackHadders/status/1948464230086107457) – *Twitter: JackHadders*
+* [Will Coleshill on events in Epping](https://x.com/WillColeshill/status/1948438194199920759) – *Twitter: WillColeshill*
+* [Jack Hadders on media coverage](https://x.com/JackHadders/status/1948446872252600663) – *Twitter: JackHadders*
+* [BBC report on Epping incident](https://www.bbc.com/news/articles/cm202n3j0jro) – *BBC News*
 * [YouTube footage from Epping protest (starts at 5:01)](https://youtu.be/YtBtOaegs4c?t=301) – ***\- YouTube***
 * [Tommy Robinson commentary on protest](https://x.com/TRobinsonNewEra/status/1948460681197433005) – ***\- Twitter TRobinsonNewEra***
 * [Jack Hadders preview of Epping protest](https://x.com/JackHadders/status/1947729417402277971) – ***\- Twitter JackHadders***
@@ -24,5 +24,5 @@
 * [BBC Newsnight X post on Online Safety Act](https://x.com/bbcnewsnight/status/1948530839152927009?s=46&t=yHdFAv2YVN90mg5_xAsv2A) – ***\- Twitter BBCNewsnight***
 * [The Spectator article on Ofcom’s stance toward Gab](https://thespectator.com/topic/british-regulator-ofcom-threaten-gab/) – ***\- The Spectator***
 * [BasedTorba X post responding to Ofcom news](https://x.com/basedtorba/status/1904947417637634176?s=46&t=yHdFAv2YVN90mg5_xAsv2A) – *- Twitter: BasedTorba*
-* [UK Government profile of Yvette Cooper](https://www.gov.uk/government/people/yvette-cooper) - *GOV.UK*
-* [VPN use surges in UK as new online safety rules kick in](https://news.ycombinator.com/item?id=44706653) - Hacker News
+* [UK Government profile of Yvette Cooper](https://www.gov.uk/government/people/yvette-cooper) – *GOV.UK*
+* [VPN use surges in UK as new online safety rules kick in](https://news.ycombinator.com/item?id=44706653) – *Hacker News*
