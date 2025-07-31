@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-30 20:58:19
+**Last Updated:** 2025-07-30 21:08:23
 
 ---
 
@@ -406,18 +406,18 @@ This document contains all questions and their suggested sources in one place, w
 
 ### Sources
 
-- [Elite Misinformation Is an Underrated Problem](https://www.slowboring.com/p/elite-misinformation-is-an-underrated) – *Slow Boring*
-- [When The New York Times Lost Its Way](https://www.economist.com/1843/2023/12/14/when-the-new-york-times-lost-its-way) – *The Economist*
-- [Jeff Bezos: The hard truth: Americans don’t trust the news media](https://www.washingtonpost.com/opinions/2024/10/28/jeff-bezos-washington-post-trust/) – *The Washington Post*
-- [I’ve Been at NPR for 25 Years. Here’s How We Lost America’s Trust](https://www.thefp.com/p/npr-editor-how-npr-lost-americas-trust) – *The Free Press*
-- [Highbrow Climate Misinformation](https://josephheath.substack.com/p/highbrow-climate-misinformation) – *Joseph Heath (Substack)*
-- [Did the Media Blow It on Biden?](https://www.natesilver.net/p/did-the-media-blow-it-on-biden) – *Nate Silver*
-- [Elite Education Journalism: Still Ideology at Its Purest](https://freddiedeboer.substack.com/p/elite-education-journalism-still) – *Freddie deBoer (Substack)*
-- [The Wrong Lessons of Iraq](https://thelastpsychiatrist.com/2007/05/the_wrong_lessons_of_iraq.html) – *The Last Psychiatrist*
-- [Britain Finally Admits It Covered Up Grooming Gangs](https://www.stevesailer.net/p/britain-finally-admits-it-covered) – *Steve Sailer*
-- [Looking back on the coverage of Trump](https://www.cjr.org/special_report/trumped-up-press-versus-president-ed-note.php) – *Columbia Journalism Review*
-- [The misinformation crisis isn’t about truth, it’s about trust](https://eternallyradicalidea.com/p/the-misinformation-crisis-isnt-about) – *Eternally Radical Idea*
-- [The Liberal Misinformation Bubble About Youth Gender Medicine](https://www.theatlantic.com/ideas/archive/2025/06/transgender-youth-skrmetti/683350/) – *The Atlantic*
+* [Elite Misinformation Is an Underrated Problem](https://www.slowboring.com/p/elite-misinformation-is-an-underrated) – *Slow Boring*
+* [When The New York Times Lost Its Way](https://www.economist.com/1843/2023/12/14/when-the-new-york-times-lost-its-way) – *The Economist*
+* [Jeff Bezos: The hard truth: Americans don’t trust the news media](https://www.washingtonpost.com/opinions/2024/10/28/jeff-bezos-washington-post-trust/) – *The Washington Post*
+* [I’ve Been at NPR for 25 Years. Here’s How We Lost America’s Trust](https://www.thefp.com/p/npr-editor-how-npr-lost-americas-trust) – *The Free Press*
+* [Highbrow Climate Misinformation](https://josephheath.substack.com/p/highbrow-climate-misinformation) – *Joseph Heath (Substack)*
+* [Did the Media Blow It on Biden?](https://www.natesilver.net/p/did-the-media-blow-it-on-biden) – *Nate Silver*
+* [Elite Education Journalism: Still Ideology at Its Purest](https://freddiedeboer.substack.com/p/elite-education-journalism-still) – *Freddie deBoer (Substack)*
+* [The Wrong Lessons of Iraq](https://thelastpsychiatrist.com/2007/05/the_wrong_lessons_of_iraq.html) – *The Last Psychiatrist*
+* [Britain Finally Admits It Covered Up Grooming Gangs](https://www.stevesailer.net/p/britain-finally-admits-it-covered) – *Steve Sailer*
+* [Looking back on the coverage of Trump](https://www.cjr.org/special_report/trumped-up-press-versus-president-ed-note.php) – *Columbia Journalism Review*
+* [The misinformation crisis isn’t about truth, it’s about trust](https://eternallyradicalidea.com/p/the-misinformation-crisis-isnt-about) – *Eternally Radical Idea*
+* [The Liberal Misinformation Bubble About Youth Gender Medicine](https://www.theatlantic.com/ideas/archive/2025/06/transgender-youth-skrmetti/683350/) – *The Atlantic*
 
 ---
 
@@ -427,23 +427,23 @@ This document contains all questions and their suggested sources in one place, w
 
 ### Sources
 
-- [Banks to Payday Lenders: Quit the Business or We'll Close Your Account](https://www.washingtonpost.com/business/economy/banks-to-payday-lenders-quit-the-business-or-well-close-your-account/2014/04/11/afd34976-c0c6-11e3-bcec-b71ee10e9bc3_story.html) – *The Washington Post* 
-- [A Very Crypto Mystery](https://nymag.com/intelligencer/article/a-very-crypto-mystery.html) – *New York Magazine (Intelligencer)* 
-- [WikiLeaks shows reach and limits of Internet speech](https://www.reuters.com/article/business/media-telecom/wikileaks-shows-reach-and-limits-of-internet-speech-idUSN08149377/) – *Reuters* 
-- [Zuckerberg says Biden administration pressured Meta to censor some COVID-19 content](https://www.reuters.com/technology/zuckerberg-says-biden-administration-pressured-meta-censor-covid-19-content-2024-08-27/) – *Reuters* 
-- [Judge restricts White House communications with social media companies](https://www.theguardian.com/us-news/2023/jul/04/judge-restricts-white-house-communications-with-social-media-companies) – *The Guardian*
-- [FDIC Letters: Crypto’s “Operation Choke Point 2.0” Claims, Coinbase Weighs In](https://www.bankingdive.com/news/fdic-letters-cryptos-operation-chokepoint-2-0-claims-coinbase/735309/) – *Banking Dive*
-- [Operation Choke Point: DOJ secretly pressured banks to cut ties with legal businesses](https://oversight.house.gov/report/report-dojs-operation-choke-point-secretly-pressured-banks-cut-ties-legal-business/) – *U.S. House Oversight Committee report*
-- [IRS targeting controversy](https://en.wikipedia.org/wiki/IRS_targeting_controversy) – *Wikipedia*
-- [Operation Choke Point](https://en.wikipedia.org/wiki/Operation_Choke_Point) – *Wikipedia* 
-- [Twitter Files](https://en.wikipedia.org/wiki/Twitter_Files) – *Wikipedia*
-- [At White House Request, Lockheed Martin Drops Plan to Issue Layoff Notices](https://abcnews.go.com/blogs/politics/2012/10/at-white-house-request-lockheed-martin-drops-plan-to-issue-layoff-notices) – *ABC News Political Memo*
-- [Carrier, United Technologies Meet With Trump in Indianapolis](https://www.cbsnews.com/news/carrier-united-technologies-donald-trump-indiana/) – *CBS News*
-- [Trump, tax cuts and layoffs: Inside Carrier’s reversal on moving jobs to Mexico](https://www.washingtonpost.com/business/economy/2018/11/27/76fd9bcc-f26e-11e8-80d0-f7e1948d55f4_story.html) – *The Washington Post* 
-- [U.S. Defense Cuts Stir Controversy, But Few Layoffs or Closures](https://www.reuters.com/article/2012/08/08/us-usa-defense-cuts-idUSBRE8771KO20120808/) – *Reuters*
-- [Moral suasion (Jawboning)](https://en.wikipedia.org/wiki/Moral_suasion#Jawboning) – *Wikipedia*
-- [Nudge theory](https://en.wikipedia.org/wiki/Nudge_theory) – *Wikipedia*
-- [NRA v. Vullo](https://en.wikipedia.org/wiki/National_Rifle_Association_of_America_v._Vullo) – *Wikipedia*
+* [Banks to Payday Lenders: Quit the Business or We'll Close Your Account](https://www.washingtonpost.com/business/economy/banks-to-payday-lenders-quit-the-business-or-well-close-your-account/2014/04/11/afd34976-c0c6-11e3-bcec-b71ee10e9bc3_story.html) – *The Washington Post*
+* [A Very Crypto Mystery](https://nymag.com/intelligencer/article/a-very-crypto-mystery.html) – *New York Magazine (Intelligencer)*
+* [WikiLeaks shows reach and limits of Internet speech](https://www.reuters.com/article/business/media-telecom/wikileaks-shows-reach-and-limits-of-internet-speech-idUSN08149377/) – *Reuters*
+* [Zuckerberg says Biden administration pressured Meta to censor some COVID-19 content](https://www.reuters.com/technology/zuckerberg-says-biden-administration-pressured-meta-censor-covid-19-content-2024-08-27/) – *Reuters*
+* [Judge restricts White House communications with social media companies](https://www.theguardian.com/us-news/2023/jul/04/judge-restricts-white-house-communications-with-social-media-companies) – *The Guardian*
+* [FDIC Letters: Crypto’s “Operation Choke Point 2.0” Claims, Coinbase Weighs In](https://www.bankingdive.com/news/fdic-letters-cryptos-operation-chokepoint-2-0-claims-coinbase/735309/) – *Banking Dive*
+* [Operation Choke Point: DOJ secretly pressured banks to cut ties with legal businesses](https://oversight.house.gov/report/report-dojs-operation-choke-point-secretly-pressured-banks-cut-ties-legal-business/) – *U.S. House Oversight Committee report*
+* [IRS targeting controversy](https://en.wikipedia.org/wiki/IRS_targeting_controversy) – *Wikipedia*
+* [Operation Choke Point](https://en.wikipedia.org/wiki/Operation_Choke_Point) – *Wikipedia*
+* [Twitter Files](https://en.wikipedia.org/wiki/Twitter_Files) – *Wikipedia*
+* [At White House Request, Lockheed Martin Drops Plan to Issue Layoff Notices](https://abcnews.go.com/blogs/politics/2012/10/at-white-house-request-lockheed-martin-drops-plan-to-issue-layoff-notices) – *ABC News Political Memo*
+* [Carrier, United Technologies Meet With Trump in Indianapolis](https://www.cbsnews.com/news/carrier-united-technologies-donald-trump-indiana/) – *CBS News*
+* [Trump, tax cuts and layoffs: Inside Carrier’s reversal on moving jobs to Mexico](https://www.washingtonpost.com/business/economy/2018/11/27/76fd9bcc-f26e-11e8-80d0-f7e1948d55f4_story.html) – *The Washington Post*
+* [U.S. Defense Cuts Stir Controversy, But Few Layoffs or Closures](https://www.reuters.com/article/2012/08/08/us-usa-defense-cuts-idUSBRE8771KO20120808/) – *Reuters*
+* [Moral suasion (Jawboning)](https://en.wikipedia.org/wiki/Moral_suasion#Jawboning) – *Wikipedia*
+* [Nudge theory](https://en.wikipedia.org/wiki/Nudge_theory) – *Wikipedia*
+* [NRA v. Vullo](https://en.wikipedia.org/wiki/National_Rifle_Association_of_America_v._Vullo) – *Wikipedia*
 
 ---
 
