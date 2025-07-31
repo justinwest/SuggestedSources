@@ -64,7 +64,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **20. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**21. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)** *(Updated: 2025-07-25 20:28:48)*
+**21. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)** *(Updated: 2025-07-30 21:41:39)*
 
 **22. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)** *(Updated: 2025-06-13 11:13:52)*
 
