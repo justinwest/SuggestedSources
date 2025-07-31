@@ -90,7 +90,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **33. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**34. [What is personal superintelligence?](What is personal superintelligence/README.md)** *(Updated: 2025-07-30 23:29:12)*
+**34. [What is personal superintelligence?](What is personal superintelligence/README.md)** *(Updated: 2025-07-30 23:30:03)*
 
 **35. [What is race?](What is race/README.md)** *(Updated: 2025-07-30 23:00:55)*
 
