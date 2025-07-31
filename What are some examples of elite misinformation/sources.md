@@ -1,6 +1,6 @@
 - [Elite Misinformation Is an Underrated Problem](https://www.slowboring.com/p/elite-misinformation-is-an-underrated) – *Slow Boring*
 - [When The New York Times Lost Its Way](https://www.economist.com/1843/2023/12/14/when-the-new-york-times-lost-its-way) – *The Economist*
-- [Jeff Bezos: The hard truth: Americans don’t trust the news media - The Washington Post](https://www.washingtonpost.com/opinions/2024/10/28/jeff-bezos-washington-post-trust/) – *The Washington Post*
+- [Jeff Bezos: The hard truth: Americans don’t trust the news media](https://www.washingtonpost.com/opinions/2024/10/28/jeff-bezos-washington-post-trust/) – *The Washington Post*
 - [I’ve Been at NPR for 25 Years. Here’s How We Lost America’s Trust](https://www.thefp.com/p/npr-editor-how-npr-lost-americas-trust) – *The Free Press*
 - [Highbrow Climate Misinformation](https://josephheath.substack.com/p/highbrow-climate-misinformation) – *Joseph Heath (Substack)*
 - [Did the Media Blow It on Biden?](https://www.natesilver.net/p/did-the-media-blow-it-on-biden) – *Nate Silver*
