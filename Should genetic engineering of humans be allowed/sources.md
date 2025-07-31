@@ -1,0 +1,3 @@
+- https://arep.med.harvard.edu/gmc/protect.html
+- https://pifferpilfer.substack.com/p/a-boomer-geneticists-approach-to
+- https://highalchemy.beehiiv.com/p/introducing-high-alchemy-73e30f4ea915d1d7

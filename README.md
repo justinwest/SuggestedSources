@@ -62,47 +62,49 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 2025-07-27 22:31:14)*
 
-**20. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2025-07-25 20:28:48)*
+**20. [Should genetic engineering of humans be allowed?](Should genetic engineering of humans be allowed/README.md)** *(Updated: 2025-07-30 22:04:14)*
 
-**21. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)** *(Updated: 2025-07-30 21:41:39)*
+**21. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**22. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)** *(Updated: 2025-06-13 11:13:52)*
+**22. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)** *(Updated: 2025-07-30 21:41:39)*
 
-**23. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: 2025-07-25 20:28:48)*
+**23. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)** *(Updated: 2025-06-13 11:13:52)*
 
-**24. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: 2025-07-30 21:05:37)*
+**24. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**25. [What are some examples of extralegal pressure by the US government to influence corporations?](What are some examples of extralegal pressure by the US government to influence corporations/README.md)** *(Updated: 2025-07-30 21:08:23)*
+**25. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: 2025-07-30 21:05:37)*
 
-**26. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2025-07-25 20:28:48)*
+**26. [What are some examples of extralegal pressure by the US government to influence corporations?](What are some examples of extralegal pressure by the US government to influence corporations/README.md)** *(Updated: 2025-07-30 21:08:23)*
 
-**27. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 2025-07-25 20:28:48)*
+**27. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**28. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)** *(Updated: 2025-07-25 20:28:48)*
+**28. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**29. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)** *(Updated: 2025-07-25 20:28:48)*
+**29. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**30. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2025-07-27 22:24:16)*
+**30. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**31. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 2025-07-25 23:37:56)*
+**31. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2025-07-27 22:24:16)*
 
-**32. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-25 20:28:48)*
+**32. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 2025-07-25 23:37:56)*
 
-**33. [What is race?](What is race/README.md)** *(Updated: 2025-07-27 22:31:14)*
+**33. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**34. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 2025-07-27 22:24:16)*
+**34. [What is race?](What is race/README.md)** *(Updated: 2025-07-27 22:31:14)*
 
-**35. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2025-07-25 20:28:48)*
+**35. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 2025-07-27 22:24:16)*
 
-**36. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-07-25 20:28:48)*
+**36. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**37. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 2025-07-25 20:28:48)*
+**37. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**38. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-07-27 22:31:14)*
+**38. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**39. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 2025-07-25 20:28:48)*
+**39. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-07-27 22:31:14)*
 
-**40. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 2025-07-27 22:24:16)*
+**40. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 2025-07-25 20:28:48)*
+
+**41. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 2025-07-27 22:24:16)*
 
 ## Active AI Models
 
@@ -123,14 +125,14 @@ The following AI models are currently active:
 
 ## Statistics
 
-- **Total Questions:** 40
-- **Total Responses Generated:** 320/320
+- **Total Questions:** 41
+- **Total Responses Generated:** 326/328
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 40 | 40 | 80 |
+| Claude | 41 | 41 | 82 |
 | Chatgpt | 40 | 40 | 80 |
-| Gemini | 40 | 40 | 80 |
-| Grok | 40 | 40 | 80 |
+| Gemini | 41 | 41 | 82 |
+| Grok | 41 | 41 | 82 |
