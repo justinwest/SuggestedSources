@@ -34,7 +34,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 2025-07-30 20:58:19)*
+**6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 2025-07-30 22:32:19)*
 
 **7. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: 2025-07-30 21:02:00)*
 
