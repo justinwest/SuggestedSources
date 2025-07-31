@@ -5,4 +5,4 @@
 * [Deinstitutionalization Through Optimism: The Community Mental Health Act of 1963](https://psychiatryonline.org/doi/full/10.1176/appi.ajp-rj.2021.160404) – *American Journal of Psychiatry Residents’ Journal*
 * [Tracking the History of State Psychiatric Hospital Closures, 1997–2015](https://www.nri-inc.org/media/1111/2015-tracking-the-history-of-state-psychiatric-hospital-closures-lutterman.pdf) – *NRI Research Institute*
 * [Deinstitutionalization (Special Report, *The New Asylums*)](https://www.pbs.org/wgbh/pages/frontline/shows/asylums/special/excerpt.html) – *PBS Frontline*
-* [An Effective Program for Treating the Mentally Ill Could Be at Risk](https://www.city-journal.org/article/court-ordered-assisted-outpatient-treatment-mental-illness) - *City Journal*
+* [An Effective Program for Treating the Mentally Ill Could Be at Risk](https://www.city-journal.org/article/court-ordered-assisted-outpatient-treatment-mental-illness) – *City Journal*
