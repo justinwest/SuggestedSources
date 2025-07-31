@@ -34,11 +34,11 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 2025-07-28 10:21:04)*
+**6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 2025-07-30 20:58:19)*
 
-**7. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: 2025-07-25 20:28:48)*
+**7. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: 2025-07-30 20:40:02)*
 
-**8. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)** *(Updated: 2025-07-25 20:28:48)*
+**8. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)** *(Updated: 2025-07-30 20:40:02)*
 
 **9. [How accurate were economists' predications about immigration?](How accurate were economists' predications about immigration/README.md)** *(Updated: 2025-07-27 22:24:16)*
 
@@ -70,9 +70,9 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **23. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**24. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: 2025-07-25 20:28:48)*
+**24. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: 2025-07-30 20:40:02)*
 
-**25. [What are some examples of extralegal pressure by the US government to influence corporations?](What are some examples of extralegal pressure by the US government to influence corporations/README.md)** *(Updated: 2025-07-28 09:27:57)*
+**25. [What are some examples of extralegal pressure by the US government to influence corporations?](What are some examples of extralegal pressure by the US government to influence corporations/README.md)** *(Updated: 2025-07-30 20:50:02)*
 
 **26. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
