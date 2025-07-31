@@ -431,6 +431,7 @@ This document contains all questions and their suggested sources in one place, w
 * [Looking back on the coverage of Trump](https://www.cjr.org/special_report/trumped-up-press-versus-president-ed-note.php) – *Columbia Journalism Review*
 * [The misinformation crisis isn’t about truth, it’s about trust](https://eternallyradicalidea.com/p/the-misinformation-crisis-isnt-about) – *Eternally Radical Idea*
 * [The Liberal Misinformation Bubble About Youth Gender Medicine](https://www.theatlantic.com/ideas/archive/2025/06/transgender-youth-skrmetti/683350/) – *The Atlantic*
+* [The failure of economists...](https://www.notonyourteam.co.uk/p/the-failure-of-economists) – *Not On Your Team, But Always Fair*
 
 ---
 

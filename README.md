@@ -72,7 +72,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **24. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**25. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: 2025-07-30 21:05:37)*
+**25. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: 2025-07-31 11:02:14)*
 
 **26. [What are some examples of extralegal pressure by the US government to influence corporations?](What are some examples of extralegal pressure by the US government to influence corporations/README.md)** *(Updated: 2025-07-30 21:08:23)*
 
