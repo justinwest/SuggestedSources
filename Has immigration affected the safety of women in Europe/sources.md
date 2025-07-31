@@ -6,3 +6,4 @@
 * [My Europe: Eastern Promise and Western Pretension](https://www.dw.com/en/my-europe-eastern-promise-and-western-pretension/a-45403613) – *DW (Deutsche Welle)*
 * [2015–16 New Year’s Eve sexual assaults in Germany](https://en.wikipedia.org/wiki/2015%E2%80%9316_New_Year%27s_Eve_sexual_assaults_in_Germany) – *Wikipedia*
 * [Britain Finally Admits It Covered Up Grooming Gangs](https://www.stevesailer.net/p/britain-finally-admits-it-covered) – *Steve Sailer (blog)*
+* [Rotherham, rape, and me](https://www.stevesailer.net/p/rotherham-rape-and-me) - *Steve Sailer (blog)*
