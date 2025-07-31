@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-31 13:42:19
+**Last Updated:** 2025-07-31
 
 ---
 
@@ -705,8 +705,10 @@ z
 * [Minnesota Couple Indicted in \$15 Million Medical Billing Fraud Scheme](https://www.justice.gov/usao-mn/pr/minnesota-couple-indicted-15-million-medical-billing-fraud-scheme-0) – *U.S. Attorney’s Office, District of Minnesota*
 * [Bank Ordered to Pay \$564 Million to Victims of Petters Fraud](https://www.cbsnews.com/minnesota/news/bank-ordered-to-pay-564-million-to-victims-of-petters-fraud/) – *CBS Minnesota / AP*
 * [Projected Deficit Renews Focus on Fraud in Minnesota](https://axios.com/local/twin-cities/2024/12/13/minnesota-government-fraud-auditor-report-spending-deficit) – *Axios Twin Cities*
-* [https://www.kare11.com/article/news/investigations/kare-11-investigates-tackling-fraud-minnesota-lawmakers-pass-key-reforms/](https://www.kare11.com/article/news/investigations/kare-11-investigates-tackling-fraud-minnesota-lawmakers-pass-key-reforms/89-aee5191b-bad7-49e9-8f02-5cb53a06757f) – *Kare11*
-* [Minnesota Autism Expert Said He Started Suspecting Fraud A Year Ago](https://kstp.com/kstp-news/top-news/minnesota-autism-expert-said-he-started-suspecting-fraud-a-year-ago/) – *Kstp*
+* [https://www.kare11.com/article/news/investigations/kare-11-investigates-tackling-fraud-minnesota-lawmakers-pass-key-reforms/](https://www.kare11.com/article/news/investigations/kare-11-investigates-tackling-fraud-minnesota-lawmakers-pass-key-reforms/89-aee5191b-bad7-49e9-8f02-5cb53a06757f) – *KARE 11*
+* [Minnesota Autism Expert Said He Started Suspecting Fraud A Year Ago](https://kstp.com/kstp-news/top-news/minnesota-autism-expert-said-he-started-suspecting-fraud-a-year-ago/) – *KSTP*
+* [A Somali-American former investigator: why you’re hearing about fraud in my community](https://minnesotareformer.com/2024/07/17/a-somali-american-investigator-heres-why-youre-hearing-so-much-about-fraud-in-my-community/) – *Minnesota Reformer*
+* [From Feeding the Kids to Fleecing the Government: Inside the Country's Largest COVID Fraud](https://freebeacon.com/democrats/from-feeding-the-kids-to-fleecing-the-government-inside-the-countrys-largest-covid-fraud/) – *Washington Free Beacon*
 
 ---
 

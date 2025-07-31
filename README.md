@@ -104,7 +104,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **40. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-07-27 22:31:14)*
 
-**41. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 2025-07-25 20:28:48)*
+**41. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 2025-07-31 13:52:08)*
 
 **42. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 2025-07-31 09:41:44)*
 
