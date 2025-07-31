@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-30 23:00:55
+**Last Updated:** 2025-07-30 23:29:12
 
 ---
 
@@ -583,7 +583,17 @@ z
 
 ---
 
-## 34. What is race?
+## 34. What is personal superintelligence?
+
+**[📄 View All Responses](What is personal superintelligence/README.md)** - Contains all AI responses inline
+
+### Sources
+
+- https://www.meta.com/superintelligence/
+
+---
+
+## 35. What is race?
 
 **[📄 View All Responses](What is race/README.md)** - Contains all AI responses inline
 
@@ -602,7 +612,7 @@ z
 
 ---
 
-## 35. What is the replication crisis?
+## 36. What is the replication crisis?
 
 **[📄 View All Responses](What is the replication crisis/README.md)** - Contains all AI responses inline
 
@@ -620,7 +630,7 @@ z
 
 ---
 
-## 36. Why are fertility rates declining in most nations?
+## 37. Why are fertility rates declining in most nations?
 
 **[📄 View All Responses](Why are fertility rates declining in most nations/README.md)** - Contains all AI responses inline
 
@@ -640,7 +650,7 @@ z
 
 ---
 
-## 37. Why do some Christians believe it is their religious duty to support Israel?
+## 38. Why do some Christians believe it is their religious duty to support Israel?
 
 **[📄 View All Responses](Why do some Christians believe it is their religious duty to support Israel/README.md)** - Contains all AI responses inline
 
@@ -655,7 +665,7 @@ z
 
 ---
 
-## 38. Why has talk about trauma become so popular?
+## 39. Why has talk about trauma become so popular?
 
 **[📄 View All Responses](Why has talk about trauma become so popular/README.md)** - Contains all AI responses inline
 
@@ -665,7 +675,7 @@ z
 
 ---
 
-## 39. Why is Stoicism becoming popular again?
+## 40. Why is Stoicism becoming popular again?
 
 **[📄 View All Responses](Why is Stoicism becoming popular again/README.md)** - Contains all AI responses inline
 
@@ -679,7 +689,7 @@ z
 
 ---
 
-## 40. Why is there some much financial fraud in Minnesota?
+## 41. Why is there some much financial fraud in Minnesota?
 
 **[📄 View All Responses](Why is there some much financial fraud in Minnesota/README.md)** - Contains all AI responses inline
 
@@ -698,7 +708,7 @@ z
 
 ---
 
-## 41. Why were mental hospitals closed in the United States?
+## 42. Why were mental hospitals closed in the United States?
 
 **[📄 View All Responses](Why were mental hospitals closed in the United States/README.md)** - Contains all AI responses inline
 
