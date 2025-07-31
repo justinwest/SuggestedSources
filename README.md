@@ -106,7 +106,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **41. [Why is there some much financial fraud in Minnesota?](Why is there some much financial fraud in Minnesota/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
-**42. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 2025-07-27 22:24:16)*
+**42. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 2025-07-31 09:41:44)*
 
 ## Active AI Models
 
