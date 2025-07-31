@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-07-31 14:03:04
+**Last Updated:** 2025-07-31 18:41:53
 
 ---
 
@@ -355,6 +355,7 @@ This document contains all questions and their suggested sources in one place, w
 - https://arep.med.harvard.edu/gmc/protect.html
 - https://pifferpilfer.substack.com/p/a-boomer-geneticists-approach-to
 - https://highalchemy.beehiiv.com/p/introducing-high-alchemy-73e30f4ea915d1d7
+- https://open.substack.com/pub/astralcodexten/p/suddenly-trait-based-embryo-selection
 
 ---
 

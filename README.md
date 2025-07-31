@@ -62,7 +62,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 2025-07-27 22:31:14)*
 
-**20. [Should genetic engineering of humans be allowed?](Should genetic engineering of humans be allowed/README.md)** *(Updated: 2025-07-30 22:04:14)*
+**20. [Should genetic engineering of humans be allowed?](Should genetic engineering of humans be allowed/README.md)** *(Updated: 2025-07-31 18:41:53)*
 
 **21. [Summarize the effects of the One Big Beautiful Bill Act?](Summarize the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
