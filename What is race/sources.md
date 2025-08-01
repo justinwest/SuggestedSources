@@ -8,4 +8,4 @@
 * [Race and Genealogy: Buffon and the Formation of the Concept of “Race”](https://archive.jwest.org/Research/Doron2012-RaceConcept.pdf) – *Humana.Mente: Journal of Philosophical Studies*
 * [Human genetic diversity: Lewontin’s fallacy](https://archive.jwest.org/Research/Edwards2003-LewontinFallacy.pdf) – *BioEssays*
 * [Race: a social destruction of a biological concept](https://link.springer.com/article/10.1007/s10539-009-9193-7) – *Biology & Philosophy*
-https://open.substack.com/pub/astralcodexten/p/suddenly-trait-based-embryo-selection
+https://open.substack.com/pub/pifferpilfer/p/how-embryo-selection-technology-exposes
