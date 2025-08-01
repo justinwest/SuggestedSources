@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-08-01 10:52:57
+**Last Updated:** 2025-08-01
 
 ---
 
@@ -386,7 +386,18 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 23. Were the COVID-19 lockdowns effective?
+## 23. Were any unmarked graves discovered at former Resident Schools in Canada?
+
+**[📄 View All Responses](Were any unmarked graves discovered at former Resident Schools in Canada/README.md)** - Contains all AI responses inline
+
+### Sources
+
+* [Wokeness Runs Home - by Chris Bray](https://chrisbray.substack.com/p/wokeness-runs-home) – *chrisbray.substack.com*
+* [The Kamloops ‘Discovery’: A Fact](https://www.dorchesterreview.ca/blogs/news/the-kamloops-discovery-a-fact-check-two-years-later) – *dorchesterreview.ca*
+
+---
+
+## 24. Were the COVID-19 lockdowns effective?
 
 **[📄 View All Responses](Were the COVID-19 lockdowns effective/README.md)** - Contains all AI responses inline
 
@@ -400,7 +411,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 24. What are luxury beliefs?
+## 25. What are luxury beliefs?
 
 **[📄 View All Responses](What are luxury beliefs/README.md)** - Contains all AI responses inline
 
@@ -416,7 +427,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 25. What are some examples of elite misinformation?
+## 26. What are some examples of elite misinformation?
 
 **[📄 View All Responses](What are some examples of elite misinformation/README.md)** - Contains all AI responses inline
 
@@ -438,7 +449,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 26. What are some examples of extralegal pressure by the US government to influence corporations?
+## 27. What are some examples of extralegal pressure by the US government to influence corporations?
 
 **[📄 View All Responses](What are some examples of extralegal pressure by the US government to influence corporations/README.md)** - Contains all AI responses inline
 
@@ -464,7 +475,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 27. What are the externalities of immigration?
+## 28. What are the externalities of immigration?
 
 **[📄 View All Responses](What are the externalities of immigration/README.md)** - Contains all AI responses inline
 
@@ -479,7 +490,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 28. What can we learn from systemic failures?
+## 29. What can we learn from systemic failures?
 
 **[📄 View All Responses](What can we learn from systemic failures/README.md)** - Contains all AI responses inline
 
@@ -491,7 +502,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 29. What caused the 2008 financial crisis?
+## 30. What caused the 2008 financial crisis?
 
 **[📄 View All Responses](What caused the 2008 financial crisis/README.md)** - Contains all AI responses inline
 
@@ -510,7 +521,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 30. What caused the crime spike in 2020 in the United States?
+## 31. What caused the crime spike in 2020 in the United States?
 
 **[📄 View All Responses](What caused the crime spike in 2020 in the United States/README.md)** - Contains all AI responses inline
 
@@ -528,7 +539,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 31. What explains the rise in autism diagnoses?
+## 32. What explains the rise in autism diagnoses?
 
 **[📄 View All Responses](What explains the rise in autism diagnoses/README.md)** - Contains all AI responses inline
 
@@ -552,7 +563,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 32. What is "woke" ideology?
+## 33. What is "woke" ideology?
 
 **[📄 View All Responses](What is "woke" ideology/README.md)** - Contains all AI responses inline
 
@@ -572,7 +583,7 @@ z
 
 ---
 
-## 33. What is antidepressant discontinuation syndrome?
+## 34. What is antidepressant discontinuation syndrome?
 
 **[📄 View All Responses](What is antidepressant discontinuation syndrome/README.md)** - Contains all AI responses inline
 
@@ -587,7 +598,7 @@ z
 
 ---
 
-## 34. What is personal superintelligence?
+## 35. What is personal superintelligence?
 
 **[📄 View All Responses](What is personal superintelligence/README.md)** - Contains all AI responses inline
 
@@ -597,7 +608,7 @@ z
 
 ---
 
-## 35. What is race?
+## 36. What is race?
 
 **[📄 View All Responses](What is race/README.md)** - Contains all AI responses inline
 
@@ -617,7 +628,7 @@ z
 
 ---
 
-## 36. What is the replication crisis?
+## 37. What is the replication crisis?
 
 **[📄 View All Responses](What is the replication crisis/README.md)** - Contains all AI responses inline
 
@@ -635,7 +646,7 @@ z
 
 ---
 
-## 37. Why are fertility rates declining in most nations?
+## 38. Why are fertility rates declining in most nations?
 
 **[📄 View All Responses](Why are fertility rates declining in most nations/README.md)** - Contains all AI responses inline
 
@@ -655,7 +666,7 @@ z
 
 ---
 
-## 38. Why do some Christians believe it is their religious duty to support Israel?
+## 39. Why do some Christians believe it is their religious duty to support Israel?
 
 **[📄 View All Responses](Why do some Christians believe it is their religious duty to support Israel/README.md)** - Contains all AI responses inline
 
@@ -670,7 +681,7 @@ z
 
 ---
 
-## 39. Why has talk about trauma become so popular?
+## 40. Why has talk about trauma become so popular?
 
 **[📄 View All Responses](Why has talk about trauma become so popular/README.md)** - Contains all AI responses inline
 
@@ -680,7 +691,7 @@ z
 
 ---
 
-## 40. Why is Stoicism becoming popular again?
+## 41. Why is Stoicism becoming popular again?
 
 **[📄 View All Responses](Why is Stoicism becoming popular again/README.md)** - Contains all AI responses inline
 
@@ -694,7 +705,7 @@ z
 
 ---
 
-## 41. Why is there some much financial fraud in Minnesota?
+## 42. Why is there some much financial fraud in Minnesota?
 
 **[📄 View All Responses](Why is there some much financial fraud in Minnesota/README.md)** - Contains all AI responses inline
 
@@ -715,7 +726,7 @@ z
 
 ---
 
-## 42. Why were mental hospitals closed in the United States?
+## 43. Why were mental hospitals closed in the United States?
 
 **[📄 View All Responses](Why were mental hospitals closed in the United States/README.md)** - Contains all AI responses inline
 
