@@ -20,7 +20,7 @@ The goal of this project is to demonstrate how much human curated sources can im
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-07-31
+**Last Updated:** 2025-08-01
 
 ## Questions
 
@@ -92,7 +92,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **34. [What is personal superintelligence?](What is personal superintelligence/README.md)** *(Updated: 2025-07-30 23:30:03)*
 
-**35. [What is race?](What is race/README.md)** *(Updated: 2025-07-30 23:00:55)*
+**35. [What is race?](What is race/README.md)** *(Updated: 2025-08-01 10:52:57)*
 
 **36. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 2025-07-27 22:24:16)*
 
