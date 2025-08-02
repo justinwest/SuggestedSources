@@ -1,42 +1,41 @@
-Yes, numerous unmarked graves and burial sites have been discovered at former residential school locations across Canada, particularly following the use of ground-penetrating radar technology beginning in 2021.
+Yes, numerous unmarked graves and burial sites have been discovered at former residential school locations across Canada, particularly following ground-penetrating radar surveys that began in earnest in 2021.
 
 ## Major Discoveries
 
-The most significant discovery occurred at the former Kamloops Indian Residential School in British Columbia, where the Tk'emlúps te Secwépemc First Nation announced in May 2021 that ground-penetrating radar had detected what are believed to be the remains of 215 children [1]. This discovery brought international attention to the legacy of Canada's residential school system and prompted searches at other former school sites across the country.
+The most significant discovery occurred at the former Kamloops Indian Residential School in British Columbia, where the Tk'emlúps te Secwépemc First Nation announced in May 2021 that ground-penetrating radar had identified what are believed to be the remains of 215 children [1]. This announcement sparked a wave of similar investigations across Canada.
 
-Following the Kamloops announcement, several other significant discoveries were made:
+Shortly after, the Cowessess First Nation in Saskatchewan reported the discovery of 751 unmarked graves at the former Marieval Indian Residential School site [2]. Other significant findings include:
 
-- At the former Marieval Indian Residential School in Saskatchewan, the Cowessess First Nation reported finding 751 unmarked graves in June 2021 [2]
-- Near the former St. Eugene's Mission School in British Columbia, the Lower Kootenay Band identified 182 unmarked graves [3]
-- At the former Kuper Island Industrial School in British Columbia, the Penelakut Tribe found over 160 unmarked graves [4]
-- Multiple other sites across provinces including Alberta, Manitoba, and Ontario have reported similar findings [5]
+- 182 unmarked graves at the former St. Eugene's Mission School in Cranbrook, British Columbia [3]
+- 93 potential burial sites at the Kamloops Indian Residential School following additional surveys [4]
+- Multiple discoveries at former residential school sites in Manitoba, Alberta, and other provinces [5]
 
-## Technical and Investigative Approach
+## Important Distinctions
 
-These discoveries have primarily relied on ground-penetrating radar technology, which can detect soil disturbances and anomalies consistent with burial sites without requiring excavation [6]. However, it's important to note that while these technologies can identify potential grave sites, physical excavation and forensic analysis would be required to definitively confirm the presence of human remains and determine causes of death.
+It's crucial to note that these discoveries represent "potential burials" or "soil disturbances consistent with graves" rather than confirmed human remains in most cases. Ground-penetrating radar can identify anomalies in soil that suggest burial sites, but physical excavation is typically required for confirmation [6]. Many Indigenous communities have chosen not to disturb these sites out of respect for cultural protocols and the wishes of families.
 
 ## Historical Context
 
-The residential school system operated in Canada from the 1870s to 1996, with the stated goal of assimilating Indigenous children into Euro-Canadian culture. The Truth and Reconciliation Commission of Canada, which released its final report in 2015, documented the deaths of at least 3,200 children at these institutions, though the actual number is believed to be much higher [7]. Many children who died at these schools were buried in unmarked graves on or near school grounds, often without their families being notified.
+These discoveries align with historical records indicating that many children died at residential schools due to disease, malnutrition, and poor living conditions. The Truth and Reconciliation Commission of Canada, which concluded its work in 2015, had previously documented that at least 3,200 children died at residential schools, though commissioners believed the actual number was likely much higher [7]. Many of these deaths were poorly documented, and families were often not informed when their children died.
 
-## Ongoing Impact and Response
+## Ongoing Investigations
 
-These discoveries have had profound impacts on Indigenous communities and Canadian society more broadly. They have renewed calls for justice, accountability, and reconciliation, while also triggering a national reckoning with the legacy of the residential school system [8]. The federal government has committed funding to support Indigenous communities in their search efforts and to preserve and commemorate burial sites.
+The discoveries have prompted increased funding from the federal government for Indigenous communities to conduct their own searches and investigations. The government committed over $320 million in 2021 to support community-led initiatives to locate and commemorate children who died at residential schools [8].
 
 ## Sources
 
-[1] **CBC News** - Reports on the Tk'emlúps te Secwépemc First Nation's announcement of the discovery of remains of 215 children at the former Kamloops Indian Residential School using ground-penetrating radar. [Kamloops Indian Residential School: What we know about the unmarked graves](https://www.cbc.ca/news/canada/british-columbia/kamloops-residential-school-unmarked-graves-questions-1.6043778)
+[1] **Tk'emlúps te Secwépemc First Nation** - Announced the discovery of potential remains of 215 children at Kamloops Indian Residential School through ground-penetrating radar. [Press release and news coverage from May 2021]
 
-[2] **Reuters** - Covers the Cowessess First Nation's report of finding 751 unmarked graves at the former Marieval Indian Residential School site in Saskatchewan. [Canada indigenous group finds 751 unmarked graves at former school site](https://www.reuters.com/world/americas/canada-indigenous-group-finds-751-unmarked-graves-former-school-site-2021-06-24/)
+[2] **Cowessess First Nation and CBC News** - Reported the discovery of 751 unmarked graves at the former Marieval Indian Residential School. [CBC News coverage from June 2021]
 
-[3] **Global News** - Reports on the Lower Kootenay Band's discovery of 182 unmarked graves near the former St. Eugene's Mission School in British Columbia. [182 unmarked graves found at former residential school site in B.C.](https://globalnews.ca/news/8009664/182-unmarked-graves-former-residential-school-bc/)
+[3] **Lower Kootenay Band and CTV News** - Documented the discovery of 182 unmarked graves at the former St. Eugene's Mission School site. [CTV News reports from July 2021]
 
-[4] **CTV News** - Covers the Penelakut Tribe's announcement of finding over 160 unmarked graves at the former Kuper Island Industrial School site. [More than 160 unmarked graves found at former B.C. residential school](https://www.ctvnews.ca/canada/more-than-160-unmarked-graves-found-at-former-b-c-residential-school-1.5506016)
+[4] **Tk'emlúps te Secwépemc First Nation follow-up surveys** - Additional ground-penetrating radar work revealed more potential burial sites at Kamloops. [Follow-up reports from late 2021]
 
-[5] **The Guardian** - Provides comprehensive coverage of multiple discoveries across Canada and their significance in the broader context of residential school legacy. [Canada: hundreds more unmarked graves found at former residential schools](https://www.theguardian.com/world/2021/jun/30/canada-unmarked-graves-residential-schools-indigenous)
+[5] **Various news outlets including Global News, CBC, and CTV** - Comprehensive coverage of multiple discoveries across different provinces throughout 2021-2022.
 
-[6] **National Geographic** - Explains the ground-penetrating radar technology being used to locate potential burial sites and discusses the technical aspects of these investigations. [How radar is revealing the unmarked graves of Canada's residential school children](https://www.nationalgeographic.com/history/article/how-radar-revealing-unmarked-graves-canadas-residential-school-children)
+[6] **Archaeological and forensic experts quoted in Canadian media** - Experts consistently emphasized the distinction between radar anomalies and confirmed remains, noting the need for careful interpretation of ground-penetrating radar results.
 
-[7] **Truth and Reconciliation Commission of Canada** - The official final report documenting the residential school system and its impacts, including documented deaths of children. [Truth and Reconciliation Commission Final Report](http://www.trc.ca/about-us/trc-findings.html)
+[7] **Truth and Reconciliation Commission of Canada Final Reports (2015)** - Official government commission that documented deaths at residential schools and called for searches for unmarked graves. Available at: [http://www.trc.ca](http://www.trc.ca)
 
-[8] **BBC News** - Provides international perspective on the discoveries and their impact on Canadian society and Indigenous communities. [Canada residential schools: Hundreds of unmarked graves found](https://www.bbc.com/news/world-us-canada-57592243)
+[8] **Government of Canada press releases and budget documents** - Federal funding announcements for community-led searches and commemoration efforts, documented in official government communications from 2021-2022.

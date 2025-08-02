@@ -68,7 +68,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **22. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)** *(Updated: 2025-07-30 21:41:39)*
 
-**23. [Were any unmarked graves discovered at former Resident Schools in Canada?](Were any unmarked graves discovered at former Resident Schools in Canada/README.md)** *(Updated: 2025-08-01 18:49:15)*
+**23. [Were any unmarked graves discovered at former Resident Schools in Canada?](Were any unmarked graves discovered at former Resident Schools in Canada/README.md)** *(Updated: 2025-08-01 19:12:17)*
 
 **24. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)** *(Updated: 2025-06-13 11:13:52)*
 
