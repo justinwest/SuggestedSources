@@ -359,18 +359,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 21. Summarize the effects of the One Big Beautiful Bill Act?
-
-**[📄 View All Responses](Summarize the effects of the One Big Beautiful Bill Act/README.md)** - Contains all AI responses inline
-
-### Sources
-
-* [Congress Article](https://www.congress.gov/bill/119th-congress/house-bill/1) – *Congress*
-* [Whats In The One Big Beautiful Bill](https://usafacts.org/articles/whats-in-the-one-big-beautiful-bill/) – *Usafacts*
-
----
-
-## 22. Was the public misled about the UK grooming gang scandal?
+## 21. Was the public misled about the UK grooming gang scandal?
 
 **[📄 View All Responses](Was the public misled about the UK grooming gang scandal/README.md)** - Contains all AI responses inline
 
@@ -386,7 +375,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 23. Were any unmarked graves discovered at former Resident Schools in Canada?
+## 22. Were any unmarked graves discovered at former Resident Schools in Canada?
 
 **[📄 View All Responses](Were any unmarked graves discovered at former Resident Schools in Canada/README.md)** - Contains all AI responses inline
 
@@ -399,7 +388,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 24. Were the COVID-19 lockdowns effective?
+## 23. Were the COVID-19 lockdowns effective?
 
 **[📄 View All Responses](Were the COVID-19 lockdowns effective/README.md)** - Contains all AI responses inline
 
@@ -413,7 +402,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 25. What are luxury beliefs?
+## 24. What are luxury beliefs?
 
 **[📄 View All Responses](What are luxury beliefs/README.md)** - Contains all AI responses inline
 
@@ -429,7 +418,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 26. What are some examples of elite misinformation?
+## 25. What are some examples of elite misinformation?
 
 **[📄 View All Responses](What are some examples of elite misinformation/README.md)** - Contains all AI responses inline
 
@@ -451,7 +440,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 27. What are some examples of extralegal pressure by the US government to influence corporations?
+## 26. What are some examples of extralegal pressure by the US government to influence corporations?
 
 **[📄 View All Responses](What are some examples of extralegal pressure by the US government to influence corporations/README.md)** - Contains all AI responses inline
 
@@ -474,6 +463,17 @@ This document contains all questions and their suggested sources in one place, w
 * [Moral suasion (Jawboning)](https://en.wikipedia.org/wiki/Moral_suasion#Jawboning) – *Wikipedia*
 * [Nudge theory](https://en.wikipedia.org/wiki/Nudge_theory) – *Wikipedia*
 * [NRA v. Vullo](https://en.wikipedia.org/wiki/National_Rifle_Association_of_America_v._Vullo) – *Wikipedia*
+
+---
+
+## 27. What are the effects of the One Big Beautiful Bill Act?
+
+**[📄 View All Responses](What are the effects of the One Big Beautiful Bill Act/README.md)** - Contains all AI responses inline
+
+### Sources
+
+* [Congress Article](https://www.congress.gov/bill/119th-congress/house-bill/1) – *Congress*
+* [Whats In The One Big Beautiful Bill](https://usafacts.org/articles/whats-in-the-one-big-beautiful-bill/) – *Usafacts*
 
 ---
 
@@ -708,9 +708,9 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 42. Why is there some much financial fraud in Minnesota?
+## 42. Why is there so much financial fraud in Minnesota?
 
-**[📄 View All Responses](Why is there some much financial fraud in Minnesota/README.md)** - Contains all AI responses inline
+**[📄 View All Responses](Why is there so much financial fraud in Minnesota/README.md)** - Contains all AI responses inline
 
 ### Sources
 
