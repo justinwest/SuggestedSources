@@ -9,4 +9,4 @@
 * [Wokeism’s Deeper Roots](https://lawliberty.org/book-review/wokeisms-deeper-roots) – *Law & Liberty*
 * [Wokeism Is Not A &quot;Gnostic Heresy&quot;](https://keithwoods.pub/p/gnosticism) – *keithwoods.pub*
 
-https://chrisbray.substack.com/p/wokeness-runs-home
+* [Wokeness Runs Home - by Chris Bray](https://chrisbray.substack.com/p/wokeness-runs-home) – *chrisbray.substack.com*

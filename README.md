@@ -88,7 +88,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **32. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2025-07-27 22:24:16)*
 
-**33. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 2025-07-25 23:37:56)*
+**33. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 2025-08-01 20:32:23)*
 
 **34. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-25 20:28:48)*
 
