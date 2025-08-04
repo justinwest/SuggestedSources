@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-08-03
+**Last Updated:** 2025-08-04
 
 ---
 
@@ -492,7 +492,17 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 29. What can we learn from systemic failures?
+## 29. What are the social consequences of human embryo selection?
+
+**[📄 View All Responses](What are the social consequences of human embryo selection/README.md)** - Contains all AI responses inline
+
+### Sources
+
+- https://letter.palladiummag.com/p/palladium-18-biological-inheritance
+
+---
+
+## 30. What can we learn from systemic failures?
 
 **[📄 View All Responses](What can we learn from systemic failures/README.md)** - Contains all AI responses inline
 
@@ -504,7 +514,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 30. What caused the 2008 financial crisis?
+## 31. What caused the 2008 financial crisis?
 
 **[📄 View All Responses](What caused the 2008 financial crisis/README.md)** - Contains all AI responses inline
 
@@ -523,7 +533,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 31. What caused the crime spike in 2020 in the United States?
+## 32. What caused the crime spike in 2020 in the United States?
 
 **[📄 View All Responses](What caused the crime spike in 2020 in the United States/README.md)** - Contains all AI responses inline
 
@@ -541,7 +551,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 32. What explains the rise in autism diagnoses?
+## 33. What explains the rise in autism diagnoses?
 
 **[📄 View All Responses](What explains the rise in autism diagnoses/README.md)** - Contains all AI responses inline
 
@@ -565,7 +575,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 33. What is "woke" ideology?
+## 34. What is "woke" ideology?
 
 **[📄 View All Responses](What is "woke" ideology/README.md)** - Contains all AI responses inline
 
@@ -586,7 +596,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 34. What is antidepressant discontinuation syndrome?
+## 35. What is antidepressant discontinuation syndrome?
 
 **[📄 View All Responses](What is antidepressant discontinuation syndrome/README.md)** - Contains all AI responses inline
 
@@ -601,7 +611,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 35. What is personal superintelligence?
+## 36. What is personal superintelligence?
 
 **[📄 View All Responses](What is personal superintelligence/README.md)** - Contains all AI responses inline
 
@@ -611,7 +621,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 36. What is race?
+## 37. What is race?
 
 **[📄 View All Responses](What is race/README.md)** - Contains all AI responses inline
 
@@ -631,7 +641,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 37. What is right-wing Progressivism?
+## 38. What is right-wing Progressivism?
 
 **[📄 View All Responses](What is right-wing Progressivism/README.md)** - Contains all AI responses inline
 
@@ -642,7 +652,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 38. What is the replication crisis?
+## 39. What is the replication crisis?
 
 **[📄 View All Responses](What is the replication crisis/README.md)** - Contains all AI responses inline
 
@@ -660,7 +670,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 39. Why are fertility rates declining in most nations?
+## 40. Why are fertility rates declining in most nations?
 
 **[📄 View All Responses](Why are fertility rates declining in most nations/README.md)** - Contains all AI responses inline
 
@@ -680,7 +690,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 40. Why do some Christians believe it is their religious duty to support Israel?
+## 41. Why do some Christians believe it is their religious duty to support Israel?
 
 **[📄 View All Responses](Why do some Christians believe it is their religious duty to support Israel/README.md)** - Contains all AI responses inline
 
@@ -695,7 +705,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 41. Why has talk about trauma become so popular?
+## 42. Why has talk about trauma become so popular?
 
 **[📄 View All Responses](Why has talk about trauma become so popular/README.md)** - Contains all AI responses inline
 
@@ -705,7 +715,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 42. Why is Stoicism becoming popular again?
+## 43. Why is Stoicism becoming popular again?
 
 **[📄 View All Responses](Why is Stoicism becoming popular again/README.md)** - Contains all AI responses inline
 
@@ -719,7 +729,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 43. Why is there so much financial fraud in Minnesota?
+## 44. Why is there so much financial fraud in Minnesota?
 
 **[📄 View All Responses](Why is there so much financial fraud in Minnesota/README.md)** - Contains all AI responses inline
 
@@ -740,7 +750,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 44. Why were mental hospitals closed in the United States?
+## 45. Why were mental hospitals closed in the United States?
 
 **[📄 View All Responses](Why were mental hospitals closed in the United States/README.md)** - Contains all AI responses inline
 

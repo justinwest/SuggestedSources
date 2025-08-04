@@ -22,7 +22,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-08-03
+**Last Updated:** 2025-08-04
 
 ## Questions
 
@@ -82,37 +82,39 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **28. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2025-07-25)*
 
-**29. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 2025-07-25)*
+**29. [What are the social consequences of human embryo selection?](What are the social consequences of human embryo selection/README.md)** *(Updated: 2025-08-04)*
 
-**30. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)** *(Updated: 2025-07-25)*
+**30. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 2025-07-25)*
 
-**31. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)** *(Updated: 2025-07-25)*
+**31. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)** *(Updated: 2025-07-25)*
 
-**32. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2025-07-27)*
+**32. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)** *(Updated: 2025-07-25)*
 
-**33. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 2025-08-01)*
+**33. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2025-07-27)*
 
-**34. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-25)*
+**34. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 2025-08-01)*
 
-**35. [What is personal superintelligence?](What is personal superintelligence/README.md)** *(Updated: 2025-07-30)*
+**35. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-25)*
 
-**36. [What is race?](What is race/README.md)** *(Updated: 2025-08-01)*
+**36. [What is personal superintelligence?](What is personal superintelligence/README.md)** *(Updated: 2025-07-30)*
 
-**37. [What is right-wing Progressivism?](What is right-wing Progressivism/README.md)** *(Updated: 2025-08-03)*
+**37. [What is race?](What is race/README.md)** *(Updated: 2025-08-01)*
 
-**38. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 2025-07-27)*
+**38. [What is right-wing Progressivism?](What is right-wing Progressivism/README.md)** *(Updated: 2025-08-03)*
 
-**39. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2025-07-25)*
+**39. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 2025-07-27)*
 
-**40. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-07-25)*
+**40. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2025-07-25)*
 
-**41. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 2025-07-25)*
+**41. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-07-25)*
 
-**42. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-07-27)*
+**42. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 2025-07-25)*
 
-**43. [Why is there so much financial fraud in Minnesota?](Why is there so much financial fraud in Minnesota/README.md)** *(Updated: 2025-07-31)*
+**43. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-07-27)*
 
-**44. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 2025-07-31)*
+**44. [Why is there so much financial fraud in Minnesota?](Why is there so much financial fraud in Minnesota/README.md)** *(Updated: 2025-07-31)*
+
+**45. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 2025-07-31)*
 
 ## Active AI Models
 
@@ -133,15 +135,15 @@ The following AI models are currently active:
 
 ## Statistics
 
-- **Total Questions:** 44
-- **Total Responses Generated:** 344/352
+- **Total Questions:** 45
+- **Total Responses Generated:** 351/360
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 44 | 44 | 88 |
-| Chatgpt | 40 | 40 | 80 |
-| Gemini | 44 | 44 | 88 |
-| Grok | 44 | 44 | 88 |
+| Claude | 45 | 45 | 90 |
+| Chatgpt | 40 | 41 | 81 |
+| Gemini | 45 | 45 | 90 |
+| Grok | 45 | 45 | 90 |
 

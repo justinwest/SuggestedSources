@@ -1,0 +1,2 @@
+- https://letter.palladiummag.com/p/palladium-18-biological-inheritance
+- https://open.substack.com/pub/astralcodexten/p/suddenly-trait-based-embryo-selection
