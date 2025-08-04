@@ -17,4 +17,4 @@
 * [Coordination Problems: Why Smart People Do Dumb Things](https://www.theseedsofscience.pub/p/coordination-problems-why-smart-people) – *The Seeds of Science (Substack)*
 * [The Crisis of Expertise is About Status](https://www.slowboring.com/p/the-crisis-of-expertise-is-about) – *Slow Boring*
 * [Status, Class, and the Crisis of Expertise](https://www.conspicuouscognition.com/p/status-class-and-the-crisis-of-expertise) – *Conspicuous Cognition (Substack)*
-https://letter.palladiummag.com/p/complex-systems-wont-survive-the
+* [Complex Systems Won’t Survive the Competence Crisis](https://letter.palladiummag.com/p/complex-systems-wont-survive-the) – *letter.palladiummag.com*

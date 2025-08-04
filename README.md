@@ -28,7 +28,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **1. [Are smartphones harming adolescent mental health?](Are smartphones harming adolescent mental health/README.md)** *(Updated: 2025-07-30)*
 
-**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 2025-07-30)*
+**2. [Are we living through a crisis of expertise?](Are we living through a crisis of expertise/README.md)** *(Updated: 2025-08-04)*
 
 **3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 2025-07-30)*
 
