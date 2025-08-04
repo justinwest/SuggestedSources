@@ -60,7 +60,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 2025-07-25)*
 
-**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 2025-07-31)*
+**18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 2025-08-04)*
 
 **19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 2025-07-27)*
 
