@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-08-02
+**Last Updated:** 2025-08-03
 
 ---
 
@@ -631,7 +631,18 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 37. What is the replication crisis?
+## 37. What is right-wing Progressivism?
+
+**[📄 View All Responses](What is right-wing Progressivism/README.md)** - Contains all AI responses inline
+
+### Sources
+
+- https://theupheaval.substack.com/p/the-rise-of-the-right-wing-progressives
+- https://pmarca.substack.com/p/the-techno-optimist-manifesto
+
+---
+
+## 38. What is the replication crisis?
 
 **[📄 View All Responses](What is the replication crisis/README.md)** - Contains all AI responses inline
 
@@ -649,7 +660,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 38. Why are fertility rates declining in most nations?
+## 39. Why are fertility rates declining in most nations?
 
 **[📄 View All Responses](Why are fertility rates declining in most nations/README.md)** - Contains all AI responses inline
 
@@ -669,7 +680,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 39. Why do some Christians believe it is their religious duty to support Israel?
+## 40. Why do some Christians believe it is their religious duty to support Israel?
 
 **[📄 View All Responses](Why do some Christians believe it is their religious duty to support Israel/README.md)** - Contains all AI responses inline
 
@@ -684,7 +695,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 40. Why has talk about trauma become so popular?
+## 41. Why has talk about trauma become so popular?
 
 **[📄 View All Responses](Why has talk about trauma become so popular/README.md)** - Contains all AI responses inline
 
@@ -694,7 +705,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 41. Why is Stoicism becoming popular again?
+## 42. Why is Stoicism becoming popular again?
 
 **[📄 View All Responses](Why is Stoicism becoming popular again/README.md)** - Contains all AI responses inline
 
@@ -708,7 +719,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 42. Why is there so much financial fraud in Minnesota?
+## 43. Why is there so much financial fraud in Minnesota?
 
 **[📄 View All Responses](Why is there so much financial fraud in Minnesota/README.md)** - Contains all AI responses inline
 
@@ -729,7 +740,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 43. Why were mental hospitals closed in the United States?
+## 44. Why were mental hospitals closed in the United States?
 
 **[📄 View All Responses](Why were mental hospitals closed in the United States/README.md)** - Contains all AI responses inline
 

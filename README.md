@@ -22,7 +22,7 @@ This index provides links to all questions. Each question's README contains all 
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-08-02
+**Last Updated:** 2025-08-03
 
 ## Questions
 
@@ -98,19 +98,21 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **36. [What is race?](What is race/README.md)** *(Updated: 2025-08-01)*
 
-**37. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 2025-07-27)*
+**37. [What is right-wing Progressivism?](What is right-wing Progressivism/README.md)** *(Updated: 2025-08-03)*
 
-**38. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2025-07-25)*
+**38. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 2025-07-27)*
 
-**39. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-07-25)*
+**39. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2025-07-25)*
 
-**40. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 2025-07-25)*
+**40. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-07-25)*
 
-**41. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-07-27)*
+**41. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 2025-07-25)*
 
-**42. [Why is there so much financial fraud in Minnesota?](Why is there so much financial fraud in Minnesota/README.md)** *(Updated: 2025-07-31)*
+**42. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-07-27)*
 
-**43. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 2025-07-31)*
+**43. [Why is there so much financial fraud in Minnesota?](Why is there so much financial fraud in Minnesota/README.md)** *(Updated: 2025-07-31)*
+
+**44. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 2025-07-31)*
 
 ## Active AI Models
 
@@ -131,15 +133,15 @@ The following AI models are currently active:
 
 ## Statistics
 
-- **Total Questions:** 43
-- **Total Responses Generated:** 338/344
+- **Total Questions:** 44
+- **Total Responses Generated:** 344/352
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 43 | 43 | 86 |
+| Claude | 44 | 44 | 88 |
 | Chatgpt | 40 | 40 | 80 |
-| Gemini | 43 | 43 | 86 |
-| Grok | 43 | 43 | 86 |
+| Gemini | 44 | 44 | 88 |
+| Grok | 44 | 44 | 88 |
 

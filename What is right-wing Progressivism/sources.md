@@ -1,0 +1,2 @@
+- https://theupheaval.substack.com/p/the-rise-of-the-right-wing-progressives
+- https://pmarca.substack.com/p/the-techno-optimist-manifesto
