@@ -27,3 +27,4 @@
 * [UK Government profile of Yvette Cooper](https://www.gov.uk/government/people/yvette-cooper) – *GOV.UK*
 * [VPN use surges in UK as new online safety rules kick in](https://news.ycombinator.com/item?id=44706653) – *Hacker News*
 * [Britain isn't lurching towards civil war, it's just a mess](https://www.viewfromcullingworth.com/p/britain-isnt-lurching-towards-civil) – *The View from Cullingworth*
+https://www.marketing-beat.co.uk/2025/08/01/coinbase-crypto-ad-mother/
