@@ -28,3 +28,4 @@
 * [VPN use surges in UK as new online safety rules kick in](https://news.ycombinator.com/item?id=44706653) – *Hacker News*
 * [Britain isn't lurching towards civil war, it's just a mess](https://www.viewfromcullingworth.com/p/britain-isnt-lurching-towards-civil) – *The View from Cullingworth*
 * [Coinbase takes on &#039;broken Britain&#039; with dystopian musical extravaganza](https://www.marketing-beat.co.uk/2025/08/01/coinbase-crypto-ad-mother/) – *marketing-beat.co.uk*
+  https://freespeechunion.org/britain-is-entering-a-new-phase-in-the-policing-of-digital-dissent/
