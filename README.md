@@ -7,6 +7,7 @@ The goal of this project is to demonstrate how much human curated sources can im
 * [Discord Server](https://discord.gg/HPDT9PvS)
 
 **Changelog:**
+* 08-AUG-2025: Claude Opus 4.1 model is now active.
 * 25-JUL-2025: The update script now automatically standardizes the URLs in sources.md files. 
 * 11-JUL-2025: Updated to include all AI responses directly in question READMEs for easier comparison.
 * 10-JUL-2025: Added Grok 4 with Live Search support for real-time information retrieval.
@@ -18,11 +19,9 @@ The goal of this project is to demonstrate how much human curated sources can im
 * Create a new folder to add a new question
 * Edit the sources.md file to add a source
 
-This index provides links to all questions. Each question's README contains all AI responses inline for easy comparison.
-
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-08-04
+**Last Updated:** 2025-08-05
 
 ## Questions
 
@@ -122,7 +121,7 @@ The following AI models are currently active:
 
 | Model | Version | Features |
 |-------|---------|----------|
-| **Claude** | `claude-sonnet-4-20250514` | Balanced performance, Timeout: 600s |
+| **Claude** | `claude-opus-4-1-20250805` | Timeout: 600s |
 | **Chatgpt** | `o3-deep-research` | 🔬 Deep research capabilities, 💰 Rate-limited (24h cooldown), ⏱️ Extended processing (10-45 min), Timeout: 7200s |
 | **Gemini** | `gemini-2.5-pro-preview-06-05` | Latest Gemini model, Google's advanced AI |
 | **Grok** | `grok-4` | 🌐 Live Search enabled, Real-time information |
