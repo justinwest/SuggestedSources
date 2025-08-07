@@ -21,7 +21,7 @@ The goal of this project is to demonstrate how much human curated sources can im
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-08-05
+**Last Updated:** 2025-08-06
 
 ## Questions
 
@@ -61,7 +61,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **18. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 2025-08-04)*
 
-**19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 2025-07-27)*
+**19. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 2025-08-06)*
 
 **20. [Should genetic engineering of humans be allowed?](Should genetic engineering of humans be allowed/README.md)** *(Updated: 2025-07-31)*
 

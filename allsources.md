@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-08-05
+**Last Updated:** 2025-08-06
 
 ---
 
@@ -349,6 +349,7 @@ This document contains all questions and their suggested sources in one place, w
 * [Lines In The Sand](https://ivyexile.substack.com/p/lines-in-the-sand) – *Substack*
 * [The Class Of 2026](https://barsoom.substack.com/p/the-class-of-2026) – *Substack*
 * [We Tried To Warn You](https://unsafescience.substack.com/p/we-tried-to-warn-you) – *Substack*
+* [From Heterodox to Helpless](https://open.substack.com/pub/unsafescience/p/from-heterodox-to-helpless) – *open.substack.com*
 
 ---
 
