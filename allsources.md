@@ -2,7 +2,7 @@
 
 This document contains all questions and their suggested sources in one place, with links to all AI responses.
 
-**Last Updated:** 2025-08-07
+**Last Updated:** 2025-08-09
 
 ---
 
@@ -646,6 +646,7 @@ This document contains all questions and their suggested sources in one place, w
 * [Human genetic diversity: Lewontin’s fallacy](https://archive.jwest.org/Research/Edwards2003-LewontinFallacy.pdf) – *BioEssays*
 * [Race: a social destruction of a biological concept](https://link.springer.com/article/10.1007/s10539-009-9193-7) – *Biology & Philosophy*
 * [How Embryo Selection Technology exposes the Transferability Paradox](https://open.substack.com/pub/pifferpilfer/p/how-embryo-selection-technology-exposes) – *open.substack.com*
+* [Current status: it’s complicated](https://www.razibkhan.com/p/current-status-its-complicated) – *razibkhan.com*
 
 ---
 

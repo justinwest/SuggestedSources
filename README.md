@@ -22,7 +22,7 @@ The goal of this project is to demonstrate how much human curated sources can im
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-08-07
+**Last Updated:** 2025-08-09
 
 ## Questions
 
@@ -98,7 +98,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **36. [What is personal superintelligence?](What is personal superintelligence/README.md)** *(Updated: 2025-07-30)*
 
-**37. [What is race?](What is race/README.md)** *(Updated: 2025-08-01)*
+**37. [What is race?](What is race/README.md)** *(Updated: 2025-08-09)*
 
 **38. [What is right-wing Progressivism?](What is right-wing Progressivism/README.md)** *(Updated: 2025-08-03)*
 
