@@ -22,7 +22,7 @@ The goal of this project is to demonstrate how much human curated sources can im
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-08-09
+**Last Updated:** 2025-08-10
 
 ## Questions
 
@@ -56,7 +56,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **15. [How much of a problem is misinformation?](How much of a problem is misinformation/README.md)** *(Updated: 2025-07-25)*
 
-**16. [How much of intelligence is hereditary?](How much of intelligence is hereditary/README.md)** *(Updated: 2025-07-25)*
+**16. [How much of intelligence is hereditary?](How much of intelligence is hereditary/README.md)** *(Updated: 2025-08-10)*
 
 **17. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 2025-07-25)*
 
