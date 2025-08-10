@@ -8,4 +8,3 @@
 * [Polygenic Score Prediction Within And Between Sibling Pairs For Intelligence Cognitive Abilities And Educational Traits From Childhood To Early Adulthood](https://icajournal.scholasticahq.com/article/140654-polygenic-score-prediction-within-and-between-sibling-pairs-for-intelligence-cognitive-abilities-and-educational-traits-from-childhood-to-early-adul) – *Intelligence & Cognitive Abilities Journal*
 * [Stability of general cognitive ability from infancy to adulthood](https://www.pnas.org/doi/10.1073/pnas.2426531122) – *PNAS*
 * [Three promising directions in the study of intelligence with genetic methods](https://jamesjlee.altervista.org/wp-content/uploads/2025/04/genetics_intelligence_CDPS.pdf) – *GWAS Intelligence*
-  
