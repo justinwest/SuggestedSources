@@ -137,7 +137,19 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 8. How accurate was press coverage of President Biden's mental decline?
+## 8. How accurate are stereotypes?
+
+**[📄 View All Responses](How accurate are stereotypes/README.md)** - Contains all AI responses inline
+
+### Sources
+
+* [What&#x27;s Wrong with Stereotypes?](https://fakenous.substack.com/p/whats-wrong-with-stereotypes) – *fakenous.substack.com*
+* [Webpage](https://sites.rutgers.edu/lee-jussim/wp-content/uploads/sites/135/2019/05/one-of-the-largest.pdf) – *sites.rutgers.edu*
+* [Stereotype Accuracy is One of the Largest and Most Replicable Effects in All of Social Psychology](https://spsp.org/news-center/character-context-blog/stereotype-accuracy-one-largest-and-most-replicable-effects-all) – *spsp.org*
+
+---
+
+## 9. How accurate was press coverage of President Biden's mental decline?
 
 **[📄 View All Responses](How accurate was press coverage of President Biden's mental decline/README.md)** - Contains all AI responses inline
 
@@ -154,7 +166,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 9. How accurate were economists' predications about immigration?
+## 10. How accurate were economists' predications about immigration?
 
 **[📄 View All Responses](How accurate were economists' predications about immigration/README.md)** - Contains all AI responses inline
 
@@ -166,7 +178,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 10. How do genes influence socio-economic status?
+## 11. How do genes influence socio-economic status?
 
 **[📄 View All Responses](How do genes influence socio-economic status/README.md)** - Contains all AI responses inline
 
@@ -185,7 +197,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 11. How do you distinguish good science from propaganda?
+## 12. How do you distinguish good science from propaganda?
 
 **[📄 View All Responses](How do you distinguish good science from propaganda/README.md)** - Contains all AI responses inline
 
@@ -201,7 +213,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 12. How does school spending in the United States compare to other nations?
+## 13. How does school spending in the United States compare to other nations?
 
 **[📄 View All Responses](How does school spending in the United States compare to other nations/README.md)** - Contains all AI responses inline
 
@@ -217,7 +229,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 13. How many Americans have died due to fentanyl?
+## 14. How many Americans have died due to fentanyl?
 
 **[📄 View All Responses](How many Americans have died due to fentanyl/README.md)** - Contains all AI responses inline
 
@@ -238,7 +250,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 14. How many immigrants are in the United States illegally?
+## 15. How many immigrants are in the United States illegally?
 
 **[📄 View All Responses](How many immigrants are in the United States illegally/README.md)** - Contains all AI responses inline
 
@@ -251,7 +263,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 15. How much of a problem is misinformation?
+## 16. How much of a problem is misinformation?
 
 **[📄 View All Responses](How much of a problem is misinformation/README.md)** - Contains all AI responses inline
 
@@ -266,7 +278,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 16. How much of intelligence is hereditary?
+## 17. How much of intelligence is hereditary?
 
 **[📄 View All Responses](How much of intelligence is hereditary/README.md)** - Contains all AI responses inline
 
@@ -285,7 +297,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 17. Is nuclear power safe?
+## 18. Is nuclear power safe?
 
 **[📄 View All Responses](Is nuclear power safe/README.md)** - Contains all AI responses inline
 
@@ -299,7 +311,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 18. Is the UK heading for a civil war?
+## 19. Is the UK heading for a civil war?
 
 **[📄 View All Responses](Is the UK heading for a civil war/README.md)** - Contains all AI responses inline
 
@@ -339,7 +351,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 19. Should academia be reformed?
+## 20. Should academia be reformed?
 
 **[📄 View All Responses](Should academia be reformed/README.md)** - Contains all AI responses inline
 
@@ -353,7 +365,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 20. Should genetic engineering of humans be allowed?
+## 21. Should genetic engineering of humans be allowed?
 
 **[📄 View All Responses](Should genetic engineering of humans be allowed/README.md)** - Contains all AI responses inline
 
@@ -366,7 +378,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 21. Was the public misled about the UK grooming gang scandal?
+## 22. Was the public misled about the UK grooming gang scandal?
 
 **[📄 View All Responses](Was the public misled about the UK grooming gang scandal/README.md)** - Contains all AI responses inline
 
@@ -382,7 +394,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 22. Were any unmarked graves discovered at former Resident Schools in Canada?
+## 23. Were any unmarked graves discovered at former Resident Schools in Canada?
 
 **[📄 View All Responses](Were any unmarked graves discovered at former Resident Schools in Canada/README.md)** - Contains all AI responses inline
 
@@ -395,7 +407,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 23. Were the COVID-19 lockdowns effective?
+## 24. Were the COVID-19 lockdowns effective?
 
 **[📄 View All Responses](Were the COVID-19 lockdowns effective/README.md)** - Contains all AI responses inline
 
@@ -409,7 +421,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 24. What are luxury beliefs?
+## 25. What are luxury beliefs?
 
 **[📄 View All Responses](What are luxury beliefs/README.md)** - Contains all AI responses inline
 
@@ -425,7 +437,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 25. What are some examples of elite misinformation?
+## 26. What are some examples of elite misinformation?
 
 **[📄 View All Responses](What are some examples of elite misinformation/README.md)** - Contains all AI responses inline
 
@@ -447,7 +459,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 26. What are some examples of extralegal pressure by the US government to influence corporations?
+## 27. What are some examples of extralegal pressure by the US government to influence corporations?
 
 **[📄 View All Responses](What are some examples of extralegal pressure by the US government to influence corporations/README.md)** - Contains all AI responses inline
 
@@ -473,7 +485,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 27. What are the effects of the One Big Beautiful Bill Act?
+## 28. What are the effects of the One Big Beautiful Bill Act?
 
 **[📄 View All Responses](What are the effects of the One Big Beautiful Bill Act/README.md)** - Contains all AI responses inline
 
@@ -484,7 +496,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 28. What are the externalities of immigration?
+## 29. What are the externalities of immigration?
 
 **[📄 View All Responses](What are the externalities of immigration/README.md)** - Contains all AI responses inline
 
@@ -499,7 +511,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 29. What are the social consequences of human embryo selection?
+## 30. What are the social consequences of human embryo selection?
 
 **[📄 View All Responses](What are the social consequences of human embryo selection/README.md)** - Contains all AI responses inline
 
@@ -510,7 +522,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 30. What can we learn from systemic failures?
+## 31. What can we learn from systemic failures?
 
 **[📄 View All Responses](What can we learn from systemic failures/README.md)** - Contains all AI responses inline
 
@@ -522,7 +534,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 31. What caused the 2008 financial crisis?
+## 32. What caused the 2008 financial crisis?
 
 **[📄 View All Responses](What caused the 2008 financial crisis/README.md)** - Contains all AI responses inline
 
@@ -541,7 +553,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 32. What caused the crime spike in 2020 in the United States?
+## 33. What caused the crime spike in 2020 in the United States?
 
 **[📄 View All Responses](What caused the crime spike in 2020 in the United States/README.md)** - Contains all AI responses inline
 
@@ -559,7 +571,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 33. What explains the rise in autism diagnoses?
+## 34. What explains the rise in autism diagnoses?
 
 **[📄 View All Responses](What explains the rise in autism diagnoses/README.md)** - Contains all AI responses inline
 
@@ -583,7 +595,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 34. What is "woke" ideology?
+## 35. What is "woke" ideology?
 
 **[📄 View All Responses](What is "woke" ideology/README.md)** - Contains all AI responses inline
 
@@ -604,7 +616,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 35. What is antidepressant discontinuation syndrome?
+## 36. What is antidepressant discontinuation syndrome?
 
 **[📄 View All Responses](What is antidepressant discontinuation syndrome/README.md)** - Contains all AI responses inline
 
@@ -619,7 +631,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 36. What is personal superintelligence?
+## 37. What is personal superintelligence?
 
 **[📄 View All Responses](What is personal superintelligence/README.md)** - Contains all AI responses inline
 
@@ -629,7 +641,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 37. What is race?
+## 38. What is race?
 
 **[📄 View All Responses](What is race/README.md)** - Contains all AI responses inline
 
@@ -650,7 +662,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 38. What is right-wing Progressivism?
+## 39. What is right-wing Progressivism?
 
 **[📄 View All Responses](What is right-wing Progressivism/README.md)** - Contains all AI responses inline
 
@@ -661,7 +673,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 39. What is the replication crisis?
+## 40. What is the replication crisis?
 
 **[📄 View All Responses](What is the replication crisis/README.md)** - Contains all AI responses inline
 
@@ -679,7 +691,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 40. Why are fertility rates declining in most nations?
+## 41. Why are fertility rates declining in most nations?
 
 **[📄 View All Responses](Why are fertility rates declining in most nations/README.md)** - Contains all AI responses inline
 
@@ -699,7 +711,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 41. Why do some Christians believe it is their religious duty to support Israel?
+## 42. Why do some Christians believe it is their religious duty to support Israel?
 
 **[📄 View All Responses](Why do some Christians believe it is their religious duty to support Israel/README.md)** - Contains all AI responses inline
 
@@ -714,7 +726,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 42. Why has talk about trauma become so popular?
+## 43. Why has talk about trauma become so popular?
 
 **[📄 View All Responses](Why has talk about trauma become so popular/README.md)** - Contains all AI responses inline
 
@@ -724,7 +736,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 43. Why is Stoicism becoming popular again?
+## 44. Why is Stoicism becoming popular again?
 
 **[📄 View All Responses](Why is Stoicism becoming popular again/README.md)** - Contains all AI responses inline
 
@@ -738,7 +750,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 44. Why is there so much financial fraud in Minnesota?
+## 45. Why is there so much financial fraud in Minnesota?
 
 **[📄 View All Responses](Why is there so much financial fraud in Minnesota/README.md)** - Contains all AI responses inline
 
@@ -759,7 +771,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 45. Why were mental hospitals closed in the United States?
+## 46. Why were mental hospitals closed in the United States?
 
 **[📄 View All Responses](Why were mental hospitals closed in the United States/README.md)** - Contains all AI responses inline
 
