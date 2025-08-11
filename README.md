@@ -84,7 +84,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **29. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2025-07-25)*
 
-**30. [What are the social consequences of human embryo selection?](What are the social consequences of human embryo selection/README.md)** *(Updated: 2025-08-04)*
+**30. [What are the social consequences of human embryo selection?](What are the social consequences of human embryo selection/README.md)** *(Updated: 2025-08-10)*
 
 **31. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 2025-07-25)*
 
@@ -138,14 +138,14 @@ The following AI models are currently active:
 ## Statistics
 
 - **Total Questions:** 46
-- **Total Responses Generated:** 359/368
+- **Total Responses Generated:** 360/368
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
 | Claude | 46 | 46 | 92 |
-| Chatgpt | 41 | 42 | 83 |
+| Chatgpt | 42 | 42 | 84 |
 | Gemini | 46 | 46 | 92 |
 | Grok | 46 | 46 | 92 |
 
