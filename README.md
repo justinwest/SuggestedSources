@@ -114,9 +114,11 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **44. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-07-27)*
 
-**45. [Why is there so much financial fraud in Minnesota?](Why is there so much financial fraud in Minnesota/README.md)** *(Updated: 2025-07-31)*
+**45. [Why is the United States prison population so high?](Why is the United States prison population so high/README.md)** *(Updated: 2025-08-11)*
 
-**46. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 2025-07-31)*
+**46. [Why is there so much financial fraud in Minnesota?](Why is there so much financial fraud in Minnesota/README.md)** *(Updated: 2025-07-31)*
+
+**47. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 2025-07-31)*
 
 ## Active AI Models
 
@@ -137,15 +139,15 @@ The following AI models are currently active:
 
 ## Statistics
 
-- **Total Questions:** 46
-- **Total Responses Generated:** 360/368
+- **Total Questions:** 47
+- **Total Responses Generated:** 368/376
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 46 | 46 | 92 |
-| Chatgpt | 42 | 42 | 84 |
-| Gemini | 46 | 46 | 92 |
-| Grok | 46 | 46 | 92 |
+| Claude | 47 | 47 | 94 |
+| Chatgpt | 43 | 43 | 86 |
+| Gemini | 47 | 47 | 94 |
+| Grok | 47 | 47 | 94 |
 

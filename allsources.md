@@ -752,7 +752,17 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 45. Why is there so much financial fraud in Minnesota?
+## 45. Why is the United States prison population so high?
+
+**[📄 View All Responses](Why is the United States prison population so high/README.md)** - Contains all AI responses inline
+
+### Sources
+
+* [How many are criminals?](https://inquisitivebird.xyz/p/how-many-are-criminals) – *inquisitivebird.xyz*
+
+---
+
+## 46. Why is there so much financial fraud in Minnesota?
 
 **[📄 View All Responses](Why is there so much financial fraud in Minnesota/README.md)** - Contains all AI responses inline
 
@@ -773,7 +783,7 @@ This document contains all questions and their suggested sources in one place, w
 
 ---
 
-## 46. Why were mental hospitals closed in the United States?
+## 47. Why were mental hospitals closed in the United States?
 
 **[📄 View All Responses](Why were mental hospitals closed in the United States/README.md)** - Contains all AI responses inline
 
