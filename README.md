@@ -22,7 +22,7 @@ The goal of this project is to demonstrate how much human curated sources can im
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-08-10
+**Last Updated:** 2025-08-11
 
 ## Questions
 
@@ -106,7 +106,7 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **40. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 2025-07-27)*
 
-**41. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2025-07-25)*
+**41. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2025-08-11)*
 
 **42. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-07-25)*
 

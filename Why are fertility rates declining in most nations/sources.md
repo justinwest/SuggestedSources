@@ -9,4 +9,4 @@
 * [The dawn of the posthuman age](https://www.noahpinion.blog/p/the-dawn-of-the-posthuman-age) – *Noah Smith*
 * [The Birth-Rate Crisis Isn’t as Bad as You’ve Heard—It’s Worse](https://www.theatlantic.com/ideas/archive/2025/06/birth-rate-population-decline/683333/) – *The Atlantic*
 * [Where Have All The Babies Gone](https://philipskogsberg.substack.com/p/where-have-all-the-babies-gone) – *Substack*
-https://www.sas.upenn.edu/~jesusfv/Slides_London.pdf
+* [Webpage](https://www.sas.upenn.edu/~jesusfv/Slides_London.pdf) – *sas.upenn.edu*
