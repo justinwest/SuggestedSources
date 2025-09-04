@@ -10,3 +10,4 @@
 * [Race: a social destruction of a biological concept](https://link.springer.com/article/10.1007/s10539-009-9193-7) – *Biology & Philosophy*
 * [How Embryo Selection Technology exposes the Transferability Paradox](https://open.substack.com/pub/pifferpilfer/p/how-embryo-selection-technology-exposes) – *open.substack.com*
 * [Current status: it’s complicated](https://www.razibkhan.com/p/current-status-its-complicated) – *Razib Khan*
+https://archive.jwest.org/BookExcerpts/HumanDiversity-Chapter9.pdf
