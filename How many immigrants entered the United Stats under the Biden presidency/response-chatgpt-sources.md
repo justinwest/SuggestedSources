@@ -1,34 +1,32 @@
-Short answer: There is no single official count for “how many immigrants entered” because it depends on what you include. Under President Biden (since January 2021), CBP recorded roughly 10–11 million border encounters. The number who were allowed into and remain in the U.S. is much lower but still in the millions: congressional testimony and independent analyses put releases/parole into the U.S. in the range of about 3–5 million, plus roughly 2 million “known gotaways.” If you count only formal humanitarian parole programs, one prominent estimate argues “nearly 3 million” were paroled, though that methodology is contested and may overstate by mixing distinct categories of parole and releases [1][2][3][4].
+Short answer: There is no single official “immigrants who entered” number. It depends on what you mean. Under President Biden (January 2021 onward), the most commonly cited metrics are:
 
-What the data show (and how to interpret it)
-- Border encounters (not the same as entries or admissions): CBP reports more than 10 million encounters nationwide since the start of 2021; this figure includes repeat crossers and many people who were expelled or removed and thus did not remain in the U.S. [1][3][4].
-- Known gotaways: Roughly 1.9–2.0 million people are estimated to have entered unlawfully without being apprehended during this period, based on DHS/CBP tallies cited in congressional testimony [1].
-- Released into the U.S. interior pending proceedings: Multiple oversight and analytic sources put this figure in the low-to-mid millions since 2021 (on the order of 3–5 million), reflecting a mix of notices to appear/report, parole, and alternatives to detention. Precise totals vary by methodology and cut-off date [1][3].
-- Humanitarian parole: One analysis argues the administration has “paroled in nearly 3 million” people by early 2025, counting both programmatic parolees (e.g., Afghans, Ukrainians, and the CHNV processes) and parole used operationally at the border. Other experts caution that conflating programmatic parole with case-by-case border processing inflates the impression of “parole admissions” as a distinct pathway [2][3].
-- Lawful permanent immigration (green cards): Separate from the border situation, the U.S. has continued to grant roughly 1 million lawful permanent resident statuses per year (many to people already inside the U.S. adjusting status). These are “immigrants” in the legal sense but are not typically what people mean when asking about border entries. Official DHS yearbooks provide the exact annual counts by fiscal year [3].
+- Border encounters (nationwide). CBP recorded roughly 10–11 million migrant encounters across FY2021–FY2024, including a record 3.2 million in FY2023 alone. Congressional testimony in April 2025 characterizes the cumulative total since January 2021 as “more than 10 million.” Note that “encounters” are events, not people, and some individuals are encountered more than once [1][2][3].  
+- Southwest land border encounters. About 8.6 million at the Southwest border across FY2021–FY2024 (approx. 1.73m in FY2021, 2.38m in FY2022, 2.48m in FY2023, and just over 2.0m in FY2024) [2].  
+- Admitted or released into the U.S. via parole or similar processing. Estimates vary. A critical analysis places the number paroled under Biden at “nearly 3 million,” counting multiple parole programs and border releases; other researchers emphasize that methods differ and many people were also removed or returned at the border [4][5].  
+- Change in the unauthorized immigrant population. The total unauthorized population living in the U.S. reached a record 14 million in 2023, indicating substantial net growth during Biden’s first years, but this is a stock (who resides here), not the same as total entrants or encounters [6].
 
-Why estimates differ
-- “Encounter” does not equal “entered” or “stayed.” Many encountered individuals were expelled under Title 42 (in 2021–2023) or removed; others tried multiple times, so totals include duplicates [3][4].
-- Releases vs. parole: DHS uses several legal authorities (e.g., notices to appear/report, parole under INA 212(d)(5)). Some estimates combine these; others count only programmatic parole (e.g., Ukrainians, Afghans, CHNV) [2][3].
-- Gotaways are estimates. They are tracked operationally and come with uncertainty; including or excluding them changes the “entered” total materially [1].
+How to interpret these numbers
+- Encounters are not admissions. They reflect people stopped by Border Patrol or processed at ports of entry. Many were expelled or removed; others were released into the U.S. pending proceedings, sometimes on parole.  
+- “Parole” counts are contested. Some analysts aggregate multiple programs and timeframes to reach “nearly 3 million,” while others caution that different programs (e.g., for Ukrainians, Cubans/Haitians/Nicaraguans/Venezuelans via sponsorship, CBP One scheduling) have different rules, durations, and outcomes [4][5].  
+- The unauthorized population figure shows net change after accounting for entries, departures, deaths, and status adjustments; it does not equal the number who crossed in any given year [6].
 
-Bottom line
-- If by “entered” you mean all border encounters, the number is about 10–11 million since January 2021 [1][3][4].
-- If you mean people allowed into the country and not immediately removed (releases plus parole), a reasonable order-of-magnitude estimate is roughly 3–5 million through early 2025, with methodology-dependent uncertainty [1][3].
-- If you add known gotaways to that, the total who entered and likely remained rises to roughly 5–7 million [1].
-- If you mean just formal humanitarian parole programs, one analysis claims “nearly 3 million,” but that figure is debated; narrower counts of programmatic parole alone would be lower [2][3].
-
-Citations
-1. homeland.house.gov testimony compiling DHS/CBP figures on encounters, gotaways, and releases.
-2. Center for Immigration Studies analysis arguing “nearly 3 million” paroled, using a broad definition of parole.
-3. Migration Policy Institute overview of Biden-era border and immigration policy, noting 10+ million encounters and expanded (and contested) use of parole and releases.
-4. CBP nationwide encounters statistics (official data series).
+Bottom line: If by “entered” you mean CBP-recorded border encounters during Biden’s tenure, the cumulative figure is on the order of 10–11 million through FY2024, with about 8.6 million at the Southwest land border alone. Of those, a few million were likely allowed into the U.S. to await proceedings (including via parole), while many others were removed or turned back; precise “admitted” counts depend on definitions and are debated among researchers [1][2][3][4][5][6].
 
 Sources
-1) homeland.house.gov – 2025-04-08 testimony (Oversight/Homeland Security context). View: Presents large cumulative counts since 2021 (10M+ encounters; ~2M gotaways) and argues substantial numbers were released into the U.S. under Biden. https://homeland.house.gov/wp-content/uploads/2025/04/2025-04-08-OIABSE-JHRG-Testimony.pdf
+1) U.S. Customs and Border Protection (CBP), FY2023 operational update — reports “more than 3.2 million encounters nationwide” in FY2023 (official data). https://www.cbp.gov/newsroom/national-media-release/cbp-releases-september-2023-monthly-operational-update  
+View: Official, descriptive statistics of nationwide encounters.
 
-2) Center for Immigration Studies (Andrew R. Arthur), “Did Joe Biden Really Parole In Nearly 3 Million Aliens?” View: Argues the administration has paroled nearly 3 million people, counting both programmatic parole and parole used operationally at the border; critical of the policy and scope. https://cis.org/Arthur/Did-Joe-Biden-Really-Parole-Nearly-3-Million-Aliens
+2) CBP, Southwest Land Border Encounters — year-by-year totals for FY2021–FY2024 (official data). https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters  
+View: Official, descriptive statistics of Southwest border encounters (events, not individuals).
 
-3) Migration Policy Institute, “Biden’s Mixed Immigration Legacy: Border…” View: Describes a complex legacy with more than 10 million encounters, expanded use of parole and lawful pathways, and policy shifts; cautions about interpreting encounter data as entries. https://www.migrationpolicy.org/article/biden-immigration-legacy
+3) U.S. House Committee on Homeland Security, Testimony (Apr. 8, 2025) — characterizes cumulative encounters since January 2021 as exceeding 10 million and discusses related metrics (e.g., gotaways). https://homeland.house.gov/wp-content/uploads/2025/04/2025-04-08-OIABSE-JHRG-Testimony.pdf  
+View: Critical of Biden policy; emphasizes high cumulative totals and public-safety concerns.
 
-4) U.S. Customs and Border Protection, Nationwide Encounters. View: Official data series on total encounters by month/fiscal year; shows 10M+ cumulative encounters since FY2021. https://www.cbp.gov/newsroom/stats/nationwide-encounters
+4) Arthur, Center for Immigration Studies (CIS), “Did Joe Biden Really Parole In Nearly 3 Million Aliens?” — argues the administration paroled in nearly 3 million people, aggregating multiple parole programs and releases. https://cis.org/Arthur/Did-Joe-Biden-Really-Parole-Nearly-3-Million-Aliens  
+View: Skeptical/critical; presents a high estimate for parole-based entries.
+
+5) Migration Policy Institute (MPI), “Biden’s Mixed Immigration Legacy: Border …” — nuanced overview of Biden-era border management, parole programs (e.g., CHNV, Ukrainians, CBP One), enforcement, and removals. https://www.migrationpolicy.org/article/biden-immigration-legacy  
+View: Analytical/neutral; contextualizes flows, policies, and trade-offs rather than emphasizing a single tally.
+
+6) Pew Research Center, “U.S. Unauthorized Immigrant Population Reached a Record 14 Million in 2023” — estimates the stock of unauthorized residents and its growth through 2023. https://www.pewresearch.org/race-and-ethnicity/2025/08/21/u-s-unauthorized-immigrant-population-reached-a-record-14-million-in-2023/  
+View: Nonpartisan demographic estimate of the unauthorized population (net stock), not total entries.

@@ -22,7 +22,7 @@ The goal of this project is to demonstrate how much human curated sources can im
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-08-21
+**Last Updated:** 2025-09-06
 
 ## Questions
 
@@ -32,95 +32,97 @@ For a single page showing all questions and sources, [click here](allsources.md)
 
 **3. [Did COVID-19 leak from a lab or did it have natural origins?](Did COVID-19 leak from a lab or did it have natural origins/README.md)** *(Updated: 2025-07-30)*
 
-**4. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 2025-07-30)*
+**4. [Did White people invent slavery?](Did White people invent slavery/README.md)** *(Updated: 2025-09-06)*
 
-**5. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 2025-07-25)*
+**5. [Does gender affirming care lower youth suicide risk?](Does gender affirming care lower youth suicide risk/README.md)** *(Updated: 2025-07-30)*
 
-**6. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 2025-07-30)*
+**6. [Does immigration drive down wages?](Does immigration drive down wages/README.md)** *(Updated: 2025-07-25)*
 
-**7. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: 2025-07-30)*
+**7. [Has immigration affected the safety of women in Europe?](Has immigration affected the safety of women in Europe/README.md)** *(Updated: 2025-07-30)*
 
-**8. [How accurate are stereotypes?](How accurate are stereotypes/README.md)** *(Updated: 2025-08-10)*
+**8. [How accurate are IQ tests?](How accurate are IQ tests/README.md)** *(Updated: 2025-07-30)*
 
-**9. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)** *(Updated: 2025-07-30)*
+**9. [How accurate are stereotypes?](How accurate are stereotypes/README.md)** *(Updated: 2025-08-10)*
 
-**10. [How accurate were economists' predications about immigration?](How accurate were economists' predications about immigration/README.md)** *(Updated: 2025-07-27)*
+**10. [How accurate was press coverage of President Biden's mental decline?](How accurate was press coverage of President Biden's mental decline/README.md)** *(Updated: 2025-07-30)*
 
-**11. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)** *(Updated: 2025-07-27)*
+**11. [How accurate were economists' predications about immigration?](How accurate were economists' predications about immigration/README.md)** *(Updated: 2025-07-27)*
 
-**12. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)** *(Updated: 2025-08-04)*
+**12. [How do genes influence socio-economic status?](How do genes influence socio-economic status/README.md)** *(Updated: 2025-07-27)*
 
-**13. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)** *(Updated: 2025-07-25)*
+**13. [How do you distinguish good science from propaganda?](How do you distinguish good science from propaganda/README.md)** *(Updated: 2025-08-04)*
 
-**14. [How many Americans have died due to fentanyl?](How many Americans have died due to fentanyl/README.md)** *(Updated: 2025-07-25)*
+**14. [How does school spending in the United States compare to other nations?](How does school spending in the United States compare to other nations/README.md)** *(Updated: 2025-07-25)*
 
-**15. [How many immigrants are in the United States illegally?](How many immigrants are in the United States illegally/README.md)** *(Updated: 2025-08-21)*
+**15. [How many Americans have died due to fentanyl?](How many Americans have died due to fentanyl/README.md)** *(Updated: 2025-07-25)*
 
-**16. [How many immigrants entered the United Stats under the Biden presidency?](How many immigrants entered the United Stats under the Biden presidency/README.md)** *(Updated: 2025-08-19)*
+**16. [How many immigrants are in the United States illegally?](How many immigrants are in the United States illegally/README.md)** *(Updated: 2025-08-21)*
 
-**17. [How much of a problem is misinformation?](How much of a problem is misinformation/README.md)** *(Updated: 2025-07-25)*
+**17. [How many immigrants entered the United Stats under the Biden presidency?](How many immigrants entered the United Stats under the Biden presidency/README.md)** *(Updated: 2025-09-06)*
 
-**18. [How much of intelligence is hereditary?](How much of intelligence is hereditary/README.md)** *(Updated: 2025-08-10)*
+**18. [How much of a problem is misinformation?](How much of a problem is misinformation/README.md)** *(Updated: 2025-07-25)*
 
-**19. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 2025-07-25)*
+**19. [How much of intelligence is hereditary?](How much of intelligence is hereditary/README.md)** *(Updated: 2025-08-10)*
 
-**20. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 2025-08-04)*
+**20. [Is nuclear power safe?](Is nuclear power safe/README.md)** *(Updated: 2025-07-25)*
 
-**21. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 2025-08-06)*
+**21. [Is the UK heading for a civil war?](Is the UK heading for a civil war/README.md)** *(Updated: 2025-09-06)*
 
-**22. [Should genetic engineering of humans be allowed?](Should genetic engineering of humans be allowed/README.md)** *(Updated: 2025-07-31)*
+**22. [Should academia be reformed?](Should academia be reformed/README.md)** *(Updated: 2025-08-06)*
 
-**23. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)** *(Updated: 2025-07-30)*
+**23. [Should genetic engineering of humans be allowed?](Should genetic engineering of humans be allowed/README.md)** *(Updated: 2025-07-31)*
 
-**24. [Were any unmarked graves discovered at former Resident Schools in Canada?](Were any unmarked graves discovered at former Resident Schools in Canada/README.md)** *(Updated: 2025-08-01)*
+**24. [Was the public misled about the UK grooming gang scandal?](Was the public misled about the UK grooming gang scandal/README.md)** *(Updated: 2025-07-30)*
 
-**25. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)** *(Updated: 2025-06-13)*
+**25. [Were any unmarked graves discovered at former Resident Schools in Canada?](Were any unmarked graves discovered at former Resident Schools in Canada/README.md)** *(Updated: 2025-08-01)*
 
-**26. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: 2025-07-25)*
+**26. [Were the COVID-19 lockdowns effective?](Were the COVID-19 lockdowns effective/README.md)** *(Updated: 2025-06-13)*
 
-**27. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: 2025-08-11)*
+**27. [What are luxury beliefs?](What are luxury beliefs/README.md)** *(Updated: 2025-07-25)*
 
-**28. [What are some examples of extralegal pressure by the US government to influence corporations?](What are some examples of extralegal pressure by the US government to influence corporations/README.md)** *(Updated: 2025-07-30)*
+**28. [What are some examples of elite misinformation?](What are some examples of elite misinformation/README.md)** *(Updated: 2025-08-11)*
 
-**29. [What are the effects of the One Big Beautiful Bill Act?](What are the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2025-07-25)*
+**29. [What are some examples of extralegal pressure by the US government to influence corporations?](What are some examples of extralegal pressure by the US government to influence corporations/README.md)** *(Updated: 2025-07-30)*
 
-**30. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2025-07-25)*
+**30. [What are the effects of the One Big Beautiful Bill Act?](What are the effects of the One Big Beautiful Bill Act/README.md)** *(Updated: 2025-07-25)*
 
-**31. [What are the social consequences of human embryo selection?](What are the social consequences of human embryo selection/README.md)** *(Updated: 2025-08-10)*
+**31. [What are the externalities of immigration?](What are the externalities of immigration/README.md)** *(Updated: 2025-07-25)*
 
-**32. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 2025-07-25)*
+**32. [What are the social consequences of human embryo selection?](What are the social consequences of human embryo selection/README.md)** *(Updated: 2025-08-10)*
 
-**33. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)** *(Updated: 2025-07-25)*
+**33. [What can we learn from systemic failures?](What can we learn from systemic failures/README.md)** *(Updated: 2025-07-25)*
 
-**34. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)** *(Updated: 2025-07-25)*
+**34. [What caused the 2008 financial crisis?](What caused the 2008 financial crisis/README.md)** *(Updated: 2025-07-25)*
 
-**35. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2025-07-27)*
+**35. [What caused the crime spike in 2020 in the United States?](What caused the crime spike in 2020 in the United States/README.md)** *(Updated: 2025-07-25)*
 
-**36. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 2025-08-01)*
+**36. [What explains the rise in autism diagnoses?](What explains the rise in autism diagnoses/README.md)** *(Updated: 2025-07-27)*
 
-**37. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-25)*
+**37. [What is "woke" ideology?](What is "woke" ideology/README.md)** *(Updated: 2025-08-01)*
 
-**38. [What is personal superintelligence?](What is personal superintelligence/README.md)** *(Updated: 2025-07-30)*
+**38. [What is antidepressant discontinuation syndrome?](What is antidepressant discontinuation syndrome/README.md)** *(Updated: 2025-07-25)*
 
-**39. [What is race?](What is race/README.md)** *(Updated: 2025-08-09)*
+**39. [What is personal superintelligence?](What is personal superintelligence/README.md)** *(Updated: 2025-07-30)*
 
-**40. [What is right-wing Progressivism?](What is right-wing Progressivism/README.md)** *(Updated: 2025-08-03)*
+**40. [What is race?](What is race/README.md)** *(Updated: 2025-09-06)*
 
-**41. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 2025-07-27)*
+**41. [What is right-wing Progressivism?](What is right-wing Progressivism/README.md)** *(Updated: 2025-08-03)*
 
-**42. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2025-08-11)*
+**42. [What is the replication crisis?](What is the replication crisis/README.md)** *(Updated: 2025-07-27)*
 
-**43. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-07-25)*
+**43. [Why are fertility rates declining in most nations?](Why are fertility rates declining in most nations/README.md)** *(Updated: 2025-08-11)*
 
-**44. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 2025-07-25)*
+**44. [Why do some Christians believe it is their religious duty to support Israel?](Why do some Christians believe it is their religious duty to support Israel/README.md)** *(Updated: 2025-07-25)*
 
-**45. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-07-27)*
+**45. [Why has talk about trauma become so popular?](Why has talk about trauma become so popular/README.md)** *(Updated: 2025-07-25)*
 
-**46. [Why is the United States prison population so high?](Why is the United States prison population so high/README.md)** *(Updated: 2025-08-11)*
+**46. [Why is Stoicism becoming popular again?](Why is Stoicism becoming popular again/README.md)** *(Updated: 2025-07-27)*
 
-**47. [Why is there so much financial fraud in Minnesota?](Why is there so much financial fraud in Minnesota/README.md)** *(Updated: 2025-07-31)*
+**47. [Why is the United States prison population so high?](Why is the United States prison population so high/README.md)** *(Updated: 2025-08-11)*
 
-**48. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 2025-07-31)*
+**48. [Why is there so much financial fraud in Minnesota?](Why is there so much financial fraud in Minnesota/README.md)** *(Updated: 2025-07-31)*
+
+**49. [Why were mental hospitals closed in the United States?](Why were mental hospitals closed in the United States/README.md)** *(Updated: 2025-07-31)*
 
 ## Active AI Models
 
@@ -141,15 +143,15 @@ The following AI models are currently active:
 
 ## Statistics
 
-- **Total Questions:** 48
-- **Total Responses Generated:** 376/384
+- **Total Questions:** 49
+- **Total Responses Generated:** 384/392
 
 ### Responses by AI Model
 
 | Model | Without Sources | With Sources | Total |
 |-------|----------------|--------------|-------|
-| Claude | 48 | 48 | 96 |
-| Chatgpt | 44 | 44 | 88 |
-| Gemini | 48 | 48 | 96 |
-| Grok | 48 | 48 | 96 |
+| Claude | 49 | 49 | 98 |
+| Chatgpt | 45 | 45 | 90 |
+| Gemini | 49 | 49 | 98 |
+| Grok | 49 | 49 | 98 |
 

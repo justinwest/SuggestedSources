@@ -1,93 +1,95 @@
-The question of how many immigrants entered the United States under the Biden presidency is complex, as there is no single, all-encompassing statistic. The total number depends on the definition of "immigrant," which can include individuals who gained permanent legal status, those who entered on a temporary or humanitarian basis, and those who entered without authorization.
+Answering the question of how many immigrants entered the United States under the Biden presidency requires examining several different categories of entry, as there is no single, all-encompassing statistic. The total number depends on whether one is counting lawful permanent residents, individuals apprehended at the border, those who entered without detection, or people admitted through special temporary programs.
 
-To provide a comprehensive answer, the numbers are broken down into several key categories based on the most recent official data available. The Biden administration began on January 20, 2021. Most government data is tracked by fiscal year (FY), which runs from October 1 to September 30.
+Below is a breakdown of the most relevant figures based on available data from January 20, 2021, to the most recently available statistics.
 
-### 1. Lawful Permanent Residents (Green Card Holders)
+### 1. Encounters at the U.S. Border
 
-This is the most traditional definition of an immigrant. These are individuals granted the legal right to live and work permanently in the U.S.
+This is the most frequently cited metric, but it does not represent the number of unique individuals who successfully entered and stayed in the country. "Encounters" are events, not people, and include apprehensions of individuals crossing between ports of entry and those deemed inadmissible at legal ports of entry. The same person may be counted multiple times if they attempt to cross more than once.
 
-*   **FY 2021 (partial Biden administration):** 740,002 individuals became lawful permanent residents [1].
-*   **FY 2022:** 1,018,349 individuals became lawful permanent residents [1].
-*   **FY 2023:** Data is still being compiled, but the numbers are expected to be similar to or higher than FY 2022 as processing backlogs from the COVID-19 pandemic continue to clear [2].
+*   **Southwest Border Encounters (Fiscal Years):**
+    *   **FY 2021:** 1,734,686 (The fiscal year began under the Trump administration, but the majority of encounters occurred after January 2021) [1].
+    *   **FY 2022:** 2,378,944 [1].
+    *   **FY 2023:** 2,475,669 [1].
+    *   **FY 2024 (October 2023 - April 2024):** 1,586,819 [1].
 
-It is important to note that many of these individuals were already living in the U.S. on other visas and adjusted their status to permanent resident.
+    **Total Southwest Border Encounters (Feb 2021 - April 2024): Over 7.8 million** [1].
 
-### 2. Southwest Border Encounters
+It is critical to note that during much of this period (until May 2023), the Title 42 public health order was in effect. This policy allowed for the rapid expulsion of many migrants, which led to a higher rate of repeat crossing attempts, inflating the total encounter numbers [2]. After Title 42 ended, encounters initially dropped but then rose again, with consequences for illegal entry shifting from simple expulsion to more severe penalties like deportation and a five-year ban on reentry [3].
 
-This is the most widely cited figure in discussions about immigration, but it requires careful interpretation. An "encounter" is an event where a U.S. Customs and Border Protection (CBP) officer apprehends a person trying to enter between official ports of entry or finds a person to be inadmissible at a port of entry. This number does not represent the number of unique individuals who entered the country, as one person can be counted multiple times if they attempt to cross more than once (a high recidivism rate). It also does not mean all these individuals were released into the U.S.; many are expelled or detained.
+### 2. Known "Gotaways"
 
-*   **FY 2021:** 1,734,686 encounters [3].
-*   **FY 2022:** 2,378,944 encounters [3].
-*   **FY 2023:** 2,475,669 encounters [3].
-*   **FY 2024 (through April 2024):** 1,586,816 encounters [3].
+"Gotaways" is an unofficial term used by Border Patrol to describe individuals who are detected crossing the border illegally but are not apprehended. The Department of Homeland Security (DHS) provides official estimates for this group.
 
-These figures represent record highs in the number of encounters at the U.S.-Mexico border.
+*   **Estimated "Gotaways" (Fiscal Years):**
+    *   **FY 2021:** 389,155 [4].
+    *   **FY 2022:** 606,131 [4].
+    *   **FY 2023:** 670,674 [4].
 
-### 3. Humanitarian Parole Programs
+    **Total Estimated "Gotaways" (FY 2021 - FY 2023): Over 1.6 million** [4].
 
-The Biden administration has made significant use of humanitarian parole, a discretionary authority that allows individuals to enter and remain in the U.S. temporarily for urgent humanitarian reasons.
+These figures represent the best government estimate of individuals who entered the U.S. without authorization and without being processed by immigration officials.
 
-*   **Afghans:** Following the U.S. withdrawal from Afghanistan in August 2021, approximately 76,000 Afghans were brought to the U.S. under parole through Operation Allies Welcome [4].
-*   **Ukrainians:** Through the "Uniting for Ukraine" program launched in April 2022, more than 195,000 Ukrainians had been paroled into the U.S. as of May 2024 [5].
-*   **Cubans, Haitians, Nicaraguans, and Venezuelans (CHNV):** This parole process, established in late 2022 and early 2023, allows up to 30,000 individuals per month from these countries to enter. As of April 2024, more than 434,800 individuals from these nations had arrived lawfully under this program [6].
+### 3. Lawful Permanent Residents (Green Card Holders)
 
-### 4. Refugee and Asylee Admissions
+This category includes individuals who were granted lawful permanent residence. These are the people most traditionally defined as "immigrants." These numbers often reflect the processing of applications filed years earlier and include individuals already living in the U.S. on other visas.
 
-*   **Refugees:** These are individuals who are admitted from abroad after being vetted and determined to be unable to return to their home country. Refugee admissions were historically low at the start of the administration but have been increasing.
-    *   **FY 2021:** 11,411 (The lowest number in the program's history) [7].
-    *   **FY 2022:** 25,465 [7].
-    *   **FY 2023:** 60,014 [7].
-*   **Asylees:** These are individuals who arrive in the U.S. and are subsequently granted protection because they have a credible fear of persecution in their home country. This data is harder to track in real time due to immense backlogs in immigration courts. In **FY 2022**, 28,159 individuals were granted asylum, but this reflects cases that may have been pending for years [1]. The number of pending asylum cases has grown to over 1 million under the Biden administration [2].
+*   **New Lawful Permanent Residents (Fiscal Years):**
+    *   **FY 2021:** 740,002 [5].
+    *   **FY 2022:** 1,018,349 [5].
+    *   **FY 2023:** 1,089,836 (preliminary) [6].
 
-### 5. Estimated "Gotaways"
+    **Total New Green Card Holders (FY 2021 - FY 2023): Approximately 2.85 million** [5, 6].
 
-This unofficial term refers to individuals who CBP believes entered the U.S. without authorization and were detected (e.g., by sensors or cameras) but were not apprehended. These are estimates based on available surveillance and are less precise than encounter data.
+### 4. Humanitarian Parole and Other Legal Pathways
 
-*   DHS estimates indicate there were approximately **391,000** gotaways in FY 2021, **606,000** in FY 2022, and **670,000** in FY 2023 [8].
+The Biden administration created or expanded several humanitarian parole programs that allow individuals from specific countries to enter and remain in the U.S. temporarily. These individuals are legally present but do not have permanent resident status.
+
+*   **Uniting for Ukraine:** As of May 2024, more than 201,000 Ukrainians have been granted parole to enter the U.S. under this program and other pathways since 2022 [7].
+*   **CHNV Parole Process (Cubans, Haitians, Nicaraguans, and Venezuelans):** From the program's start in late 2022/early 2023 through April 2024, approximately 434,800 nationals from these four countries were granted parole and have arrived in the U.S. [8].
+*   **CBP One App:** This mobile application allows migrants in Mexico to schedule appointments at ports of entry to be processed in an orderly fashion. From its introduction in January 2023 through April 2024, over 592,000 individuals have scheduled appointments using the app [8].
 
 ### Summary
 
-It is impossible to provide a single number for how many immigrants entered the U.S. under the Biden presidency. However, by combining the different categories, a clearer picture emerges:
+To provide a comprehensive answer, it is best to separate the categories:
 
-*   **Legal Permanent Immigration:** Over 1.75 million people have received green cards (FY21-FY22).
-*   **Humanitarian Parole:** Well over 700,000 individuals have entered through special parole programs for Afghans, Ukrainians, and CHNV nationals.
-*   **Border Encounters:** There have been over 8 million encounters at the southwest border, though this is not a count of unique individuals or successful entries.
-*   **Refugees:** Nearly 100,000 refugees were admitted (FY21-FY23).
+*   **Border Encounters:** Over **7.8 million** encounters have occurred at the Southwest border since February 2021, though this figure includes repeat crossers and those who were expelled.
+*   **Irregular Immigration (Successful Entries):** An estimated **1.6 million+** "gotaways" have entered without being apprehended since FY 2021. This number, combined with those released into the country after being apprehended, represents the population of new undocumented immigrants.
+*   **Lawful Permanent Immigration:** Approximately **2.85 million** people became lawful permanent residents (received green cards) in FY 2021, 2022, and 2023.
+*   **Parole and Special Programs:** Over **1.2 million** individuals have been processed into the country through new legal pathways like the Uniting for Ukraine program, the CHNV parole process, and the CBP One app.
 
-The period has been characterized by a combination of rebuilding legal immigration pathways that slowed during the pandemic, while simultaneously facing an unprecedented number of arrivals at the southern border, which the administration has managed through a mix of enforcement, expulsion policies, and the creation of new parole programs.
+These figures illustrate that immigration under the Biden administration has been characterized by historically high levels of encounters at the border, a significant number of successful irregular entries, a steady flow of lawful permanent residents, and the creation of new, large-scale parole programs to manage migration flows.
 
-***
-
+---
 ### Sources
 
-1.  **Department of Homeland Security (DHS), "Yearbook of Immigration Statistics, 2022."**
-    *   **Author's View:** This is an official U.S. government source providing raw data and statistics on individuals granted lawful permanent residence, asylum, and other immigration benefits. It presents factual information without an explicit policy advocacy stance.
-    *   **URL:** `[https://www.dhs.gov/immigration-statistics/yearbook/2022](https://www.dhs.gov/immigration-statistics/yearbook/2022)`
+1.  **U.S. Customs and Border Protection (CBP).** "Nationwide Encounters."
+    *   This official government source provides the raw data for monthly and fiscal year encounters at all U.S. borders. It is the primary source for statistics on apprehensions and inadmissibility.
+    *   [https://www.cbp.gov/newsroom/stats/nationwide-encounters](https://www.cbp.gov/newsroom/stats/nationwide-encounters)
 
-2.  **Migration Policy Institute (MPI), "Immigrants in the United States."**
-    *   **Author's View:** MPI is a non-partisan research organization that seeks to improve immigration and integration policies through data-driven analysis. This resource provides a comprehensive overview of U.S. immigration statistics, using government data to present trends in an accessible format.
-    *   **URL:** `[https://www.migrationpolicy.org/article/frequently-requested-statistics-immigrants-and-immigration-united-states](https://www.migrationpolicy.org/article/frequently-requested-statistics-immigrants-and-immigration-united-states)`
+2.  **American Immigration Council.** "The End of Title 42: What to Know About the New Border Policies." (May 10, 2023).
+    *   This article from a pro-immigration advocacy and research organization explains how the Title 42 policy increased the number of repeat border crossing attempts, thereby inflating the overall "encounter" statistics.
+    *   [https://www.americanimmigrationcouncil.org/news/end-title-42-what-know-about-new-border-policies](https://www.americanimmigrationcouncil.org/news/end-title-42-what-know-about-new-border-policies)
 
-3.  **U.S. Customs and Border Protection (CBP), "Nationwide Encounters."**
-    *   **Author's View:** This is the official data portal for the U.S. government agency responsible for border security. It provides monthly and annual statistics on encounters at U.S. borders. The data is presented factually without policy commentary.
-    *   **URL:** `[https://www.cbp.gov/newsroom/stats/nationwide-encounters](https://www.cbp.gov/newsroom/stats/nationwide-encounters)`
+3.  **Gramlich, John.** "What’s happening at the U.S.-Mexico border in 7 charts." *Pew Research Center.* (November 16, 2023).
+    *   This analysis from a non-partisan fact tank provides context and visual data on border encounters. It discusses the shift in policy after Title 42 ended and the demographics of migrants arriving at the border.
+    *   [https://www.pewresearch.org/short-reads/2023/11/16/whats-happening-at-the-us-mexico-border-in-7-charts/](https://www.pewresearch.org/short-reads/2023/11/16/whats-happening-at-the-us-mexico-border-in-7-charts/)
 
-4.  **Department of Homeland Security (DHS), "Operation Allies Welcome."**
-    *   **Author's View:** This government webpage provides an overview and statistics related to the resettlement of Afghan nationals following the U.S. withdrawal. It presents the program's goals and accomplishments from the administration's perspective.
-    *   **URL:** `[https://www.dhs.gov/operation-allies-welcome](https://www.dhs.gov/operation-allies-welcome)`
+4.  **House Committee on Homeland Security.** "‘Gotaways’ at the Border Topped 1.6 Million Under Biden, Bill Melugin reports." (October 27, 2023).
+    *   This press release from the Republican-led House Committee on Homeland Security cites official DHS data on "gotaways." While the framing is political, the underlying numbers are sourced from DHS and are widely reported.
+    *   [https://homeland.house.gov/2023/10/27/gotaways-at-the-border-topped-1-6-million-under-biden-bill-melugin-reports/](https://homeland.house.gov/2023/10/27/gotaways-at-the-border-topped-1-6-million-under-biden-bill-melugin-reports/)
 
-5.  **U.S. Citizenship and Immigration Services (USCIS), "Uniting for Ukraine."**
-    *   **Author's View:** This is the official USCIS page for the Uniting for Ukraine program. It provides statistics and information about the program, presenting it as a key part of the U.S. response to the humanitarian crisis in Ukraine.
-    *   **URL:** `[https://www.uscis.gov/humanitarian/uniting-for-ukraine](https://www.uscis.gov/humanitarian/uniting-for-ukraine)`
+5.  **Department of Homeland Security (DHS).** "Yearbook of Immigration Statistics."
+    *   This is the official annual report from DHS that provides comprehensive data on all forms of immigration, including the number of individuals granted Lawful Permanent Resident status each fiscal year. The data for FY2022 is the most recent full report.
+    *   [https://www.dhs.gov/immigration-statistics/yearbook](https://www.dhs.gov/immigration-statistics/yearbook)
 
-6.  **Department of Homeland Security (DHS), "DHS Efforts to Manage, Secure and Enforce at the Southwest Border."**
-    *   **Author's View:** This DHS press release provides an update on the administration's border management strategies, including statistics on the success of the CHNV parole processes. The viewpoint is supportive of the administration's policies, framing them as a way to create lawful pathways and reduce irregular migration.
-    *   **URL:** `[https://www.dhs.gov/news/2024/05/15/fact-sheet-dhs-efforts-manage-secure-and-enforce-southwest-border](https://www.dhs.gov/news/2024/05/15/fact-sheet-dhs-efforts-manage-secure-and-enforce-southwest-border)`
+6.  **Rytina, Nancy.** "U.S. Lawful Permanent Residents: 2023." *Department of Homeland Security, Office of Immigration Statistics.* (April 2024).
+    *   This official DHS statistical brief provides preliminary data for the number of individuals who became lawful permanent residents during Fiscal Year 2023.
+    *   [https://www.dhs.gov/sites/default/files/2024-04/2024_0411_plcy_lpr-2023.pdf](https://www.dhs.gov/sites/default/files/2024-04/2024_0411_plcy_lpr-2023.pdf)
 
-7.  **Department of State, Bureau of Population, Refugees, and Migration, "Refugee Admissions Report."**
-    *   **Author's View:** This is the official U.S. government source for refugee admissions data. It provides factual, detailed reports on the number of refugees admitted to the country by region and nationality, without explicit policy advocacy.
-    *   **URL:** `[https://www.wrapsnet.gov/admissions-and-arrivals/](https://www.wrapsnet.gov/admissions-and-arrivals/)`
+7.  **U.S. Citizenship and Immigration Services (USCIS).** "Uniting for Ukraine."
+    *   This webpage provides official, regularly updated figures on the number of Ukrainians who have been vetted and approved for travel to the U.S. under the Uniting for Ukraine parole program.
+    *   [https://www.uscis.gov/humanitarian/uniting-for-ukraine](https://www.uscis.gov/humanitarian/uniting-for-ukraine)
 
-8.  **Cato Institute, "What the ‘Gotaway’ Data Mean and Why They Are So High."**
-    *   **Author's View:** The Cato Institute is a libertarian think tank that generally advocates for more open immigration policies. This analysis uses official DHS data on "gotaways" to argue that restrictive border policies inadvertently funnel more migrants to attempt entry between ports of entry, thereby increasing the number of unrecorded crossings.
-    *   **URL:** `[https://www.cato.org/blog/what-gotaway-data-mean-why-they-are-so-high](https://www.cato.org/blog/what-gotaway-data-mean-why-they-are-so-high)`
+8.  **U.S. Customs and Border Protection (CBP).** "CBP Releases April 2024 Monthly Update." (May 15, 2024).
+    *   These monthly operational updates from CBP provide the most current statistics on the parole processes for Cubans, Haitians, Nicaraguans, and Venezuelans (CHNV), as well as the number of individuals who have scheduled appointments through the CBP One mobile app.
+    *   [https://www.cbp.gov/newsroom/national-media-release/cbp-releases-april-2024-monthly-update](https://www.cbp.gov/newsroom/national-media-release/cbp-releases-april-2024-monthly-update)
