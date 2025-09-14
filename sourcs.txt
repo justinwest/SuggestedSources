@@ -1,0 +1,17 @@
+https://moxie.foxnews.com/google-publisher/world.xml
+https://moxie.foxnews.com/google-publisher/us.xml
+
+https://www.cbsnews.com/latest/rss/us
+https://www.cbsnews.com/latest/rss/world
+
+https://feeds.content.dowjones.io/public/rss/RSSWorldNews
+https://feeds.content.dowjones.io/public/rss/RSSUSnews
+
+https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+https://rss.nytimes.com/services/xml/rss/nyt/US.xml
+
+https://feeds.npr.org/1001/rss.xml
+
+https://feeds.washingtonpost.com/rss/homepage/
+
+https://www.pbs.org/newshour/feeds/rss/headlines
