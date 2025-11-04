@@ -22,7 +22,7 @@ The goal of this project is to demonstrate how much human curated sources can im
 
 For a single page showing all questions and sources, [click here](allsources.md).
 
-**Last Updated:** 2025-09-06
+**Last Updated:** 2025-11-04
 
 ## Questions
 
